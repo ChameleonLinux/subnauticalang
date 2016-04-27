@@ -1,0 +1,2195 @@
+{
+    "NewGame": "Yeni Oyun",
+    "New Game Tooltip": "SUBNAUTICA D\u00dcNYASINA G\u0130R\u0130\u015e YAPIN",
+    "ContinueGame": "Oyuna devam et",
+    "Exit Tooltip": "Y\u00dcZEYE GER\u0130 D\u00d6N",
+    "Survival": "Hayatta kalma",
+    "Freedom": "\u00d6zg\u00fcrl\u00fck",
+    "Hardcore": "Zorlu",
+    "Back": "Geri",
+    "LatestNews": "Son haberler",
+    "NewsLoading": "Y\u00fckleniyor...",
+    "Language": "Dil",
+    "Resolution": "\u00c7\u00f6z\u00fcn\u00fcrl\u00fck",
+    "FieldOfView": "G\u00f6r\u00fc\u015f Alan\u0131",
+    "Vsync": "Dikey Senkronizasyon",
+    "Options": "Se\u00e7enekler",
+    "OptionsTooltip": "GEM\u0130YE B\u0130NMEDEN \u00d6NCE",
+    "DevelopmentVersion": "Geli\u015ftirme s\u00fcr\u00fcm\u00fc",
+    "InventoryFull": "Envanter dolu",
+    "RadiationDetected": "I\u015eINIM ALGILANDI",
+    "Quartz": "Kuvars",
+    "ScrapMetal": "Hurda Metal",
+    "Limestone": "Kire\u00e7 ta\u015f\u0131 \u00e7\u0131k\u0131nt\u0131s\u0131",
+    "Copper": "Bak\u0131r cevheri",
+    "CopperWire": "Bak\u0131r tel",
+    "Salt": "Tuz \u00e7\u00f6keltisi",
+    "Placeholder": "Yer tutucu",
+    "Glass": "Cam",
+    "EnameledGlass": "G\u00fc\u00e7lendirilmi\u015f cam",
+    "Titanium": "Titanyum",
+    "TitaniumIngot": "Titanyum k\u00fcl\u00e7esi",
+    "PlasteelIngot": "Plasteel k\u00fcl\u00e7esi",
+    "Silver": "G\u00fcm\u00fc\u015f cevheri",
+    "Gold": "Alt\u0131n",
+    "Lodestone": "M\u0131knat\u0131s ta\u015f\u0131",
+    "WiringKit": "Kablolama seti",
+    "AdvancedWiringKit": "Geli\u015fmi\u015f kablolama seti",
+    "ComputerChip": "Bilgisayar \u00e7ipi",
+    "Diamond": "Elmas",
+    "MODULES": "MOD\u00dcLLER",
+    "Energy": "Enerji",
+    "AddedToInventory": "envantere eklendi.",
+    "BreakLimestone": "Kire\u00e7 ta\u015f\u0131 \u00e7\u0131k\u0131nt\u0131s\u0131n\u0131 k\u0131r",
+    "BreakSandstone": "Kum ta\u015f\u0131 \u00e7\u0131k\u0131nt\u0131s\u0131n\u0131 k\u0131r",
+    "BreakShale": "Kil ta\u015f\u0131 \u00e7\u0131k\u0131nt\u0131s\u0131n\u0131 k\u0131r",
+    "BreakBasalt": "Bazalt \u00e7\u0131k\u0131nt\u0131s\u0131n\u0131 k\u0131r",
+    "BreakObsidian": "Obsidyen \u00e7\u0131k\u0131nt\u0131s\u0131n\u0131 k\u0131r",
+    "Fabricator": "\u00dcretici",
+    "UseFabricator": "\u00dcreticiyi kullan",
+    "Locker": "Dolap",
+    "Spotlight": "Spot \u0131\u015f\u0131\u011f\u0131",
+    "Reinforce hull": "G\u00f6vde g\u00fc\u00e7lendirmesi",
+    "Aquarium": "Akvaryum",
+    "EnterSeamoth": "Seamoth'a gir",
+    "NoSeamothDocked": "Demirli Seamoth yok",
+    "DiveSuit": "Dalg\u0131\u00e7 giysisi",
+    "ShipComputer": "Gemi bilgisayar\u0131",
+    "Fins": "Y\u00fczge\u00e7ler",
+    "RadiationSuit": "I\u015f\u0131n\u0131m giysisi",
+    "Tank": "O\u00b2 T\u00fcp\u00fc",
+    "Battery": "Pil",
+    "Builder": "Ya\u015fam b\u00f6lmeleri in\u015fac\u0131s\u0131",
+    "Knife": "Ya\u015famsal B\u0131\u00e7ak",
+    "Drill": "Matkap",
+    "Flashlight": "El feneri",
+    "Beacon": "\u0130\u015faretleyici \u015famand\u0131ra",
+    "Bleach": "A\u011fart\u0131c\u0131",
+    "CurrentGenerator": "Ak\u0131m \u00fcreteci",
+    "PowerCell": "G\u00fc\u00e7l\u00fc pil",
+    "DiveReel": "Dal\u0131\u015f makaras\u0131",
+    "Rebreather": "Nefes alma ba\u015fl\u0131\u011f\u0131",
+    "Welder": "Kaynak Makinesi",
+    "Constructor": "Mobil ara\u00e7 \u00fcretici",
+    "UseConstructor": "Ara\u00e7 \u00dcreticiyi Kullan",
+    "Transfuser": "DNA aktar\u0131c\u0131s\u0131",
+    "Flare": "Ayd\u0131nlatma fi\u015fe\u011fi",
+    "StasisRifle": "Durdurma t\u00fcfe\u011fi",
+    "Observatory": "G\u00f6zlem odas\u0131",
+    "Audiolog": "Ses kayd\u0131 - Ah, oyun i\u00e7inde bu nerede bulunuyor?",
+    "SafeShallowsEgg": "G\u00fcvenli S\u0131\u011fb\u00f6lge yumurtas\u0131",
+    "KelpForestEgg": "Yosun Orman\u0131 yumurtas\u0131",
+    "GrassyPlateausEgg": "\u00c7imenli Yayla yumurtas\u0131",
+    "GrandReefsEgg": "B\u00fcy\u00fck Resif yumurtas\u0131",
+    "MushroomForestEgg": "Mantar Orman\u0131 yumurtas\u0131",
+    "KooshZoneEgg": "T\u00fcyl\u00fctop B\u00f6lgesi yumurtas\u0131",
+    "TwistyBridgesEgg": "K\u0131vr\u0131ml\u0131 K\u00f6pr\u00fcb\u00f6lge yumurtas\u0131",
+    "LavaZoneEgg": "Lav B\u00f6lgesi yumurtas\u0131",
+    "Workbench": "De\u011fi\u015fiklik \u0130stasyonu",
+    "Tooltip_Workbench": "Ya\u015famsal donan\u0131mlarda de\u011fi\u015fiklik yapmak i\u00e7in, geli\u015fmi\u015f \u00fcretici",
+    "SpecialHullPlate": "G\u00f6vde plakas\u0131",
+    "Tooltip_SpecialHullPlate": "S\u0131n\u0131rl\u0131 say\u0131da g\u00f6vde plakas\u0131 (te\u015fekk\u00fcrler!)",
+    "Seamoth": "Seamoth",
+    "Exosuit": "D\u0131\u015fgiysi",
+    "PropulsionCannon": "\u00c7ekme-itme silah\u0131",
+    "SandLoot": "Kum",
+    "Signal": "\u0130\u015faret",
+    "BallClusters": "A\u011fa\u00e7 yumurtalar\u0131",
+    "BarnacleSuckers": "A\u011fa\u00e7 s\u00fcl\u00fc\u011f\u00fc",
+    "BlueBarnacle": "Mavi midye",
+    "BlueBarnacleCluster": "Mavi midye k\u00fcmesi",
+    "BlueCoralTubes": "Mavi Mercan Borusu",
+    "RedGrass": "K\u0131rm\u0131z\u0131 \u00e7im",
+    "GreenGrass": "Ye\u015fil \u00e7im",
+    "CreepvinePiece": "Su yosunu \u00f6rne\u011fi",
+    "Mohawk": "Mohawk",
+    "GreenReeds": "Benekli sazl\u0131k",
+    "JellyPlant": "J\u00f6le bitkisi",
+    "BlueJeweledDisk": "Mavi mercan diski",
+    "GreenJeweledDisk": "Ye\u015fil mercan diski",
+    "PurpleJeweledDisk": "Mor mercan diski",
+    "RedJeweledDisk": "K\u0131rm\u0131z\u0131 mercan diski",
+    "SmallKoosh": "C\u00fcce t\u00fcyl\u00fctop",
+    "MediumKoosh": "Ortanca t\u00fcyl\u00fctop",
+    "LargeKoosh": "B\u00fcy\u00fck t\u00fcyl\u00fctop",
+    "HugeKoosh": "Devasa t\u00fcyl\u00fctop",
+    "MembrainTree": "Zarl\u0131 a\u011fa\u00e7",
+    "PurpleFan": "Mor yelpaze",
+    "AcidMushroom": "Asit mantar\u0131",
+    "PurpleTentacle": "K\u0131vr\u0131lan ot",
+    "RedSeaweed": "Kan otu",
+    "CoralShellPlate": "Mercan d\u0131\u015fkabuk plakas\u0131",
+    "SmallFan": "C\u00fcce yelpaze",
+    "SmallFanCluster": "C\u00fcce yelpaze demeti",
+    "BigCoralTubes": "Devasa mercan borusu",
+    "TreeMushroom": "A\u011fa\u00e7 mantar\u0131",
+    "BlueCluster": "Mavi sarma\u015f\u0131k",
+    "BrownTubes": "Toprak mercan\u0131 borular\u0131",
+    "BloodGrass": "Kan \u00e7imi",
+    "JeweledDiskPiece": "Mercan diski \u00f6rne\u011fi",
+    "CoralChunk": "S\u0131radan mercan \u00f6rne\u011fi",
+    "KooshChunk": "T\u00fcyl\u00fctop \u00d6rne\u011fi",
+    "StalkerTooth": "\u0130zci di\u015fi",
+    "SmallStorage": "Su Ge\u00e7irmez Dolap",
+    "SeamothFragment": "Seamoth par\u00e7as\u0131",
+    "StasisRifleFragment": "Durdurma t\u00fcfe\u011fi par\u00e7as\u0131",
+    "ExosuitFragment": "D\u0131\u015fgiysi par\u00e7as\u0131",
+    "TransfuserFragment": "DNA aktar\u0131c\u0131 par\u00e7as\u0131",
+    "TerraformerFragment": "Y\u00fczey \u015fekillendirici par\u00e7as\u0131",
+    "ReinforceHullFragment": "Cyclops bas\u0131n\u00e7 dengeleyici par\u00e7as\u0131",
+    "WorkbenchFragment": "De\u011fi\u015fiklik istasyonu par\u00e7as\u0131",
+    "FabricatorBlueprint": "\u00dcretici tasar\u0131m\u0131",
+    "ConstructorBlueprint": "Mobil ara\u00e7 \u00fcretici tasar\u0131m\u0131",
+    "CyclopsBlueprint": "Cyclops tasar\u0131m\u0131",
+    "SeamothBlueprint": "Seamoth tasar\u0131m\u0131",
+    "StasisRifleBlueprint": "Durdurucu t\u00fcfek tasar\u0131m\u0131",
+    "ExosuitBlueprint": "D\u0131\u015f giysi tasar\u0131m\u0131",
+    "TransfuserBlueprint": "DNA aktar\u0131c\u0131 tasar\u0131m\u0131",
+    "TerraformerBlueprint": "Y\u00fczey \u015fekillendirici tasar\u0131m\u0131",
+    "ReinforceHullBlueprint": "Cyclops Bas\u0131n\u00e7 Dengeleyici tasar\u0131m\u0131",
+    "WorkbenchBlueprint": "De\u011fi\u015fiklik istasyonu tasar\u0131m\u0131",
+    "Boulder": "Kaya",
+    "HangingStinger": "Is\u0131rganotu",
+    "SpikePlant": "Kaplan bitkisi",
+    "FilteredWater": "Ar\u0131t\u0131lm\u0131\u015f su",
+    "DisinfectedWater": "Ar\u0131nd\u0131r\u0131lm\u0131\u015f Su",
+    "CookedPeeper": "Pi\u015fmi\u015f G\u00f6zc\u00fc",
+    "CookedHoleFish": "Pi\u015fmi\u015f Delikli Bal\u0131k",
+    "CookedHoopfish": "Pi\u015fmi\u015f Halkal\u0131 bal\u0131k",
+    "CookedGarryFish": "Pi\u015fmi\u015f Merakl\u0131 Bal\u0131k",
+    "CookedReginald": "Pi\u015fmi\u015f Reginald",
+    "CookedBladderfish": "Pi\u015fmi\u015f Balon bal\u0131\u011f\u0131",
+    "CookedHoverfish": "Pi\u015fmi\u015f Yast\u0131kl\u0131 Bal\u0131k",
+    "CookedSpadefish": "Pi\u015fmi\u015f K\u00fcrek Bal\u0131\u011f\u0131",
+    "CookedBoomerang": "Pi\u015fmi\u015f Bumerang",
+    "CookedEyeye": "Pi\u015fmi\u015f G\u00f6zg\u00f6z",
+    "CookedOculus": "Pi\u015fmi\u015f Oculus",
+    "Unobtanium": "Unobtanyum",
+    "Creepvine": "Su yosunu",
+    "HoleFish": "Delikli Bal\u0131k",
+    "Jumper": "Z\u0131playan b\u00f6cek",
+    "Peeper": "G\u00f6zc\u00fc",
+    "Oculus": "Oculus",
+    "Hoopfish": "Halkal\u0131 bal\u0131k",
+    "RabbitRay": "Tav\u015fan Vatozu",
+    "GarryFish": "Merakl\u0131 Bal\u0131k",
+    "Slime": "Slime",
+    "Crash": "Patlayan Bal\u0131k",
+    "Boomerang": "Bumerang",
+    "LavaLarva": "Lav kurt\u00e7u\u011fu",
+    "Stalker": "\u0130zci",
+    "Eyeye": "G\u00f6zg\u00f6z",
+    "Bloom": "Bloom",
+    "Bladderfish": "Balon bal\u0131\u011f\u0131",
+    "Hoverfish": "Yast\u0131kl\u0131 Bal\u0131k",
+    "Jellyray": "J\u00f6le Vatozu",
+    "Reefback": "Resif devi",
+    "Reginald": "Reginald",
+    "Spadefish": "K\u00fcrek Bal\u0131\u011f\u0131",
+    "Grabcrab": "Kapan yenge\u00e7",
+    "Floater": "\u015eamand\u0131ra",
+    "Gasopod": "Gaz foku",
+    "Sandshark": "Kum k\u00f6pekbal\u0131\u011f\u0131",
+    "Player": "Oyuncu",
+    "AirBladder": "Hava kesesi",
+    "DEPTH": "DER\u0130NL\u0130K",
+    "NITROGEN": "AZOT",
+    "MeterSuffix": "m",
+    "SUB DEPTH": "DEN\u0130ZALTI DER\u0130NL\u0130\u011e\u0130",
+    "ECOSYSTEM": "EKOS\u0130STEM",
+    "BATHSPHERE": "SUALTI K\u00dcRES\u0130",
+    "BLOOD SUGAR": "KAN \u015eEKER\u0130",
+    "FOOD": "Y\u0130YECEK",
+    "H20": "H20",
+    "Initializing dive suit HUD...": "Dalg\u0131\u00e7 giysisi g\u00f6stergeleri ba\u015flat\u0131l\u0131yor...",
+    "Initializing objectives...": "G\u00f6revler ba\u015flat\u0131l\u0131yor...",
+    "|": "|",
+    "Demo time": "Deneme S\u00fcresi",
+    "InventorySecured": "Envanter g\u00fcvende",
+    "THANK YOU FOR PLAYING": "OYNADI\u011eINIZ \u0130\u00c7\u0130N TE\u015eEKK\u00dcRLER",
+    "PRIMARY": "B\u0130R\u0130NC\u0130L",
+    "SECONDARY": "\u0130K\u0130NC\u0130L",
+    "ControlSubInstructions": "WASD ile y\u00f6nlendir, SPACE\/C ile dikey y\u00f6nde hareket et",
+    "Drop loot onto Constructor": "Malzemeleri Ara\u00e7 \u0130n\u015fa Ediciye b\u0131rak",
+    "PressUseToExit": "\u00c7\u0131k\u0131\u015f",
+    "DeployConstructor": "Ara\u00e7 \u00fcreticiyi suya konu\u015fland\u0131r",
+    "DeployConstructorInWater": "Ara\u00e7 \u00fcretici suya b\u0131rak\u0131lmal\u0131!",
+    "Total: ": "Toplam: ",
+    "<UnImplemented>": "(yap\u0131m a\u015famas\u0131nda)",
+    "<Bullet>": "\u2022 ",
+    "DontHaveNeededIngredients": "\u0130htiya\u00e7 duyulan malzemelere sahip de\u011filsin!",
+    "YouDied": "\u00d6ld\u00fcn.",
+    "YouDiedLostStuff": "\u00d6ld\u00fcn ve baz\u0131 \u015feyleri kaybettin.",
+    "OXYGEN": "HAVA",
+    "0": "2",
+    "How likely are you to recommend this game to a friend?": "Bu oyunu bir arkada\u015f\u0131na \u00f6nermeyi ne kadar d\u00fc\u015f\u00fcn\u00fcrs\u00fcn?",
+    "Submit": "G\u00f6nder",
+    "WASD to pilot, SPACE\/C for vertical, E to exit": "WASD ile y\u00f6nlendir, SPACE\/C ile dikey y\u00f6nde hareket et, E ile \u00e7\u0131k",
+    "I": "\/",
+    "TRANSFUSER SERUM": "DNA AKTARICI SERUMU",
+    "PLAYER EFFECTS": "OYUNCUYA ETK\u0130LER\u0130",
+    "CREATURE DEBUG": "YARATIK HATA AYIKLAMA",
+    "PickUp": "Al",
+    "PickedUp": "Al\u0131nd\u0131 {0}",
+    "Needs": "\u0130htiya\u00e7lar",
+    "Tooltip_AcidMushroom": "Mor mantar. Asitli eti savunma y\u00f6ntemidir.",
+    "Tooltip_AdvancedWiringKit": "Geli\u015fmi\u015f yap\u0131m i\u015fleri i\u00e7in i\u015flemci ile alt\u0131n\/g\u00fcm\u00fc\u015f kablolama seti.",
+    "Tooltip_AirBladder": "Y\u00fczeye h\u0131zl\u0131 \u00e7\u0131kmak i\u00e7in kimyasal tepkime ile havadan daha hafif gaz ile dolar",
+    "Tooltip_Battery": "Ta\u015f\u0131nabilir g\u00fc\u00e7 kayna\u011f\u0131.",
+    "Tooltip_Beacon": "Y\u00f6n bulma yard\u0131mc\u0131s\u0131. Yerle\u015ftirildi\u011fi konumda durur ve i\u015faret verir.",
+    "Tooltip_Bleach": "NaClO. Sodyum Hipoklorit a\u011fart\u0131c\u0131. Dezenfektan olarak kullan\u0131l\u0131r.",
+    "Tooltip_Builder": "Ham maddeden ya\u015fam b\u00f6lmeleri ve aletler \u00fcretir",
+    "Tooltip_Compass": "Ba\u015f ekran\u0131nda y\u00f6nleri g\u00f6sterir",
+    "Tooltip_ComputerChip": "\u00c7ok ama\u00e7l\u0131 i\u015flemci.",
+    "Tooltip_Constructor": "Ham maddeden ara\u00e7lar \u00fcretir.",
+    "Tooltip_CookedBladderfish": "S\u00fcngerimsi. K\u0131k\u0131rdakl\u0131. Neyse ki kokusuz.",
+    "Tooltip_CookedBoomerang": "K\u0131k\u0131rdakl\u0131 y\u00fczge\u00e7lerinin etraf\u0131 yemek i\u00e7in g\u00fczel.",
+    "Tooltip_CookedEyeye": "Y\u00fcksek proteinli. K\u00fc\u00e7\u00fck boyutlu. Yakalamas\u0131 zor.",
+    "Tooltip_CookedGarryFish": "Tad\u0131 bitkisel, ama eti \u00e7ok az.",
+    "Tooltip_CookedHoleFish": "\u0130yi besin de\u011feri olan, jelatinimsi et.",
+    "Tooltip_CookedHoopfish": "Asla antenlerini yeme.",
+    "Tooltip_CookedHoverfish": "Sert, az ya\u011fl\u0131 s\u00fcr\u00fcngen eti.",
+    "Tooltip_CookedOculus": "Kara, yo\u011fun etli. K\u00fck\u00fcrtl\u00fc tad\u0131 d\u0131\u015f\u0131nda iyi bir yemek.",
+    "Tooltip_CookedPeeper": "G\u00f6zleri protein a\u00e7\u0131s\u0131ndan zengin. K\u00fc\u00e7\u00fck k\u0131l\u00e7\u0131kl\u0131 yap\u0131ya sahip.",
+    "Tooltip_CookedReginald": "Tad\u0131 keskin ve dumanl\u0131.",
+    "Tooltip_CookedSpadefish": "B\u00fcy\u00fckl\u00fc\u011f\u00fc iyi ama tuzlu.",
+    "Tooltip_Copper": "Temel kablolama bile\u015feni.",
+    "Tooltip_CopperWire": "Temel elektrik kablolama i\u00e7in bak\u0131r tel.",
+    "Tooltip_CoralChunk": "\u00d6rnek, i\u00e7erisinde CaCO\u00b3 bar\u0131nd\u0131r\u0131r. Kalsiyum karbonat, a\u011fart\u0131c\u0131n\u0131n temel bir bile\u015fenidir.",
+    "Tooltip_Creepvine": "Do\u011fal madde",
+    "Tooltip_CreepvinePiece": "Do\u011fal madde \u00f6rne\u011fi",
+    "Tooltip_CurrentGenerator": "Konveksiyon ak\u0131m\u0131 olu\u015fturmak i\u00e7in yapay yer\u00e7ekimi kullan\u0131r.",
+    "Tooltip_Cyclops": "B\u00fcy\u00fck, end\u00fcstriyel denizalt\u0131",
+    "Tooltip_Diamond": "C. \u00dcst\u00fcn \u00f6zelliklere sahip Karbon allotropu.",
+    "Tooltip_DisinfectedWater": "H\u00b2O. 12oz. Mikroorganizmas\u0131z.",
+    "Tooltip_DiveReel": "Fiziksel bir noktaya tutturularak kaybolmadan ke\u015fif yapmay\u0131 sa\u011flar.",
+    "Tooltip_EnameledGlass": "Do\u011fal maddelerle g\u00fc\u00e7lendirilmi\u015f cam.",
+    "Tooltip_Exosuit": "Okyanus taban\u0131nda y\u00fcr\u00fcmeyi sa\u011flar.",
+    "Tooltip_Fabricator": "Temel ya\u015famsal \u00fcretici. Kaynaklar\u0131 atomik olarak d\u00fczenler.",
+    "Tooltip_FilteredWater": "H\u00b2O. 6oz. Saf.",
+    "Tooltip_Fins": "Su alt\u0131nda dikey bacak hareketlerini ileri itmeye \u00e7evirir.",
+    "Tooltip_Flare": "\u00c7oklu kullan\u0131labilir su alt\u0131 ayd\u0131nlatma gereci.",
+    "Tooltip_Flashlight": "Pil ile \u00e7al\u0131\u015fan su alt\u0131 \u0131\u015f\u0131k kayna\u011f\u0131.",
+    "Tooltip_Floater": "\u00c7oklu organizmadan olu\u015fur. \u00d6mr\u00fc bilinmiyor.",
+    "Tooltip_Gaspod": "Gazl\u0131 asit kaps\u00fcl\u00fc.",
+    "Tooltip_Glass": "SiO\u2074.  Saf eritilmi\u015f kuvars cam.",
+    "Tooltip_Gold": "Au. \u00c7ok iyi bir iletken.",
+    "Tooltip_GrandReefsEgg": "Bilinmeyen yumurta.",
+    "Tooltip_GrassyPlateausEgg": "Bilinmeyen yumurta.",
+    "Tooltip_Gravsphere": " Hafif nesneleri hareket ettirmek i\u00e7in yapay yer\u00e7ekimi olu\u015fturur.",
+    "Tooltip_Hoopfish": "Suda kendini hareket ettirmek i\u00e7in \u00e7evreleyen antenlerini kullan\u0131r.",
+    "Tooltip_JeweledDiskPiece": "Bilgisayar \u00fcretiminde kullan\u0131lan metallerden eser miktarda i\u00e7erir.",
+    "Tooltip_KelpForestEgg": "Bilinmeyen yumurta.",
+    "Tooltip_Knife": "Standart ya\u015famsal alet. \u00c7ok i\u015flevli.",
+    "Tooltip_KooshZoneEgg": "Bilinmeyen yumurta.",
+    "Tooltip_LavaZoneEgg": "Bilinmeyen yumurta.",
+    "Tooltip_Lithium": "Li. \u00c7ok dayan\u0131kl\u0131 ala\u015f\u0131mlar olu\u015fturmak i\u00e7in kullan\u0131l\u0131r.",
+    "Tooltip_Locker": "Saklanacak nesneler i\u00e7inde depolan\u0131r.",
+    "Tooltip_Magnesium": "Mg. Yan\u0131c\u0131 metal.",
+    "Tooltip_MushroomForestEgg": "Gizemli bir yumurta",
+    "Tooltip_Pipe": "Y\u00fczeyden su alt\u0131na hava pompalar.",
+    "Tooltip_PlasteelIngot": "\u00c7ok sert madde.",
+    "Tooltip_PowerCell": "Y\u00fcksek s\u0131\u011fal\u0131 ta\u015f\u0131nabilir g\u00fc\u00e7 kayna\u011f\u0131.",
+    "Tooltip_Quartz": "SiO\u2074. Kristal yap\u0131da silis.",
+    "Tooltip_RadiationSuit": "Kur\u015fun astarl\u0131 \u0131\u015f\u0131n\u0131m yal\u0131t\u0131c\u0131 k\u0131yafet.",
+    "Tooltip_Rebreather": "\u00c7ok derinlerde geri d\u00f6n\u00fc\u015f\u00fcm i\u00e7in CO\u00b2 emer.",
+    "Tooltip_SafeShallowsEgg": "Bilinmeyen bir yumurta.",
+    "Tooltip_Salt": "NaCl. Mutfakta ve sa\u011fl\u0131k alan\u0131nda kullan\u0131l\u0131r.",
+    "Tooltip_ScrapMetal": "%87'si titanyumdan olu\u015fur.",
+    "Tooltip_Seamoth": "Tek ki\u015filik su alt\u0131 arac\u0131.",
+    "Tooltip_Signal": "Koordinatlar.",
+    "Tooltip_Silicone": "Yapay silikon bazl\u0131 kau\u00e7uk.",
+    "Tooltip_Silver": "Ag. \u0130letken ve mikrop \u00f6ld\u00fcr\u00fcc\u00fc element.",
+    "Tooltip_SmallStorage": "Su alt\u0131nda konumunu koruyan 4x4 dolap",
+    "Tooltip_StalkerTooth": "Keskin ve sert bir kalsiyum olu\u015fumu.",
+    "Tooltip_StasisRifle": "Nesneleri durdurur.",
+    "Tooltip_Tank": "O\u00b2 kar\u0131\u015f\u0131m. 30 saniye solunabilir hava.",
+    "Tooltip_Terraformer": "Y\u00fczeylerde d\u00fczenleme yapmay\u0131 sa\u011flar.",
+    "Tooltip_Thermometer": "S\u0131cakl\u0131k alg\u0131lay\u0131c\u0131.",
+    "Tooltip_Titanium": "Ti. Temel yap\u0131 malzemesi.",
+    "Tooltip_TitaniumIngot": "Ti. Yo\u011fun titanyum k\u00fcl\u00e7e.",
+    "Tooltip_Transfuser": "DNA \u00f6rne\u011fi.",
+    "Tooltip_TwistyBridgesEgg": "Bilinmeyen bir yumurta.",
+    "Tooltip_Welder": "\u00c7ok ama\u00e7l\u0131 onar\u0131m arac\u0131, t\u00fcm ortamlarda i\u015flevsel.",
+    "Tooltip_WiringKit": "Yal\u0131t\u0131lm\u0131\u015f g\u00fcm\u00fc\u015f tel. Temel elektronik bile\u015feni.",
+    "Tooltip_SeamothFragment": "E\u011fer yan\u0131lm\u0131yorsam bu ipucu art\u0131k oyunda g\u00f6r\u00fcnt\u00fclenmeyecek. E\u011fer bunu g\u00f6r\u00fcrseniz l\u00fctfen hata olarak rapor edin.",
+    "Tooltip_StasisRifleFragment": "Durdurma t\u00fcfe\u011finin bir par\u00e7as\u0131",
+    "Tooltip_ExosuitFragment": "D\u0131\u015f giysi teknolojisinin bir par\u00e7as\u0131",
+    "Tooltip_TransfuserFragment": "DNA aktar\u0131c\u0131 teknolojisinin bir par\u00e7as\u0131",
+    "Tooltip_TerraformerFragment": "Y\u00fczey \u015fekillendirici teknolojisinin bir par\u00e7as\u0131",
+    "Tooltip_WorkbenchFragment": "Aurora donan\u0131m de\u011fi\u015fiklik istasyonlar\u0131ndan birinin hasarl\u0131 b\u00f6l\u00fcm\u00fc",
+    "Tooltip_FabricatorBlueprint": "\u00dcretici yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_ConstructorBlueprint": "Ara\u00e7 \u00fcretici yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_CyclopsBlueprint": "Cyclops yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_SeamothBlueprint": "Seamoth yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_StasisRifleBlueprint": "Durdurma t\u00fcfe\u011fi yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_ExosuitBlueprint": "D\u0131\u015f giysi yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_TransfuserBlueprint": "DNA aktar\u0131c\u0131 yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_TerraformerBlueprint": "Y\u00fczey \u015fekillendirici yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_ReinforceHullBlueprint": "G\u00f6vde g\u00fc\u00e7lendirmesi yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_WorkbenchBlueprint": "De\u011fi\u015fiklik istasyonu yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "WorldArrow_EquipFlashlight": "Feneri al",
+    "WorldArrow_EquipKnife": "B\u0131\u00e7a\u011f\u0131 al",
+    "WorldArrow_CutCreepvine": "B\u0131\u00e7ak ile Su Yosununu kes",
+    "WorldArrow_EquipSeaglide": "Dalg\u0131\u00e7 iti\u015f arac\u0131n\u0131 al",
+    "WorldArrow_TurnOnFlashlight": "Feneri a\u00e7",
+    "WorldArrow_EquipConstructor": "Ara\u00e7 \u00fcreticiyi al",
+    "WorldArrow_ReleaseConstructor": "Ara\u00e7 \u00fcreticiyi b\u0131rak",
+    "WorldArrow_EatSomething": "Bir \u015feyler ye",
+    "WorldArrow_DrinkSomething": "Bir \u015feyler i\u00e7",
+    "WorldArrow_PickupMetal": "Hurda metali al",
+    "WorldArrow_PickupQuartz": "Kuvars\u0131 al",
+    "WorldArrow_BreakLimestone": "Kire\u00e7 ta\u015f\u0131n\u0131 k\u0131r",
+    "WorldArrow_BoardEscapePod": "Ka\u00e7\u0131\u015f Kozas\u0131na Bin",
+    "WorldArrow_UseFabricator": "\u00dcreticiyi kullan",
+    "WorldArrow_OpenPDA": "PDA'y\u0131 a\u00e7",
+    "WorldArrow_CatchPeeper": "Bir G\u00f6zc\u00fc yakala",
+    "WorldArrow_SwimToSurface": "Y\u00fczeye d\u00f6n!",
+    "WorldArrow_EnterSeamoth": "Seamoth'a gir",
+    "WorldArrow_BoardCyclops": "Cyclops'a bin",
+    "WorldArrow_DockSeamoth": "Seamoth'u demirle",
+    "FragmentAnalyzer": "Par\u00e7a \u00c7\u00f6z\u00fcmleyici",
+    "Tooltip_FragmentAnalyzer": "Tasar\u0131m olu\u015fturmak i\u00e7in par\u00e7alar\u0131 \u00e7\u00f6z\u00fcmle",
+    "FragmentAnalysisComplete": "Par\u00e7a tarand\u0131, {0} a\u00e7\u0131ld\u0131.",
+    "Terraformer_Ammo": "MADDE: {0}",
+    "BaseFoundation": "Temel",
+    "BaseCorridor": "Koridor",
+    "BaseCorridorI": "I \u015feklinde koridor",
+    "BaseCorridorT": "T \u015feklinde koridor",
+    "BaseCorridorL": "L \u015feklinde koridor",
+    "BaseCorridorX": "X \u015feklinde koridor",
+    "BaseDoor": "Kap\u0131",
+    "BaseHatch": "Kapak",
+    "BaseLadder": "Merdiven",
+    "BaseReinforcement": "G\u00fc\u00e7lendirme",
+    "BaseRoom": "\u00c7ok ama\u00e7l\u0131 oda",
+    "BaseWall": "Duvar",
+    "BaseWindow": "Pencere",
+    "PowerGenerator": "G\u00fc\u00e7 \u00fcretici",
+    "Tooltip_BaseFoundation": "\u00d6nce yap (+2HP)",
+    "Tooltip_BaseCorridor": "Basit koridor (-1HP)",
+    "Tooltip_BaseCorridorI": "Basit koridor (-1HP)",
+    "Tooltip_BaseCorridorT": "Sa\u011fa ve sola ba\u011flant\u0131 (-1HP)",
+    "Tooltip_BaseCorridorL": "90 derece d\u00f6n\u00fc\u015f (-1HP)",
+    "Tooltip_BaseCorridorX": "D\u00f6rt ba\u011flant\u0131l\u0131 (-1HP)",
+    "Tooltip_BaseDoor": "Yap\u0131sal destek sa\u011flar ve su bask\u0131n\u0131n\u0131 durdurur",
+    "Tooltip_BaseHatch": "\u00dcsse girmek i\u00e7in gerekli (-1HP)",
+    "Tooltip_BaseLadder": "\u0130ki kat\u0131 birbirine ba\u011flamak i\u00e7in",
+    "Tooltip_BaseReinforcement": "G\u00f6vde dayan\u0131kl\u0131l\u0131\u011f\u0131n\u0131 artt\u0131r\u0131r (+7HP)",
+    "Tooltip_BaseRoom": "Basit oda (-1.25HP)",
+    "Tooltip_BaseWall": "Oday\u0131 b\u00f6ler",
+    "Tooltip_BaseWindow": "G\u00f6zlem penceresi (-1HP)",
+    "Tooltip_PowerGenerator": "Bir ya\u015fam b\u00f6lmesine g\u00fc\u00e7 sa\u011flamak i\u00e7in temele in\u015fa et",
+    "GhostModelRotateInput": "D\u00f6nd\u00fcrmek i\u00e7in fare tekerle\u011fini kullan\u0131n",
+    "WarningUnsafeDepth": "UYARI: {0} metrelik g\u00fcvenli dal\u0131\u015f derinli\u011fi ge\u00e7iliyor. \u00c7arp\u0131\u015fmalar g\u00f6vdeye hasar verecektir.",
+    "WarningCrushDepth": "UYARI: {0} metre ezilme derinli\u011fi ge\u00e7ildi. G\u00f6vde hasar\u0131 ka\u00e7\u0131n\u0131lmaz! Acilen Y\u00dcKSEL!",
+    "SafeDepthNow": "G\u00fcvenli dal\u0131\u015f derinli\u011fi \u015fimdi {0} metre",
+    "CrushDepthNow": "Ezilme derinli\u011fi \u015fimdi {0} metre",
+    "NewLeakDetected": "G\u00f6vde hasar\u0131 alg\u0131land\u0131! {0} yar\u0131k, {1} k\u00fc\u00e7\u00fck hasar.",
+    "LeakWelded": "G\u00f6vde kaynakland\u0131. {0} yar\u0131k ve {1} k\u00fc\u00e7\u00fck hasar kald\u0131.",
+    "HullRestored": "G\u00f6vde b\u00fct\u00fcnl\u00fc\u011f\u00fc sa\u011fland\u0131. Su bo\u015falt\u0131m sistemleri \u00e7al\u0131\u015ft\u0131r\u0131ld\u0131.",
+    "AimCloserToGround": "Yere yakla\u015f ve sonra ni\u015fan al.",
+    "DiveReelUsage": "\u00c7apay\u0131 yere takmak i\u00e7in sa\u011f t\u0131kla. Sonra y\u00fcz.",
+    "DiveReelAfterAnchor": "Makaray\u0131 yere sabitlemek i\u00e7in tekrar sa\u011f t\u0131kla. Makaran\u0131n yerle\u015ftirilmesi tamamlanacakt\u0131r.",
+    "PickUpDiveReelAnchor": "\u00c7apay\u0131 al",
+    "WrongAnchorForReel": "Dal\u0131\u015f makaras\u0131n\u0131 almak i\u00e7in ilk olarak di\u011fer \u00e7apay\u0131 \u00e7\u0131kar\u0131n! ",
+    "BaseHullStrChanged": "\u00dcs g\u00f6vde direnci {0} de\u011ferinde de\u011fi\u015fti, toplam diren\u00e7 {1} oldu.",
+    "BaseHullStrDamageDetected": "{0} olan zay\u0131f g\u00f6vde direnci nedeniyle hasar ald\u0131! G\u00fc\u00e7lendirici yap ya da zay\u0131f par\u00e7alar\u0131 kald\u0131r!",
+    "GiantMushroomTree": "B\u00fcy\u00fck organik k\u00fctle",
+    "SecretCave": "Olas\u0131 ma\u011fara giri\u015fi",
+    "CaveEntrance": "Olas\u0131 ma\u011fara giri\u015fi",
+    "HeatSignature": "Is\u0131 sinyali",
+    "HatchExitBlocked": "Kapak \u00e7\u0131k\u0131\u015f\u0131 engellendi!",
+    "RotateCorridorHint": "Rotate",
+    "Lead": "Kur\u015fun levha",
+    "Magnesium": "Magnezyum",
+    "NutrientBlock": "Besin blo\u011fu",
+    "OpalGem": "Opal ta\u015f",
+    "SupplyCrate": "Vakumlanm\u0131\u015f paket",
+    "SmallSupplyCrate": "K\u00fc\u00e7\u00fck vakumlanm\u0131\u015f paket",
+    "HoldShiftToPreventMenuClose": "\u00dcretim s\u0131ras\u0131nda se\u00e7kenin kapanmamas\u0131 i\u00e7in Shift tu\u015funa bas\u0131l\u0131 tutun.",
+    "RadiationHelmet": "I\u015f\u0131n\u0131m ba\u015fl\u0131\u011f\u0131",
+    "RadiationGloves": "I\u015f\u0131n\u0131m eldiveni",
+    "HullReinforcementModule": "Cyclops bas\u0131n\u00e7 dengeleyici",
+    "Tooltip_HullReinforcementModule": "G\u00fcvenli dal\u0131\u015f derinli\u011fini artt\u0131rmak i\u00e7in denizalt\u0131 g\u00f6vdesinin atomik yap\u0131s\u0131n\u0131 d\u00fczenler.",
+    "PowerUpgradeModule": "G\u00fc\u00e7 verimlili\u011fini artt\u0131rma mod\u00fcl\u00fc",
+    "Tooltip_PowerUpgradeModule": "A\u00e7\u0131\u011fa \u00e7\u0131kan \u0131s\u0131y\u0131 geri d\u00f6n\u00fc\u015ft\u00fcrerek motor verimlili\u011fini %15 artt\u0131r\u0131r",
+    "SpecimenAnalyzerBlueprint": "\u00d6rnek inceleyici tasar\u0131m\u0131",
+    "FirstAidKit": "\u0130lk yard\u0131m \u00e7antas\u0131",
+    "Tooltip_FirstAidKit": "Tedavi bandaj\u0131. Kan kayb\u0131n\u0131 engeller ve yaralar\u0131 temizler.",
+    "Tooltip_Lead": "Pb. I\u015f\u0131n\u0131ma kar\u015f\u0131 yal\u0131t\u0131m sa\u011flar.",
+    "Tooltip_NutrientBlock": "Aurora'da i\u015flenmi\u015f yo\u011fun yiyecek.",
+    "Tooltip_OpalGem": "Si. Y\u00fcksek yo\u011funluklu silikon ta\u015f\u0131.",
+    "Tooltip_RadiationGloves": "Kur\u015fun bazl\u0131 \u0131\u015f\u0131n\u0131mdan koruyucu.",
+    "Tooltip_RadiationHelmet": "Kur\u015fun kaplama \u0131\u015f\u0131n\u0131mdan koruyucu ba\u015fl\u0131k.",
+    "Tooltip_SupplyCrate": "Aurora'da vakumlanarak paketlenmi\u015f donan\u0131mlar.",
+    "Tooltip_SmallSupplyCrate": "Aurora'da vakumlanarak paketlenmi\u015f erzaklar.",
+    "Open_SupplyCrate": "Erzak sand\u0131\u011f\u0131n\u0131 a\u00e7",
+    "Close_SupplyCrate": "Erzak sand\u0131\u011f\u0131n\u0131 kapat",
+    "Tooltip_SpecimenAnalyzerBlueprint": "\u00d6rnek inceleyici yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_HoleFish": "%80 k\u0131k\u0131rdak. Deli\u011fini \u015fa\u015f\u0131rtma hareketleri i\u00e7in kullan\u0131r.",
+    "Tooltip_Peeper": "G\u00fcnd\u00fcz saatlerinde etkin olan ot\u00e7ul.",
+    "Tooltip_Oculus": "G\u00f6zc\u00fcn\u00fcn evrimle\u015fmi\u015f akrabas\u0131. D\u00fc\u015f\u00fck \u0131\u015f\u0131kl\u0131 ortamlarda ya\u015far.",
+    "Tooltip_GarryFish": "G\u00fczel lezzetli, k\u00fc\u00e7\u00fck bal\u0131k.",
+    "Tooltip_Boomerang": "\u0130kiz y\u00fczge\u00e7li iti\u015f mekanizmas\u0131na sahip, g\u00fcnd\u00fczc\u00fc t\u00fcr.",
+    "Tooltip_LavaLarva": "Is\u0131ya dayan\u0131kl\u0131 evrimle\u015fmi\u015f kurt\u00e7uk benzeri t\u00fcr",
+    "Tooltip_Eyeye": "Y\u0131rt\u0131c\u0131lar\u0131 g\u00f6rebilme \u00f6zelli\u011fi geli\u015fmi\u015ftir.",
+    "Tooltip_Bladderfish": "Sudan oksijeni s\u00fczmek i\u00e7in ge\u00e7irgen zarlar kullan\u0131r. Hava ile doludur.",
+    "Tooltip_Hoverfish": "Ak\u0131m i\u00e7inde yerini korumak i\u00e7in ayaklar\u0131n\u0131 titre\u015ftirir.",
+    "Tooltip_Reginald": "Uysal, yerli bal\u0131k.",
+    "Tooltip_Spadefish": "\u00c7ok geli\u015fmi\u015f tek g\u00f6ze sahip sucul canl\u0131.",
+    "SpecimenAnalyzer": "\u00d6rnek inceleyici",
+    "AccessSpecimenAnalyzer": "\u00d6rnek inceleyiciye eri\u015f",
+    "Tooltip_SpecimenAnalyzer": "\u00d6rnek inceleyici \u00fcretmek i\u00e7in tasar\u0131mlar",
+    "SpecimenAnalyzerEmpty": "\u00d6rnek inceleyici bo\u015f",
+    "SpecimenAnalyzerIdle": "\u00d6rnek inceleyici bo\u015fta",
+    "SpecimenAnalyzing": "\u0130nceleniyor % {0}{1}{2}...",
+    "SpecimenAnalysisCommencing": "{0} inceleme ba\u015fl\u0131yor.",
+    "SpecimenAnalysisComplete": "\u00d6rnek incelendi, {0} \u00e7\u00f6z\u00fcld\u00fc.",
+    "ReefbackTissue": "K\u0131k\u0131rdak Doku",
+    "Tooltip_ReefbackTissue": "Bu g\u00fc\u00e7l\u00fc ba\u011f dokusu g\u00fc\u00e7lendirilmi\u015f dal\u0131\u015f giysisi \u00fcretmek i\u00e7in yeni yollar a\u00e7abilir.",
+    "ReefbackShell": "K\u0131k\u0131rdak Kabuk",
+    "Tooltip_ReefbackShell": "Bu son derece esnek k\u0131k\u0131rdak kabuk g\u00fc\u00e7l\u00fc takviye yap\u0131lar in\u015fa etmeye yarayabilir.",
+    "ReefbackAdvancedStructure": "Kaplumba\u011fasal Yap\u0131",
+    "Tooltip_ReefbackAdvancedStructure": "Bu geli\u015fmi\u015f kabuk yap\u0131s\u0131n\u0131n ayr\u0131nt\u0131l\u0131 i\u00e7 i\u015fleyi\u015finin incelenmesiyle daha fazla yap\u0131sal g\u00fc\u00e7lendirme sa\u011flanabilir.",
+    "HullReinforcementModule2": "Kabuk g\u00f6vde kuvvetlendirme mod\u00fcl\u00fc",
+    "Tooltip_HullReinforcementModule2": "Resif devinin kabuk yap\u0131s\u0131 kullan\u0131larak yap\u0131lm\u0131\u015f g\u00f6vde kuvvetlendirme mod\u00fcl\u00fc",
+    "HullReinforcementModule3": "Kaplumba\u011fasal G\u00f6vde kuvvetlendirme mod\u00fcl\u00fc",
+    "Tooltip_HullReinforcementModule3": "Resif devinin geli\u015fmi\u015f kaplumba\u011fasal h\u00fccre yap\u0131s\u0131 kullan\u0131larak geli\u015ftirilmi\u015f g\u00f6vde kuvvetlendirme mod\u00fcl\u00fc",
+    "ReefbackEgg": "Resif devi yumurtas\u0131",
+    "Tooltip_ReefbackEgg": "\u0130nan\u0131lmaz, resif devleri bu yumurtalardan \u00e7\u0131k\u0131yor",
+    "ReefbackDNA": "Reefback DNA \u00f6rne\u011fi",
+    "UpgradeConsole": "Geli\u015ftirmelere eri\u015f.",
+    "PowerRatingNow": "G\u00fc\u00e7 verimlili\u011fi \u015fu an {0}",
+    "RadiationFixed": "\u0130tici \u00e7ekirde\u011fin yar\u0131klar\u0131 kapand\u0131. I\u015f\u0131n\u0131m yay\u0131l\u0131m\u0131 3 g\u00fcn daha s\u00fcrecek. Aurora karakutusu ile indirme giri\u015fimi deneniyor. Parazitle kar\u015f\u0131la\u015f\u0131ld\u0131.",
+    "RemainingRadiationLeaks": "{0} \u0131\u015f\u0131n\u0131m s\u0131z\u0131nt\u0131s\u0131 kald\u0131",
+    "HardcoreGameOver": "\u00d6ld\u00fcn. Oyun Bitti.",
+    "WorldArrow_AttackBleeder": "Sald\u0131r",
+    "EscToSkip": "Atlamak i\u00e7in ESC tu\u015funa bas\u0131n",
+    "InventoryLabel": "ENVANTER",
+    "StorageLabel": "DEPOLAMA",
+    "EquipmentLabel": "DONATILMI\u015e",
+    "CraftingLabel": "YAPI",
+    "KeyRange15": "1-5",
+    "ShiftLMB": "Shift+Sol t\u0131k",
+    "KeyE": "E",
+    "BeaconLabelEdit": "\u0130\u015faretleyici etiketini d\u00fczenle",
+    "BeaconLabel": "\u0130\u015faretleyici Etiketi",
+    "BeaconSubmit": "TAMAM",
+    "BeaconDefaultPrefix": "\u0130",
+    "EscapePodStorageLabel": "DEPOLAMA",
+    "CyclopsUpgradesStorageLabel": "MOD\u00dcLLER\u0130 GEL\u0130\u015eT\u0130R",
+    "SpecimenAnalyzerStorageLabel": "\u00d6RNEK \u0130NCELEY\u0130C\u0130",
+    "CalciumChunk": "Kalsiyum \u00e7\u0131k\u0131nt\u0131s\u0131",
+    "CuredPeeper": "Kurutulmu\u015f G\u00f6zc\u00fc",
+    "CuredHoleFish": "Kurutulmu\u015f Delikli Bal\u0131k",
+    "CuredHoopfish": "Kurutulmu\u015f Halkal\u0131 bal\u0131k",
+    "CuredGarryFish": "Kurutulmu\u015f Merakl\u0131 Bal\u0131k",
+    "CuredReginald": "Kurutulmu\u015f Reginald",
+    "CuredBladderfish": "Kurutulmu\u015f Balon bal\u0131\u011f\u0131",
+    "CuredHoverfish": "Kurutulmu\u015f Yast\u0131kl\u0131 Bal\u0131k",
+    "CuredSpadefish": "Kurutulmu\u015f K\u00fcrek Bal\u0131\u011f\u0131",
+    "CuredBoomerang": "Kurutulmu\u015f Bumerang",
+    "CuredEyeye": "Kurutulmu\u015f G\u00f6zg\u00f6z",
+    "CuredOculus": "Kurutulmu\u015f Oculus",
+    "Decomposing": "Bayat",
+    "Ripe": "\u00c7\u00fcr\u00fcyor",
+    "Rotting": "\u00c7\u00fcr\u00fcm\u00fc\u015f",
+    "CookedFood": "Pi\u015fmi\u015f yiyecek",
+    "CuredFood": "Kurutulmu\u015f yiyecek",
+    "Tooltip_CuredBladderfish": "Past\u0131rmaya benzer",
+    "Tooltip_CuredBoomerang": "Sert ama biraz tatl\u0131",
+    "Tooltip_CuredEyeye": "Buru\u015fuk, sertle\u015fmi\u015f ama nedense i\u015ftah a\u00e7\u0131c\u0131.",
+    "Tooltip_CuredGarryFish": "Sadece tuz tad\u0131 var.",
+    "Tooltip_CuredHoleFish": "Tuzlama etine k\u00f6p\u00fck benzeri bir k\u0131vam veriyor.",
+    "Tooltip_CuredHoopfish": "Bu bal\u0131kta ger\u00e7ekten bal\u0131k tad\u0131 var.",
+    "Tooltip_CuredHoverfish": "Gevrek, tuzlu bacaklar\u0131 belirgin \u00f6zelli\u011fi.",
+    "Tooltip_CuredOculus": "Etli ve \u00e7ok lezzetli.",
+    "Tooltip_CuredPeeper": "Salamura",
+    "Tooltip_CuredReginald": "A\u015f\u0131r\u0131 tuzlu",
+    "Tooltip_CuredSpadefish": "Tek porsiyonu g\u00fcnl\u00fck tuz ihtiyac\u0131n\u0131 kar\u015f\u0131lar.",
+    "NoBattery": "Envanterde pil yok.",
+    "UseWorkbench": "De\u011fi\u015fiklik istasyonunu kullan",
+    "DiamondBlade": "Sertle\u015ftirilmi\u015f b\u0131\u00e7ak",
+    "HeatBlade": "Is\u0131l b\u0131\u00e7ak",
+    "LithiumIonBattery": "Lityum-ion pil",
+    "PlasteelTank": "Plasteel oksijen t\u00fcp\u00fc",
+    "HighCapacityTank": "Y\u00fcksek s\u0131\u011fal\u0131 oksijen t\u00fcp\u00fc",
+    "UltraGlideFins": "\u00c7ok kaygan y\u00fczge\u00e7ler",
+    "SwimChargeFins": "\u015earj eden y\u00fczge\u00e7ler",
+    "RepulsionCannon": "\u0130tme silah\u0131",
+    "Stillsuit": "Dam\u0131tma k\u0131yafeti",
+    "PowerGlide": "G\u00fc\u00e7l\u00fc Dalg\u0131\u00e7 Ula\u015f\u0131m Arac\u0131",
+    "Tooltip_DiveSuit": "Basit dal\u0131\u015f k\u0131yafeti",
+    "Tooltip_DiamondBlade": "Elmas-sertle\u015ftirilmi\u015f b\u0131\u00e7ak",
+    "Tooltip_HeatBlade": "Is\u0131t\u0131lm\u0131\u015f b\u0131\u00e7ak",
+    "Tooltip_LithiumIonBattery": "S\u0131radan pile g\u00f6re iki kat fazla enerji verir.",
+    "Tooltip_PlasteelTank": "\u00c7ok hafif oksijen t\u00fcp\u00fc",
+    "Tooltip_HighCapacityTank": "Fazladan hava s\u0131\u011fas\u0131",
+    "Tooltip_UltraGlideFins": "Y\u00fczme h\u0131z\u0131n\u0131 artt\u0131r\u0131r",
+    "Tooltip_SwimChargeFins": "Y\u00fczerken eldeki aletleri kablosuz \u015farj eder",
+    "Tooltip_RepulsionCannon": "Nesnelere kuvvet uygular",
+    "Tooltip_Stillsuit": "V\u00fccuttan nem toplar",
+    "Tooltip_PowerGlide": "G\u00fc\u00e7 dalgalanmas\u0131n\u0131 etkinle\u015ftirmek i\u00e7in sa\u011f t\u0131kla",
+    "SecsO2": "{0}s",
+    "Empty": "Bo\u015f",
+    "Tooltip_PropulsionCannon": "Nesneleri \u00e7ekip itmek i\u00e7in yer\u00e7ekimini sapt\u0131r\u0131r.",
+    "Tooltip_PropulsionCannonBlueprint": "\u00c7ekme-itme silah\u0131 yapmak i\u00e7in gerekli tasar\u0131mlar",
+    "InventoryOverflow": "Envanter dolu. Almak i\u00e7in {0} yer a\u00e7.",
+    "CrashPowder": "Patlay\u0131c\u0131 toz",
+    "Tooltip_CrashPowder": "SO\u2074Tr. S\u00fclf\u00fcr-temelli toz. Su alt\u0131nda yanabilir.",
+    "LoadGame": "Oyun Y\u00fckle",
+    "Quit": "\u00c7\u0131k",
+    "SurvivalDescription": "Tehlikeli yarat\u0131klardan ka\u00e7\u0131n, kaynak bul ve hayatta kalmak i\u00e7in a\u00e7l\u0131k ve susuzlu\u011funu gider.",
+    "FreedomDescription": "Hayatta kalma oyunu gibi, fakat a\u00e7l\u0131k ve susuzluk yok.",
+    "HardcoreDescription": "Tek canla hayatta kalma oyunu. Oksijen uyar\u0131s\u0131 yok.",
+    "GetDevelopmentUpdates": "G\u00fcncellemelerden haberin olsun",
+    "ViewOnSteam": "Steam'de g\u00f6r",
+    "RedeemaKey": "Bir anahtar gir",
+    "GetDevUpdates": "G\u00fcncelleme Haberlerini Al",
+    "GetDevUpdatesDescription": "Subnautica Erken Eri\u015fim g\u00fcncellemesi yay\u0131nland\u0131\u011f\u0131nda haber almak i\u00e7in e-posta adresini gir!",
+    "EnterEmailPlaceholder": "E-postan\u0131 gir",
+    "ViewPastUpdates": "Ge\u00e7mi\u015f G\u00fcncellemeleri G\u00f6r",
+    "Subscribe": "Abone ol",
+    "RedeemanItemKey": "\u00d6\u011fe anahtar\u0131 gir",
+    "EnterKeyPlaceholder": "Anahtar gir...",
+    "RedemptionDescription": "Subnautica \u00f6\u011fe anahtar\u0131n m\u0131 var? Buraya girerek Steam envanterine ekle ve oyunda sahip ol!",
+    "Redeem": "Gir",
+    "StillsuitEquipped": "Dam\u0131tma K\u0131yafeti v\u00fccut nemini toplar",
+    "StillsuitCreatedWater": "Dam\u0131tma K\u0131yafeti 8oz H2O geri d\u00f6n\u00fc\u015ft\u00fcrd\u00fc",
+    "StillsuitWater": "Dam\u0131t\u0131lm\u0131\u015f su",
+    "Tooltip_StillsuitWater": "H\u00b2O. Safla\u015ft\u0131r\u0131lm\u0131\u015f, geri d\u00f6n\u00fc\u015ft\u00fcr\u00fclm\u00fc\u015f v\u00fccut suyu.",
+    "PropulsionCannonEToRelease": "Nesneyi b\u0131rakmak i\u00e7in E'ye bas",
+    "Help": "Yard\u0131m",
+    "Inventory": "Envanter",
+    "OpenSteamInventory": "Steam E\u015fya Envanterini a\u00e7",
+    "BackToDevNews": "Geli\u015ftirme Haberlerine D\u00f6n",
+    "EconomyWarning": "Bu \u00f6zellik hen\u00fcz deneme a\u015famas\u0131nda. \u015eimdilik g\u00f6rmezden gelin!",
+    "DevTestItem": "Geli\u015ftirme deneme nesnesi",
+    "Tooltip_DevTestItem": "Ger\u00e7ekten. GER\u00c7EKTEN.",
+    "BikemanHullPlate": "Motorcu g\u00f6vde plakas\u0131",
+    "EatMyDictionHullPlate": "Diksiyonumu ye G\u00f6vde Plakas\u0131",
+    "POWER": "G\u00dc\u00c7",
+    "DevelopmentNews": "Geli\u015ftirme Haberleri",
+    "SavedGames": "Kay\u0131tl\u0131 Oyunlar",
+    "ClimbLadder": "Merdivene t\u0131rman",
+    "ExitEscapePod": "Ka\u00e7\u0131\u015f Kozas\u0131ndan \u00c7\u0131k",
+    "EnterEscapePod": "Ka\u00e7\u0131\u015f Kozas\u0131na Gir",
+    "BoardEscapePod": "Ka\u00e7\u0131\u015f Kozas\u0131na Bin",
+    "UseLadder": "Merdiveni kullan",
+    "Open": "A\u00e7",
+    "Close": "Kapat",
+    "OpenStorage": "Depoyu a\u00e7",
+    "SavingGame": "Oyun kaydediliyor...",
+    "GameSaved": "Oyun kaydedildi",
+    "PressButton": "Tu\u015fa bas",
+    "Climb": "T\u0131rman",
+    "Dig": "Kaz",
+    "DriveVehicle": "Arac\u0131 kullan",
+    "CloseDoor": "Kap\u0131y\u0131 kapat",
+    "OpenDoor": "Kap\u0131y\u0131 a\u00e7",
+    "ClimbUp": "Yukar\u0131 \u00e7\u0131k",
+    "ClimbDown": "A\u015fa\u011f\u0131 in",
+    "GrabOn": "Yakala",
+    "PowerCableInstructions": "Ekle (sol t\u0131k) Kald\u0131r (sa\u011f t\u0131k)",
+    "PickupCable": "Kabloyu al",
+    "InsertPowerCell": "Yeni g\u00fc\u00e7l\u00fc pil tak",
+    "PilotSub": "Denizalt\u0131y\u0131 kullan",
+    "SetAutopilot": "Otopilota ayarla",
+    "SignInstructions": "Al (d\u00fczenlemek i\u00e7in sa\u011f t\u0131k)",
+    "TerraformerInstructions": "Maddeyi araziye eklemek i\u00e7in sa\u011f t\u0131kla-s\u00fcr\u00fckle. Madde kazmak i\u00e7in Shift ile sa\u011f t\u0131kla-s\u00fcr\u00fckle.",
+    "TerraformerOutOfMaterial": "Madde bitti! Almak i\u00e7in kaz (shift-sa\u011f t\u0131k)",
+    "TerraformerTooClose": "\u00c7ok yak\u0131n! Uzakla\u015f",
+    "TerraformerTooFar": "Arazi \u00e7ok uzakta!",
+    "PipeInstructions": "Yerle\u015ftirmek i\u00e7in sa\u011f t\u0131klay\u0131n. Su \u00fcst\u00fcne yerle\u015ftirin ya da varolan mavi boruya ekleyin.",
+    "PipeCantReconnect": "Yak\u0131ndaki boruya ba\u011flanmad\u0131 - \u00e7ok uzakta!",
+    "PipeNotConnected": "Boru y\u00fczeye ba\u011flanmad\u0131! Hava gelmiyor.",
+    "FeedbackInstructions": "Hatalar\u0131 rapor etmek ve geri bildirimde bulunmak i\u00e7in F8'e bas.",
+    "NightTime": "Gece oluyor.",
+    "SpawnNearbyFailed": "\u00c7\u0131k\u0131\u015f ba\u015far\u0131s\u0131z.",
+    "Compass": "Pusula",
+    "Pipe": "Boru",
+    "Terraformer": "Y\u00fczey \u015eekillendirici",
+    "Thermometer": "S\u0131cakl\u0131k \u00f6l\u00e7er",
+    "BatteryDepleted": "Pil bitti.",
+    "Gravsphere": "Yer\u00e7ekimi k\u00fcresi",
+    "Cyclops": "Cyclops",
+    "EscapePod": "Ka\u00e7\u0131\u015f Kozas\u0131",
+    "Silicone": "Silikon kau\u00e7uk",
+    "Tooltip_Aquarium": "Kendi kendini idame ettiren sucul ya\u015fam alan\u0131.",
+    "Tooltip_Spotlight": "Sabit ayd\u0131nlatma \u00e7\u00f6z\u00fcm\u00fc",
+    "DeconstructAttachedError": "\u00d6nce eklenmi\u015f par\u00e7alar s\u00f6k\u00fclmeli",
+    "Pause": "Duraklat",
+    "BackToGame": "Oyuna D\u00f6n",
+    "GiveFeedback": "Geri Bildirim",
+    "Save": "Kaydet",
+    "QuitToDesktop": "Masa\u00fcst\u00fcne D\u00f6n",
+    "AreYouSure": "Emin misin?",
+    "Yes": "Evet",
+    "No": "Hay\u0131r",
+    "InvertMouse": "Ters fare hareketi",
+    "MouseSensitivity": "Fare hassasiyeti",
+    "OculusRift": "Oculus Rift",
+    "OculusRecenter": "Hizala (F2)",
+    "DisableMousePitch": "Dikey fare hareketini kapat",
+    "ArmFollowsGaze": "Kol bak\u0131\u015flar\u0131 izler",
+    "capacity": "S\u0131\u011fa",
+    "ClimbUpLadder": "Yukar\u0131 \u00e7\u0131k",
+    "ClimbDownLadder": "A\u015fa\u011f\u0131 in",
+    "sand": "kum",
+    "FabricatorMenu_Resources": "Kaynaklar",
+    "FabricatorMenu_Electronics": "Elektronik",
+    "FabricatorMenu_Survival": "Besin",
+    "FabricatorMenu_Water": "Su",
+    "FabricatorMenu_CookedFood": "Pi\u015fmi\u015f Yiyecek",
+    "FabricatorMenu_CuredFood": "Kurutulmu\u015f Yiyecek",
+    "FabricatorMenu_Personal": "Ki\u015fisel",
+    "FabricatorMenu_Equipment": "Donan\u0131m",
+    "FabricatorMenu_Tools": "Aletler",
+    "FabricatorMenu_Machines": "Konu\u015fland\u0131r\u0131labilir",
+    "FabricatorMenu_Submarine": "Denizalt\u0131",
+    "ConstructorMenu_Vehicles": "Ara\u00e7lar",
+    "WorkbenchMenu_KnifeMenu": "Ya\u015famsal B\u0131\u00e7ak",
+    "WorkbenchMenu_TankMenu": "Oksijen T\u00fcp\u00fc",
+    "WorkbenchMenu_FinsMenu": "Y\u00fczge\u00e7ler",
+    "PropulsionCannonFragment": "\u00c7ekme-itme silah\u0131 par\u00e7as\u0131",
+    "Tooltip_PropulsionCannonFragment": "\u00c7ekme-\u0130tme silah\u0131n\u0131n bir par\u00e7as\u0131",
+    "Tooltip_ReinforceHullFragment": "Aurora'n\u0131n g\u00f6vde g\u00fc\u00e7lendirmesinin bir par\u00e7as\u0131",
+    "TabInventory": "Envanter",
+    "TabJournal": "Tasar\u0131mlar",
+    "SignDefaultLabel": "ET\u0130KET",
+    "SignEditLabel": "Etiketi d\u00fczenle",
+    "CategoryMisc": "\u00c7e\u015fitli",
+    "CategoryBase": "Ya\u015fam B\u00f6lmeleri",
+    "CategoryPower": "G\u00fc\u00e7",
+    "CategoryModule": "Aletler",
+    "Sign": "Tabela",
+    "Tooltip_Sign": "Tabela",
+    "SolarPanel": "G\u00fcne\u015f paneli",
+    "SolarPanelStatus": "G\u00fcne\u015f paneli (g\u00fcne\u015f: %{0} \u015farj: {1}\/{2})",
+    "Tooltip_SolarPanel": "G\u00fcne\u015f enerjisinden elektrik sa\u011flamak i\u00e7in yere in\u015fa et (25 g\u00fc\u00e7\/dk)",
+    "WorkbenchMenu_PropulsionCannonMenu": "\u00c7ekme-\u0130tme Silah\u0131",
+    "Uranium": "Uranyum",
+    "RegenPowerCell": "Kendi kendine \u015farj olan g\u00fc\u00e7l\u00fc pil",
+    "CompostCreepvine": "Su yosununu g\u00fcbrele",
+    "Tooltip_CompostCreepvine": "\u00c7\u00fcr\u00fcyen su yosunlar\u0131 zamanla g\u00fcvenilir enerji sa\u011flar",
+    "ProcessUranium": "Uranyum i\u015fleniyor",
+    "Tooltip_ProcessUranium": "Kontroll\u00fc fisyon tepkimesi",
+    "TreeMushroomPiece": "Mantarsal \u00f6rnek",
+    "Tooltip_TreeMushroomPiece": "Yerli bitki \u00f6rt\u00fcs\u00fc. Mantar enzimleri i\u00e7erir.",
+    "Tooltip_Uranium": "U. N\u00fckleer fisyon elementi.",
+    "PowerTransmitter": "G\u00fc\u00e7 aktar\u0131c\u0131",
+    "Accumulator": "Ak\u00fcm\u00fclat\u00f6r",
+    "Bioreactor": "Biyoreakt\u00f6r",
+    "ThermalPlant": "Is\u0131l g\u00fc\u00e7 \u00fcreteci",
+    "NuclearReactor": "N\u00fckleer reakt\u00f6r",
+    "PowerCellStatus": "G\u00dc\u00c7: {0}\/{1}",
+    "HUDPowerStatus": "G\u00dc\u00c7: {0}\/{1}",
+    "AccumulatorStatus": "Ak\u00fcm\u00fclat\u00f6r (\u015farj: {0}\/{1})",
+    "BioreactorStatus": "Biyoreakt\u00f6r (\u015farj: {0}\/{1})",
+    "BioreactorProcessingStatus": "Biyoreakt\u00f6r (i\u015fleniyor: {0} \u015farj: {1}\/{2})",
+    "ThermalPlantStatus": "Is\u0131l G\u00fc\u00e7 \u00dcreteci (\u015farj: {0}\/{1})",
+    "NuclearReactorStatus": "N\u00fckleer reakt\u00f6r (\u015farj: {0}\/{1})",
+    "NuclearReactorProcessingStatus": "N\u00fckleer reakt\u00f6r (i\u015fleniyor: {0} \u015farj: {1}\/{2})",
+    "Tooltip_PowerTransmitter": "G\u00fc\u00e7 kayna\u011f\u0131n\u0131n menzilini artt\u0131r\u0131r.",
+    "Tooltip_Accumulator": "G\u00fc\u00e7 depolar",
+    "Tooltip_Bioreactor": "Organik maddeyi enerjiye \u00e7evirir (40 g\u00fc\u00e7\/dk)",
+    "Tooltip_ThermalPlant": "Is\u0131y\u0131 enerjiye \u00e7evirir (> 15 \u00b0C) (50 g\u00fc\u00e7\/dk)",
+    "Tooltip_NuclearReactor": "Uranyumun g\u00fc\u00e7l\u00fc enerjisini i\u015fler (150 g\u00fc\u00e7\/dk)",
+    "SmallLockerDefaultLabel": "DOLAP",
+    "SmallLockerEditLabel": "Dolap etiketini de\u011fi\u015ftir",
+    "SmallLocker": "Duvar dolab\u0131",
+    "Tooltip_SmallLocker": "Duvara tak\u0131lan saklama dolab\u0131",
+    "Lithium": "Lityum",
+    "DioramaHullPlate": "Diyorama G\u00f6vde Plakas\u0131",
+    "Tooltip_DioramaHullPlate": "E\u015fsiz bir diyoramay\u0131 hat\u0131rlatmak i\u00e7in \u00f6zel bir g\u00f6vde plakas\u0131.",
+    "OpenPercent": "A\u00c7ILMA Y\u00dcZDES\u0130: %{0}",
+    "LaserCutter": "Lazer kesici",
+    "Tooltip_LaserCutter": "Nesenleri keserek a\u00e7ar",
+    "Sealed_SupplyCrate": "M\u00fch\u00fcrl\u00fc erzak sand\u0131\u011f\u0131",
+    "Sealed": "M\u00fch\u00fcrl\u00fc",
+    "SealedInstructions": "A\u00e7mak i\u00e7in kes",
+    "BoardCyclops": "Cyclops'a bin",
+    "LeaveCyclops": "Cyclops'tan ayr\u0131l",
+    "EnterBase": "\u00dcsse gir",
+    "ExitBase": "\u00dcsten \u00e7\u0131k",
+    "MarkiplierHullPlate": "Markiplier g\u00f6vde plakas\u0131",
+    "Tooltip_MarkiplierHullPlate": "Korkmad\u0131m. Hatta az\u0131c\u0131k bile.",
+    "MuyskermHullPlate": "Muyskerm g\u00f6vde plakas\u0131",
+    "Tooltip_MuyskermHullPlate": "YouTube abonelik standartlar\u0131n\u0131 yeniden g\u00f6zden ge\u00e7ir.",
+    "LordMinionHullPlate": "LordMinion g\u00f6vde plakas\u0131",
+    "Tooltip_LordMinionHullPlate": "T\u00fcm zamanlar\u0131n en yak\u0131\u015f\u0131kl\u0131 Subnautica g\u00f6vde plakas\u0131.",
+    "JackSepticEyeHullPlate": "JackSepticEye g\u00f6vde plakas\u0131",
+    "Tooltip_JackSepticEyeHullPlate": "Jack her ya\u015ftan insan taraf\u0131ndan g\u00f6r\u00fcnt\u00fcleme i\u00e7in uygun olan temiz, k\u00fcf\u00fcr i\u00e7ermeyen videolar haz\u0131rlar.",
+    "Aerogel": "K\u00f6p\u00fck",
+    "AluminumOxide": "Al\u00fcminyum Oksit kristali",
+    "AminoAcids": "Amino asit",
+    "AramidFibers": "Yapay lifler",
+    "Benzene": "Benzen",
+    "BloodOil": "Kan ya\u011f\u0131",
+    "BloodRoot": "Kan k\u00f6k\u00fc",
+    "BloodVine": "Kan asmas\u0131",
+    "Graphene": "Grafen",
+    "HydrochloricAcid": "Hidroklorik asit",
+    "Magnetite": "Manyetit",
+    "MercuryOre": "Civa cevheri",
+    "Nanowires": "Nano teller",
+    "Polyaniline": "Polianilin",
+    "Sulphur": "K\u00fck\u00fcrt",
+    "WhiteMushroom": "Dip mantar\u0131",
+    "FabricatorMenu_BasicMaterials": "Temel malzemeler",
+    "FabricatorMenu_AdvancedMaterials": "Geli\u015fmi\u015f malzemeler",
+    "Tooltip_Aerogel": "Hafif, g\u00f6zenekli, kurumu\u015f jel. Y\u00fcksek \u0131s\u0131 yal\u0131t\u0131ml\u0131.",
+    "Tooltip_AluminumOxide": "Al\u00b2O\u00b3. Is\u0131 ve elektrik iletkenli\u011fi y\u00fcksektir.",
+    "Tooltip_AminoAcids": "Protein ve n\u00f6rotransmitter yap\u0131ta\u015f\u0131 .",
+    "Tooltip_AramidFibers": "Y\u00fcksek dayan\u0131kl\u0131l\u0131\u011fa sahip yapay lifler",
+    "Tooltip_Benzene": "C\u2076H\u2076. Ya\u011f ve \u00e7\u00f6z\u00fcc\u00fc olarak kullan\u0131l\u0131r.",
+    "Tooltip_BloodOil": "Ya\u011fl\u0131 yap\u0131\u015fkan madde",
+    "Tooltip_BloodRoot": "K\u0131rm\u0131z\u0131 k\u00f6k",
+    "Tooltip_BloodVine": "Kan asmas\u0131",
+    "Tooltip_Graphene": "C. Bir atom kal\u0131nl\u0131\u011f\u0131nda d\u00fczenlenmi\u015f karbon. \u00c7elikten daha g\u00fc\u00e7l\u00fc.",
+    "Tooltip_HydrochloricAcid": "HCl. G\u00fc\u00e7l\u00fc asidik bile\u015fik. Dikkatli kullan\u0131lmal\u0131.",
+    "Tooltip_Magnetite": "Ma. Manyetik \u00f6zelliklere sahip metal.",
+    "Tooltip_MercuryOre": "HgS. Civa S\u00fclf\u00fcr. Rafine civa elde etmek i\u00e7in O\u00b2 i\u00e7inde \u0131s\u0131t\u0131lmal\u0131.",
+    "Tooltip_Nanowires": "Nano \u00f6l\u00e7ekli kuantum cihazlar i\u00e7in teller .",
+    "Tooltip_Polyaniline": "Y\u00fcksek iletkenli\u011fe sahip polimer.",
+    "Tooltip_Sulphur": "S. Oksidan ve indirgeyici.",
+    "Tooltip_WhiteMushroom": "Y\u00fcksek asitli et",
+    "Cutefish": "Sevimli Bal\u0131k",
+    "Tooltip_Cutefish": "\u00d6zel S\u00fcr\u00fcm hayvan\u0131",
+    "BaseBulkhead": "B\u00f6lme",
+    "Tooltip_BaseBulkhead": "Yap\u0131sal destek sa\u011flar ve su basmas\u0131n\u0131 engelleyebilir (+2HP)",
+    "OpenLocker": "Dolab\u0131 a\u00e7",
+    "Lubricant": "Ya\u011flay\u0131c\u0131",
+    "CreepvineSeedCluster": "Su yosunu tohum salk\u0131m\u0131",
+    "Tooltip_CreepvineSeedCluster": "Y\u00fcksek ya\u011f i\u00e7eri\u011fine sahip yerli tohumlar.",
+    "Tooltip_Lubricant": "Do\u011fal olarak elde edilen, ya\u011f bazl\u0131 kayganla\u015ft\u0131r\u0131c\u0131. \u00dcretimde kullan\u0131l\u0131r.",
+    "SeamothReinforcementModule": "Seamoth bas\u0131n\u00e7 dengeleyici",
+    "Tooltip_SeamothReinforcementModule": "Y\u00fcksek bas\u0131n\u00e7 alt\u0131nda Seamoth g\u00f6vdesi sertle\u015fir, her mod\u00fcl g\u00fcvenli dal\u0131\u015f derinli\u011fini 200m artt\u0131r\u0131r.",
+    "SeamothPowerUpgradeModule": "Seamoth g\u00fc\u00e7 verimlili\u011fi mod\u00fcl\u00fc",
+    "Tooltip_SeamothPowerUpgradeModule": "Ortaya \u00e7\u0131kan \u0131s\u0131y\u0131 geri d\u00f6n\u00fc\u015ft\u00fcr\u00fcrerek motor verimlili\u011fini artt\u0131r\u0131r. Her mod\u00fcl %15 kazan\u00e7 sa\u011flar.",
+    "SeamothSolarCharge": "Seamoth g\u00fcne\u015f \u015farj\u0131",
+    "Tooltip_SeamothSolarCharge": "G\u00fcn \u0131\u015f\u0131\u011f\u0131nda Seamoth g\u00fc\u00e7 kayna\u011f\u0131 \u015farj olur.",
+    "Bench": "Oturak",
+    "Tooltip_Bench": "Basit metal e\u015fya. Dinlenmeyi ve b\u00f6ylece enerji tasarrufu yapmay\u0131 sa\u011flar.",
+    "BaseCorridorGlassI": "I \u015feklinde cam koridor",
+    "BaseCorridorGlassL": "L \u015feklinde cam koridor",
+    "BaseObservatory": "G\u00f6zlem odas\u0131",
+    "Tooltip_BaseCorridorGlassI": "Basit cam koridor (-2HP)",
+    "Tooltip_BaseCorridorGlassL": "90 derece d\u00f6n\u00fc\u015f (-2HP)",
+    "Tooltip_BaseObservatory": "\u00c7evredeki okyanus ya\u015fam\u0131n\u0131 g\u00f6zlemlemeye yarar (-3HP)",
+    "BaseConnector": "Dikey ba\u011flay\u0131c\u0131",
+    "Tooltip_BaseConnector": "Dikey \u00fcs ba\u011flay\u0131c\u0131 (-0.5HP)",
+    "BioreactorFragment": "Bioreakt\u00f6r par\u00e7as\u0131",
+    "NuclearReactorFragment": "N\u00fckleer reakt\u00f6r par\u00e7as\u0131",
+    "ThermalPlantFragment": "Is\u0131l g\u00fc\u00e7 \u00fcreteci par\u00e7as\u0131",
+    "Tooltip_BioreactorFragment": "Biyoreakt\u00f6r\u00fcn bir par\u00e7as\u0131",
+    "Tooltip_ThermalPlantFragment": "Is\u0131l g\u00fc\u00e7 \u00fcretecinin bir par\u00e7as\u0131",
+    "Tooltip_BioreactorBlueprint": "Biyoreakt\u00f6r yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_NuclearReactorBlueprint": "N\u00fckleer reakt\u00f6r yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_ThermalPlantBlueprint": "Is\u0131l g\u00fc\u00e7 \u00fcreteci yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "BaseMoonpool": "Ay havuzu",
+    "Tooltip_BaseMoonpool": "Demirleme odas\u0131 (-5HP)",
+    "AquariumStorageLabel": "AKVARYUM",
+    "UseAquarium": "Akvaryumu kullan",
+    "SitDown": "Otur",
+    "StandUp": "Kalk",
+    "MoonpoolFragment": "Ay havuzu par\u00e7as\u0131",
+    "BioreactorBlueprint": "Biyoreakt\u00f6r tasar\u0131m\u0131",
+    "MoonpoolBlueprint": "Ay havuzu tasar\u0131m\u0131",
+    "NuclearReactorBlueprint": "N\u00fckleer reakt\u00f6r tasar\u0131m\u0131",
+    "ThermalPlantBlueprint": "Is\u0131l g\u00fc\u00e7 \u00fcreteci tasar\u0131m\u0131",
+    "Tooltip_MoonpoolFragment": "Ay havuzu teknolojisinin bir par\u00e7as\u0131",
+    "Tooltip_NuclearReactorFragment": "N\u00fckleer reakt\u00f6r\u00fcn bir par\u00e7as\u0131",
+    "FloatingIsland": "Kara k\u00fctlesi alg\u0131land\u0131",
+    "CoralArch": "B\u00fcy\u00fck organik k\u00fctle",
+    "BalancingRock": "Jeolojik olu\u015fum",
+    "HugePillar": "Jeolojik olu\u015fum",
+    "InventoryCantDropHere": "Nesne buraya b\u0131rak\u0131lam\u0131yor. Bunun i\u00e7in saklama dolab\u0131 kullan.",
+    "BaseCorridorGlass": "Cam koridor",
+    "Tooltip_BaseCorridorGlass": "Cam koridor (-2HP)",
+    "SeamothDefaultName": "SEAMOTH",
+    "ExosuitDefaultName": "DI\u015e G\u0130YS\u0130",
+    "SubmersibleNotDocked": "DEM\u0130RL\u0130 ARA\u00c7 YOK",
+    "SubmersibleDocked": "DEM\u0130RL\u0130",
+    "SubmersibleFullyCharged": "TAM \u015eARJLI",
+    "SubmersibleCharging": "\u015eARJ OLUYOR",
+    "BaseUpgradeConsole": "Seamoth de\u011fi\u015fiklik istasyonu",
+    "Tooltip_BaseUpgradeConsole": "Seamoth'u geli\u015ftirmek i\u00e7in bunu ay havuzuna in\u015fa et",
+    "NotEnoughSpaceToSit": "Otura\u011fa oturmak i\u00e7in yeterli alan yok",
+    "Creative": "Yarat\u0131c\u0131",
+    "CreativeDescription": "K\u0131s\u0131tlama olmaks\u0131z\u0131n in\u015fa et. Oksijen, yiyecek gereksinimi, bas\u0131n\u00e7, hikaye ve \u00f6l\u00fcm yok.",
+    "unpowered": "G\u00fc\u00e7 yok",
+    "SeamothStorageModule": "Seamoth depolama mod\u00fcl\u00fc",
+    "Tooltip_SeamothStorageModule": "4x4 depolama dolab\u0131.",
+    "SeamothStorageNotEmpty": "Saklama dolab\u0131 \u00f6nce bo\u015falt\u0131lmal\u0131",
+    "SeamothElectricalDefense": "Seamoth b\u00f6lgesel savunma sistemi",
+    "Tooltip_SeamothElectricalDefense": "B\u00f6lgesel elektrik alan\u0131 olu\u015fturur. Sald\u0131rgan canl\u0131lar\u0131 savu\u015fturmak ama\u00e7l\u0131d\u0131r.",
+    "Skyray": "Vatoz ku\u015fu",
+    "SeamothTorpedoModule": "Seamoth torpido d\u00fczene\u011fi",
+    "Tooltip_SeamothTorpedoModule": "Su alt\u0131 y\u00fck\u00fc da\u011f\u0131t\u0131m sistemi. \u00d6ld\u00fcr\u00fcc\u00fc olmayan girdap torpidolar\u0131n\u0131 araca yerle\u015ftirmek i\u00e7in kullan\u0131l\u0131r.",
+    "Goal_Lifepod1": "PDA acil durum kipinde ba\u015flat\u0131l\u0131yor. Ya\u015famsal veriler ba\u011fland\u0131. Ka\u00e7\u0131\u015f kozas\u0131 sistemleri ba\u011fland\u0131. Durum incelemesi yap\u0131l\u0131yor.",
+    "Goal_Lifepod2": "Aurora Maden Gemisi g\u00f6vde ar\u0131zas\u0131 felaketinde zarar g\u00f6rd\u00fc. Nedeni: bilinmiyor. 100 metrelik alanda canl\u0131 insan belirtisi alg\u0131lanmad\u0131. ",
+    "Goal_Lifepod3": "Zaman: Gezegene d\u00fc\u015f\u00fc\u015ften 3 saat sonras\u0131. Ya\u015fam kozas\u0131 durumu: g\u00f6vde sa\u011flam. \u0130leti\u015fim: devre d\u0131\u015f\u0131.",
+    "Goal_Lifepod4": "\u00c7evre: Bilinmeyen okyanus gezegeni. Oksijen ve Azottan olu\u015fan atmosfer. Su kirlili\u011fi: y\u00fcksek.",
+    "Goal_Intro1": "Otomatik, k\u0131sa menzilli yard\u0131m \u00e7a\u011fr\u0131s\u0131 yay\u0131n\u0131 ba\u015far\u0131s\u0131z. Ya\u015fam kozas\u0131 ileti\u015fim r\u00f6lesi devre d\u0131\u015f\u0131.",
+    "Goal_Intro2": "Ya\u015fam kozas\u0131, aletler \u00fcreten ve organik maddeleri yenilebilir k\u0131lan programlanm\u0131\u015f \u00fcretici ile donat\u0131lm\u0131\u015ft\u0131r.",
+    "Goal_CookedPeeper": "\u00dcretici, k\u00fc\u00e7\u00fck organizmalar\u0131 pi\u015firirken, iskelet yap\u0131s\u0131n\u0131, v\u00fccut s\u0131v\u0131lar\u0131n\u0131 ve i\u00e7 organlar\u0131n\u0131 ay\u0131klar, b\u00f6ylece insan\u0131n t\u00fcketimi i\u00e7in g\u00fcvenli k\u0131lar.",
+    "Goal_LocationAuroraEntry": "Dikkat, yap\u0131sal b\u00fct\u00fcnl\u00fck bilinmiyor. Ke\u015fif \u00f6nerilmez.",
+    "Goal_LocationAuroraFurtherIn": "Yak\u0131nlardaki organik sindirim sistemlerinde insan kal\u0131nt\u0131s\u0131 izleri alg\u0131land\u0131. Daha fazla ke\u015fif \u00f6nerilmez.",
+    "Goal_BiomeCrashedShip": "Geni\u015f bir enkaz alan\u0131 alg\u0131land\u0131.",
+    "Goal_LocationAuroraInterior": "Geminin ya\u015fam b\u00f6lmelerinden % 87'si patlama s\u0131ras\u0131nda ya\u015fanmaz hale geldi.",
+    "Goal_LocationAuroraHallway": "\u0130\u00e7 hasar de\u011ferlendiriliyor. Hasar tipi i\u00e7 ar\u0131za ile tutars\u0131z. Aurora karakutu cihaz\u0131 bulunamad\u0131.",
+    "Goal_LocationAuroraDriveEntry": "Aurora'n\u0131n darbe h\u0131z\u0131na kar\u015f\u0131 s\u00fcr\u00fcc\u00fc \u00e7ekirde\u011finin hasar\u0131 denetleniyor. Hesaplamalar bir \u00e7ekirdek yar\u0131\u011f\u0131na neden olabilmek i\u00e7in yetersiz b\u00fcy\u00fckl\u00fckte oldu\u011funu g\u00f6steriyor.",
+    "Goal_Location AuroraDriveInterior": "Aurora'n\u0131n karakutusu bulundu. \u0130ndirmeye \u00e7al\u0131\u015f\u0131l\u0131yor. Parazitle kar\u015f\u0131la\u015f\u0131ld\u0131. Uyar\u0131, \u0131\u015f\u0131n\u0131m d\u00fczeyi dayanabilinecek en y\u00fcksek seviyede.",
+    "SeamothStorageOpen": "Depoyu a\u00e7",
+    "SeamothSonarModule": "Seamoth sonar\u0131",
+    "Tooltip_SeamothSonarModule": "Y\u00fczey \u015fekillerini, ses dalgalar\u0131 kullanarak alg\u0131layan ve ekranda g\u00f6r\u00fcnt\u00fcleyen \u00f6zel bir sistem.",
+    "LootSensorMetal": "Seamoth metal alg\u0131lay\u0131c\u0131",
+    "Tooltip_LootSensorMetal": "Metal alg\u0131lay\u0131c\u0131",
+    "LootSensorLithium": "Seamoth lityum alg\u0131lay\u0131c\u0131",
+    "Tooltip_LootSensorLithium": "Lityum alg\u0131lay\u0131c\u0131",
+    "LootSensorFragment": "Seamoth par\u00e7a alg\u0131lay\u0131c\u0131",
+    "Tooltip_LootSensorFragment": "Par\u00e7a alg\u0131lay\u0131c\u0131",
+    "SeamothTorpedoStorage": "Seamoth torpido yuvas\u0131",
+    "SeamothTorpedoNoAmmo": "Cephane bitti. Ara\u00e7tan \u00e7\u0131k ve yuvalara torpido yerle\u015ftir.",
+    "WhirlpoolTorpedo": "Seamoth girdap torpidosu",
+    "Tooltip_WhirlpoolTorpedo": "Bunu Seamoth'un \u00f6n taraf\u0131ndaki torpido yuvas\u0131na y\u00fckleyin.",
+    "SeamothArmorPlating": "Seamoth g\u00f6vde g\u00fc\u00e7lendirici",
+    "Tooltip_SeamothArmorPlating": "\u00c7arp\u0131\u015fmaden hemen \u00f6nce ana g\u00f6vdeyi sertle\u015ftirir, normal \u015fartlarda hasar almay\u0131 engeller.",
+    "SeamothUpgradesMenu_ModuleMenu": "Seamoth geli\u015ftirme mod\u00fclleri",
+    "SeamothUpgradesMenu_ItemMenu": "Seamoth torpidolar\u0131",
+    "ContainerOverflow": "Son g\u00fcncellemede yap\u0131lan de\u011fi\u015fiklikler envanterin dolup ta\u015fmas\u0131na neden oldu. \u0130\u00e7indekilerin hepsini g\u00f6rmek i\u00e7in biraz yer a\u00e7.",
+    "DURABILITY": "DAYANIKLILIK",
+    "TabLog": "Ses kay\u0131tlar\u0131",
+    "Day": "G\u00fcn",
+    "MasterVolume": "Ana ses",
+    "MusicVolume": "M\u00fczik sesi",
+    "ExchangeBattery": "Pili de\u011fi\u015ftir (R)",
+    "Health": "Sa\u011fl\u0131k",
+    "PlanterStorageLabel": "YET\u0130\u015eT\u0130R\u0130C\u0130",
+    "FiltrationMachineStorageLabel": "ARITMA MAK\u0130NES\u0130",
+    "TabGallery": "Foto\u011fraf Alb\u00fcm\u00fc",
+    "SortByDateDescending": "Tarihe g\u00f6re s\u0131rala (azalan)",
+    "SortByDateAscending": "Tarihe g\u00f6re s\u0131rala (artan)",
+    "SortByTopic": "Konuya g\u00f6re s\u0131rala",
+    "SortByName": "Ada g\u00f6re s\u0131rala",
+    "ScreenshotUpload": "Y\u00fckle",
+    "ScreenshotAddToSteamLibrary": "Steam'e ekle",
+    "ScreenshotDelete": "Sil",
+    "PDAGalleryTabInstructions": "Ekran g\u00f6r\u00fcnt\u00fcs\u00fc almak i\u00e7in {0} tu\u015funa bas\u0131n",
+    "PDAGalleryThumbnailSize": "Boyut",
+    "PDAGalleryUpload": "G\u00f6r\u00fcnt\u00fcy\u00fc Foto\u011fraf \u00c7er\u00e7evesine y\u00fckle",
+    "PDAGalleryAddToSteam": "G\u00f6r\u00fcnt\u00fcy\u00fc Steam K\u00fct\u00fcphanesine ekle",
+    "PDAGalleryDelete": "G\u00f6r\u00fcnt\u00fcy\u00fc sil (\u00e7ift t\u0131k)",
+    "UsePlanter": "Yeti\u015ftiriciyi kullan",
+    "UseFiltrationMachine": "Ar\u0131tma makinesini kullan",
+    "PictureFrameEditLabel": "G\u00f6r\u00fcnt\u00fcy\u00fc ayarla",
+    "BreakPurplePinecone": "Mor \u00e7am kozala\u011f\u0131n\u0131 k\u0131r",
+    "PlanterPot": "Bitki saks\u0131s\u0131",
+    "PlanterBox": "\u0130\u00e7 mekan yeti\u015ftirme yata\u011f\u0131",
+    "PlanterShelf": "Duvar saks\u0131s\u0131",
+    "FarmingTray": "D\u0131\u015f mekan yeti\u015ftirme yata\u011f\u0131",
+    "FiltrationMachine": "Su ar\u0131tma makinesi",
+    "FullyCharged": "Tam \u015farjl\u0131",
+    "ReinforcedDiveSuit": "G\u00fc\u00e7lendirilmi\u015f dal\u0131\u015f k\u0131yafeti",
+    "PictureFrame": "Foto\u011fraf \u00c7er\u00e7evesi",
+    "Tooltip_PictureFrame": "Foto\u011fraf alb\u00fcm\u00fcndeki g\u00f6r\u00fcnt\u00fcler bu \u00e7er\u00e7eve i\u00e7ine yerle\u015ftirilebilir",
+    "Tooltip_PlanterPot": "Yapay toprak i\u00e7eren titanyum saks\u0131.",
+    "Tooltip_PlanterBox": "Sadece i\u00e7 mekanda kullan\u0131m i\u00e7in yapay bitki yata\u011f\u0131.",
+    "Tooltip_PlanterShelf": "Duvara yerle\u015ftirilen bitki saks\u0131s\u0131",
+    "Tooltip_FarmingTray": "Arazide veya su alt\u0131nda kullan\u0131labilen yapay bitki yata\u011f\u0131.",
+    "Tooltip_FiltrationMachine": "Su ar\u0131tma makinesi",
+    "Tooltip_ReinforcedDiveSuit": "%50 fiziksel koruma sa\u011flayan a\u011f\u0131r aramid fiber dal\u0131\u015f tak\u0131m\u0131.",
+    "FiltrationComplete": "Ar\u0131tma tamamland\u0131",
+    "FiltrationProgress": "Ar\u0131t\u0131l\u0131yor: su {0:P0}, tuz {1:P0}",
+    "BasePlanter": "Canl\u0131 duvar",
+    "BaseFiltrationMachine": "Su ar\u0131tma makinesi",
+    "Tooltip_BasePlanter": "Duvara yerle\u015ftirilen ye\u015fillik. Tamamen s\u00fcsleme ama\u00e7l\u0131.",
+    "Tooltip_BaseFiltrationMachine": "Su ve tuzu ay\u0131r\u0131r",
+    "Story_AuroraWarning3": "Uyar\u0131. B\u00f6lgesel radyasyon \u00f6l\u00e7\u00fcmleri Aurora'n\u0131n kara madde itici \u00e7ekirde\u011finin toplam bozulmas\u0131 ile tutarl\u0131 \u00f6zellikler sergiliyor. %85.5 olas\u0131l\u0131kla bir kuantum patlama ger\u00e7ekle\u015fecek. G\u00f6zlemin 1km'lik g\u00fcvenli mesafede yap\u0131lmas\u0131 \u00f6nerilir.",
+    "Story_AuroraWarning2": "Dikkat. Aurora'n\u0131n itici \u00e7ekirde\u011findeki devam eden bozulma bir kuantum patlamaya neden olabilir. E\u011fer itici \u00e7ekirdekte gedik a\u00e7\u0131ld\u0131ysa, radyoaktif enkaz maddelerine maruz kalma \u00f6l\u00fcm olas\u0131l\u0131\u011f\u0131n\u0131 %37 artt\u0131r\u0131r.",
+    "Story_AuroraWarning1": "B\u00f6lgesel radyasyon seviyesinin artt\u0131\u011f\u0131 alg\u0131land\u0131. Geli\u015fme, \u00e7arp\u0131\u015fma s\u0131ras\u0131nda ald\u0131\u011f\u0131 hasar nedeniyle Aurora Maden Gemisinin kara madde itici \u00e7ekirde\u011finin devam eden bozulmas\u0131 ile tutarl\u0131. \u0130zlemeye devam ediliyor.",
+    "TabEncyclopedia": "Bilgi bankas\u0131",
+    "Ency_CuteFish": "Sevimli Bal\u0131k",
+    "EncyDesc_CuteFish": "Sevimli Bal\u0131k A\u00e7\u0131klamas\u0131",
+    "Ency_Gasopod": "Gaz foku",
+    "EncyDesc_Gasopod": "Suyu, yapay iplikleri bile eritebilecek, zehirli ve a\u015f\u0131nd\u0131r\u0131c\u0131 bile\u015fikle doldurabilme yetene\u011fine sahip, yava\u015f hareket eden ya\u015fam t\u00fcr\u00fc. 
+
+1. Yosun bezesi - Arka taraf\u0131nda torbaya benzer so\u011fanl\u0131 bir uzant\u0131. Torba i\u00e7inde parlak sar\u0131 yosunun bir t\u00fcr\u00fc yeti\u015fir ve zehirli bir bile\u015fik \u00fcretir.
+
+2. Kar\u0131n kaslar\u0131: Yarat\u0131k korktu\u011funda kas\u0131larak \u00e7evresindeki su i\u00e7ine bezelerindeki zararl\u0131 bile\u015fikleri yayar
+
+3. S\u00fczme sistemi: Birden \u00e7ok solunga\u00e7 katmanlar\u0131, \u00fcretti\u011fi zararl\u0131 bulutlar\u0131n yarat\u0131k i\u00e7in etkisiz olmas\u0131n\u0131 sa\u011flad\u0131\u011f\u0131 g\u00f6r\u00fcl\u00fcyor.
+
+De\u011ferlendirme: Uzak dur",
+    "Ency_Biter": "Is\u0131rgan",
+    "EncyDesc_Biter": "K\u00fc\u00e7\u00fck, sald\u0131rgan t\u00fcr. 94% kas, 4% ba\u011f doku, 2% beyin. 
+\t
+- \u00c7ok geli\u015fmi\u015f kuyruk y\u00fczgeci, avlar\u0131n\u0131n \u00fcst\u00fcn manevra kabiliyetlerine kar\u015f\u0131, say\u0131sal \u00fcst\u00fcnl\u00fck sa\u011flama ve onlar\u0131 yakalamada yard\u0131mc\u0131 olur
+- Kafas\u0131n\u0131n \u00fcst\u00fcnde sudaki v\u00fccut s\u0131v\u0131lar\u0131n\u0131n\u0131n kokusunu alan \u00f6zel bir uzant\u0131s\u0131 vard\u0131r
+- Muhtemelen rastgele avlan\u0131yor: yaral\u0131 herhangi bir \u015fey onun i\u00e7in iyi bir avd\u0131r
+- \u0130kincil \u00e7ift g\u00f6zleri kum k\u00f6pekbal\u0131klar\u0131 ile benzerlik ta\u015f\u0131maktad\u0131r. Muhtemelen \u00e7evredeki b\u00fcy\u00fck y\u0131rt\u0131c\u0131 hareketlerini alg\u0131lamaya adanm\u0131\u015f. 
+
+Av: K\u00fc\u00e7\u00fck ot\u00e7ullar; ama hesaplamalara g\u00f6re \u0131s\u0131rgan\u0131n v\u00fccut a\u011f\u0131rl\u0131\u011f\u0131n\u0131n 100 kat\u0131na kadar olan yarat\u0131klar bir grup \u0131s\u0131rgana yenik d\u00fc\u015febilir.
+\t
+De\u011ferlendirme: Uygun \u00f6nlemler al\u0131nmazsa \u00f6l\u00fcmc\u00fcl - S\u00fcr\u00fclerden uzak dur - Suya kan bula\u015ft\u0131rma",
+    "Ency_Stalker": "\u0130zci",
+    "EncyDesc_Stalker": "Geli\u015fmi\u015f zeka ve g\u00fcce sahip aerodinamik bir avc\u0131.   
+
+- G\u00fcvenli olan s\u0131\u011f b\u00f6lgelerden ayr\u0131lan avlar\u0131 su yosunu ormanlar\u0131nda bekler 
+- G\u00f6zlerinin a\u011f tabakas\u0131 geceleri avlanmas\u0131 i\u00e7in geli\u015fmi\u015ftir 
+- Sinir sistemi, do\u011fu\u015ftan \u00f6d\u00fcl tabanl\u0131 \u00f6\u011frenme yetene\u011fine sahip oldu\u011funu g\u00f6steriyor; evrimsel a\u00e7\u0131klamas\u0131 \u015fu an belirsiz 
+- Metallere merakl\u0131d\u0131r. Toplad\u0131\u011f\u0131 metaller i\u00e7in \u015fiddetle m\u00fccadele eder. Bu davran\u0131\u015f i\u00e7in herhangi bir a\u00e7\u0131klama yap\u0131lam\u0131yor. Daha fazla ara\u015ft\u0131rma gerekiyor.  
+
+Av: G\u00f6zc\u00fcn\u00fcn t\u00fcm evrimsel t\u00fcrlerinin do\u011fal avc\u0131s\u0131  
+
+De\u011ferlendirme: Etkisizle\u015ftir veya uzak dur",
+    "Ency_SandShark": "Kum K\u00f6pekbal\u0131\u011f\u0131",
+    "EncyDesc_SandShark": "Par\u00e7al\u0131 d\u0131\u015f kabuk yap\u0131s\u0131 onu yava\u015f ama g\u00fc\u00e7l\u00fc bir avc\u0131 yapar. Bu ya\u015fam t\u00fcr\u00fcn\u00fcn alt taraf\u0131nda y\u00fcr\u00fcmek i\u00e7in k\u00f6t\u00fc tasarlanm\u0131\u015f bir dizi ayaklar vard\u0131r, bunun yerine ayaklar\u0131 ile kumu kar\u0131\u015ft\u0131r\u0131p i\u00e7ine saklan\u0131r ve bu \u015fekilde av\u0131n\u0131 pusuya d\u00fc\u015f\u00fcr\u00fcr.
+
+Av: Boyutunun iki kat\u0131na kadar ot\u00e7ullar
+
+De\u011ferlendirme: \u015e\u00fcpheli kum bulutlar\u0131ndan uzak dur",
+    "Locked_Door": "Kilitli kap\u0131",
+    "Sealed_Door": "M\u00fch\u00fcrl\u00fc kap\u0131",
+    "DoorInstructions_Powercell": "Yak\u0131ndaki konsolu a\u00e7mak i\u00e7in g\u00fc\u00e7 ver",
+    "DoorInstructions_Keycard": "Eri\u015fim i\u00e7in e\u015fle\u015fen anahtar kart\u0131 bul",
+    "GenericLocked": "Kap\u0131 kilidi ba\u015fka bir yerden a\u00e7\u0131ld\u0131",
+    "FiltrationMachineFragment": "Ar\u0131tma makinesi par\u00e7as\u0131",
+    "FiltrationMachineBlueprint": "Ar\u0131tma makinesi tasar\u0131m\u0131",
+    "Tooltip_FiltrationMachineFragment": "Ar\u0131tma makinesi teknolojisinin bir par\u00e7as\u0131",
+    "ScannerInstanceScanned": "{0} tarand\u0131. Genel ilerleme: %{1} ({2}\/{3}).",
+    "ScannerRedundantScanned": "At\u0131k par\u00e7as\u0131 tarand\u0131.",
+    "ScannerInstanceKnown": "Bu varl\u0131k \u00f6rne\u011fi zaten tarand\u0131. Ara\u015ft\u0131rmay\u0131 tamamlamak i\u00e7in ba\u015fka bir tane bulman gerekiyor.",
+    "ScannerEntityKnown": "'{0}' varl\u0131\u011f\u0131 zaten ara\u015ft\u0131r\u0131ld\u0131. Taramaya gerek yok.",
+    "EncyclopediaEntryUnlocked": "Ansiklopediye {0] girdi eklendi",
+    "Scanner": "Taray\u0131c\u0131",
+    "PropulsionCannonBlueprint": "\u00c7ekme-itme silah\u0131 tasar\u0131m\u0131",
+    "Tooltip_Scanner": "Hedeflenen varl\u0131klar\u0131n atom d\u00fczeyinde bilgilerini kaydetmek i\u00e7in bir el spektroskop taray\u0131c\u0131.",
+    "Tooltip_MoonpoolBlueprint": "Ay havuzu yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "WaterParkPlanterStorageLabel": "AKVARYUM B\u0130TK\u0130LER\u0130",
+    "UnknownEgg1": "Yarat\u0131k yumurtas\u0131",
+    "UnknownEgg2": "Yarat\u0131k yumurtas\u0131",
+    "UnknownEgg3": "Yarat\u0131k yumurtas\u0131",
+    "UnknownEgg4": "Yarat\u0131k yumurtas\u0131",
+    "UnknownEgg5": "Yarat\u0131k yumurtas\u0131",
+    "UnknownEgg6": "Yarat\u0131k yumurtas\u0131",
+    "UnknownEgg7": "Yarat\u0131k yumurtas\u0131",
+    "UnknownEgg8": "Yarat\u0131k yumurtas\u0131",
+    "UnknownEgg9": "Yarat\u0131k yumurtas\u0131",
+    "UnknownEgg10": "Yarat\u0131k yumurtas\u0131",
+    "Tooltip_UnknownEgg1": "Bilinmeyen bir yumurta",
+    "Tooltip_UnknownEgg2": "Bilinmeyen bir yumurta",
+    "Tooltip_UnknownEgg3": "Bilinmeyen bir yumurta",
+    "Tooltip_UnknownEgg4": "Bilinmeyen bir yumurta",
+    "Tooltip_UnknownEgg5": "Bilinmeyen bir yumurta",
+    "Tooltip_UnknownEgg6": "Bilinmeyen bir yumurta",
+    "Tooltip_UnknownEgg7": "Bilinmeyen bir yumurta",
+    "Tooltip_UnknownEgg8": "Bilinmeyen bir yumurta",
+    "Tooltip_UnknownEgg9": "Bilinmeyen bir yumurta",
+    "Tooltip_UnknownEgg10": "Bilinmeyen bir yumurta",
+    "BonesharkEgg": "Kemik K\u00f6pekbal\u0131\u011f\u0131 yumurtas\u0131",
+    "CrabsnakeEgg": "Yenge\u00e7 y\u0131lan\u0131 yumurtas\u0131",
+    "GasopodEgg": "Gaz foku yumurtas\u0131",
+    "JellyrayEgg": "J\u00f6le vatozu yumurtas\u0131",
+    "JumperEgg": "Z\u0131playan b\u00f6cek yumurtas\u0131",
+    "MesmerEgg": "Hipnozcu yumurtas\u0131",
+    "RabbitrayEgg": "Tav\u015fan Vatozu yumurtas\u0131",
+    "ShockerEgg": "Elektrikli Y\u0131lan Bal\u0131\u011f\u0131 yumurtas\u0131",
+    "SpadefishEgg": "K\u00fcrek Bal\u0131\u011f\u0131 yumurtas\u0131",
+    "StalkerEgg": "\u0130zci yumurtas\u0131",
+    "SandsharkEgg": "Kum K\u00f6pekbal\u0131\u011f\u0131 yumurtas\u0131",
+    "Tooltip_BonesharkEgg": "Kemik K\u00f6pekbal\u0131\u011f\u0131 yavrusu bundan \u00e7\u0131k\u0131yor",
+    "Tooltip_CrabsnakeEgg": "Yenge\u00e7 y\u0131lan\u0131 yavrusu bundan \u00e7\u0131k\u0131yor",
+    "Tooltip_GasopodEgg": "Gaz foku yavrusu bundan \u00e7\u0131k\u0131yor",
+    "Tooltip_JellyrayEgg": "J\u00f6le Vatozu yavrusu bundan \u00e7\u0131k\u0131yor",
+    "Tooltip_JumperEgg": "Z\u0131playan b\u00f6cek yavrusu bundan \u00e7\u0131k\u0131yor",
+    "Tooltip_MesmerEgg": "Hipnozcu yavrusu bundan \u00e7\u0131k\u0131yor",
+    "Tooltip_RabbitrayEgg": "Tav\u015fan Vatozu yavrusu bundan \u00e7\u0131k\u0131yor",
+    "Tooltip_ShockerEgg": "Elektrikli Y\u0131lan Bal\u0131\u011f\u0131 yavrusu bundan \u00e7\u0131k\u0131yor",
+    "Tooltip_SpadefishEgg": "K\u00fcrek bal\u0131\u011f\u0131 yavrusu bundan \u00e7\u0131k\u0131yor",
+    "Tooltip_StalkerEgg": "\u0130zci yavrusu bundan \u00e7\u0131k\u0131yor",
+    "Tooltip_SandsharkEgg": "Kum K\u00f6pekbal\u0131\u011f\u0131 yavrusu bundan \u00e7\u0131k\u0131yor",
+    "EggDiscovered": "{0} ke\u015ffedildi.",
+    "BaseWaterPark": "B\u00fcy\u00fck akvaryum",
+    "Tooltip_BaseWaterPark": "Bitkiler ve hayvanlar i\u00e7in en uygun ko\u015fullar\u0131 sa\u011flar. Girmek i\u00e7in kapak ekle.",
+    "EnterWaterPark": "B\u00fcy\u00fck akvaryuma gir",
+    "ExitWaterPark": "B\u00fcy\u00fck akvaryumdan \u00e7\u0131k",
+    "LimestoneChunk": "Kire\u00e7ta\u015f\u0131 Y\u0131\u011f\u0131n\u0131",
+    "ScannerScreenDefault": "ARANIYOR...",
+    "ScannerScreenReady": "TARAMAYA HAZIR",
+    "ScannerScreenScanning": "TARANIYOR...",
+    "CookedSpinefish": "Pi\u015fmi\u015f Kaburga Bal\u0131\u011f\u0131",
+    "CuredSpinefish": "Kurutulmu\u015f Kaburga Bal\u0131\u011f\u0131",
+    "Spinefish": "Kaburga Bal\u0131\u011f\u0131",
+    "Shuttlebug": "Mekik b\u00f6ce\u011fi",
+    "Blighter": "Kan Is\u0131rgan\u0131",
+    "Tooltip_CookedSpinefish": "Antenlerini asla yeme.",
+    "Tooltip_CuredSpinefish": "Bu bal\u0131kta ger\u00e7ekten bal\u0131k tad\u0131 var.",
+    "Tooltip_Spinefish": "Hoopfish'in derin deniz akrabas\u0131, g\u00f6\u011f\u00fcs kafesine benzeyen kendine \u00f6zg\u00fc beyaz \u00e7izgileri vard\u0131r, bunu avc\u0131lar ge\u00e7erken okyanus taban\u0131nda \u00f6l\u00fc taklidi yapmak i\u00e7in kullan\u0131r.",
+    "Story_AuroraWarning4": "Acil: Sismik \u00f6l\u00e7\u00fcmler Aurora'n\u0131n s\u00fcr\u00fcc\u00fc \u00e7ekirde\u011finde bir kuantum patlaman\u0131n ger\u00e7ekle\u015fti\u011fini g\u00f6steriyor. Reakt\u00f6r T- 10, 9, 8, 7, 6, 5, 4, 3, 2, 1- saniye sonra \u00e7ok ciddi bir duruma eri\u015fecek.",
+    "Goal_Lifepod6": "PDA bilgi bankas\u0131na ba\u015fvuru bilgileri eklendi. Gerekli oldu\u011funda \u00f6neriler sunulacakt\u0131r. \u0130yi \u015fanslar.",
+    "Goal_Airsack": "Organizmalara dokunmadan \u00f6nce spektroskobik incelemesinin yap\u0131lmas\u0131 kesinlikle \u00f6nerilir.",
+    "Goal_Titanium": "Titanyum: ke\u015ffedildi. Titanyum \u00e7ok y\u00f6nl\u00fc ve temel bir yap\u0131 malzemesidir.",
+    "Goal_Quartz": "Kuvars: ke\u015ffedildi. Kuvars, temel ya\u015famsal donan\u0131mlar ve uzun \u00f6m\u00fcrl\u00fc ya\u015fam alanlar\u0131 \u00fcretiminde kullan\u0131l\u0131r.",
+    "Goal_Copper": "Bak\u0131r cevheri: ke\u015ffedildi. Bak\u0131r, t\u00fcm elektrikle \u00e7al\u0131\u015fan donan\u0131mlar\u0131n temel bile\u015fenidir. Hayatta kalma olas\u0131l\u0131\u011f\u0131n\u0131z %7.6 artt\u0131.",
+    "Goal_FilteredWater": "Yerli canl\u0131lar su kayna\u011f\u0131ndan kirleticileri s\u00fczmek i\u00e7in pratik y\u00f6ntemler kullan\u0131yor olabilir.",
+    "Goal_Scanner": "El spektroskobik taray\u0131c\u0131, hurda olmu\u015f teknolojiden tasar\u0131mlar sentezlemek ve yabanc\u0131 biyolojik verileri kaydetmek i\u00e7in kullan\u0131labilir.",
+    "Goal_Fins": "\u00dcretici, b\u00f6lgedeki mevcut maddelerden, \u015fartlara uygun donan\u0131mlar sa\u011flamak i\u00e7in eldeki verileri kullanarak d\u00fczenleme yapar. G\u00fcvenli\u011finiz i\u00e7in bu ayar ge\u00e7ersiz k\u0131l\u0131namaz.",
+    "Goal_Knife": "B\u0131\u00e7ak, yakla\u015f\u0131k iki bu\u00e7uk milyon y\u0131l boyunca insano\u011flu i\u00e7in \u00f6nemli bir ara\u00e7 olmu\u015ftur. Daha sonra buna bir bakman\u0131z \u00f6nerilir.",
+    "Goal_Tank": "Birden \u00e7ok oksijen t\u00fcp\u00fc ta\u015f\u0131mak d\u00fc\u015fmanc\u0131l ortamlarda hayatta kalabilme s\u00fcresini artt\u0131racakt\u0131r.",
+    "Goal_Battery": "\u00dcretici, yerel bitki \u00f6rt\u00fcs\u00fcnden, s\u0131radan pil asidi yerine kullanmak i\u00e7in asitli bir bile\u015fik sentezledi.",
+    "Goal_Bleach": "A\u011fart\u0131c\u0131, yaralar\u0131 temizlemek ve suyu safla\u015ft\u0131rmak i\u00e7in \u00f6nemli bir kimyasald\u0131r.",
+    "Goal_CookedGarryfish": "\u00d6l\u00fc bir hayvan\u0131n etini yeme fikri ba\u015flang\u0131\u00e7ta ho\u015f gelmese de bu normal bir \u015feydir. Ayr\u0131ca \u015funu da hat\u0131rlamak gerek, insano\u011flu uzun y\u0131llar boyunca yapay yiyecekler olmadan hayatta kalm\u0131\u015ft\u0131r. Sen de yapabilirsin.",
+    "Goal_CookedHoverfish": "E\u011fer geleneksel yiyeceklere al\u0131\u015f\u0131k de\u011filseniz, etlerin tad\u0131n\u0131 y\u00f6resel otlar ve baharatlarla maskelemeyi d\u00fc\u015f\u00fcnebilirsiniz.",
+    "Goal_PurifiedWater": "G\u00fcnl\u00fck su ihtiyac\u0131n\u0131n \u00f6nceden haz\u0131rlanmas\u0131 susuz kalma ve bunun sonucunda \u00f6l\u00fcme kar\u015f\u0131 sizi koruyacakt\u0131r.",
+    "Goal_Silver": "G\u00fcm\u00fc\u015f cevheri: ke\u015ffedildi. G\u00fcm\u00fc\u015f temelli bilgisayar i\u015flemcisi, \u0131\u015f\u0131n\u0131m k\u0131yafeti ve ya\u015fam alan\u0131 \u00fcreticisinin temel bir bile\u015fenidir.",
+    "Goal_Lubricant": "Ya\u011flay\u0131c\u0131, ara\u00e7lar ve g\u00fc\u00e7 \u00fcretim santralleri yap\u0131m\u0131 i\u00e7in gereklidir. Yabanc\u0131 maddeleri, bilindik maddelerin yerine kullanmak kan\u0131tlanm\u0131\u015f bir hayatta kalma y\u00f6ntemidir.",
+    "Goal_Beacon": "Uygun donan\u0131m ve malzeme olmadan \u00e7evreyi ke\u015ffetmeye ve haritalama yapmaya giri\u015filmemelidir. Her zaman, ya\u015fam kozas\u0131 veya ya\u015fam alanlar\u0131na 2km mesafe i\u00e7inde kalmal\u0131s\u0131n\u0131z.",
+    "Goal_Seaglide": "Dalg\u0131\u00e7 iti\u015f arac\u0131, su alt\u0131nda hareket h\u0131z\u0131n\u0131 9.5m\/s'ye \u00e7\u0131kar\u0131r ve \u00e7evredeki y\u00fczey \u015fekillerini g\u00f6sterir.",
+    "Goal_Builder": "\u0130n\u015fac\u0131, zorlu ortam ko\u015fullar\u0131na dayanabilen ya\u015fam alanlar\u0131 yap\u0131m\u0131 i\u00e7in tasarlanm\u0131\u015ft\u0131r.",
+    "Goal_EnameledGlass": "G\u00fc\u00e7lendirilmi\u015f cam \u00fcretimi i\u00e7in do\u011fal madde: ke\u015ffedildi. Geli\u015fmi\u015f denizalt\u0131lar ve ya\u015fam b\u00f6lmeleri \u00fcretimi art\u0131k olanakl\u0131.",
+    "EncyPath_Aurora": "Aurora",
+    "EncyPath_Tech": "Teknik",
+    "EncyPath_Welcome": "Ho\u015f geldiniz",
+    "EncyPath_Tech\/Habitats": "Ya\u015fam Alanlar\u0131",
+    "EncyPath_Tech\/Equipment": "Donan\u0131mlar",
+    "EncyPath_Lifeforms": "Yabanc\u0131 Canl\u0131lar",
+    "EncyPath_Lifeforms\/Coral": "Mercan",
+    "EncyPath_Lifeforms\/Fauna": "Havyanlar",
+    "EncyPath_Lifeforms\/Flora": "Bitkiler",
+    "EncyPath_Lifeforms\/Fauna\/Herbivores": "Ot\u00e7ullar",
+    "EncyPath_Lifeforms\/Fauna\/Carnivores": "Et\u00e7iller",
+    "EncyPath_Lifeforms\/Fauna\/Scavengers": "Le\u015f\u00e7iler & Asalaklar",
+    "EncyPath_PlanetaryGeology": "Gezegen Jeolojisi",
+    "EncyPath_Advanced": "\u0130leri Kuramlar",
+    "Ency_Lifepod": "S\u0131radan 2 ki\u015filik acil durum ya\u015fam kozas\u0131",
+    "EncyDesc_Lifepod": "A\u011f\u0131rl\u0131k: 576 kg
+Boyutlar: 3m x 3m
+
+Standart \u00d6zellikler: 
+- D\u00fc\u015f\u00fck \u00f6zk\u00fctle, y\u00fcksek dayanl\u0131kl\u0131 yap\u0131
+- T\u00fcmle\u015fik solunum deste\u011fi, hava, su veya uzayda kurtarma ama\u00e7l\u0131 y\u00fczd\u00fcrme cihazlar\u0131 ve iticileri
+- K\u0131sa menzilli ileti\u015fim r\u00f6lesi (250km a\u00e7\u0131k mesafe)
+- G\u00fcne\u015f enerjisi
+- Duvara yerle\u015fik \u00fcretici
+- \u00c7oklu \u00e7\u0131k\u0131\u015f
+
+Standart Malzemeler:
+2x T\u00fcm Ortamlara uygun Koruma Giysisi
+1x El spektroskop taray\u0131c\u0131
+3x Haz\u0131r yiyecekler
+3x 1L Haz\u0131r i\u00e7me suyu
+1x \u0130lk yard\u0131m \u00e7antas\u0131
+1x El feneri
+1x Acil durum fi\u015fe\u011fi
+1x \u00c7e\u015fitli yedek par\u00e7alar",
+    "Ency_Readme": "Beni oku",
+    "EncyDesc_Readme": "E\u011fer bunu okuyorsan, Alterra teknolojisi ile donat\u0131lm\u0131\u015f ticari bir gemiden acil durum tahliyesi ile kurtuldun demektir. Tebrikler: i\u015fin zor k\u0131sm\u0131 bitti.   
+
+PDA kendili\u011finden Acil Durum kipinde ba\u015flat\u0131ld\u0131. Bu i\u015fletim sisteminin tek amac\u0131 vard\u0131r: seni hayatta tutmak. \u00d6zellikleri:   
+
+- Ger\u00e7ek zamanl\u0131 hayatta kalma \u00f6nerileri i\u00e7in kullan\u0131c\u0131n\u0131n ya\u015famsal verileri ile tam uyum  
+- Ba\u015fl\u0131ca hayatta kalma donan\u0131mlar\u0131n\u0131n \u00fcretimi i\u00e7in bir dizi tasar\u0131mlar  
+- K\u0131sa mesafeli (20m) durum incelemesi i\u00e7in mikrofon, kamera ve OCR teknolojisi t\u00fcmle\u015fik  
+- Alterra el spektroskop taray\u0131c\u0131s\u0131 ile kar\u015f\u0131l\u0131kl\u0131 uyumluluk   
+
+Y\u00f6nergeleri izle ve seni evine sa\u011f salim getirelim.   
+
+Dikkat: Ki\u015fisel ve \u00e7al\u0131\u015fma dosyalar\u0131n \u015fifrelenmi\u015ftir ve yetkili bir m\u00fchendis taraf\u0131ndan ileri bir tarihte \u00e7\u00f6z\u00fclebilir.",
+    "Ency_SurvivalChecklist": "Hayatta Kalma Kontrol Listesi",
+    "EncyDesc_SurvivalChecklist": "1. Gerekiyorsa ilk yard\u0131m uygula
+2. \u00c7evreyi ara\u015ft\u0131r
+3. Di\u011fer kurtulanlar\u0131 bul
+4. Yiyecek ve su durumunu de\u011ferlendir ve istihkaka karar ver
+5. Ya\u015fam kozas\u0131n\u0131n hasar\u0131n\u0131 g\u00f6zden ge\u00e7ir ve gerekliyse onar
+6. Ya\u015fam kozas\u0131n\u0131n k\u0131sa mesafeli ileti\u015fim r\u00f6lesini kullanarak b\u00f6lgesel acil durum yay\u0131n\u0131 yap
+7. Var olan malzemeyi topla ve depola
+8. Yerel \u00e7evreyi ya\u015fanabilir k\u0131lmak i\u00e7in ya\u015famsal donan\u0131mlar\u0131 kullan
+9. Kurtulana kadar fiziksel ve psikolojik sa\u011fl\u0131\u011f\u0131n\u0131 koru
+
+Dikkat: Bu bilgiler genel bir k\u0131lavuzdur. \u0130lk a\u015famada her zaman PDA'n\u0131z\u0131n \u00f6nerilerine ve a\u00e7\u0131klamaya hangi \u00f6zel ko\u015fullar\u0131n\u0131z al\u0131nd\u0131ysa uyman\u0131z gerekmektedir.",
+    "Ency_AuroraOverview": "Aurora Maden Gemisinin \u00d6zet Bilgileri",
+    "EncyDesc_AuroraOverview": "G\u00f6rev: 3 y\u0131l maden i\u015fletme ara\u015ft\u0131rmas\u0131
+M\u00fcrettebat: Komuta Tak\u0131m\u0131 (11), M\u00fchendislik Tak\u0131m\u0131 (57), Destek Personeli (30), Yolcular (3)
+
+\u00d6zellikleri:
+- V8 Kara-madde iyon itici
+- A S\u0131n\u0131f\u0131 tesislere sahip M\u00fchendislik b\u00f6l\u00fcm\u00fc (birincil g\u00f6kta\u015f\u0131 k\u0131r\u0131c\u0131, insanl\u0131 robotik giyisi ve tam tarama menzili)
+- \u00c7\u0131kar\u0131lm\u0131\u015f madenler i\u00e7in 0.25 kilometre k\u00fcp depolama alan\u0131
+- C+ S\u0131n\u0131f e\u011flence tesislerine sahip ya\u015fam alan\u0131",
+    "Ency_AEPSuit": "T\u00fcm Ortamlar i\u00e7in Koruma Giysisi",
+    "EncyDesc_AEPSuit": "Alterra AEP Giysi: Evrendeki s\u0131n\u0131rs\u0131z say\u0131daki tehdite kar\u015f\u0131 tek \u00e7\u00f6z\u00fcm
+
+\u015eu anda evrendeki en zorlu ko\u015fullara dayanacak \u015fekilde tasarlanm\u0131\u015f s\u0131zd\u0131rmaz bir ki\u015fisel ortam olan AEP k\u0131yafetini giyiyorsun.
+
+- Yerle\u015fik s\u0131cakl\u0131k ve nem ayarlama
+- \u00d6zel \u00e7evre ko\u015fullar\u0131 i\u00e7in bir dizi de\u011fi\u015fikli\u011fe uyumlu
+- Daha fazla hareket olana\u011f\u0131 sa\u011flamak i\u00e7in ince yap\u0131l\u0131
+- Ya\u015famsal veri alg\u0131lay\u0131c\u0131lar
+- Ba\u015fl\u0131k ekran\u0131 ile ba\u011flant\u0131l\u0131
+
+G\u00f6vdede yar\u0131lma olmas\u0131 durumunda ya\u015fam kozas\u0131 f\u0131rlat\u0131lmadan \u00d6NCE AEP giysisi daima giyilmi\u015f olmal\u0131d\u0131r.",
+    "Ency_MetalSalvage": "Yap\u0131sal \u0130nceleme: Da\u011f\u0131lm\u0131\u015f enkaz",
+    "EncyDesc_MetalSalvage": "\u0130ncelemeler enkaz\u0131n Aurora'ya ait oldu\u011funu do\u011fruluyor. 
+
+Malzemenin oksitlenmi\u015f d\u0131\u015f katmanlar\u0131 1200 derece \u00fczerinde s\u0131cakl\u0131\u011fa ula\u015ft\u0131\u011f\u0131n\u0131 g\u00f6steriyor. Bu durum atmosfere giri\u015f s\u0131ras\u0131nda g\u00f6vdenin par\u00e7alanmas\u0131 ile tutarl\u0131d\u0131r. \u0130\u00e7 katmanlar \u00fcreticide geri d\u00f6n\u00fc\u015f\u00fcm i\u00e7in yeteri kadar titanyum kal\u0131nt\u0131s\u0131 i\u00e7ermektedir.",
+    "Ency_Airsack": "Balon bal\u0131\u011f\u0131",
+    "EncyDesc_Airsack": "1. Yar\u0131-ge\u00e7irgen zar: V\u00fccudu oksijen ve su dolu yar\u0131 ge\u00e7irgen zardan olu\u015fur. A\u011f\u0131z bo\u015flu\u011fu bulunamad\u0131. Zar sudan bitkisel maddeleri s\u00fczebilir.
+
+2. A\u00e7\u0131k-u\u00e7lu damarsal boru: A\u00e7\u0131l\u0131 ve kas\u0131lan yap\u0131s\u0131 su tahliyesiyle d\u00fc\u015f\u00fck h\u0131zla istedi\u011fi y\u00f6nde hareketini sa\u011fl\u0131yor. Y\u00fczge\u00e7 bulunamad\u0131.
+
+3. \u00c7o\u011funlukla tehditlerden habersiz, tek tespit edilmi\u015f savunma y\u00f6ntemi: 95% k\u0131k\u0131rdak yap\u0131s\u0131.
+
+De\u011ferlendirme: Zar bir do\u011fal su s\u00fczgeci olarak kullan\u0131labilir",
+    "Ency_RabbitRay": "Tav\u015fan Vatozu",
+    "EncyDesc_RabbitRay": "Son derece zehirli ete sahip ot\u00e7ul bir su canl\u0131s\u0131.
+
+1. Dalgal\u0131 kanatlar: Ana ula\u015f\u0131m y\u00f6ntemi.
+
+2. Zehirli et: Tav\u015fan vatozunun b\u00fcy\u00fck ve di\u011fer savunma y\u00f6ntemlerinden yoksun zehirli eti, avc\u0131lar\u0131 savu\u015fturmak i\u00e7in geli\u015fmi\u015f gibi g\u00f6r\u00fcn\u00fcyor.
+
+3. Beslenme: Otlar ve su yosunlar\u0131.
+
+De\u011ferlendirme: Yenmez ama zarars\u0131z",
+    "Ency_AcidMushroom": "Asit Mantar\u0131",
+    "EncyDesc_AcidMushroom": "Spor ta\u015f\u0131yan, geli\u015fmi\u015f savunma y\u00f6ntemine sahip, s\u0131radan bir mantar t\u00fcr\u00fc. Eti, d\u0131\u015f kabu\u011funa dokunuldu\u011funda suya s\u00fcz\u00fclen son derece asitli bir bile\u015fik i\u00e7erir. B\u00f6gesel su bas\u0131nc\u0131ndaki dalgalanma durumunda k\u00fc\u00e7\u00fclebilir.
+
+B\u00f6ylesine \u00f6nlemlerin hangi avc\u0131lar i\u00e7in gerekti\u011fi belirsiz, ama asit mantar\u0131n\u0131n \u00e7ok say\u0131da olmas\u0131 pek \u00e7ok avc\u0131y\u0131 ba\u015far\u0131yla cayd\u0131rd\u0131\u011f\u0131n\u0131 g\u00f6steriyor.
+
+De\u011ferlendirme: Yenilemez, ama e\u011fer dikkatlice toplan\u0131rsa pil \u00fcretiminde kullan\u0131labilir",
+    "Ency_LimestoneOutcrops": "Kire\u00e7ta\u015f\u0131 \u00c7\u0131k\u0131nt\u0131s\u0131",
+    "EncyDesc_LimestoneOutcrops": "Bu al\u0131\u015f\u0131lmad\u0131k jeolojik yap\u0131lar genellikle titanyum ve bak\u0131r tortular\u0131 \u00e7evresinde olu\u015fmu\u015ftur ve bu durum bu gezegene \u00f6zg\u00fcd\u00fcr. Yak\u0131n incelemeler erozyona kar\u015f\u0131 metal \u00e7evresinde sertle\u015fti\u011fini g\u00f6stermektedir, fakat nas\u0131l ger\u00e7ekle\u015fti\u011fi bilinmemektedir.
+
+De\u011ferlendirme: Titanyum ve bak\u0131r kayna\u011f\u0131",
+    "Ency_SandstoneOutcrops": "Kumta\u015f\u0131 \u00c7\u0131k\u0131nt\u0131s\u0131",
+    "EncyDesc_SandstoneOutcrops": "Bu s\u0131radan, g\u00f6zenekli kayalar\u0131n de\u011ferli metallerin \u00e7evresinde olu\u015ftu\u011fu g\u00f6r\u00fcl\u00fcyor ya da tam tersi zamanla bu metaller tortu birikimlerinin bir par\u00e7as\u0131 haline gelmi\u015f.
+
+De\u011ferlendirme: G\u00fcm\u00fc\u015f ve alt\u0131n kayna\u011f\u0131",
+    "Ency_ShaleOutcrops": "\u015eist \u00c7\u0131k\u0131nt\u0131s\u0131",
+    "EncyDesc_ShaleOutcrops": "Bu tortul kaya kil minerallerin tanelerinden olu\u015fur, lityum gibi nadir bulunan metalleri i\u00e7inde bar\u0131nd\u0131rabilir. Gezegenin jeolojik \u015fartlar\u0131 nedeniyle ancak derin biyomlarda bulunabilir.
+
+De\u011ferlendirme: Alt\u0131n ve lityum kayna\u011f\u0131",
+    "Ency_BasaltOutcrops": "Bazalt \u00c7\u0131k\u0131nt\u0131s\u0131",
+    "EncyDesc_BasaltOutcrops": "Yanarda\u011f patlamalar\u0131 sonucu olu\u015fmu\u015f sert, volkanik kaya. Genellikle ba\u015fka bir yerde bulunamayacak elmas ve uranyum gibi nadir madenleri bar\u0131nd\u0131r\u0131r.
+
+De\u011ferlendirme: Alt\u0131n, elmas ve uranyum kayna\u011f\u0131",
+    "Ency_BrainCoral": "Mor Beyin Mercan\u0131",
+    "EncyDesc_BrainCoral": "Mikroskobik organizmalar\u0131n s\u00fcrekli b\u00fcy\u00fcyen kolonisi. Bu mercan t\u00fcr\u00fc ortamdan karbondioksiti s\u00fczmeye uyum sa\u011flam\u0131\u015ft\u0131r, karbonu koloni olu\u015fturmak i\u00e7in kullan\u0131r ve \u00f6zelle\u015fmi\u015f bo\u015falt\u0131m hunilerinden oksijeni d\u0131\u015far\u0131 atar.
+
+De\u011ferlendirme: Yararlan\u0131labilir",
+    "Ency_Peeper": "G\u00f6zc\u00fc",
+    "EncyDesc_Peeper": "1. Ba\u015f\u0131n iki yan\u0131nda \u00e7ok geli\u015fmi\u015f g\u00f6zler: Bir\u00e7ok avc\u0131y\u0131 fark etmek ve ka\u00e7mak i\u00e7in iyi geli\u015fmi\u015ftir. Ayr\u0131ca zengin bir protein kayna\u011f\u0131.
+
+2. G\u00fc\u00e7l\u00fc kuyruk y\u00fczgeci: \u00c7abuk h\u0131zlanmas\u0131n\u0131 ve su y\u00fczeyinden metrelerce yukar\u0131 s\u0131\u00e7ramas\u0131n\u0131 sa\u011flar.
+
+3. \u0130nce s\u0131rt y\u00fczge\u00e7leri: Manevra yetene\u011fini artt\u0131r\u0131r.
+
+D\u00fc\u015f\u00fck \u0131\u015f\u0131kl\u0131 ortamlar g\u00f6rsel olarak avc\u0131lar\u0131 tespit etmesini engelleyebilir ve savunmas\u0131z kalabilir.
+
+De\u011ferlendirme: Yenilebilir ve besleyici - tabii e\u011fer yakalayabilirsen",
+    "Ency_Boomerang": "Bumerang",
+    "EncyDesc_Boomerang": "1. \u0130kiz-y\u00fczge\u00e7ler: Al\u0131\u015f\u0131lmad\u0131k bu t\u00fcr\u00fcn ikiz y\u00fczge\u00e7leri iskeletinin k\u0131k\u0131rdak bir uzant\u0131s\u0131d\u0131r. Zarar g\u00f6rme olas\u0131l\u0131\u011f\u0131n\u0131 azalt\u0131r, tekrar b\u00fcy\u00fcmesi zordur.
+
+2. T\u0131rt\u0131kl\u0131 di\u015fler: Mercanlar\u0131 kemirmek i\u00e7in geli\u015fti\u011fi g\u00f6r\u00fcl\u00fcyor. 
+
+3. G\u00fcnd\u00fcz saatlerinde daha etkin ve yakla\u015fanlara kar\u015f\u0131 ka\u00e7ma e\u011filiminde.
+
+De\u011ferlendirme: Yenilebilir, eti az ama g\u00fcvenilir",
+    "Ency_Garryfish": "Merakl\u0131 Bal\u0131k",
+    "EncyDesc_Garryfish": "Yava\u015f hareket eden, merakl\u0131 bir ot\u00e7ul.   
+
+1. Okyanus taban\u0131nda ka\u00e7ma davran\u0131\u015f\u0131 i\u00e7in kamuflaj\u0131 uyum g\u00f6sterir.   
+
+2. G\u00f6zlerinin uzant\u0131l\u0131 yap\u0131s\u0131 mercanlar\u0131n aras\u0131nda sakland\u0131\u011f\u0131 yerden y\u0131rt\u0131c\u0131lar\u0131 takip etmesi i\u00e7in faydal\u0131 olabilir.   
+
+3. B\u00fcy\u00fck mide bo\u015flu\u011fu: G\u00fcn \u0131\u015f\u0131\u011f\u0131nda s\u00fcrekli beslenir, \u00e7ok az yenilebilir eti \u00e7\u0131kar.   
+
+De\u011ferlendirme: Yenilebilir gibi g\u00f6r\u00fcnm\u00fcyor",
+    "Ency_Shuttlebug": "Mekik B\u00f6ce\u011fi",
+    "EncyDesc_Shuttlebug": "1. \u00dc\u00e7 bacak: \u00c7ok g\u00fc\u00e7l\u00fc kaslar\u0131n\u0131 su i\u00e7inde b\u00fcy\u00fck mesafeler almak i\u00e7in v\u00fccudunu itmede ve bunun yan\u0131 s\u0131ra okyanus taban\u0131nda y\u00fcr\u00fcmek i\u00e7in kullanabilir.
+
+2. \u00dc\u00e7 \u00e7ene: Y\u00fczerken kendini y\u00f6nlendirmek i\u00e7in kullan\u0131r ve ma\u011fara taban\u0131nda d\u00f6k\u00fcnt\u00fcleri s\u00fczmeye yarar. Onlar\u0131n varl\u0131\u011f\u0131 yak\u0131nlarda bir ma\u011fara bulundu\u011fu g\u00f6sterebilir.
+
+De\u011ferlendirme: Besin zincirinde \u00f6nemli bir geri d\u00f6n\u00fc\u015ft\u00fcr\u00fcc\u00fc",
+    "Ency_Floater": "\u015eamand\u0131ra",
+    "EncyDesc_Floater": "Evrimsel bir anormallik. Daha fazla ara\u015ft\u0131rma gerekli.
+
+1. Bask\u0131n canl\u0131: Yap\u0131sal inceleme bu varl\u0131\u011f\u0131n iki ayr\u0131 t\u00fcrden olu\u015ftu\u011funu g\u00f6steriyor. Pembe ana g\u00f6vde ve i\u00e7 a\u011f\u0131z bask\u0131n yarat\u0131kt\u0131r.
+
+2. Mikroogranizma zar: D\u0131\u015f, jel benzeri madde yarat\u0131\u011f\u0131n a\u011f\u0131z \u00e7evresinde kapal\u0131 bir vakum olu\u015fturabilen mikroorganizmalar a\u011f\u0131d\u0131r.
+
+3. Hava tamponu: Suda batmamas\u0131n\u0131 sa\u011flayan helyum, d\u0131\u015f zar i\u00e7inde ince bir tabaka \u015feklinde bulunur.
+
+Bu canl\u0131n\u0131n neredeyse hep sadece b\u00fcy\u00fck kayalara ba\u011fland\u0131\u011f\u0131 g\u00f6zlenmi\u015ftir. D\u0131\u015far\u0131dan m\u00fcdahale ile ayr\u0131lmaya kar\u015f\u0131 savunmas\u0131zd\u0131r ve rastgele tekrar ba\u011flan\u0131r.
+
+De\u011ferlendirme: Daha fazla bilgi gerekli",
+    "Ency_Holefish": "Delikli Bal\u0131k",
+    "EncyDesc_Holefish": "1. Renkleri ma\u011fara ortamlar\u0131 i\u00e7in uyum g\u00f6sterir.  
+
+2. Delikli Kuyruk Y\u00fczgeci: Kuyru\u011fundaki deli\u011fin boyut ve \u015feklini de\u011fi\u015ftirerek \u00f6ng\u00f6r\u00fclmeyen manevralar ger\u00e7ekle\u015ftirir.  
+
+Muhtemelen d\u00fc\u015f\u00fck \u0131\u015f\u0131kl\u0131 ortamlarda bitki \u00f6rt\u00fcs\u00fcn\u00fcn olmamas\u0131 nedeniyle di\u011fer \u00e7o\u011fu ot\u00e7uldan daha k\u00fc\u00e7\u00fck. Avc\u0131lara kar\u015f\u0131 az korku g\u00f6sterir.   
+
+De\u011ferlendirme: Yenilebilir, g\u00fcvenilir ma\u011fara besini",
+    "Ency_CaveCrawler": "Ma\u011fara B\u00f6ce\u011fi",
+    "EncyDesc_CaveCrawler": "\u00c7evik, b\u00f6lgesel le\u015f yiyici. 
+
+1. D\u00f6rt bacak: Deniz dibinde y\u00fcr\u00fcmek ve duvarlara tutunmak i\u00e7in kullan\u0131r. Karaya e\u015fit derecede uyum sa\u011flam\u0131\u015ft\u0131r. 
+
+2. Gaz de\u011fi\u015fim zar\u0131: Hava ya da sudan ihtiya\u00e7 duydu\u011fu gaz\u0131 emer.
+
+Bu t\u00fcr y\u0131\u011f\u0131nlarda le\u015f arar, le\u015fi yiyip bitirmi\u015f olsa da hakk\u0131n\u0131 savunur.
+
+De\u011ferlendirme: Rahats\u0131z edici, \u00f6zellikle cenazelerde",
+    "Ency_TableCoral": "Mercan Diski",
+    "EncyDesc_TableCoral": "Her disk, akan sudan besinleri s\u00fczen mikroorganizmalar\u0131n olu\u015fturdu\u011fu ayr\u0131 bir kolonidir. 
+
+B\u00fcy\u00fcme \u015fekileri kolonilerin daha iyi ak\u0131nt\u0131 veya \u0131\u015f\u0131k ile yerleri i\u00e7in do\u011frudan rekabet i\u00e7inde olduklar\u0131n\u0131 g\u00f6steriyor. Di\u011fer mercan t\u00fcrlerinin aksine yumu\u015fak, hafif\u00e7e titre\u015ferek besinleri kendi uzant\u0131lar\u0131na g\u00f6nderir ve sadece fiziksel bir sald\u0131r\u0131 alg\u0131lad\u0131\u011f\u0131nda kaskat\u0131 bir hale d\u00f6n\u00fc\u015f\u00fcr.
+
+Y\u00fczeyindeki m\u00fccevher benzeri d\u00fc\u011f\u00fcmleri mercan\u0131n i\u015fleyemedi\u011fi az bulunur madenlerin yo\u011funla\u015fmas\u0131 ile olu\u015fmu\u015ftur.
+
+De\u011ferlendirme: Bilgisayar i\u015flemcisi \u00fcretiminde kullan\u0131labilir",
+    "Ency_HangingStinger": "Sark\u0131k Is\u0131rganotu",
+    "EncyDesc_HangingStinger": "1. Fotosentez yapan h\u00fccre alg\u0131lanamad\u0131. Bu durum d\u00fc\u015f\u00fck \u0131\u015f\u0131kl\u0131 ortamlarda et\u00e7il olarak geli\u015fti\u011fi anlam\u0131na gelmektedir. 
+
+2. K\u00f6kleri ve dokuna\u00e7lar\u0131 yabanc\u0131 cisimlerin temas etti\u011fini alg\u0131layarak 600 watta ula\u015fan elektromanyetik sald\u0131r\u0131 yapma yetene\u011fine sahiptir. Kurban, b\u00fcy\u00fck olas\u0131l\u0131kla fel\u00e7 olarak birka\u00e7 hafta i\u00e7inde t\u00fcketiliyor.
+
+Av: K\u00fc\u00e7\u00fck bal\u0131klar
+
+De\u011ferlendirme: Uzak dur",
+    "Ency_Hoopfish": "Halkal\u0131 bal\u0131k",
+    "EncyDesc_Hoopfish": "1. K\u00fc\u00e7\u00fck boyutlu, s\u00fcr\u00fc halinde gezen, av bal\u0131\u011f\u0131.   
+
+2. Anten: Y\u00fczmek yerine v\u00fccudunu \u00e7evreleyen narin ince antenleriyle \u00f6n\u00fcnde yer alan suyun bile\u015fimini de\u011fi\u015ftirir, b\u00f6ylece olu\u015fan d\u00fc\u015f\u00fck yo\u011funluklu alana do\u011fru hareketini ger\u00e7ekle\u015ftirir.   
+
+De\u011ferlendirme: Yenilebilir ama yetersiz",
+    "Ency_CoralSample": "S\u0131radan Mercanlar",
+    "EncyDesc_CoralSample": "Devasa mercan borular ve e\u011fimli kabuk plakalar\u0131n\u0131n koloni boyunca en fazla su ve besin ak\u0131\u015f\u0131n\u0131 sa\u011flamak amac\u0131yla olu\u015fmu\u015f farkl\u0131 \u00e7\u00f6z\u00fcmler olduklar\u0131 g\u00f6r\u00fcl\u00fcyor. D\u0131\u015f g\u00f6r\u00fcn\u00fcmdeki farkl\u0131l\u0131klar\u0131na ra\u011fmen bu yap\u0131lar benzer ilkelerle \u00e7al\u0131\u015fan \u00e7ok benzer organizmalar taraf\u0131ndan olu\u015fturulmu\u015ftur. Numuneler kalsiyum a\u00e7\u0131s\u0131ndan \u00e7ok zengindir.
+
+De\u011ferlendirme: A\u011fart\u0131c\u0131 \u00fcretiminde kullan\u0131labilir",
+    "Ency_Crash": "Patlayan Bal\u0131k",
+    "EncyDesc_Crash": "1. Darbeye duyarl\u0131 dikenler: E\u011fer bu canl\u0131 bir \u015feyle yeterli h\u0131zda \u00e7arp\u0131\u015f\u0131rsa, bu dikenler darbe etkisiyle bir i\u00e7 kimyasal tepkimeyi tetikler.
+
+2. Emme kovan\u0131: B\u00fcy\u00fck olas\u0131l\u0131kla ma\u011fara sistemlerinde k\u00fc\u00e7\u00fck b\u00f6cekler ve kurt\u00e7uklar\u0131 i\u00e7ine \u00e7ekmek i\u00e7in geli\u015fmi\u015ftir.
+
+3. Kimyasal depo organ\u0131: K\u00fck\u00fcrt yo\u011funla\u015fmas\u0131 zamanla bu organda olu\u015fur ve yuvalanma s\u0131ras\u0131nda savunmada son \u00e7are bir patlay\u0131c\u0131 olarak kullan\u0131labilir.
+
+Veriler, patlay\u0131c\u0131 bitki ile evrimle\u015fmi\u015f bir ortak ya\u015fam\u0131 i\u015faret ediyor. Varsay\u0131m: bitki, patlayan bal\u0131k taraf\u0131ndan salg\u0131lanan k\u00fck\u00fcrtl\u00fc bile\u015fik ile beslenmek i\u00e7in geli\u015fmi\u015f. Daha g\u00fc\u00e7l\u00fc, daha koruyucu bitkiler \u00fcst\u00fcn yuvalanma yerleri sa\u011flarlar, buna kar\u015f\u0131l\u0131k bitkiler daha fazla besinden faydalan\u0131r ve ortak ya\u015fam d\u00f6ng\u00fcs\u00fc bu \u015fekilde devam eder.
+
+De\u011ferlendirme: Uzak dur ya da etkisizle\u015ftir",
+    "Ency_CrashLair": "Patlayan Bal\u0131k Bitkisi",
+    "EncyDesc_CrashLair": "Bu bitki t\u00fcr\u00fcn\u00fcn, i\u00e7indeki yuvay\u0131 sucul bir ya\u015fam t\u00fcr\u00fc ile payla\u015farak ortak ya\u015fam ili\u015fkisi s\u00fcrd\u00fcrd\u00fc\u011f\u00fc g\u00f6r\u00fcl\u00fcyor. Ta\u00e7 yapra\u011f\u0131 benzeri yap\u0131lar, ya\u015fam t\u00fcr\u00fc yuvadan \u00e7\u0131kt\u0131\u011f\u0131nda zarar g\u00f6rm\u00fcyor ve muhtemelen eski sahibi ya da ba\u015fkas\u0131 girene kadar a\u00e7\u0131k kal\u0131yor.  
+
+Bitki ayr\u0131yken \u00e7al\u0131\u015fmak bu ili\u015fki hakk\u0131nda daha fazla bilgi edinmek i\u00e7in yeterli de\u011fildir.  
+
+\u0130\u00e7 yapraklar \u00fczerinde eser miktarda k\u00fck\u00fcrtl\u00fc bir kal\u0131nt\u0131 tespit edilmi\u015ftir.  
+
+De\u011ferlendirme: Kullan\u0131labilir",
+    "Ency_Creepvine": "Su yosunu",
+    "EncyDesc_Creepvine": "B\u00fcy\u00fck ormanlarda, s\u0131\u011fl\u0131klarda, kumlu sularda yo\u011funla\u015fm\u0131\u015f bir su yosunu t\u00fcr\u00fc. Gev\u015fek k\u00f6kleri ile deniz taban\u0131na tutunur, g\u00fcn \u0131\u015f\u0131\u011f\u0131n\u0131 takip ederek y\u00fczeye do\u011fru s\u00fcrekli b\u00fcy\u00fcr.   
+
+K\u00f6klerinin ipliksi ve demir bak\u0131m\u0131ndan zengin olmas\u0131 onu uygun bir g\u0131da maddesi olarak ve ip, sarg\u0131 bezi gibi tekstil malzemeleri \u00fcretiminde kullan\u0131labilir k\u0131l\u0131yor.   
+
+Avc\u0131lar: Yast\u0131kl\u0131 bal\u0131k, g\u00f6zg\u00f6z, tav\u015fan vatozu, g\u00f6zc\u00fc  
+
+De\u011ferlendirme: Ya\u015famsal yabanc\u0131 kaynak - Yenilebilir - T\u0131bbi - Yap\u0131m Uygulamalar\u0131nda Kullan\u0131labilir",
+    "Ency_CreepvineSeeds": "Sarma\u015f\u0131k Tohumlar\u0131",
+    "EncyDesc_CreepvineSeeds": "K\u00fc\u00e7\u00fck ot\u00e7ullar\u0131n avlanmas\u0131ndan sonra hayatta kalan olgun su yosunu, bu \u0131\u015f\u0131ldayan tohum salk\u0131mlar\u0131n\u0131 \u00fcretir, bunlar, ak\u0131nt\u0131lar veya t\u00fcketim sonucunda gev\u015feyebilir ve daha sonra y\u0131rt\u0131c\u0131lar taraf\u0131ndan bitkiden kopart\u0131labilir.
+
+Embriyo, d\u0131\u015f zar\u0131n bozulmas\u0131yla toprakta da\u011f\u0131lan kal\u0131n bir ya\u011f tabakas\u0131yla kapl\u0131d\u0131r. Bu, d\u00fc\u015f\u00fck \u0131\u015f\u0131k ko\u015fullar\u0131na sahip deniz taban\u0131nda, ya\u015famak i\u00e7in besin gereksinimini kar\u015f\u0131layabilir ve filizlenmesini sa\u011flayabilir.
+
+De\u011ferlendirme: Kullan\u0131labilir ya\u011f",
+    "Ency_Eyeye": "G\u00f6zg\u00f6z",
+    "EncyDesc_Eyeye": "V\u00fccut k\u00fctlesinin %90'\u0131n\u0131 a\u015f\u0131r\u0131 evrimle\u015fmi\u015f g\u00f6z\u00fc olu\u015fturur. 
+
+- D\u00fc\u015f\u00fck \u0131\u015f\u0131kl\u0131 ortamlarda avc\u0131lar\u0131 \u00e7ok uzaklardan tespit etmede uzmanla\u015fm\u0131\u015ft\u0131r
+- Beyni yok, sadece sinir sistemi
+- Yak\u0131n mesafede y\u0131rt\u0131c\u0131lardan ka\u00e7mak i\u00e7in \u00e7ok aptal
+- S\u00fcrpriz sald\u0131r\u0131lara kar\u015f\u0131 savunmas\u0131z, bundan dolay\u0131 kum k\u00f6pekbal\u0131\u011f\u0131 i\u00e7in iyi bir avd\u0131r
+
+De\u011ferlendirme: Yenilebilir ve fark edilmeden yakla\u015f\u0131l\u0131rsa yakalamas\u0131 kolay",
+    "Ency_Hoverfish": "Yast\u0131kl\u0131 Bal\u0131k",
+    "EncyDesc_Hoverfish": "Bacak uzant\u0131lar\u0131n\u0131n ucunda, \u00e7evresindeki suyu su iyonize edebilen, alt\u0131 benzersiz, ak\u0131m y\u00fckl\u00fc yast\u0131k vard\u0131r. Yast\u0131kl\u0131 bal\u0131k, yosun ve likenlerden gelen besinleri al\u0131rken ak\u0131nt\u0131ya kar\u015f\u0131 yerini korumakta bu yetene\u011fini kullan\u0131r.  
+
+De\u011ferlendirme: Yenilebilir, sa\u011fl\u0131kl\u0131 bir lif kayna\u011f\u0131",
+    "Ency_Bleeder": "Kan emici",
+    "EncyDesc_Bleeder": "Basit bir asalak organizma, bilinen keneden biraz daha fazla evrimle\u015fmi\u015f. 
+
+Belirleyici \u00f6zelli\u011fi arka taraf\u0131nda kan toplama ve sindirimi i\u00e7in bir yumu\u015fak torba olmas\u0131d\u0131r; kurbanlar\u0131n\u0131n derilerine kenetlenmek i\u00e7in \u00e7ene kemi\u011fi ve a\u011fz\u0131nda bir dizi di\u015f vard\u0131r.
+
+Av: Bilinen hedef canl\u0131 organizmalar, d\u00fc\u015f\u00fck h\u0131zlar\u0131 ve zay\u0131f savunmalar\u0131 \u00f6ncelikle le\u015f yiyiciler olarak evrimle\u015ftiklerini g\u00f6steriyor.
+
+De\u011ferlendirme: Sak\u0131ncal\u0131 ve hijyenik de\u011fil",
+    "Ency_StalkerTooth": "\u0130zcilerin Davran\u0131\u015f & Fizyolojisi",
+    "EncyDesc_StalkerTooth": "\u0130zci di\u015f \u00f6rneklerinin ayr\u0131nt\u0131l\u0131 incelemesi tamamland\u0131.   
+
+Di\u011fer canl\u0131 t\u00fcrlerinin di\u015f bile\u015fiminin olu\u015fumu, di\u015f eti i\u00e7inde kire\u00e7li bir yap\u0131 b\u00fcy\u00fcmesi \u015feklinde bildik bir biyolojik s\u00fcre\u00e7 izler.   
+
+\u0130zci di\u015fleri, benzersiz \u015fekilde ola\u011fan\u00fcst\u00fc hafiflik, dayan\u0131kl\u0131l\u0131k g\u00f6sterir ve sadece eser miktarda kalsiyum i\u00e7erir. Yap\u0131sal sa\u011flaml\u0131klar\u0131n\u0131, bir \u015fekilde izcinin v\u00fccudunda i\u015flenen titanyum\/demir ala\u015f\u0131m\u0131ndan al\u0131rlar.   
+
+Bu durum yarat\u0131\u011f\u0131n metal toplama davran\u0131\u015f\u0131n\u0131n olas\u0131 bir a\u00e7\u0131klamas\u0131 olarak g\u00f6r\u00fclebilir, fakat daha fazla soru ortaya \u00e7\u0131kar:   
+
+- Ham metalleri hangi i\u015flem ile di\u015f yap\u0131s\u0131 i\u00e7in d\u00f6n\u00fc\u015ft\u00fcrebilmektedir?  
+- G\u00f6r\u00fcn\u00fc\u015fe g\u00f6re bu eziyetli evrimsel geli\u015fimin a\u00e7\u0131klamas\u0131 nedir? Z\u0131rhl\u0131 bir rakip? Bir kalsiyum k\u0131tl\u0131\u011f\u0131?   
+
+De\u011ferlendirme: Daha fazla ara\u015ft\u0131rma gerekli.",
+    "Ency_Spadefish": "K\u00fcrek Bal\u0131\u011f\u0131",
+    "EncyDesc_Spadefish": "Yayg\u0131n bir ot\u00e7uldur. Yukar\u0131 bakan tek g\u00f6z\u00fc nedeniyle s\u0131\u011f sulardan ka\u00e7\u0131n\u0131r, deniz taban\u0131na yak\u0131n y\u00fczer, bu \u015fekilde kendinden daha yukar\u0131daki avc\u0131lardan korundu\u011fu g\u00f6r\u00fcl\u00fcr. Son zamanlarda \u00f6rneklerde y\u00fcksek yo\u011funlukta enzimler g\u00f6zlenmi\u015ftir - belki ya\u015fam d\u00f6ng\u00fcs\u00fcnde mevsimlik bir a\u015fama olabilir. G\u00f6zlemlemeye devam ediliyor.   
+
+De\u011ferlendirme: Yenilebilir, besleyici",
+    "Ency_Reginald": "Reginald",
+    "EncyDesc_Reginald": "Yayg\u0131n bir av bal\u0131\u011f\u0131. Donuk ye\u015fil rengi derin sularda onun gizlenmesini sa\u011flar. Parlak kuyruk rengi b\u00fcy\u00fck olas\u0131l\u0131kla \u00e7iftle\u015fme davran\u0131\u015f\u0131 i\u00e7in gerekli bir \u00f6zellik. Sudan serbest yosunlar\u0131 ve di\u011fer bitkisel maddeleri \u00f6ndeki solunga\u00e7 benzeri 4 delik vas\u0131tas\u0131yla s\u00fczer.
+
+De\u011ferlendirme: Yenilebilir, besleyici",
+    "Ency_TigerPlant": "Kaplan Bitkisi",
+    "EncyDesc_TigerPlant": "Bu bitki, 15 metreye kadar yak\u0131n\u0131ndaki su dalgalanmalar\u0131n\u0131 alg\u0131lar, kavrama yetene\u011fine sahip kollar\u0131 ayr\u0131ca h\u0131z\u0131 10m\/s ye ula\u015fan dikenler f\u0131rlatma yetene\u011fine sahiptir.
+
+K\u00fc\u00e7\u00fck ot\u00e7ullar\u0131 etkisiz hale getirme yetene\u011fine kar\u015f\u0131n, bu bitki et\u00e7il sindirim organlar\u0131ndan yoksundur. Savunma b\u00f6lgesine yakalanm\u0131\u015f olan avc\u0131lar, di\u011fer ot\u00e7ullar\u0131n yakla\u015fmamas\u0131 i\u00e7in bir uyar\u0131 olduklar\u0131 gibi \u00e7\u00fcr\u00fcyerek kaplan bitkisi i\u00e7in g\u00fcbre de olacaklard\u0131r.
+
+De\u011ferlendirme: Uzak dur ya da etkisiz hale getir",
+    "Ency_BloodGrass": "Kan Otu",
+    "EncyDesc_BloodGrass": "S\u0131\u011fl\u0131klar ve kumlu ortamlara uyum sa\u011flam\u0131\u015f yayg\u0131n bir deniz otu.   
+
+- Genellikle su yosunlar\u0131n\u0131n tutunmas\u0131 i\u00e7in okyanus y\u00fczeyinin \u00e7ok uzak oldu\u011fu ya da zeminin \u00e7ok gev\u015fek oldu\u011fu yerlerde yeti\u015fir  
+- \u00c7o\u011funlukla g\u00fcne\u015f \u0131\u015f\u0131nlar\u0131ndan en iyi \u015fekilde faydalanmak i\u00e7in kum tepeleri ve y\u00fcksek yaylalarda yeti\u015fir  
+- Kendine \u00f6zg\u00fc k\u0131rm\u0131z\u0131 rengi, deniz taban\u0131ndaki d\u00fc\u015f\u00fck dalga boyundaki \u0131\u015f\u0131\u011fa uyum sa\u011flamak veya avc\u0131lara kar\u015f\u0131 cayd\u0131r\u0131c\u0131 olmak, belki de her ikisi i\u00e7indir  
+- \u0130nsanlar\u0131n t\u00fcketimi i\u00e7in kalorisi yetersizdir   
+
+Avc\u0131lar: Reginald, k\u00fcrek bal\u0131\u011f\u0131, bumerang   
+
+De\u011ferlendirme: Varl\u0131\u011f\u0131 sa\u011fl\u0131kl\u0131 bir biyolojik \u00e7e\u015fitlili\u011fi destekler",
+    "Ency_TreeLeech": "A\u011fa\u00e7 S\u00fcl\u00fc\u011f\u00fc",
+    "EncyDesc_TreeLeech": "Asalak, di\u011fer bitkiler \u00fczerinde b\u00fcy\u00fcyen mantar benzeri t\u00fcr. Organizma, besini do\u011frudan s\u00f6m\u00fcrmek amac\u0131yla, konak \u00fczerine bir delik a\u00e7mak i\u00e7in kabu\u011fu eritirken bir enzim salg\u0131lar.
+
+D\u0131\u015f, di\u015f kapl\u0131 a\u011fz\u0131n hizmet etti\u011fi bir ama\u00e7 yoktur. Organizma bunu ya\u015fam d\u00f6ng\u00fcs\u00fcn\u00fcn farkl\u0131 bir a\u015famas\u0131nda kullan\u0131yor olabilir?
+
+De\u011ferlendirme: Mantar enzimleri kullan\u0131labilir",
+    "Ency_TreeMushroom": "A\u011fa\u00e7 Mantar\u0131",
+    "EncyDesc_TreeMushroom": "\u0130ncelemeler, bu b\u00fcy\u00fck organik yap\u0131lar\u0131n, bir mikro-evren, ortak-ya\u015fam ve rekabet\u00e7i ya\u015fam t\u00fcr\u00fc olduklar\u0131n\u0131 g\u00f6steriyor.   
+
+Ana g\u00f6vde bir mercan t\u00fcr\u00fcd\u00fcr, baz\u0131 kolonilerin ya\u015f\u0131 50,000 y\u0131l\u0131n \u00fczerindedir. \u015eapkalar\u0131, yer mantarlar\u0131 ile daha fazla ortak \u00f6zellik ta\u015f\u0131r. Di\u011fer organizmalar, yap\u0131 \u00fczerinde \u0131\u015f\u0131k ve yeterli alan\u0131n oldu\u011fu her yerde b\u00fcy\u00fcr.   
+
+\u00c7evresindeki sular, 1mm - 10mm aras\u0131 b\u00fcy\u00fckl\u00fckteki ot\u00e7ul ya\u015fam t\u00fcrleri ile doludur, b\u00fcy\u00fck ot\u00e7ullar ise b\u00f6lgeyi terk etmi\u015f g\u00f6r\u00fcnmektedir.   
+
+De\u011ferlendirme: Yararlan\u0131labilinir",
+    "Ency_Jellyray": "J\u00f6le Vatozu",
+    "EncyDesc_Jellyray": "Tav\u015fan vatozu ile \u00e7ok zehirli eti de dahil olmak \u00fczere baz\u0131 evrimsel \u00f6zellikleri ayn\u0131d\u0131r. Bu t\u00fcr, saydam, \u0131\u015f\u0131kl\u0131 g\u00f6vdesi ile d\u00fc\u015f\u00fck \u0131\u015f\u0131kl\u0131 ortamlara uyum sa\u011flam\u0131\u015ft\u0131r. Bu, ona \u015fu \u015fekilde yard\u0131mc\u0131 olabilir:   
+
+- I\u015f\u0131\u011f\u0131yla \u00e7evredeki yiyecekleri aramak  
+- Avc\u0131lar\u0131 savu\u015fturmak  
+- Kendi t\u00fcr\u00fcnden olanlar\u0131 di\u011ferlerinden ay\u0131rt etmek   
+
+K\u00fc\u00e7\u00fck yarat\u0131klar\u0131n, kendi ama\u00e7lar\u0131 do\u011frultusunda, \u0131\u015f\u0131k kayna\u011f\u0131ndan yararlanmak i\u00e7in J\u00f6le vatozunun yak\u0131n\u0131nda y\u00fczd\u00fckleri g\u00f6r\u00fclm\u00fc\u015ft\u00fcr.   
+
+De\u011ferlendirme: Yenmez",
+    "Ency_Mesmer": "Hipnozcu",
+    "EncyDesc_Mesmer": "Kendi boyutunun iki kat\u0131 avlar\u0131 yakalamas\u0131na olanak sa\u011flayan benzersiz avlanma tekni\u011fine sahip k\u00fc\u00e7\u00fck bir et\u00e7il canl\u0131.   
+
+Hipnozcu, b\u00fcy\u00fck bir et\u00e7il yakla\u015fana kadar d\u0131\u015f kanatlar\u0131n\u0131 a\u00e7madan bekler. Avc\u0131lar par\u0131ldayan deseni kar\u015f\u0131s\u0131nda \u015fa\u015fk\u0131na d\u00f6ner, bu s\u0131rada hipnozcu koruyucu kabu\u011fu i\u00e7indeki a\u011fza benzeyen kovu\u011funu a\u00e7ar ve av\u0131n\u0131 canl\u0131 \u015fekilde yemeye ba\u015flar veya av\u0131n\u0131 ka\u00e7amayacak kadar uzun s\u00fcre etkisiz b\u0131rak\u0131r.  
+
+De\u011ferlendirme: Uzak dur",
+    "Ency_Reefback": "Resif devi",
+    "EncyDesc_Reefback": "Bu devasa ya\u015fam t\u00fcr\u00fcn\u00fcn \u00fczerinde spektropkop taray\u0131c\u0131 ile tarama yapabilmek i\u00e7in fazlas\u0131yla kal\u0131n bir z\u0131rh tabakas\u0131 vard\u0131r. S\u0131n\u0131rl\u0131 veri mevcut.
+
+Boyu 20m \u00fczerinde. Dokuna\u00e7lar\u0131 d\u00fc\u015f\u00fck h\u0131zl\u0131 itme sa\u011fl\u0131yor. Sosyal, k\u00fc\u00e7\u00fck gruplar haline gezdi\u011fi g\u00f6r\u00fcld\u00fc. Besin zincirinin en \u00fcst\u00fcne yak\u0131n bir ot\u00e7ul i\u00e7in tutarl\u0131 \u00f6zelliklere sahip.
+
+Avc\u0131lar: Bilinmiyor
+
+De\u011ferlendirme: \u015eu anda yok",
+    "Ency_ModificationStation": "De\u011fi\u015fiklik \u0130stasyonu",
+    "EncyDesc_ModificationStation": "S\u0131radan \u00fcretici karma\u015f\u0131k cihazlar \u00fcretmek i\u00e7in ham maddeyi atomik olarak yeniden d\u00fczenlerken, de\u011fi\u015fiklik istasyonu ise onlar\u0131n i\u015flevlerini artt\u0131rmak i\u00e7in karma\u015f\u0131k cihazlar\u0131 birle\u015ftirebilir.
+
+\u00c7o\u011fu end\u00fcstriyel gemiler, u\u00e7u\u015f s\u0131ras\u0131nda ger\u00e7ekle\u015fen acil durumlarda m\u00fchendislerin ara\u00e7lar\u0131 uyarlamalar\u0131 i\u00e7in tastamam bir donan\u0131m de\u011fi\u015fiklik istasyonu ile donat\u0131lm\u0131\u015ft\u0131r.
+
+Sabit disk alan\u0131n\u0131 korumak i\u00e7in de\u011fi\u015fiklik istasyonu \u00e7ok ki\u015fisel acil durum planlar\u0131 k\u00fct\u00fcphanesinden varsay\u0131lan olarak yoksundur; ancak okyanus ve \u00e7\u00f6l s\u0131n\u0131f\u0131 gezegenler gibi zorlu ortamlarda beklenmedik uygulamalar i\u00e7in temel hayatta kalma ara\u00e7lar\u0131n\u0131n (b\u0131\u00e7ak ve oksijen t\u00fcp\u00fc vb.) uyarlanmas\u0131 gerekebilir. Bu y\u00fczden bir de\u011fi\u015fiklik istasyonunu kullanmak her zaman \u00f6nerilir.",
+    "Ency_StasisRifle": "Durdurma T\u00fcfe\u011fi",
+    "EncyDesc_StasisRifle": "Durdurma t\u00fcfe\u011fi, fizik kanunlar\u0131n\u0131n m\u00fcsaade etti\u011fi kadar\u0131yla, belirli bir alanda zaman\u0131 neredeyse durduracak kadar yava\u015flatan patentli teknoloji kullan\u0131r. Zamana kar\u015f\u0131 ger\u00e7ekle\u015fle\u015ftirilen bilimsel ve m\u00fchendislik \u00e7al\u0131\u015fmalar\u0131n\u0131 kolayla\u015ft\u0131rma f\u0131rsat\u0131 sunan geli\u015fmi\u015f bir el aletidir.  
+
+Yayg\u0131n uygulamalar \u015funlard\u0131r:  
+
+- Bak\u0131m i\u015flerini kolayla\u015ft\u0131rmak i\u00e7in pervane gibi h\u0131zl\u0131 hareket eden mekanizmalar\u0131 yava\u015flatmakta 
+- Daha ayr\u0131nt\u0131l\u0131 \u00e7al\u0131\u015fmak i\u00e7in organizmalar\u0131n biyolojik s\u00fcre\u00e7lerini durdurmakta 
+- Yang\u0131n ve sellerin ilerleyi\u015fini durdurmakta 
+- Tehlikeli alanlarda gezinirken olas\u0131 tehditleri durdurmada  
+
+Durdurma t\u00fcfe\u011fi, ba\u011f\u0131ms\u0131z ve de\u011fi\u015ftirilebilir g\u00fc\u00e7 piline sahiptir ve teti\u011fe bas\u0131l\u0131 tutarak etki alan\u0131 ve s\u00fcresi artt\u0131r\u0131labilir.  
+
+Y\u00fcksek g\u00fc\u00e7 t\u00fcketmesi ve \u00f6l\u00fcmc\u00fcl olmamas\u0131 nedeniyle ki\u015fisel savunma i\u00e7in geleneksel silahlar\u0131n kullan\u0131lmas\u0131 \u00f6nerilir.",
+    "Ency_PropulsionCannon": "\u00c7ekme-\u0130tme Silah\u0131",
+    "EncyDesc_PropulsionCannon": "\u00c7ekme-itme silah\u0131 20 metreye kadar mesafelerde yer\u00e7ekimi kuvvetini y\u00f6nlendirmeye olanak sa\u011flar. Genellikle yap\u0131m i\u015flerinde ve madencilikte malzemeleri ta\u015f\u0131mak i\u00e7in kullan\u0131l\u0131rlar.
+
+Kullan\u0131m Talimatlar\u0131:
+
+ - 25kg den hafif tek bir nesneyi \u00e7ekmek i\u00e7in ni\u015fan al\u0131n ve teti\u011fi bir kez \u00e7ekin
+ - Nesne art\u0131k g\u00fcvenle yer\u00e7ekimi alan\u0131ndan al\u0131nabilir
+ - Alternatif olarak nesneyi cihazdan uza\u011fa itmek i\u00e7n teti\u011fi ikinci kez \u00e7ekin
+ - Canl\u0131 varl\u0131klar \u00fczerinde kullan\u0131lmas\u0131 \u00f6nerilmez",
+    "Ency_Seamoth": "Seamoth",
+    "EncyDesc_Seamoth": "Seamoth ba\u011f\u0131ms\u0131z, de\u011fi\u015ftirilebilir g\u00fc\u00e7 pili ve tamamen \u00f6zelle\u015ftirilebilir tasar\u0131m\u0131yla tek ki\u015filik dalg\u0131\u00e7 arac\u0131d\u0131r. \u00c7o\u011fu uzun menzilli madencilik gemileri su i\u00e7eren gezegenlerde ke\u015fif ve i\u015fletmeyi kolayla\u015ft\u0131rmak i\u00e7in bu s\u0131n\u0131f dalg\u0131\u00e7lardan en az iki tane ta\u015f\u0131rlar.
+
+De\u011ferler: 
+ - En y\u00fcksek h\u0131z: 13m\/s
+ - H\u0131zlanma: 5m\/s\/s
+ - G\u00fc\u00e7 pili ile al\u0131nabilen mesafe: 10km
+ - Ezilme derinli\u011fi: Deniz seviyesinin 225m alt\u0131 
+ - Geli\u015ftirme mod\u00fcl yuvalar\u0131: 4
+ - Boyutlar\u0131: 3m x 1.5m x 1m
+ - Ki\u015fi: 1
+
+Seamoth arac\u0131nda, sol kanad\u0131n \u00fczerindeki eri\u015fim noktas\u0131na tak\u0131labilen geli\u015ftirme mod\u00fclleri sayesinde de\u011fi\u015fiklik yap\u0131labilir. Bunlar:
+
+ - Kargo depolama alan\u0131n\u0131 artt\u0131rma
+ - Y\u00fcksek g\u00fc\u00e7
+ - Bas\u0131n\u00e7 ve \u00e7arp\u0131\u015fma dengeleme
+ - Geli\u015fmi\u015f sonar
+ - Savunma yetenekleri
+ 
+Dikkat: Bu mod\u00fcller sadece uygun \u015fekilde donat\u0131lm\u0131\u015f ay havuzu ya da dalg\u0131\u00e7 b\u00f6lmesinde \u00fcretilebilir.",
+    "Ency_SeamothConfigs": "Seamoth Yap\u0131land\u0131rma Katalo\u011fu",
+    "EncyDesc_SeamothConfigs": "Y\u00fck Ta\u015f\u0131y\u0131c\u0131: 3x depolama; 1x g\u00fcne\u015f \u015farj\u0131
+Yetenekli: 1x bas\u0131n\u00e7 dengeleyici; 1x g\u00fc\u00e7 verimlili\u011fi; 1x b\u00f6lgesel savunma; 1x sonar;
+Silahl\u0131 ve Dayan\u0131kl\u0131: 1x b\u00f6lgesel savunma; 1x torpido sistemi; 2x g\u00f6vde g\u00fc\u00e7lendirme",
+    "Ency_Builder": "T\u00fcm arazilerde Ya\u015fam Alanlar\u0131n\u0131n H\u0131zl\u0131 Yap\u0131m\u0131",
+    "EncyDesc_Builder": "Alterra ya\u015fam alan\u0131 el in\u015fac\u0131s\u0131, 50 y\u0131l\u0131 a\u015fk\u0131n s\u00fcredir yedi farkl\u0131 imparatorlukta xeno bilim adamlar\u0131, s\u00f6m\u00fcrgeciler ve kurtarma ekipleri taraf\u0131ndan kullan\u0131lan vazge\u00e7ilmez bir alet olmu\u015ftur.
+
+Ya\u015fam alan\u0131 mod\u00fclleri hava ge\u00e7irmeyecek \u015fekilde kapat\u0131lm\u0131\u015ft\u0131r ve karada, su alt\u0131nda ve bo\u015flukta in\u015fa edilebilir. Oksijen ve g\u00fc\u00e7 sistemleri standart olarak bulunmamaktad\u0131r, ayr\u0131 olarak in\u015fa edilmelidir. \u00c7o\u011fu ticari gemi geli\u015fmi\u015f mod\u00fclleri ve reakt\u00f6rleri araziye h\u0131zl\u0131 konu\u015fland\u0131rmak i\u00e7in bir b\u00fct\u00fcn olarak ta\u015f\u0131maktad\u0131r.
+
+Ya\u015fam alanlar\u0131; uzun \u00f6m\u00fcrl\u00fc evler, uzak ara\u015ft\u0131rma istasyonlar\u0131, savunma karakollar\u0131 ve daha fazlas\u0131 olarak geli\u015ftirilebilir.",
+    "Ency_Moonpool": "Ay havuzu",
+    "EncyDesc_Moonpool": "Ay havuzu, okyanus ortam\u0131n\u0131n uzun soluklu ke\u015ffi i\u00e7in \u00f6nemli bir ya\u015fam alan\u0131d\u0131r. Birincil i\u015flevi Seamoth dalg\u0131c\u0131na ait sudan ayr\u0131lm\u0131\u015f bir demirleme iskelesi olmas\u0131d\u0131r (seamoth dahil de\u011fildir).  
+
+B\u00fcy\u00fck merkezi k\u0131s\u0131m \u00e7evreleyen sulara \u00e7abuk eri\u015fim sa\u011flayan bas\u0131n\u00e7l\u0131 bir havuz i\u00e7erir, kald\u0131r\u0131p demirleme ve \u015farj etme donan\u0131mlar\u0131 standart olarak gelir.  
+
+\u0130n\u015fac\u0131 arac\u0131 ile en k\u0131sa zamanda Seamoth geli\u015ftirme istasyonu ile ay havuzu donan\u0131m\u0131 yap\u0131lmas\u0131 \u00f6nerilir. Bu, di\u011fer yararlar\u0131n\u0131n yan\u0131nda seamoth geli\u015ftirme mod\u00fcllerinin \u00fcretilmesini sa\u011flayacakt\u0131r.  
+
+De\u011ferler: 
+- Boyutlar: 16m x 10m x 5m 
+- Ba\u011flant\u0131 noktalar\u0131: 6 
+- Deniz seviyesinde ya\u015fam alan\u0131n\u0131n g\u00f6vde g\u00fcc\u00fcne etkisi: -5 (4 odaya e\u015fde\u011fer) 
+- Kapasite: 1 seamoth 
+- Y\u00fcksek g\u00fc\u00e7 t\u00fcketimi",
+    "NoKeyExchangeBattery": "Pili de\u011fi\u015ftir",
+    "NoKeyExchangePowerCell": "G\u00fc\u00e7l\u00fc pili de\u011fi\u015ftir",
+    "CyclopsWelcomeAboard": "Cyclops: Denizalt\u0131ya ho\u015f geldiniz kaptan.",
+    "CyclopsHullBreach": "Cyclops: G\u00f6vdede yar\u0131k alg\u0131land\u0131.",
+    "CyclopsHullRestored": "Cyclops: G\u00f6vde b\u00fct\u00fcnl\u00fc\u011f\u00fc sa\u011fland\u0131. Su bo\u015falt\u0131m sistemleri \u00e7al\u0131\u015ft\u0131r\u0131ld\u0131.",
+    "SeamothWelcomeAboard": "Seamoth: Araca ho\u015f geldin kaptan.",
+    "BaseWelcomeAboard": "\u00dcs: \u00dcsse ho\u015f geldin kaptan.",
+    "BasePowerUp": "\u00dcs: G\u00fc\u00e7 sa\u011fland\u0131. T\u00fcm birincil sistemler \u00e7al\u0131\u015f\u0131r durumda.",
+    "BasePowerDown": "\u00dcs: Uyar\u0131, sadece acil durum g\u00fcc\u00fc var.",
+    "BaseHullBreach": "\u00dcs: G\u00f6vdede yar\u0131k alg\u0131land\u0131.",
+    "BaseHullRestored": "\u00dcs: G\u00f6vde b\u00fct\u00fcnl\u00fc\u011f\u00fc sa\u011fland\u0131. Su bo\u015falt\u0131m sistemleri \u00e7al\u0131\u015ft\u0131r\u0131ld\u0131.",
+    "AcidMushroomSpore": "Asit mantar\u0131 sporu",
+    "BulboTree": "So\u011fan a\u011fac\u0131",
+    "BulboTreePiece": "So\u011fan a\u011fac\u0131 \u00f6rne\u011fi",
+    "HangingFruitTree": "Asma meyve a\u011fac\u0131",
+    "HangingFruit": "Asma meyvesi",
+    "OrangeMushroom": "Turuncu mantar",
+    "OrangeMushroomSpore": "Turuncu mantar sporu",
+    "PinkMushroom": "Pembe mantar",
+    "PinkMushroomSpore": "Pembe mantar sporu",
+    "PurpleRattle": "Mor \u00e7\u0131ng\u0131rak",
+    "PurpleRattleSpore": "Mor \u00e7\u0131ng\u0131rak sporu",
+    "PurpleVasePlant": "Mor vazo bitkisi",
+    "PurpleVasePlantSeed": "Mor vazo bitki tohumu",
+    "WhiteMushroomSpore": "Dip mantar\u0131 sporu",
+    "Tooltip_AcidMushroomSpore": "Asit mantar\u0131 sporu",
+    "Tooltip_BulboTreePiece": "So\u011fan a\u011fac\u0131 par\u00e7as\u0131",
+    "Tooltip_HangingFruit": "Asma meyvesi",
+    "Tooltip_KooshChunk": "T\u00fcyl\u00fctop par\u00e7as\u0131",
+    "Tooltip_OrangeMushroomSpore": "Turuncu mantar sporu",
+    "Tooltip_PinkMushroom": "Pembe mantar",
+    "Tooltip_PinkMushroomSpore": "Pembe mantar sporu",
+    "Tooltip_PurpleRattle": "Mor \u00e7\u0131ng\u0131rak",
+    "Tooltip_PurpleRattleSpore": "Mor \u00e7\u0131ng\u0131rak sporu",
+    "Tooltip_PurpleVasePlantSeed": "Mor vazo bitki tohumu",
+    "Tooltip_WhiteMushroomSpore": "Dip mantar\u0131 sporu",
+    "LEDLight": "I\u015f\u0131k \u00e7ubu\u011fu",
+    "LEDLightBlueprint": "I\u015f\u0131k \u00e7ubu\u011fu tasar\u0131m\u0131",
+    "Tooltip_LEDLightBlueprint": "I\u015f\u0131k \u00e7ubu\u011fu yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_LEDLight": "Pil ile \u00e7al\u0131\u015fan, konu\u015fland\u0131r\u0131labilir \u0131\u015f\u0131kland\u0131rma",
+    "Ency_LEDLight": "I\u015f\u0131k \u00c7ubu\u011fu",
+    "EncyDesc_LEDLight": "360 derecelik alanda d\u00fc\u015f\u00fck seviyeli ayd\u0131nlatma sa\u011flayan, ta\u015f\u0131nabilir, \u00e7o\u011fu y\u00fczeye tutturulabilir, pille \u00e7al\u0131\u015fan LED ayd\u0131nlatma.",
+    "LoadingMessage": "Y\u00fckleniyor...
+
+NOT: Bu ekran, y\u00fckleme s\u0131ras\u0131nda birka\u00e7 dakika durabilir ve bu s\u00fcre i\u00e7inde oyun sanki \u00e7\u00f6km\u00fc\u015f gibi g\u00f6r\u00fcnebilir. L\u00fctfen sab\u0131rl\u0131 olun.",
+    "Dead": "\u00d6l\u00fc",
+    "CyclopsHullFragment": "Cyclops g\u00f6vde par\u00e7as\u0131",
+    "CyclopsBridgeFragment": "Cyclops kaptan k\u00f6\u015fk\u00fc par\u00e7as\u0131",
+    "CyclopsEngineFragment": "Cyclops motor par\u00e7as\u0131",
+    "CyclopsDockingBayFragment": "Cyclops demirleme iskelesi par\u00e7as\u0131",
+    "CyclopsHullBlueprint": "Cyclops G\u00f6vde Tasar\u0131m\u0131",
+    "CyclopsBridgeBlueprint": "Cyclops Kaptan K\u00f6\u015fk\u00fc Tasar\u0131m\u0131",
+    "CyclopsEngineBlueprint": "Cyclops Motor Tasar\u0131m\u0131",
+    "CyclopsDockingBayBlueprint": "Cyclops Demirleme \u0130skelesi Tasar\u0131m\u0131",
+    "Tooltip_CyclopsHullBlueprint": "Cyclops yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_CyclopsBridgeBlueprint": " Cyclops yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_CyclopsEngineBlueprint": " Cyclops yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_CyclopsDockingBayBlueprint": " Cyclops yap\u0131m\u0131 i\u00e7in gerekli tasar\u0131mlar",
+    "FiberMesh": "Lif \u00f6rg\u00fc",
+    "Tooltip_FiberMesh": "G\u00fc\u00e7l\u00fc, do\u011fal lif. Rahat.",
+    "PlanterPot2": "Bitki saks\u0131s\u0131 2",
+    "PlanterPot3": "Bitki saks\u0131s\u0131 3",
+    "Tooltip_PlanterPot2": "Yapay toprak i\u00e7eren titanyum saks\u0131",
+    "Tooltip_PlanterPot3": "Yapay toprak i\u00e7eren titanyum saks\u0131",
+    "Tooltip_Radio": "D\u0131\u015f d\u00fcnya ile k\u0131sa mesafeli ileti\u015fim sa\u011flar.",
+    "Radio": "\u0130leti\u015fim R\u00f6lesi",
+    "Radio_Play": "\u0130letiyi Dinle",
+    "EncyPath_DownloadedData": "\u0130ndirilen Veriler",
+    "Ency_BasePlanter": "Yeti\u015ftiriciler & Saks\u0131lar",
+    "EncyDesc_BasePlanter": "\u0130\u00e7 yeti\u015ftirici, yap\u0131land\u0131rma a\u00e7\u0131s\u0131ndan bir \u00e7e\u015fitlili\u011fe sahiptir ve \u00e7o\u011fu bitki t\u00fcrlerinin az say\u0131da yeti\u015fmesine olanak sa\u011flar. S\u00fcsleme ve botanik ama\u00e7l\u0131 kullan\u0131l\u0131r.",
+    "Ency_FarmingTray": "D\u0131\u015f Mekan Yeti\u015ftirme Yata\u011f\u0131",
+    "EncyDesc_FarmingTray": "Geli\u015fmi\u015f yapay topraklar, bu yeti\u015ftirme yata\u011f\u0131nda yabanc\u0131 bitki ya\u015famlar\u0131n\u0131n muazzam \u00e7e\u015fitlilik ve miktarda yeti\u015fmesine olanak sa\u011flar.",
+    "Ency_PlanterBox": "\u0130\u00e7 Mekan Yeti\u015ftirme Yata\u011f\u0131",
+    "EncyDesc_PlanterBox": "Ya\u015fam alanlar\u0131 i\u00e7inde kullan\u0131lmak \u00fczere \u00f6zel olarak tasarlanm\u0131\u015ft\u0131r, i\u00e7 mekan yeti\u015ftirme yata\u011f\u0131, d\u0131\u015f mekan \u00e7e\u015fidinin daha k\u00fc\u00e7\u00fc\u011f\u00fcd\u00fcr.",
+    "Ency_WaterFilter": "Su Ar\u0131tma Makinesi",
+    "EncyDesc_WaterFilter": "Ar\u0131tma sistemi, d\u0131\u015f kaynaktan insan t\u00fcketimi i\u00e7in uygun olmayan suyu \u00e7eker, atomik olarak kendisini olu\u015fturan par\u00e7alara b\u00f6ler ve zararl\u0131 yan \u00fcr\u00fcnleri ay\u0131r\u0131r, b\u00f6ylece i\u00e7ilebilir su ve tuz elde edilir. Herhangi bir ya\u015fam alan\u0131 mod\u00fcl\u00fcne yerle\u015ftirilebilir ancak \u00f6nemli derecede g\u00fc\u00e7 gereksinimi vard\u0131r.",
+    "BluePalm": "Mavi palmiye",
+    "BluePalmSeed": "Mavi palmiye tohumu",
+    "EyesPlant": "G\u00f6zl\u00fc bitki",
+    "EyesPlantSeed": "G\u00f6zl\u00fc bitki tohumu",
+    "FernPalm": "E\u011fretli palmiyesi",
+    "FernPalmSeed": "E\u011fretli palmiyesi tohumu",
+    "GabeSFeather": "Gabe'nin t\u00fcy\u00fc",
+    "GabeSFeatherSeed": "Gabe t\u00fcy tohumu",
+    "JellyPlantSeed": "J\u00f6le bitkisi tohumu",
+    "MelonPlant": "Mermer kavunu bitkisi",
+    "Melon": "Mermer Kavunu",
+    "MembrainTreeSeed": "Zarl\u0131 a\u011fa\u00e7 tohumu",
+    "SeaCrown": "Deniz tac\u0131",
+    "SeaCrownSeed": "Deniz tac\u0131 tohumu",
+    "SmallMelon": "K\u00fc\u00e7\u00fck mermer kavunu",
+    "OrangePetalsPlant": "Turuncu yaprakl\u0131 bitki",
+    "OrangePetalsPlantSeed": "Turuncu yaprakl\u0131 bitki tohumu",
+    "PinkFlower": "Pembe \u00e7i\u00e7ek",
+    "PinkFlowerSeed": "Pembe \u00e7i\u00e7ek tohumu",
+    "PurpleBrainCoral": "Mor beyin mercan\u0131",
+    "PurpleBrainCoralPiece": "Mor beyin mercan\u0131 \u00f6rne\u011fi",
+    "PurpleBranches": "Mor \u00e7al\u0131",
+    "PurpleBranchesSeed": "Mor \u00e7al\u0131 tohumu",
+    "PurpleFanSeed": "Mor yelpaze tohumu",
+    "PurpleStalk": "Mor yaprakl\u0131 bitki",
+    "PurpleStalkSeed": "Mor yaprakl\u0131 bitki tohumu",
+    "PurpleTentacleSeed": "K\u0131vr\u0131lan Ot tohumu",
+    "PurpleVegetable": "Mor sebze",
+    "PurpleVegetablePlant": "Sebze bitkisi",
+    "RedBasketPlant": "K\u0131rm\u0131z\u0131 sepet bitkisi",
+    "RedBasketPlantSeed": "K\u0131rm\u0131z\u0131 sepet bitkisi tohumu",
+    "RedBush": "K\u0131rm\u0131z\u0131 \u00e7al\u0131",
+    "RedBushSeed": "K\u0131rm\u0131z\u0131 \u00e7al\u0131 tohumu",
+    "RedConePlant": "K\u0131rm\u0131z\u0131 k\u00fclah bitkisi",
+    "RedConePlantSeed": "K\u0131rm\u0131z\u0131 k\u00fclah bitkisi tohumu",
+    "RedGreenTentacle": "K\u0131rm\u0131z\u0131 ye\u015fil dokuna\u00e7",
+    "RedGreenTentacleSeed": "K\u0131rm\u0131z\u0131 ye\u015fil dokuna\u00e7 tohumu",
+    "RedRollPlant": "K\u0131rm\u0131z\u0131 silindir bitkisi",
+    "RedRollPlantSeed": "K\u0131rm\u0131z\u0131 silindir bitkisi tohumu",
+    "ShellGrass": "Kabuklu ot",
+    "ShellGrassSeed": "Kabuklu ot tohumu",
+    "SpikePlantSeed": "Kaplan bitkisi tohumu",
+    "SmallFanSeed": "C\u00fcce yelpaze tohumu",
+    "SnakeMushroom": "Y\u0131lan mantar\u0131",
+    "SnakeMushroomSpore": "Y\u0131lan mantar\u0131 sporu",
+    "SpottedLeavesPlant": "Benekli yaprak bitkisi",
+    "SpottedLeavesPlantSeed": "Benekli yaprak bitkisi tohumu",
+    "Tooltip_BluePalmSeed": "Mavi palmiye tohumu",
+    "Tooltip_EyesPlantSeed": "G\u00f6zl\u00fc bitki tohumu",
+    "Tooltip_FernPalmSeed": "E\u011frelti palmiyesi tohumu",
+    "Tooltip_GabeSFeatherSeed": "Gabe'nin t\u00fcy\u00fc tohumu",
+    "Tooltip_JellyPlant": "J\u00f6le bitkisi",
+    "Tooltip_JellyPlantSeed": "J\u00f6le bitkisi tohumu",
+    "Tooltip_Melon": "Kavuna benzer bir meyve t\u00fcr\u00fc",
+    "Tooltip_MembrainTreeSeed": "Zarl\u0131 a\u011fa\u00e7 tohumu",
+    "Tooltip_SmallMelon": "Kavunun k\u00fc\u00e7\u00fck t\u00fcr\u00fc",
+    "Tooltip_OrangePetalsPlantSeed": "Turuncu yaprakl\u0131 bitki tohumu",
+    "Tooltip_PinkFlowerSeed": "Pembe \u00e7i\u00e7ek tohumu",
+    "Tooltip_PurpleBrainCoralPiece": "Mor beyin mercan\u0131 \u00f6rne\u011fi",
+    "Tooltip_PurpleBranchesSeed": "Mor \u00e7al\u0131 tohumu",
+    "Tooltip_PurpleFanSeed": "Mor yelpaze tohumu",
+    "Tooltip_PurpleStalkSeed": "Mor yaprakl\u0131 bitki tohumu",
+    "Tooltip_PurpleTentacleSeed": "K\u0131vr\u0131lan Ot tohumu",
+    "Tooltip_PurpleVegetable": "Sebze bitkisi",
+    "Tooltip_RedBasketPlantSeed": "K\u0131rm\u0131z\u0131 sepet bitkisi tohumu",
+    "Tooltip_RedBushSeed": "K\u0131rm\u0131z\u0131 \u00e7al\u0131 tohumu",
+    "Tooltip_RedConePlantSeed": "K\u0131rm\u0131z\u0131 k\u00fclah bitkisi tohumu",
+    "Tooltip_RedGreenTentacleSeed": "K\u0131rm\u0131z\u0131 ye\u015fil dokuna\u00e7 tohumu",
+    "Tooltip_RedRollPlantSeed": "K\u0131rm\u0131z\u0131 silindir bitkisi tohumu",
+    "Tooltip_SeaCrownSeed": "Deniz tac\u0131 tohumu",
+    "Tooltip_ShellGrassSeed": "Kabuk otu tohumu",
+    "Tooltip_SnakeMushroomSpore": "Y\u0131lan mantar\u0131 sporu",
+    "Tooltip_SpikePlantSeed": "Kaplan bitkisinin tohumlar\u0131",
+    "Tooltip_SpottedLeavesPlantSeed": "Benekli yaprak bitki tohumu",
+    "Tooltip_SmallFan": "C\u00fcce yelpaze",
+    "Tooltip_SmallFanSeed": "C\u00fcce yelpaze tohumu",
+    "Ency_HangingFruitTree": "Asma Meyve A\u011fac\u0131",
+    "EncyDesc_HangingFruitTree": "B\u00fcy\u00fck turuncu meyveli a\u011fa\u00e7",
+    "Ency_BulboTree": "So\u011fan A\u011fac\u0131",
+    "EncyDesc_BulboTree": "Bir a\u011faca benziyor",
+    "Ency_WhiteMushroom": "Dip mantar\u0131",
+    "EncyDesc_WhiteMushroom": "Dip mantar\u0131",
+    "Ency_PinkMushroom": "Pembe mantar",
+    "EncyDesc_PinkMushroom": "Bu kesinlikle bir mantar",
+    "Ency_PurpleRattle": "Mor \u00c7\u0131ng\u0131rak",
+    "EncyDesc_PurpleRattle": "Mor \u00e7\u0131ng\u0131rak",
+    "Ency_PurpleVasePlant": "Mor Vazo Bitkisi",
+    "EncyDesc_PurpleVasePlant": "Mor vazo bitkisi",
+    "Ency_OrangeMushroom": "Turuncu Mantar",
+    "EncyDesc_OrangeMushroom": "B\u00fcy\u00fck Turuncu Mantar",
+    "Ency_VegetablePlant": "Sebze Bitkisi",
+    "EncyDesc_VegetablePlant": "Sebze bitkisi",
+    "Ency_MelonPlant": "Mermer Kavunu Bitkisi",
+    "EncyDesc_MelonPlant": "Kavun bitkisi",
+    "Ency_KooshBush": "T\u00fcyl\u00fctop \u00c7al\u0131s\u0131",
+    "EncyDesc_KooshBush": "T\u00fcyl\u00fctop \u00e7al\u0131l\u0131\u011f\u0131",
+    "Ency_BluePalm": "Mavi Palmiye",
+    "EncyDesc_BluePalm": "Mavi palmiye",
+    "Ency_SmallFan": "C\u00fcce yelpaze",
+    "EncyDesc_SmallFan": "K\u00fc\u00e7\u00fck yelpaze",
+    "Ency_PurpleFan": "Mor Yelpaze",
+    "EncyDesc_PurpleFan": "Mor yelpaze",
+    "Ency_WrithingWeed": "K\u0131vr\u0131lan Ot",
+    "EncyDesc_WrithingWeed": "K\u0131vr\u0131lan ot",
+    "Ency_GabeSFeather": "Gabe'nin T\u00fcy\u00fc",
+    "EncyDesc_GabeSFeather": "Gabe'nin t\u00fcy\u00fc",
+    "Ency_SeaCrown": "Deniz Tac\u0131",
+    "EncyDesc_SeaCrown": "Deniz tac\u0131",
+    "Ency_MembrainTree": "Zarl\u0131 A\u011fa\u00e7",
+    "EncyDesc_MembrainTree": "Zarl\u0131 a\u011fa\u00e7",
+    "Ency_PinkFlower": "Pembe \u00c7i\u00e7ek",
+    "EncyDesc_PinkFlower": "Pembe \u00e7i\u00e7ek",
+    "Ency_FernPalm": "E\u011frelti Palmiyesi",
+    "EncyDesc_FernPalm": "E\u011frelti palmiyesi",
+    "Ency_OrangePetalsPlant": "Turuncu Yaprakl\u0131 Bitki",
+    "EncyDesc_OrangePetalsPlant": "Turuncu yaprakl\u0131 bitki",
+    "Ency_EyesPlant": "G\u00f6zl\u00fc Bitki",
+    "EncyDesc_EyesPlant": "G\u00f6zl\u00fc bitki",
+    "Ency_RedGreenTentacle": "K\u0131rm\u0131z\u0131 Ye\u015fil Dokuna\u00e7",
+    "EncyDesc_RedGreenTentacle": "K\u0131rm\u0131z\u0131 ye\u015fil dokuna\u00e7lar",
+    "Ency_PurpleStalk": "Mor Yaprakl\u0131 Bitki",
+    "EncyDesc_PurpleStalk": "Mor \u00e7al\u0131",
+    "Ency_RedBasketPlant": "K\u0131rm\u0131z\u0131 Sepet Bitkisi",
+    "EncyDesc_RedBasketPlant": "K\u0131rm\u0131z\u0131 sepet bitkisi",
+    "Ency_RedBush": "K\u0131rm\u0131z\u0131 \u00c7al\u0131",
+    "EncyDesc_RedBush": "K\u0131rm\u0131z\u0131 \u00e7al\u0131",
+    "Ency_RedConePlant": "K\u0131rm\u0131z\u0131 K\u00fclah Bitkisi",
+    "EncyDesc_RedConePlant": "K\u0131rm\u0131z\u0131 k\u00fclah bitkisi",
+    "Ency_ShellGrass": "Kabuk Otu",
+    "EncyDesc_ShellGrass": "Kabuk Otu",
+    "Ency_SpottedLeavesPlant": "Benekli Yaprak Bitkisi",
+    "EncyDesc_SpottedLeavesPlant": "Benekli yaprak bitkisi",
+    "Ency_RedRollPlant": "K\u0131rm\u0131z\u0131 Silindir Bitkisi",
+    "EncyDesc_RedRollPlant": "K\u0131rm\u0131z\u0131 silindir bitkisi",
+    "Ency_PurpleBranches": "Mor \u00c7al\u0131",
+    "EncyDesc_PurpleBranches": "Mor \u00e7al\u0131",
+    "Ency_SnakeMushroom": "Y\u0131lan Mantar\u0131",
+    "EncyDesc_SnakeMushroom": "Y\u0131lan mantar\u0131",
+    "Ency_BloodVine": "Kan Asmas\u0131",
+    "EncyDesc_BloodVine": "Kan asmas\u0131",
+    "FeedbackNewReply": "Yeni geli\u015ftirici yan\u0131t\u0131 ald\u0131n\u0131z.
+Okumak i\u00e7in F8'e bas\u0131n.",
+    "SurvivorPDA": "At\u0131lm\u0131\u015f PDA",
+    "Tooltip_SurvivorPDA": "Veriyi indir",
+    "StarshipCargoCrate": "Kargo sand\u0131\u011f\u0131",
+    "StarshipCircuitBox": "Devre kutusu",
+    "StarshipDesk": "Masa",
+    "StarshipChair": "Sandalye",
+    "StarshipMonitor": "Ekran",
+    "Tooltip_StarshipCargoCrate": "Ama, kargo nerede?!",
+    "Tooltip_StarshipCircuitBox": "Bak, karma\u015f\u0131k kablolar!",
+    "Tooltip_StarshipDesk": "Ofis \u00e7al\u0131\u015fanlar\u0131 i\u00e7in.",
+    "Tooltip_StarshipChair": "\u015ea\u015f\u0131rt\u0131c\u0131 derecede rahat.",
+    "Tooltip_StarshipMonitor": "Sinyal yok.",
+    "Techlight": "Projekt\u00f6r",
+    "Seaglide": "Dalg\u0131\u00e7 iti\u015f arac\u0131",
+    "BaseBulkheadFragment": "B\u00f6lme par\u00e7as\u0131",
+    "BaseFiltrationMachineFragment": "\u00dcs su ar\u0131tma par\u00e7as\u0131",
+    "BaseObservatoryFragment": "G\u00f6zlem odas\u0131 par\u00e7as\u0131",
+    "BaseUpgradeConsoleFragment": "Seamoth geli\u015ftirme konsolu par\u00e7as\u0131",
+    "ConstructorFragment": "Mobil Ara\u00e7 \u00dcretici par\u00e7as\u0131",
+    "PowerTransmitterFragment": "G\u00fc\u00e7 aktar\u0131c\u0131 par\u00e7as\u0131",
+    "RadioFragment": "Telsiz par\u00e7as\u0131",
+    "ScannerRoomFragment": "Tarama odas\u0131 par\u00e7as\u0131",
+    "SeaglideFragment": "Dalg\u0131\u00e7 iti\u015f arac\u0131 par\u00e7as\u0131",
+    "SolarPanelFragment": "G\u00fcne\u015f paneli par\u00e7as\u0131",
+    "SpecimenAnalyzerFragment": "\u00d6rnek inceleyici par\u00e7as\u0131",
+    "TechlightBlueprint": "Projekt\u00f6r tasar\u0131m\u0131",
+    "Tooltip_Seaglide": "Su alt\u0131nda pervanenin d\u00f6n\u00fc\u015f kuvvetini itme g\u00fcc\u00fcne \u00e7evirir.",
+    "Tooltip_TechlightBlueprint": "Projekt\u00f6r yapmak i\u00e7in gerekli tasar\u0131mlar",
+    "Tooltip_Techlight": "Pille \u00e7al\u0131\u015fan, t\u00fcm \u00e7evre \u015fartlar\u0131na uygun tasarlanm\u0131\u015f, end\u00fcstriyel \u0131\u015f\u0131kland\u0131rma",
+    "Ency_Techlight": "Projekt\u00f6r",
+    "EncyDesc_Techlight": "Her t\u00fcr end\u00fcstriyel ve acil durum uygulamalar\u0131 i\u00e7in kullan\u0131\u015fl\u0131, tek y\u00f6nde parlak bir \u0131\u015f\u0131k elde etmek i\u00e7in tasarlanm\u0131\u015f, pille \u00e7al\u0131\u015fan s\u0131radan projekt\u00f6r. T\u00fcm ortamlarda i\u015flevsel. Pili de\u011fi\u015ftirilebilir.",
+    "Ency_Spotlight": "Spot I\u015f\u0131k",
+    "EncyDesc_Spotlight": "Hareketli olmas\u0131yla etraf\u0131 s\u00fcrekli tarayan \u0131\u015f\u0131kland\u0131rma",
+    "OxygenWarning10": "Tehlike: 10 saniyelik oksijen kald\u0131.",
+    "OxygenWarning30": "Uyar\u0131: 30 saniyelik oksijen kald\u0131.",
+    "GrowingProgress": "B\u00fcy\u00fcme: {0:P0}",
+    "GrowingPlant": "B\u00fcy\u00fcyor {0}",
+    "MelonSeed": "Mermer kavunu tohumu",
+    "Tooltip_SmallKoosh": "K\u00fc\u00e7\u00fck t\u00fcyl\u00fctop",
+    "Tooltip_MediumKoosh": "Orta boy t\u00fcyl\u00fctop",
+    "Tooltip_LargeKoosh": "B\u00fcy\u00fck t\u00fcyl\u00fctop",
+    "Tooltip_HugeKoosh": "Devasa t\u00fcyl\u00fctop",
+    "Tooltip_BulboTree": "K\u00f6k\u00fc so\u011fana benzer bir a\u011fa\u00e7 t\u00fcr\u00fc",
+    "Tooltip_OrangeMushroom": "Turuncu renkli mantar",
+    "Tooltip_PurpleVasePlant": "Vazoya benzeyen mor bir bitki",
+    "Tooltip_MelonPlant": "Kavuna benzer meyvesi olan bir bitki",
+    "Tooltip_PurpleBrainCoral": "\u015eekli beyne benzeyen bir mercan t\u00fcr\u00fc",
+    "Tooltip_SpikePlant": "Kaplan bitkisi",
+    "Tooltip_BluePalm": "Mavi palmiye",
+    "Tooltip_PurpleFan": "Mor yelpaze",
+    "Tooltip_SmallFanCluster": "K\u00fc\u00e7\u00fck yelpaze demeti",
+    "Tooltip_PurpleTentacle": "Mor dokuna\u00e7 bitkisi",
+    "Tooltip_GabeSFeather": "Gabe'nin t\u00fcy\u00fc",
+    "Tooltip_SeaCrown": "Deniz tac\u0131",
+    "Tooltip_MembrainTree": "Zarl\u0131 a\u011fa\u00e7",
+    "Tooltip_PinkFlower": "Pembe \u00e7i\u00e7ek",
+    "Tooltip_FernPalm": "E\u011frelti palmiyesi",
+    "Tooltip_OrangePetalsPlant": "Turuncu yaprakl\u0131 bitki",
+    "Tooltip_EyesPlant": "G\u00f6zl\u00fc bitki",
+    "Tooltip_RedGreenTentacle": "K\u0131rm\u0131z\u0131 ye\u015fil dokuna\u00e7lar",
+    "Tooltip_PurpleStalk": "Mor yaprakl\u0131 bitki",
+    "Tooltip_RedBasketPlant": "K\u0131rm\u0131z\u0131 sepet bitkisi",
+    "Tooltip_RedBush": "K\u0131rm\u0131z\u0131 \u00e7al\u0131",
+    "Tooltip_RedConePlant": "K\u0131rm\u0131z\u0131 k\u00fclah bitkisi",
+    "Tooltip_ShellGrass": "Kabuk otu",
+    "Tooltip_SpottedLeavesPlant": "Benekli yaprak bitkisi",
+    "Tooltip_RedRollPlant": "K\u0131rm\u0131z\u0131 silindir bitkisi",
+    "Tooltip_PurpleBranches": "Mor \u00e7al\u0131",
+    "Tooltip_SnakeMushroom": "Y\u0131lan mantar\u0131",
+    "Tooltip_MelonSeed": "Kavun tohumu",
+    "Tooltip_BlueJeweledDisk": "Ta\u015fl\u0131 mavi mercan diski",
+    "Tooltip_GreenJeweledDisk": "Ta\u015fl\u0131 ye\u015fil mercan diski",
+    "Tooltip_PurpleJeweledDisk": "Ta\u015fl\u0131 mor mercan diski",
+    "Tooltip_RedJeweledDisk": "Ta\u015fl\u0131 k\u0131rm\u0131z\u0131 mercan diski",
+    "Tooltip_TreeMushroom": "A\u011fa\u00e7 mantar\u0131",
+    "Tooltip_BigCoralTubes": "B\u00fcy\u00fck mercan borusu",
+    "Tooltip_CoralShellPlate": "Mercan kabuk plakas\u0131",
+    "Goal_HolyDiver": "Gece yar\u0131s\u0131 denizde \u00e7ok uzun s\u00fcre kald\u0131n. Ne demek istedi\u011fimi anlam\u0131yor musun?",
+    "RadioBounceBack": "Bu, Aurora Maden Gemisiden g\u00f6nderilen otomatik geri yan\u0131tt\u0131r. Acil durum sinyaliniz al\u0131nd\u0131. Bir acil yard\u0131m ekibi konumunuza g\u00f6nderilecektir. *Parazit* Tahmini var\u0131\u015f zaman\u0131: 9...9...9...9...9 saat.",
+    "RadioLifepod17": "Bu, Aurora 17.Ya\u015fam Kozas\u0131 taraf\u0131ndan g\u00f6nderilen acil durum sinyalidir. Konum bilgisi eklidir. L\u00fctfen derhal acil yard\u0131m ekibi g\u00f6nderin.",
+    "RadioSecondOfficer": "Ben \u0130kinci Kaptan Keen, Aurora'dan kurtulan t\u00fcm m\u00fcrettebata! Kaptan Hollister \u00f6ld\u00fc. Komutay\u0131 ben devrald\u0131m. Bilgisayar, enkaz b\u00f6lgesinin yakla\u015f\u0131k 750m g\u00fcneyinde kara par\u00e7as\u0131 tespit etti. Yapman\u0131z gerekenler, birlikte kalmak, acilen kendi g\u00fcvenli\u011finizi sa\u011flamak ve bildirilen konumda toplanmakt\u0131r. \u0130yi \u015fanslar. Tamam.",
+    "RadioWarper1": "Dokuz yeni biyolojik nesne tan\u0131mland\u0131. Kip de\u011fi\u015fimi: avlanma\/inceleme. Nesne konumlar\u0131 di\u011fer g\u00f6revlilerle payla\u015f\u0131l\u0131yor.",
+    "RadioLifepod7": "Ben, Aurora K\u0131demli M\u00fchendisi LaFette, 7.Ya\u015fam Kozas\u0131'ndan yay\u0131n yap\u0131yorum! \u00c7arp\u0131\u015fmada hayatta kald\u0131k, fakat y\u00fczd\u00fcrme cihazlar\u0131 konu\u015fland\u0131rmada ba\u015far\u0131s\u0131z oldu. Konum bilgisi eklendi! Onar\u0131m denenecek! Telsiz ileti\u015fiminin kopmas\u0131 bekleniy- *Parazit*",
+    "RadioWarper2": "Nesne 11783 yok edildi. Kip de\u011fi\u015fimi: devriye. A\u00e7\u0131klanmam\u0131\u015f yeni hedefler: 1.",
+    "RadioPrecursor1": "Karflaget gertrupop flayra. Troflagot e aitrart. Trankeboop. Askrinol forlaget yarma aquit e flyra e aitrart escimay.",
+    "RadioPassingShip": "Buras\u0131 ticari gemi Sunbeam. Aurora, acil durum iletiniz al\u0131nd\u0131 ve konum bilginiz kaydedildi. \u0130yi haberler vermek isterdik; ama size yard\u0131m etmek i\u00e7in gerekli donan\u0131mlara sahip de\u011filiz. En yak\u0131n y\u0131ld\u0131z \u00fcss\u00fcne yakla\u015f\u0131k 461 d\u00fcnya g\u00fcn\u00fc s\u00fcrede ula\u015fabilece\u011fimizi tahmin ediyoruz; d\u00f6rt, alt\u0131, bir g\u00fcn. Bu s\u00fcre i\u00e7inde acil durum iletinizi ilgili \u015firket yetkilisine bildirece\u011fiz. Dayanmaya \u00e7al\u0131\u015f\u0131n, tamam m\u0131? Sunbeam \u00e7\u0131kt\u0131.",
+    "HintMouseLook": "Etrafa bakmak i\u00e7in fareyi kullan\u0131n",
+    "HintWSADToMove": "Hareket etmek i\u00e7in WSAD tu\u015flar\u0131n\u0131 kullan\u0131n",
+    "HintLMBToPickupFireExtinguisher": "Yang\u0131n s\u00f6nd\u00fcr\u00fcc\u00fcy\u00fc almak i\u00e7in sol t\u0131klay\u0131n",
+    "HintRMBToUseFireExtinguisher": "Yang\u0131n s\u00f6nd\u00fcr\u00fcc\u00fcy\u00fc kullanmak i\u00e7in sa\u011f t\u0131klay\u0131n",
+    "HintTabToOpenClosePDA": "PDA'y\u0131 a\u00e7\u0131p-kapatmak i\u00e7in TAB tu\u015funa bas\u0131n",
+    "HintSuccess": "M\u00fckemmel!",
+    "PDABootingEmergency": "AC\u0130L DURUM K\u0130P\u0130NDE BA\u015eLATILIYOR",
+    "PDABootingLoading": "Y\u00dcKLEN\u0130YOR
+[ %{0} ]",
+    "EscapePodStorageOpen": "Depoyu a\u00e7",
+    "EscapePodMedKitOpen": "Ecza dolab\u0131n\u0131 a\u00e7",
+    "EscapePodMedKitClose": "Ecza dolab\u0131n\u0131 kapat",
+    "EnergyPercent": "Enerji: {0:P0}",
+    "FuelPercent": "Yak\u0131t: {0:P0}",
+    "Weld": "Kaynak",
+    "Tooltip_MedicalCabinet": "Her 30 dakikada bir t\u0131bbi malzeme \u00fcretir.",
+    "Tooltip_FireExtinguisher": "Yang\u0131n\u0131 kontrol alt\u0131nda tut.",
+    "Damaged": "Hasarl\u0131",
+    "Pickup_FireExtinguisher": "Yang\u0131n S\u00f6nd\u00fcr\u00fcc\u00fcy\u00fc al",
+    "FireExtinguisher_Douse": "Yang\u0131n\u0131 s\u00f6nd\u00fcr",
+    "MedicalCabinet": "T\u0131bbi Malzeme \u00dcretici",
+    "MedicalCabinet_DoorClose": "Kapat",
+    "MedicalCabinet_DoorOpen": "A\u00e7",
+    "MedicalCabinet_PickupMedKit": "\u0130lk Yard\u0131m Setini al",
+    "DamagedWires": "Hasarl\u0131 Ya\u015fam Kozas\u0131 Sistemleri",
+    "WeldToFix": "Onar\u0131m i\u00e7in kaynak makinesini kullan",
+    "IntroEscapePod1Header": "FIRLATMA \u0130\u015eLEMLER\u0130 BA\u015eLATILDI!",
+    "IntroEscapePod1Content": "Aurora'dan ayr\u0131lma: TAMAM.
+M\u00fcrettebat emniyet kemerleri: tak\u0131l\u0131
+Gezegen atmosferine giriliyor.
+G-kuvveti tehlikeli d\u00fczeye ula\u015fmak \u00fczere.
+\u00c7arp\u0131\u015fmaya haz\u0131r olun.",
+    "IntroEscapePod1Power": "1-3. G\u00dc\u00c7 H\u00dcCRELER\u0130 DEVREDE",
+    "IntroEscapePod2Header": "AC\u0130L DURUM!",
+    "IntroEscapePod2Content": "\u00c7arp\u0131\u015fma alg\u0131land\u0131.
+Y\u00fczd\u00fcrme cihazlar\u0131 konu\u015fland\u0131r\u0131ld\u0131.
+Ya\u015fam kozas\u0131n\u0131n i\u00e7inde yang\u0131n alg\u0131land\u0131.
+CO2 miktar\u0131 tehlikeli d\u00fczeye ula\u015fmak \u00fczere.
+\u0130kincil sistemler: Devre d\u0131\u015f\u0131.
+Kapaklar: Ar\u0131zal\u0131.",
+    "IntroEscapePod2Power": "ANA G\u00dc\u00c7 DEVRE DI\u015eI",
+    "IntroEscapePod3Header": "UYARI!",
+    "IntroEscapePod3Content": "Ya\u015fam kozas\u0131 g\u00fc\u00e7 sistemlerinde \u00e7oklu hata alg\u0131land\u0131. 
+Devre s\u0131namas\u0131: ba\u015far\u0131s\u0131z. 
+\u0130kincil sistemler: devre d\u0131\u015f\u0131. 
+Yer \u00e7ekimi \u00e7apas\u0131: devre d\u0131\u015f\u0131. 
+Ya\u015fam kozas\u0131 g\u00f6vde b\u00fct\u00fcnl\u00fc\u011f\u00fc: iyi.",
+    "IntroEscapePod3Power": "1-3. G\u00dc\u00c7 H\u00dcCRELER\u0130 DEVREDE",
+    "IntroEscapePod4Header": "DURUM: \u0130Y\u0130",
+    "IntroEscapePod4Content": "G\u00f6vde b\u00fct\u00fcnl\u00fc\u011f\u00fc: iyi. 
+\u0130kincil sistemler: devrede. 
+Yer \u00e7ekimi \u00e7apas\u0131: devrede. 
+Ya\u015fam kozas\u0131 g\u00f6vde b\u00fct\u00fcnl\u00fc\u011f\u00fc: iyi. 
+T\u00fcm acil durum frekanslar\u0131 taran\u0131yor.",
+    "IntroEscapePod4Power": "ANA G\u00dc\u00c7 DEVREDE",
+    "EncyPath_DownloadedData\/Degasi": "Degasi'den Kurtulanlar",
+    "Ency_WreckAuxOrders": "Aurora \u0130kincil G\u00f6rev Emirleri",
+    "EncyDesc_WreckAuxOrders": "SADECE \u00dcST R\u00dcTBEL\u0130 PERSONELE   
+
+G\u00f6rev t\u00fcr\u00fc: Ara & Kurtar  
+G\u00f6rev hedefi: Mo\u011fol \u0130mparatorlu\u011fu gemisi 'Degasi'nin m\u00fcrettebat\u0131  
+G\u00f6rev yeri: Ariadne Arm b\u00f6lgesi, faz kaps\u0131na 3 \u0131\u015f\u0131k y\u0131l\u0131 \u00f6tede  
+G\u00f6rev muhatab\u0131: \u00d6zel G\u00f6revli Jochi Khasar, Aurora Yolcu B\u00f6lmesi, 4.oda   
+
+G\u00f6rev \u00f6zeti: 
+Aurora, Sistem 2001'e ge\u00e7mek \u00fczere yakla\u015f\u0131k 13 ayl\u0131k yolculuk i\u00e7in f\u0131rlat\u0131lacak. Aurora, 4546B gezegeni \u00e7evresinde sapanlama manevras\u0131 ger\u00e7ekle\u015ftirmeyi planl\u0131yor. Bu, sizi Degasi'nin son bilinen konumunun menzili i\u00e7ine sokuyor.   
+
+Mo\u011fol \u0130mparatorlu\u011fu, 18 ay \u00f6nce, s\u00f6m\u00fcrge b\u00f6lgesinden \u00e7\u0131kan \u00f6zel gemi 'Degasi' ile ileti\u015fimi kaybetti. \u0130mparatorluk, Aurora gemisinde \u00d6zel G\u00f6revli Khasar i\u00e7in ge\u00e7i\u015f sat\u0131n ald\u0131 ve sizin g\u00f6reviniz ona her t\u00fcrl\u00fc olana\u011f\u0131 sa\u011flaman\u0131zd\u0131r ve e\u011fer uygunsa birincil g\u00f6revi aksatmadan Degasi m\u00fcrettebat\u0131n\u0131 kurtarmakt\u0131r.   
+
+Degasi m\u00fcrettebat bildirisi ayr\u0131 bir veri paketi halinde \u00fcst r\u00fctbeli subaylara da\u011f\u0131t\u0131lm\u0131\u015ft\u0131r.   
+
+G\u00f6rev s\u0131n\u0131fland\u0131rmas\u0131: 
+Aurora ekibinin, Degasi m\u00fcrettebat\u0131n\u0131 arama ve kurtarma g\u00f6revinden i\u015fbirli\u011fi gerekmedi\u011fi s\u00fcrece haberi olmamas\u0131 gerekmektedir. \u0130nsani yard\u0131mc\u0131 g\u00f6revlerin normal \u00fccret \u00f6deme planlar\u0131n\u0131n d\u0131\u015f\u0131nda kald\u0131\u011f\u0131 vurgulanmal\u0131d\u0131r.",
+    "Ency_PaalTorgalBio": "Ara & Kurtar: Paal Torgal",
+    "EncyDesc_PaalTorgalBio": "SADECE \u00dcST R\u00dcTBEL\u0130 PERSONELE   
+
+\u0130kincil Arama & Kurtarma Hedefi: Paal Torgal  
+G\u00f6rev: Torgaljin \u015eirketinin Y\u00f6netim Kurulu Ba\u015fkan\u0131, 'Degasi'nin Kaptan\u0131  
+Durum: Uzayda kay\u0131p, Ariadne Arm b\u00f6lgesinde  
+Kayboldu\u011fu zamanki ya\u015f\u0131: 79   
+
+Paal Torgal ve m\u00fcrettebat\u0131n\u0131n, 10 ay \u00f6nce Sistem 2001'e do\u011fru yolculuk ederken Mo\u011fol yetkililerle ileti\u015fimi kesildi. Gemi arama & kurtarma i\u00e7in sigortal\u0131 ve sisteme ge\u00e7i\u015f yapan birden \u00e7ok gemi izini bulabilmek i\u00e7in giri\u015fimlerde bulundu ama sonu\u00e7 alamad\u0131lar.   
+
+- Annesi emekli olduktan sonra Torgaljin \u015eirketi'nin \u00e7o\u011funluk hissedar\u0131 oldu  
+- Alterra \u015firketi ile etkile\u015fim i\u00e7inde nadir bulunur cephane sevkiyat\u0131 i\u015fi yap\u0131yordu  
+- Hayat uzatma y\u00f6ntemleri yararlan\u0131c\u0131s\u0131  
+- Tek \u00e7ocu\u011fu olan Baat Torgal (19), Torgaljin \u015eirketinin tek varisi  
+- Mo\u011fol \u00f6zel g\u00f6revli Khasar, Torgal'in \u00e7o\u011funlukla kemikle\u015fmi\u015f, az say\u0131daki m\u00fcrettebatla yolculuk etti\u011fini bildirdi  
+- Yetersiz sistem bak\u0131mlar\u0131 geminin kaybolma nedeni olabilir",
+    "Ency_BaatTorgalBio": "Ara & Kurtar: Baat Torgal",
+    "EncyDesc_BaatTorgalBio": "SADECE \u00dcST R\u00dcTBEL\u0130 PERSONELE   
+
+\u0130kincil Arama & Kurtarma Hedefi: Baat Torgal  
+G\u00f6revi: Torgaljin \u015eirketinin Ba\u015fkan Yard\u0131mc\u0131s\u0131  
+Durum: Uzayda kay\u0131p, Ariadne Arm b\u00f6lgesinde  
+Kayboldu\u011fu zamanki ya\u015f\u0131: 19   
+
+- Paal Torgal'in tek \u00e7ocu\u011fu  
+- Geli\u015fmi\u015f \u00f6\u011frenme y\u00f6ntemleri ve beyin implantlar\u0131 yararlan\u0131c\u0131s\u0131  
+- Geli\u015fmi\u015f biyokimya ve y\u0131ld\u0131z ekonomisi dijital e\u011fitimi alm\u0131\u015f  
+- Mo\u011fol \u00f6zel g\u00f6revli Khasar, Baat'in babas\u0131 Paal'e e\u015flik etti\u011fini, Paal'in yeni yap\u0131lm\u0131\u015f uzay istasyonunda be\u015f y\u0131ld\u0131r Ba\u015f \u0130\u015fletme G\u00f6revlisi olarak hizmet verdi\u011fini bildirdi",
+    "Ency_MargueritMaidaBio": "Ara & Kurtar: Paal Torgal",
+    "EncyDesc_MargueritMaidaBio": "SADECE \u00dcST R\u00dcTBEL\u0130 PERSONELE   
+
+\u0130kincil Arama & Kurtarma Hedefi: Marguerit Maida  
+G\u00f6revi: G\u00fcvenlik Personeli  
+Durum: Uzayda kay\u0131p, Ariadne Arm b\u00f6lgesinde  
+Kayboldu\u011fu zamanki ya\u015f\u0131: 42   
+
+- Paral\u0131 asker, Mo\u011fol \u0130mparatorlu\u011funda do\u011fdu  
+- Gemiden gemiye ve yak\u0131n muharebe y\u00f6ntemlerinde deneyimli  
+- Mo\u011fol Savunma G\u00fcc\u00fcnde ve Trans-Federasyon Polis Ordusunda g\u00f6rev yapt\u0131  
+- 15 y\u0131l \u00f6nce g\u00f6revi d\u0131\u015f\u0131na \u00e7\u0131kmaktan TSA'dan onursuzca at\u0131ld\u0131 (ayr\u0131nt\u0131lar gizlidir)  
+- Mo\u011fol \u00f6zel g\u00f6revli Khasar, Maida'n\u0131n Degasi gemisinde ke\u015ffedilmemi\u015f uzayda Paal Torgal'a e\u015flik etmek ve gemiyi korsan sald\u0131r\u0131lar\u0131na kar\u015f\u0131 gemiyi savunmak i\u00e7in i\u015fe al\u0131nd\u0131\u011f\u0131n\u0131 bildirdi.",
+    "Ency_AuroraLaunchNews": "Alterra, Aurora'y\u0131 F\u0131rlatt\u0131",
+    "EncyDesc_AuroraLaunchNews": "
+ARIADNE ARM'A FAZ GE\u00c7\u0130D\u0130 YAPIMI DUYURULDU: ALTERRA, AURORA'YI FIRLATTI
+
+Alterra Teknolojileri, faz ge\u00e7idi teknolojisi ta\u015f\u0131yan, yeni yap\u0131lm\u0131\u015f ana gemi olan Aurora'y\u0131, yay\u0131lma amac\u0131yla uzay\u0131n en \u00fccra k\u00f6\u015felerine gitmek \u00fczere f\u0131rlatt\u0131.
+
+Aurora, Alterra uzay\u0131n\u0131n s\u0131n\u0131r\u0131ndaki uzay liman\u0131ndan yolculu\u011fa \u00e7\u0131kacak, dokuz trans-devlet yetkilisi arac\u0131l\u0131\u011f\u0131yla 324 ard\u0131\u015f\u0131k warp ge\u00e7idi atlamas\u0131 yapacak ve yakla\u015f\u0131k \u00fc\u00e7 ay i\u00e7inde Ariadne Arm'\u0131n uzak taraf\u0131ndaki g\u00fcne\u015f sistemlerine ula\u015facak. Buradan 100 g\u00fc\u00e7l\u00fc m\u00fcrettebat en uzak warp ge\u00e7idine kadar gemiyi kullanacak, yakla\u015f\u0131k 12 ay sonra 84763 isimli g\u00fcne\u015f sistemine ula\u015facak.
+
+Orada se\u00e7kin m\u00fchendislerden olu\u015fan bir tak\u0131m 6 ay yap\u0131m projesine ba\u015flayacak, iki y\u0131ldan daha az zamanda tam \u00e7al\u0131\u015f\u0131r durumda, yeni bir faz kap\u0131s\u0131 ortaya \u00e7\u0131kacak. Kap\u0131, onlar\u0131 eve daha h\u0131zl\u0131 yoldan geri getirece\u011finden dolay\u0131 ekip i\u015fin zaman\u0131nda bitmesi i\u00e7in istekli olacakt\u0131r.
+
+Alterra Teknolojileri, \u015fu an g\u00f6kadadaki t\u00fcm faz ge\u00e7itlerinin %9'unu i\u015fletiyor. E\u011fer Aurora'n\u0131n g\u00f6revi ba\u015far\u0131l\u0131 olursa Alterra, Mo\u011fol \u0130mparatorlu\u011fu'nda \u00e7e\u015fitli \u00f6zel \u00e7\u0131karlar\u0131 i\u00e7in, madencilik etkinlikleri ve ileri karakollar kurmada b\u00f6lgesel \u00fcst\u00fcnl\u00fc\u011f\u00fc ele ge\u00e7irecek.
+
+F\u0131rlatma t\u00f6reni her zamanki yaygaralarla ger\u00e7ekle\u015ftirildi...",
+    "Ency_IslandsPDABase1Interior": "Paal Torgal'in Kayd\u0131 #1",
+    "EncyDesc_IslandsPDABase1Interior": "Ben Paal Torgal, Torgaljin \u015eirketinin Y\u00f6netim Kurulu Ba\u015fkan\u0131y\u0131m. Ekibim ve ben, 5 hafta \u00f6nce gemimiz bir \u00e7e\u015fit silah taraf\u0131ndan vuruldu\u011fundan bu yana burada mahsur kald\u0131k.
+
+Gemiden geri d\u00f6n\u00fc\u015ft\u00fcrd\u00fc\u011f\u00fcm\u00fcz malzemelerle ya\u015fam alanlar\u0131 yapt\u0131k. Yerel bitki \u00f6rt\u00fcs\u00fcn\u00fc kullanarak hayatta kald\u0131k. Daha \u00f6nceden biyokimya k\u00fcnyesi alm\u0131\u015f olan o\u011flumu g\u00f6revlendirdim. Bize bir ay yetecek kadar yiyecek yeti\u015ftirdi. 
+
+\u015eimdi g\u00fcvenli\u011fimizden endi\u015feliyim. Yolculuk i\u00e7in i\u015fe ald\u0131\u011f\u0131m paral\u0131 asker Marguerit Maida giderek dengesizle\u015fiyor. Buray\u0131 terk ederek su alt\u0131nda bir ya\u015fam alan\u0131 yapmak i\u00e7in \u0131srar ediyor. Kendi planlar\u0131n\u0131 uygulamak i\u00e7in ya\u015fam alan\u0131m\u0131z\u0131 sabote etmesinden korkuyorum. Yine de yapmamam gerekti\u011fini bildi\u011fim halde ya\u015fanabilir su alan\u0131 ke\u015ffetme iste\u011fini kabul ettim. Umut ediyorum ki, okyanusun ne kadar ac\u0131mas\u0131z olaca\u011f\u0131n\u0131 h\u0131zla fark edecek ve bu aptalca h\u0131rstan vazge\u00e7ecektir.",
+    "Ency_IslandsPDABase1a": "Baat Torgal'in Kayd\u0131 #6?",
+    "EncyDesc_IslandsPDABase1a": "Berbat ettim. Bu sefer ge\u00e7ekten \u00e7ok k\u00f6t\u00fc. Olanlardan bu yana iki g\u00fcn ge\u00e7ti. Bu aday\u0131 asla terk etmemeliydik. Onlar\u0131 dinlememeliydim. O kadar derinlere inmemeliydik. Bizi a\u015fa\u011f\u0131da istemiyorlar. Bize g\u00fcvenmmiyorlar. Bunu biliyordum fakat s\u00f6ylemedim. Bunu g\u00f6rebiliyordum ama onlar g\u00f6remedi ve onlar \u015fimdi a\u015fa\u011f\u0131da mahsur kald\u0131lar. Ben ise yukar\u0131da yaln\u0131z\u0131m. Bunu hak ettim. ",
+    "Ency_IslandsPDABase1bDesk": "Degasi Ses Kayd\u0131 #1",
+    "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT: B\u00f6yle olmayacak, Kaptan. Degasi'den yeterince hurda \u00e7\u0131kard\u0131k, ne i\u00e7in, bir \u00e7ift g\u00f6zlemevi i\u00e7in mi? 
+PAAL: Yeterli olacakt\u0131r. 
+MARGUERIT: \u015eimdilik. Ve sonra bitece\u011fiz. Bu adada yap\u0131 malzemeleri yok. Suya tekrar girmek zorunday\u0131z. Ba\u015fka yolu yok.  
+PAAL: Bu ada g\u00fcvenli. Topraklar bereketli. Y\u0131rt\u0131c\u0131lar yok. Bar\u0131nak do\u011fadan. 
+MARGUERIT: Su ar\u0131t\u0131m sistemine ihtiyac\u0131m\u0131z var, biraz g\u00f6vde g\u00fc\u00e7lendirmesine, belki bir \u0131s\u0131l enerji \u00fcretecine ya da iki tane... 
+PAAL: Ben karar\u0131m\u0131 verdim. Biraz y\u00fczebilmek i\u00e7in komisyonunu kaybetmek mi istiyorsun?
+MARGUERIT: \u0130nan bana, bunu d\u00fc\u015f\u00fcn\u00fcyorum. 
+BAAT: \u015eu da\u011flar g\u00fcne\u015fi \u00e7ok iyi g\u00f6r\u00fcyor gibi duruyorlar. E\u011fer g\u00f6zlemevlerini oraya yaparsak, san\u0131r\u0131m bizi hayatta tutabilecek kadar yeterli yiyecek yeti\u015ftirebilirim. Bence bu i\u015fe yarayacak.
+PAAL: Bunu duydun mu? 10 milyon kredilik biyokimya e\u011fitimi alm\u0131\u015f birinden daha iyi bildi\u011fini mi san\u0131yorsun? 
+MARGUERIT: \u00c7ocuktan \u015f\u00fcphem yok. T\u00fcm s\u00f6ylemek istedi\u011fim, okyanus her taraf\u0131m\u0131zda. Saklanman\u0131n faydas\u0131 yok. 
+PAAL: Hay\u0131r. Yapaca\u011f\u0131m\u0131z yer buras\u0131. Ancak bu \u015fekilde hayatta kalabiliriz.",
+    "Ency_IslandsPDABase1Desk": "Degasi Ses Kayd\u0131 #2",
+    "EncyDesc_IslandsPDABase1Desk": "PAAL: Senin ya\u015fam\u0131n daha de\u011ferli. Oraya gitmeni yasakl\u0131yorum. 
+BAAT: Gemiyi d\u00fc\u015f\u00fcrd\u00fc\u011f\u00fcnden bu yana senden izin almama gerek kalmad\u0131. 
+PAAL: Senin baban olmaktan vazge\u00e7ti\u011fim g\u00fcn ancak benden izin almay\u0131 b\u0131rakabilirsin. 
+MAIDA: Hey, Kaptan. Kaptan!  
+PAAL: Ne? 
+MAIDA: 40 ton sel suyunu oradaki yeti\u015ftirme yataklar\u0131ndan nas\u0131l bo\u015faltabilece\u011fimiz biliyor musun? Ya da \u00fc\u00e7 ki\u015fiye \u00f6n\u00fcm\u00fczdeki iki hafta yetecek yiyece\u011fi nerede bulabilece\u011fimizi? 
+PAAL: Hay\u0131r bilmiyorum. 
+MAIDA: Peki bug\u00fcn o\u011flunun hayat\u0131 daha de\u011ferli, ya e\u011fer \u00f6n\u00fcm\u00fczdeki hafta \u00e7ok ac\u0131kt\u0131\u011f\u0131nda onun tad\u0131n\u0131n neye benzedi\u011fini merak edersen ne olacak? B\u0131rak da bitkileri kurtars\u0131n. 
+PAAL: O\u011flum, git ve bitkileri kurtar. 
+CPU: Baat Torgal art\u0131k ya\u015fam alan\u0131 i\u00e7inde de\u011fil. 
+PAAL: Aileme tekrar m\u00fcdahale edersen ve kurtarma ekipleri geldi\u011finde seni burada b\u0131rak\u0131r\u0131m. Anlad\u0131n m\u0131 beni? 
+MAIDA: Kurtarma ekibi falan gelmiyor, Kaptan. Bu sefer de\u011fil. Ayr\u0131ca hi\u00e7birimiz burada kalmaycak. Ya\u011fmur devam ediyor ve er ya da ge\u00e7 buras\u0131 sular alt\u0131na g\u00f6m\u00fclecek. Elimizdeki tek se\u00e7enek burada g\u00f6m\u00fcl\u00fcp gitmek. 
+PAAL: O\u011flumdan uzak dur.",
+    "Ency_IslandsPDAExterior": "Degasi Ses Kayd\u0131 #3",
+    "EncyDesc_IslandsPDAExterior": "MARGUERIT: G\u00f6r\u00fcyor musun, Kaptan? Bu lanet gezegene bizi sen getirdin. Bize \u00f6deme yapaca\u011f\u0131n\u0131 s\u00f6yledin. \u015eimdi elimizde ne var? Ekibimizin yar\u0131s\u0131 \u00f6ld\u00fc. Odam\u0131z\u0131n \u00f6n\u00fcnde lanet bir pislik y\u0131\u011f\u0131n\u0131 var. Ya\u011fmur pencerelerden i\u00e7eri giriyor.  
+PAAL: Yani, sen bu kazay\u0131 nas\u0131l \u00f6nleyebilece\u011fimizi biliyordun?  
+MARGEURIT: Ben planlanmam\u0131\u015f i\u015flerden ka\u00e7\u0131nmay\u0131 \u00f6\u011frendim. Sen ASLA ders \u00e7\u0131karm\u0131yorsun. Bir \u015feyler \u00f6\u011frenmenin illa ki zor yolunu buluyorsun. \u015eimdi anlad\u0131n m\u0131?  
+PAAL: Tam olarak ne \u00f6neriyorsun?  
+MARGEURIT: Zaman\u0131m\u0131z\u0131 deniz dibine \u00e7\u00f6ken titanyumu \u00e7\u0131karmak i\u00e7in mi harcayal\u0131m ya da bu \u015feyi kafana vurmam\u0131 m\u0131 istersin?  
+PAAL: Su alt\u0131na ya\u015fam alan\u0131 in\u015fa edersek yiyece\u011fi nas\u0131l elde edece\u011fiz? \u0130\u00e7me suyunu? G\u00fcc\u00fc?  
+MARGEURIT: Bal\u0131k tutar\u0131z. Su ar\u0131t\u0131m\u0131 yapar\u0131z. Yeterince derine inersek s\u0131cak yanarda\u011f a\u011f\u0131zlar\u0131n\u0131 buluruz - kullanabilece\u011fimizden fazla g\u00fc\u00e7 elde ederiz. Kaptan, hi\u00e7 olmazsa lanet yosun salatas\u0131ndan yeriz. Ya da sen daha iyisini yapars\u0131n?  
+BAAT: San\u0131r\u0131m ben g\u00fczel bir yosun salatas\u0131 yapabilirim.  
+PAAL: O\u011flum, yeti\u015fkinler konu\u015fuyor.  
+BAAT: \u00c7ok ciddiyim, baba. E\u011fer karada meyve yeti\u015ftirebiliyorsam, su alt\u0131nda da yosun yeti\u015ftirebilirim. Bal\u0131k \u00fcretimi yapabiliriz. Baba, hepimizi uzun s\u00fcre hayatta tutabilirim. Bunu yapmaya devam edebilirim.",
+    "Ency_JellyPDABrokenCorridor": "Degasi Ses Kayd\u0131 #4 - J\u00f6le Mantarlar\u0131na Var\u0131\u015f",
+    "EncyDesc_JellyPDABrokenCorridor": "BAAT: Buras\u0131 iyi.  
+PAAL: Hi\u00e7 bekledi\u011fim gibi de\u011fil. G\u00f6vde yap\u0131s\u0131na bas\u0131nca kar\u015f\u0131 ne yapt\u0131n\u0131z?  
+MARGUERIT: G\u00f6vdeyi g\u00fc\u00e7lendirdim, b\u00f6lme kap\u0131lar\u0131 takt\u0131m.  
+PAAL: Pekala.  
+BAAT: G\u00f6zlemevi g\u00fcvertesi yapt\u0131k. Burada \u00e7ok \u015fey \u00f6\u011frenebiliriz.  
+MARGUERIT: \u015eimdi, temeller... \u00e7ok iyi durumda de\u011filler. Ama sizi temin ederim, e\u011fer burada kayma olursa d\u00fc\u015f\u00fc\u015f bizi \u00f6ld\u00fcrmeyecek.",
+    "Ency_JellyPDARoom2Desk": "Degasi Ses Kayd\u0131 #5 - Daha derine?!",
+    "EncyDesc_JellyPDARoom2Desk": "PAAL: Zaten denizin 300m alt\u0131na indik! Daha DER\u0130NE mi inmek istiyorsun?! 
+MARGUERIT: Etraf\u0131na bak, Kaptan. Ne g\u00f6r\u00fcyorum biliyor musun? Su. Su g\u00f6vdeden s\u0131z\u0131yor. Su kapa\u011f\u0131n d\u0131\u015f\u0131nda. Su \u00fcst\u00fcmde, su alt\u0131mda. Sadece lanet su, Kaptan. Bo\u011fuluyoruz. Yava\u015f\u00e7a. Kalan birka\u00e7 g\u00fcn\u00fcm\u00fcz\u00fc suya girmekten korktu\u011fun i\u00e7in sahilde meyve yiyerek mi ge\u00e7irmek istiyorsun?  
+PAAL: Peki SEN ne istiyorsun? 
+MARGUERIT: Ben bu lanet gezegenden nas\u0131l gidebilece\u011fimi \u00f6\u011frenmek istiyorum..",
+    "Ency_JellyPDAObservatory": "Baat Torgal'in Kayd\u0131 #1",
+    "EncyDesc_JellyPDAObservatory": "TAMAM, durum \u015fu. Gemi enkaz\u0131ndan \u00e7\u0131kard\u0131\u011f\u0131m\u0131z g\u00fc\u00e7lendirilmi\u015f cam\u0131m\u0131z bitti, yani g\u00f6zlem odas\u0131 yapamay\u0131z gibi duruyor. Marguerit ne yap\u0131yor; \u00fczerinde sadece \u0131s\u0131l b\u0131\u00e7akla Seamoth'u al\u0131p su yosunu ormanlar\u0131na gidiyor ve deniz taban\u0131nda izcilerle bo\u011fu\u015fup di\u015flerini getiriyor.   
+
+Bir uzayl\u0131 k\u00f6pekbal\u0131\u011f\u0131 ile yumruk yumru\u011fa m\u00fccadeleye giriyor ve buraya onun D\u0130\u015eLER\u0130N\u0130 getiriyor. Art\u0131k ihtiyac\u0131m\u0131z olan g\u00fc\u00e7lendirilmi\u015f cam\u0131 \u00fcretebiliriz.  
+
+Bir yandan, bu duydu\u011fum en \u00e7\u0131lg\u0131nca \u015fey ve ben, bu \u015firin g\u00f6zlem odas\u0131nda oturup \u0131s\u0131rganlar\u0131n zarars\u0131zca cama \u00e7arp\u0131\u015flar\u0131n\u0131 seyrediyorum.  
+
+\u00d6b\u00fcr taraftan, buna de\u011fdi mi? Bu yarat\u0131k hayatta kald\u0131 m\u0131? Di\u015fleri ne kadar h\u0131zla b\u00fcy\u00fcyor? Ekosisteme zarar vermeden malzeme \u00fcretmenin bir yolu var m\u0131? Diye d\u00fc\u015f\u00fcn\u00fcyorum.  
+
+E\u011fer b\u00fcy\u00fck boyutlu bir akvaryumumuz olsayd\u0131, bu yabanc\u0131 canl\u0131 t\u00fcrlerini yak\u0131ndan inceleyebilirdik. Yan\u0131tlar\u0131 bulmam gerek.",
+    "Ency_JellyPDARoom1Desk": "Baat Torgal'in Kayd\u0131 #2",
+    "EncyDesc_JellyPDARoom1Desk": "Bu ya\u015fam b\u00f6lmelerinde bir ayd\u0131r ya\u015f\u0131yoruz. Bu, heyecan verici ama d\u00fc\u015f\u00fcnd\u00fc\u011f\u00fcmden daha klostrofobik. Bu ma\u011faralarda pek \u00e7ok y\u0131rt\u0131c\u0131 var, Marguerit oraya gidebilebilen tek ki\u015fi.   
+
+Burada hayat hep \u0130NANILMAZ. Marguerit hayal edebilece\u011fin en vah\u015fi t\u00fcrleri bulup getiriyor. TAMAM, bitki \u00f6rt\u00fcs\u00fc yenmez. Bunu zor yoldan \u00f6\u011frendim. Ama bal\u0131klar... burada PARLIYORLAR. Birinin %90'\u0131 g\u00f6zden olu\u015fuyor. Y\u0131lanlar, iki cam koridor b\u00f6lmesi uzunlukta.   
+
+Uygun bir laboratuvar ve donan\u0131m olmadan \u00e7al\u0131\u015fmak kolay de\u011fil, ama bazen, g\u00f6zlem yapma, not alma, kuramlar\u0131 deneme gibi eski y\u00f6ntemler, spektroskobik incelemenin asla ortaya bulamayaca\u011f\u0131 \u015feyleri ortaya \u00e7\u0131kar\u0131yor.  
+
+\u00d6rne\u011fin, burada mor mantarlar\u0131 evi olarak kullanan deniz y\u0131lanlar\u0131n\u0131 seyrediyordum. Avlar\u0131n\u0131 bekliyorlar ve yak\u0131nlarda dola\u015fan k\u00fc\u00e7\u00fck ot\u00e7ullara sald\u0131r\u0131yorlar. Yakalay\u0131p yemediklerini deniz taban\u0131na b\u0131rak\u0131yorlar, mantarlar bunlarla g\u00fcbreleniyor, ot\u00e7ullar mantarlarla besleniyor ve zincir b\u00f6yle devam ediyor. Birlikte-evrim tam anlam\u0131yla akl\u0131m\u0131 u\u00e7uruyor.",
+    "Ency_JellyPDARoom1Locker": "Paal Torgal'in Kayd\u0131 #2",
+    "EncyDesc_JellyPDARoom1Locker": "Maida'n\u0131n bug\u00fcn bana ne sordu\u011funu biliyor musun? 'Cyclops Denizalt\u0131s\u0131n\u0131 duydun mu' diye sordu bana. BANA. Nept\u00fcn'e y\u0131ld\u0131z balinas\u0131, Federasyona plasteel ta\u015f\u0131d\u0131m... bu aile Ariadne Arm'da dokuz farkl\u0131 maden s\u00f6m\u00fcrgesi \u00e7al\u0131\u015ft\u0131r\u0131yor. Benim Cyclops'u ne oldu\u011funu bilmedi\u011fimi mi san\u0131yor?! Kendinin yetkili oldu\u011funu mu san\u0131yor? Ama s\u00f6zle\u015fmesi tam tersini s\u00f6yl\u00fcyor.   
+
+Neyse, deniz seviyesinin 700m alt\u0131nda, buradan bir kilometre do\u011fuya ya\u015fam alan\u0131 yapmak istiyor. Beni ve Baat'\u0131 bu d\u00fc\u015f\u00fcnceye itmeye \u00e7al\u0131\u015f\u0131yor. Kafas\u0131nda kurtarma ekibinin gelmeyece\u011fi fikri dola\u015f\u0131yor. E\u011fer yeterince pervas\u0131zca davran\u0131rsa belki bizi kurtarabilir.   
+
+Ve lanet olsun ki bunun duydu\u011fum en aptalca fikir oldu\u011funu ya da tek umudum oldu\u011funu itiraf edemiyorum. Ge\u00e7en hafta 80 ya\u015f\u0131ma girdim. Bir 80 y\u0131l\u0131m\u0131n daha oldu\u011funu d\u00fc\u015f\u00fcn\u00fcyordum. Ama burada k\u0131s\u0131l\u0131 kald\u0131m, ya\u015fl\u0131 ci\u011ferim \u00e7al\u0131\u015fmad\u0131\u011f\u0131nda nefessiz kal\u0131yorum. A\u015fa\u011f\u0131da bir \u00f6l\u00fcml\u00fcy\u00fcm ve zaman\u0131m t\u00fckeniyor.   
+
+Se\u00e7im yapmak benim sorumlulu\u011fumda. Adaya d\u00f6nmek ve Degasi'nin g\u00f6ky\u00fcz\u00fcnden d\u00fc\u015fmesine ne sebep olduysa kurtarma gemisine de olmamas\u0131n\u0131 umut etmek ya da derinlerde cevap aramaya gitmek ve bu s\u00fcrede ya\u015fl\u0131l\u0131\u011f\u0131m\u0131n beni deniz canavarlar\u0131ndan daha \u00f6nce yakalamas\u0131n\u0131 ummak.   
+
+Maida'ya tek bir \u015fey verece\u011fim. Bu ma\u011faralarla hakk\u0131nda do\u011fru s\u00f6yl\u00fcyordu. Burada y\u00fcz ton plasteel yapmak i\u00e7in yetecek lityum var. Lanet bir denizalt\u0131 F\u0130LOSU yapmak i\u00e7in yeterli. Buraya \u00e7ak\u0131lmamak i\u00e7in kimsenin yapabilece\u011fi bir \u015fey yoktu, ama ben rotadan sapma konusunda hakl\u0131yd\u0131m. Bu gezegenden kurtuldu\u011fumuzda Federasyonun di\u011fer taraf\u0131nda Torgaljin \u015eirketi'nin hisse de\u011ferlerini konu\u015fmaya ba\u015flayacaklar.",
+    "Ency_JellyPDAExterior": "Marguerit Maida'n\u0131n Kayd\u0131 #1",
+    "EncyDesc_JellyPDAExterior": "Bu lanet kurumsal, burjuva, \u00f6z\u00fcrl\u00fc, beceriksiz, kendini be\u011fenmi\u015f P\u0130SL\u0130KLER\u0130N elinde lanet bir ipucu dahi yok. Yemin ederim, o aptal\u0131n a\u011fz\u0131ndan \u00e7\u0131kan her \u015fey narsist bir yalan. Burada kalmak m\u0131 istiyor, kendi sorunu. B\u00fct\u00fcn a\u011f\u0131r i\u015fleri ben yap\u0131yorum. S\u00f6zle\u015fmeye lanet olsun. \u0130kramiyesine lanet olsun. Komutaya lanet olsun. Bir denizalt\u0131 yap\u0131yorum ve daha derine inece\u011fim.   
+
+Operasyon i\u00e7in haz\u0131rl\u0131klara ba\u015flad\u0131m. \u00c7ocu\u011fun \u00fcretim \u00e7iftli\u011fi bunun i\u00e7in \u00e7ok de\u011ferli. Elinden bal\u0131k yemek i\u00e7in e\u011fitilmi\u015f koca bir s\u00fcr\u00fc varken izci di\u015fleri i\u00e7in y\u00fczeye gitmeye gerek yok. Torgaller uykuya dald\u0131klar\u0131nda izcilerin di\u015flerini s\u00f6kmeye ve denizalt\u0131 yap\u0131m\u0131 i\u00e7in emaye ve metal cevherlerini depolamaya ba\u015flad\u0131m.  
+
+Kahrolas\u0131 deniz canavarlar\u0131 sizi avlamaya geldi\u011finde ka\u00e7\u0131p, saklanmay\u0131n. Onlar\u0131 avlay\u0131n. Avlad\u0131klar\u0131n\u0131z\u0131n kemiklerinden daha b\u00fcy\u00fck tekneler yap\u0131n ve daha b\u00fcy\u00fck canavarlar avlamaya gidin. Sizi yakalayacak canavar kalmayana dek bunu tekrarlay\u0131n.",
+    "Ency_JellyPDARoom2Locker": "Degasi Ses Kayd\u0131 #6 - \u0130lgin\u00e7 Ke\u015fif",
+    "EncyDesc_JellyPDARoom2Locker": "PAAL: Bu \u015fey de ne? 
+MARGUERIT: Bilmiyorum. 
+PAAL: Ba\u015fka bir geminin par\u00e7as\u0131 m\u0131? 
+MARGUERIT: \u015eimdiye kadar hi\u00e7 b\u00f6yle bir \u015fey g\u00f6rmedim. 
+BAAT: \u00c7ok iyi durumda g\u00f6r\u00fcn\u00fcyor. Bir \u00e7izik bile yok. Burada \u00fcretilmi\u015f olabilir, bu gezegende. 
+PAAL: Dokunma, de\u011ferli bir \u015fey olabilir. Sana dokunma dedim! 
+MARGUERIT: Sakin ol, Kaptan, Sadece bak\u0131yorum. E\u011fer da\u011f\u0131l\u0131p gidecek olsayd\u0131 elime ald\u0131\u011f\u0131mda olurdu. 
+BAAT: Parl\u0131yor. 
+PAAL: H\u00e2l\u00e2 g\u00fcc\u00fc var m\u0131? Birileri k\u0131sa s\u00fcre \u00f6nce buradaym\u0131\u015f. 
+BAAT: Ya \u00f6yle ya da uzun zaman \u00f6nce burada unutulmu\u015f.",
+    "Ency_DeepPDABase3": "Degasi Ses Kayd\u0131 #7",
+    "EncyDesc_DeepPDABase3": "BAAT: Durun, \u0130kiniz de! Hepimiz hastay\u0131z.
+MARGUERIT: Ne? 
+PAAL: Nas\u0131l? 
+BAAT: \u00d6ks\u00fcr\u00fcyorsunuz, de\u011fil mi? Ka\u015f\u0131nt\u0131 hissediyorsunuz? 
+MARGUERIT: Evet. 
+BAAT: Havay\u0131 soludu\u011fumuz andan beri hastay\u0131z. 
+PAAL: Dal\u0131\u015f k\u0131yafetimizin ya\u015famsal izleyicisi bizi uyarm\u0131\u015f olmal\u0131yd\u0131.
+BAAT: Bu yeni bir \u015fey. Bakteriyel bir hastal\u0131k.
+MARGUERIT: Ne yapabiliriz? 
+BAAT: Yapacak fazla bir \u015fey yok. Bakteri ak\u0131ll\u0131. Yeterli bir s\u00fcre sonra san\u0131r\u0131m genetik yap\u0131m\u0131z\u0131 de\u011fi\u015ftirmeye ba\u015flayabilir. Bundan sonras\u0131 \u00e7ok \u00e7irkinle\u015febilir. 
+PAAL: Ne yapabilirsin? 
+BAAT: San\u0131r\u0131m onu yava\u015flatabilirim.  
+PAAL: Bunu nas\u0131l fark ettin? 
+BAAT: Her yerdeydi, sadece g\u00f6remiyordum. Bu gezegendeki her yer hastal\u0131kl\u0131. Bu, ekosistemin bir par\u00e7as\u0131.
+MARGUERIT: Her yerde varsa ne kadar k\u00f6t\u00fc olabilir ki? 
+BAAT: Yerel ya\u015fam t\u00fcrleri bununla ba\u015fa \u00e7\u0131kmak i\u00e7in geli\u015fmi\u015f olmal\u0131. Bizde o \u00f6zellik yok. 
+PAAL: Hen\u00fcz. Sana g\u00fcvenim tam, o\u011flum, bizi bundan kurtarman\u0131n yolunu bulacaks\u0131n. 
+MARGUERIT: Neye ihtiyac\u0131n varsa s\u00f6yle, \u00e7ocuk.",
+    "BaseMapRoomFragment": "Tarama Odas\u0131 Tasar\u0131m\u0131",
+    "BaseMapRoom": "Tarama odas\u0131",
+    "Tooltip_BaseMapRoom": "Tarama Odas\u0131",
+    "RecipeUnlocked": "{0} tarif a\u00e7\u0131ld\u0131",
+    "TechTypeUnlocked": "{0} a\u00e7\u0131ld\u0131",
+    "MapRoomCameraInfo": "{0} . Kamera",
+    "MapRoomCameraControls": "Kameralar aras\u0131nda ge\u00e7i\u015f yapmak i\u00e7in fare d\u00fc\u011fmelerini t\u0131klay\u0131n",
+    "MapRoomCameraDistance": "UZAKLIK: {0}",
+    "MapRoomCameraDepth": "DER\u0130NL\u0130K: {0}",
+    "EncyPath_DownloadedData\/Lifepods": "Ya\u015fam Kozalar\u0131",
+    "EncyPath_DownloadedData\/AuroraSurvivors": "Aurora'dan Kurtulanlar",
+    "Ency_Lifepod1": "Danby'nin U\u00e7u\u015f Kayd\u0131",
+    "EncyDesc_Lifepod1": "Ben tabip subay Danby, y\u00fcksek h\u0131zla atmosfere girdim, gezegene 20 saniye i\u00e7inde \u00e7arpaca\u011f\u0131m! *Patlama* Yang\u0131n \u00e7\u0131kt\u0131! Koza d\u00f6nmeye ba\u015flad\u0131! \u00c7abal\u0131yorum- *Parazit*",
+    "Ency_Lifepod2": "Ya\u015fam Kozas\u0131 U\u00e7u\u015f Kayd\u0131 #1",
+    "EncyDesc_Lifepod2": "YOLCU: Bat\u0131yoruz! 
+M\u00dcRETTEBAT: Han\u0131mefendi, Elimden gelen her \u015feyi yap\u0131yorum! 
+YOLCU: Destek ekipleri nerede?! 
+M\u00dcRETTEBAT: Yoldalar, Han\u0131mefendi! 
+YOLCU: Telsizdeki ses b\u00f6yle demiyordu! 
+M\u00dcRETTEBAT: Han\u0131mefendi, oldu\u011funuz yerde kalman\u0131z\u0131 rica ediyorum! Bilgisayar hen\u00fcz durum incelemesini tamamlamad\u0131, d\u0131\u015far\u0131da ne oldu\u011fu hakk\u0131nda hi\u00e7bir fikrimiz yok! 
+YOLCU: Burada bo\u011fulmayaca\u011f\u0131m! 
+M\u00dcRETTEBAT: Han\u0131mefendi, geri d\u00f6n\u00fcn, d\u0131\u015far\u0131s\u0131 g\u00fcvenli de\u011fil! 
+*Reaper sesleri*",
+    "Ency_Lifepod3": "M\u00fchendislerin U\u00e7u\u015f Kayd\u0131",
+    "EncyDesc_Lifepod3": "PDA: Durum incelemesi tamamland\u0131.\u0130leti\u015fim r\u00f6lesi devre d\u0131\u015f\u0131. 
+1.M\u00dcHEND\u0130S: Lanet olsun! Telsiz ileti\u015fimi olmadan nas\u0131l toplanaca\u011f\u0131z? 
+2.M\u00dcHEND\u0130S: Pusula i\u00e7in malzememiz var. Bunu eski y\u00f6ntemle yapaca\u011f\u0131z. 
+1.M\u00dcHEND\u0130S: Pusula m\u0131 yapmak istiyorsun? 
+2.M\u00dcHEND\u0130S: Neden burada dural\u0131m? Di\u011ferlerini bulabilirsek dal\u0131\u015f giysileri yapabiliriz. Ya\u015fam b\u00f6lmeleri yapabiliriz. Belki Aurora'ya bile yapabiliriz ve y\u0131ld\u0131zlaras\u0131 ileti\u015fimi tekrar etkinle\u015ftirebiliriz. Kaynak makinen var m\u0131? 
+1.M\u00dcHEND\u0130S: Evet, ben- Kahretsin, d\u0131\u015f g\u00fcvertede b\u0131rakt\u0131m. 
+2.M\u00dcHEND\u0130S: Sorun de\u011fil. 
+1.M\u00dcHEND\u0130S: Hay\u0131r, i\u015fi berbat ettim. 
+2.M\u00dcHEND\u0130S: Hay\u0131r, bunu yapabiliriz. T\u00fcm ihtiyac\u0131m\u0131z olan baz\u0131 temel maddeler. Bu gezegen bombo\u015f olamaz. Hadi gidip d\u0131\u015far\u0131y\u0131 ara\u015ft\u0131ral\u0131m.",
+    "Ency_Lifepod4": "\u00d6zel G\u00f6revli Khasar'\u0131n U\u00e7u\u015f Kayd\u0131",
+    "EncyDesc_Lifepod4": "Karakutu verisi #345 
+00:00 Ka\u00e7\u0131\u015f kozas\u0131 sistemleri devrede. 
+00:03 07.yolu '\u00d6zel G\u00f6revli Jochi Khasar' ya\u015fam kozas\u0131na bindi. 
+00:07 Ya\u015fam kozas\u0131 f\u0131rlatma i\u015flemleri ba\u015flat\u0131ld\u0131. 
+00:15 Ya\u015fam kozas\u0131 Aurora'dan ba\u015far\u0131l\u0131 \u015fekilde ayr\u0131ld\u0131. 
+00:17 Yerle\u015fik mikrofonlar ses kayd\u0131 alg\u0131lad\u0131, kaydediliyor: 
+'Esirgeyen ve ba\u011f\u0131\u015flayan Allah'\u0131n ad\u0131yla. Rahman ve rahim olan Alemlerin Rabbine hamd olsun. Bize bu g\u00fcn r\u0131zk\u0131m\u0131z\u0131 ver ve bizden memnuniyet arayanlardan oldu\u011fumuz gibi sen bizden memnun ol.'  
+
+00:33 Gezegen atmosferine giriliyor. 
+00:35 D\u0131\u015f s\u0131cakl\u0131k ciddi d\u00fczeye ula\u015fmak \u00fczere.  
+
+00:37 'Bizi do\u011fru yola, nimete erdirdi\u011fin kimselerin yoluna eri\u015ftir. Hayatta, do\u011fruluk ve sevgi, ger\u00e7e\u011fin par\u00e7alar\u0131d\u0131r. Maddede, \u0130lke ve Ak\u0131l, insan\u0131n sureti ve g\u00f6r\u00fcnt\u00fcs\u00fcd\u00fcr. Birlik oldu\u011fumuzda g\u00fc\u00e7l\u00fcy\u00fcz. Sonsuza dek ve daima. Amin.'  
+
+01:02 D\u0131\u015f g\u00f6vde hasar ald\u0131. 
+01:05 Ya\u015fam destek sistemleri ar\u0131zaland\u0131. 
+01:06 \u00c7arp\u0131\u015fma an meselesi.",
+    "Ency_LifepodSeaglide": "Ya\u015fam Kozas\u0131 Ses Kayd\u0131 #1",
+    "EncyDesc_LifepodSeaglide": "Bu son bildiri olabilir. Ya\u015fam kozas\u0131 d\u00fc\u015f\u00fc\u015fe dayan\u0131kl\u0131 yap\u0131lm\u0131\u015f, ama \u015fu an uzayl\u0131 sucul y\u0131rt\u0131c\u0131larla \u00e7evrili durumda. \u00dczerleri bir z\u0131rh gibi kabukla kapl\u0131 ve kapa\u011f\u0131 a\u00e7t\u0131\u011f\u0131m anda sald\u0131r\u0131yorlar. \u0130lkine elimdeki ya\u015famsal b\u0131\u00e7akla sald\u0131r\u0131d\u0131m ama b\u0131\u00e7ak kabuk katmanlar\u0131na sapland\u0131. Ayd\u0131nlatma fi\u015fe\u011fi ile dikkatlerini da\u011f\u0131tmaya \u00e7al\u0131\u015ft\u0131m - i\u015fe yaramad\u0131. \u00c7ekme-itme silah\u0131 yok. Durdurma t\u00fcfe\u011fi yok. \u00c7\u0131kar yolu yok.   
+
+Bir dalg\u0131\u00e7 iti\u015f arac\u0131 yapmak i\u00e7in ya\u015fam kozas\u0131n\u0131n bir miktar elektri\u011fini harcad\u0131m. Tek umudum onlardan ka\u00e7arak kurtulmak. Bana \u015fans dileyin.",
+    "Ency_LifepodKeenDialog": "Subay Keen'in U\u00e7u\u015f Kayd\u0131",
+    "EncyDesc_LifepodKeenDialog": "KAPTAN: Keen! Buras\u0131 Aurora, cevap ver! 
+KEEN: Seni duyuyorum, Kaptan! 
+KAPTAN: Bilgisayar belirtilen konumda kara par\u00e7as\u0131 tespit etti! M\u00fcrettebat\u0131 orada toplaman\u0131 istiyorum! 
+KEEN: Anla\u015f\u0131ld\u0131, ama- 
+KAPTAN: Onlar senin sorumlulu\u011funda, beni hayal k\u0131r\u0131kl\u0131\u011f\u0131na u\u011fratma! 
+KEEN: Kaptan, oradan \u00e7\u0131kman\u0131z gerek! 
+*Aurora'da patlama* 
+KEEN: Kaptan?!",
+    "Ency_LifepodKeenLog": "Subay Keen'in Kayd\u0131 #1",
+    "EncyDesc_LifepodKeenLog": "T\u00fcm m\u00fcrettebata - E\u011fer bunu okuyorsan\u0131z bu ya\u015fam kozas\u0131n\u0131n yerle\u015fik bilgisayar\u0131 taraf\u0131ndan g\u00f6nderilen protokole ayk\u0131r\u0131 bir acil durum sinyaline uydunuz demektir. Benim ya\u015fam kozam \u00e7arp\u0131\u015fmada hasar ald\u0131 ve kozay\u0131 terk etmek zorunda kald\u0131m. Emirleriniz, benim g\u00fcvenli\u011fimi g\u00f6z ard\u0131 etmek ve tekrardan belirlenen en yak\u0131n kara par\u00e7as\u0131ndaki toplanma konumuna ula\u015fmay\u0131 denemektir. Umar\u0131m orada g\u00f6r\u00fc\u015f\u00fcr\u00fcz.  
+
+- \u0130kinci Kaptan Keen",
+    "Ency_LifepodCrashZone1": "Ya\u015fam Kozas\u0131 Ses Kayd\u0131 #2",
+    "EncyDesc_LifepodCrashZone1": "M\u00dcRETTEBAT: Sakin olman\u0131z\u0131 istiyorum. G\u00f6vdede hasar yok. Do\u011frudan bir tehlike i\u00e7inde de\u011filiz. 
+YOLCU: Kurtarma ekipleri nerede?! 
+M\u00dcRETTEBAT: Aurora ba\u015faramad\u0131, han\u0131mefendi. 
+YOLCU: Ne demek istiyorsun? 
+M\u00dcRETTEBAT: \u00d6ld\u00fcler, han\u0131mefendi. Hepsi \u00f6ld\u00fc. 
+YOLCU: Bu konuda ne yapmay\u0131 d\u00fc\u015f\u00fcn\u00fcyorsun? 
+M\u00dcRETTEBAT: Burada kurtar\u0131lmay\u0131 bekleyemeyiz. I\u015f\u0131n\u0131m giysisi yap\u0131p kaza alan\u0131na gidece\u011fiz. 
+PDA: B\u00f6lgesel metal y\u0131\u011f\u0131n\u0131 alg\u0131land\u0131. 
+M\u00dcRETTEBAT: \u00dcreticinin PDA aray\u00fcz\u00fc tamam. Malzemeler i\u00e7in d\u0131\u015far\u0131 \u00e7\u0131kaca\u011f\u0131z. 
+YOLCU: Biz mi?! Bu sizin i\u015finiz de\u011fil mi? Ya yolcular\u0131n g\u00fcvenli\u011fi! 
+M\u00dcRETTEBAT: Makul durumlar i\u00e7inde g\u00fcvenli\u011finiz bizim sorumlulu\u011fumuzda. 
+YOLCU: Affedersiniz? 
+M\u00dcRETTEBAT: Bo\u015f verin, Ben giderim. Meraklanmay\u0131n, ikimiz i\u00e7in yeterli malzeme bulaca\u011f\u0131m.",
+    "Ency_LifepodCrashZone2": "Ya\u015fam Kozas\u0131 Ses Kayd\u0131 #3",
+    "EncyDesc_LifepodCrashZone2": "*Kapak kapan\u0131r* 
+M\u00dcRETTEBAT: *\u00d6ks\u00fcrme* Bunu al\u0131n. 
+YOLCU: Ne yapay\u0131m?! 
+M\u00dcRETTEBAT: \u00dcreticinin \u00f6n programlamas\u0131n\u0131 yapt\u0131m, sadece malzemeyi yerle\u015ftirin! 
+FABRICATOR: I\u015f\u0131n\u0131m giysisi \u00fcretildi. 
+YOLCU: Sadece bir tanesine yetecek malzeme oldu\u011funu s\u00f6yl\u00fcyor. 
+M\u00dcRETTEBAT: T\u00fcm bulabildi\u011fim bu kadar. Bunu giyeceksiniz. 
+YOLCU: A\u00e7\u0131k olal\u0131m, beni burada m\u0131 b\u0131rakmak istiyorsun? 
+M\u00dcRETTEBAT: Kahretsin, hay\u0131r! Bulu\u015fma noktas\u0131nda Subay Keen'i bulun ve bana birisi \u0131\u015f\u0131n\u0131m kar\u015f\u0131 t\u0131bbi malzeme getirsin, sizi beceriksiz, nank\u00f6r- 
+YOLCU: B\u00f6yle davranacaksan- 
+M\u00dcRETTEBAT: *\u015eiddetli \u00f6ks\u00fcrme* 
+YOLCU: Tamam, Tamam, gidiyorum! 
+*Kapak a\u00e7\u0131l\u0131r* 
+M\u00dcRETTEBAT: Ve enkaz b\u00f6lgesinden uzak durun, s\u00fcr\u00fcc\u00fc \u00e7ekirde\u011fi patlamaya haz\u0131r!",
+    "Ency_LifepodCTODialog1": "CTO Ses Kayd\u0131 #1",
+    "EncyDesc_LifepodCTODialog1": "BTS: Bat\u0131yoruz! Y\u00fczd\u00fcrme cihazlar\u0131 ar\u0131zalanm\u0131\u015f olmal\u0131! 
+TEKN\u0130SYEN: \u00c7\u0131kmal\u0131 m\u0131y\u0131z?! 
+BTS: Hay\u0131r! Deniz taban\u0131 birka\u00e7 y\u00fcz metreden daha a\u015fa\u011f\u0131da de\u011fildir. Burada kalmak d\u0131\u015far\u0131 \u00e7\u0131kmaktan daha g\u00fcvenli. 
+TEKN\u0130SYEN: \u0130\u00e7eri su giriyor! 
+BTS: Dur, O2 sistemini suyu bo\u015faltmak i\u00e7in yap\u0131land\u0131rabilirim! 
+TEKN\u0130SYEN: \u0130\u015fe yar\u0131yor! 
+*\u00c7arpma* 
+BTS: \u0130yi misin?! 
+TEKN\u0130SYEN: San\u0131r\u0131m... 
+BTS: Tamam, iyi haber mi k\u00f6t\u00fc haber mi istersin? 
+TEKN\u0130SYEN: \u0130yi. 
+BTS: Hayattay\u0131z ve art\u0131k batm\u0131yoruz. 
+TEKN\u0130SYEN: K\u00f6t\u00fc haber? 
+BTS: O2 30 dakika i\u00e7inde bitecek! 
+TEKN\u0130SYEN: Kahretsin! Ne yapabiliriz? 
+BTS: D\u00fc\u015f\u00fcnmem gerek.",
+    "Ency_LifepodCTODialog2": "BTS Ses Kayd\u0131 #2",
+    "EncyDesc_LifepodCTODialog2": "*Ya\u015fam kozas\u0131 i\u00e7inde su sesi* 
+BTS: Bas\u0131n\u00e7 \u00f6l\u00e7\u00fcmleri 400m'den daha derine batt\u0131\u011f\u0131m\u0131z\u0131 g\u00f6steriyor. 
+TEKN\u0130SYEN: Peki, bir y\u00fczd\u00fcrme cihaz\u0131 ya da dalg\u0131\u00e7 iti\u015f arac\u0131 yapal\u0131m ve y\u00fczeye \u00e7\u0131kal\u0131m. 
+BTS: Oksijen t\u00fcplerimiz olmadan asla ba\u015faramay\u0131z. Y\u00fczey \u00e7ok uzakta. 
+TEKN\u0130SYEN: *Su s\u0131\u00e7ramas\u0131* Sana bask\u0131 yapmak istemem ama ayaklar\u0131m art\u0131k zemine de\u011fmiyor. 
+BTS: Buldum! Yak\u0131nlarda ba\u015fka bir ya\u015fam kozas\u0131 var, buradan y\u00fcz metre ileride. E\u011fer ba\u015farabilirsek O2 t\u00fcplerimizi doldurup y\u00fczeye \u00e7\u0131kabiliriz! 
+TEKN\u0130SYEN: Ya e\u011fer o ya\u015fam kozas\u0131n\u0131n da i\u015fi bittiyse?! 
+BTS: O zaman bizim de i\u015fimiz biter ama zaten \u015fu an da \u00e7ok farkl\u0131 durumda de\u011filiz! 
+TEKN\u0130SYEN: Ben haz\u0131r\u0131m.",
+    "Ency_LifepodCTOLog1": "BTS Kayd\u0131 #1",
+    "EncyDesc_LifepodCTOLog1": "1.Girdi 
+Bu gezegene lanet olsun! Teknisyen Berkeley ve ben dibe bat\u0131nca ya\u015fam kozam\u0131z\u0131 terk etmek zorunda kald\u0131k. Bu kozaya y\u00fczd\u00fck ama Berkeley'in oksijeni buraya y\u00fczerken yolda bitti. Nas\u0131l oldu bilmiyorum ama a\u00e7\u0131k denizde de\u011filiz. Burada do\u011fal bir \u0131\u015f\u0131k yok. Buran\u0131n \u00fcst\u00fc kapal\u0131 ve g\u00f6r\u00fcnen bir \u00e7\u0131k\u0131\u015f\u0131 yok. Ya\u015fam kozas\u0131 bir t\u00fcr ma\u011fara sistemine s\u00fcr\u00fcklenmi\u015f olmal\u0131. Dal\u0131\u015f makaras\u0131 ve pusula kullanarak bir \u00e7\u0131k\u0131\u015f yolu bulabilirim. Belki de burada son nefesimi verebilirim.  
+
+2.Girdi 
+\u0130ki saat \u00f6nce ilk koza batt\u0131. \u00c7evreyi ke\u015ffetmeyi denedim. Hava cepleri yok. Yukar\u0131da \u00e7\u0131k\u0131\u015f yok. E\u011fer elimde plasteel olsayd\u0131, oksijen t\u00fcp\u00fc, denizalt\u0131, her t\u00fcrl\u00fc \u015feyi yapabilirdim! Ama ne yaz\u0131k ki ya\u015fam kozas\u0131ndan fazla uzakla\u015fam\u0131yorum. Ba\u015fka bir yol bulmam gerek.  
+
+3.Girdi 
+Nefes alma ba\u015fl\u0131\u011f\u0131 ile solunumumu d\u00fczenleyerek biraz daha ke\u015fif yapt\u0131m. Yukar\u0131da bir e\u011fim buldum. Kesin olmamakla birlikte ma\u011fara duvar\u0131n\u0131n bir b\u00f6l\u00fcm\u00fc ya da \u00e7\u0131k\u0131\u015f yolu olabilir. Emin olman\u0131n tek yolu var.  
+
+4.Girdi 
+G\u00fcn \u0131\u015f\u0131\u011f\u0131! Kesinlikle g\u00fcne\u015f \u0131\u015f\u0131\u011f\u0131yd\u0131, son derece eminim. Yapabildi\u011fim kadar uza\u011fa y\u00fczd\u00fcm. Bir dahaki sefere geri d\u00f6n\u00fclemez noktay\u0131 da ge\u00e7ip \u015fans\u0131m\u0131 deneyece\u011fim. Kurtarma ekibi, e\u011fer bunu bulursan\u0131z l\u00fctfen Berkeley'in cesedini al\u0131n, tabi bal\u0131klar sizden \u00f6nce davranmad\u0131larsa. Ben, y\u00fczeye Keen ile ya da geriye kim kald\u0131ysa bulu\u015fmaya gidiyorum.
+   
+- Ba\u015f Teknik Sorumlu Yu",
+    "Ency_LifepodCTOLog2": "BTS Kayd\u0131 #2",
+    "EncyDesc_LifepodCTOLog2": "Bu i\u015faretleyici \u015famand\u0131ra b\u00fcy\u00fck bir ma\u011fara sisteminin giri\u015fini g\u00f6steriyor. G\u00fc\u00e7l\u00fc ak\u0131mlar ya\u015fam kozam\u0131z\u0131 a\u015fa\u011f\u0131 s\u00fcr\u00fckledi. Bu noktay\u0131 ge\u00e7meyin, \u00f6l\u00fcm tehlikesi vard\u0131r.  
+
+- Ba\u015f Teknik Sorumlu Yu",
+    "MapRoomCameraNoSignal": "S\u0130NYAL YOK",
+    "MapRoomCamera": "Drone kamera",
+    "Tooltip_MapRoomCamera": "Y\u00f6netilebilir bir kamera.",
+    "Presentation": "Sunum",
+    "Quality": "Kalite",
+    "VRRenderScale": "VR render \u00f6l\u00e7e\u011fi",
+    "Apply": "Uygula",
+    "HorizontalSensitivity": "Yatay hassasiyet",
+    "VerticalSensitivity": "Dikey hassasiyet",
+    "InvertLook": "G\u00f6r\u00fcnt\u00fcy\u00fc ters \u00e7evir",
+    "EnableController": "Denetleyiciyi etkinle\u015ftir",
+    "ResetToDefault": "Varsay\u0131lanlara D\u00f6n",
+    "Deconstruct": "Kald\u0131r",
+    "Construct": "Yap",
+    "CyclopsWelcomeNoPower": "Cyclops: Uyar\u0131: Sadece acil durum g\u00fcc\u00fc var. Oksijen \u00fcretimi devre d\u0131\u015f\u0131.",
+    "AssignQuickSlot": "h\u0131zl\u0131 eri\u015fime ata",
+    "Eat": "ye",
+    "Use": "kullan",
+    "Place": "yerle\u015ftir",
+    "Drop": "b\u0131rak",
+    "SwitchContainer": "di\u011fer tarafa g\u00f6nder",
+    "SeamothWelcomeNoPower": "Seamoth: Uyar\u0131: Sadece acil durum g\u00fcc\u00fc var. Oksijen \u00fcretimi devre d\u0131\u015f\u0131.",
+    "BaseWelcomeNoPower": "\u00dcs: Uyar\u0131: Sadece acil durum g\u00fcc\u00fc var. Oksijen \u00fcretimi devre d\u0131\u015f\u0131.",
+    "MapRoomCameraConnecting": "BA\u011eLANIYOR",
+    "StarshipChair2": "Sandalye 2",
+    "StarshipChair3": "Sandalye 3",
+    "Tooltip_StarshipChair2": "\u015ea\u015f\u0131rt\u0131c\u0131 derecede rahat.",
+    "Tooltip_StarshipChair3": "\u015ea\u015f\u0131rt\u0131c\u0131 derecede rahat.",
+    "1": "2"
+}

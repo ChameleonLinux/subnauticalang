@@ -1,0 +1,2182 @@
+{
+    "NewGame": "\u00daj j\u00e1t\u00e9k",
+    "New Game Tooltip": "L\u00c9PJ BE A SUBNAUTICA VIL\u00c1G\u00c1BA",
+    "ContinueGame": "J\u00e1t\u00e9k folytat\u00e1sa",
+    "Exit Tooltip": "T\u00c9RJ VISSZA A FELSZ\u00cdNRE",
+    "Survival": "T\u00fal\u00e9l\u0151",
+    "Freedom": "Szabad m\u00f3d",
+    "Hardcore": "Hardcore",
+    "Back": "Vissza",
+    "LatestNews": "Legfrissebb h\u00edrek",
+    "NewsLoading": "Bet\u00f6lt\u00e9s...",
+    "Language": "Nyelv",
+    "Resolution": "Felbont\u00e1s",
+    "FieldOfView": "L\u00e1t\u00f3sz\u00f6g",
+    "Vsync": "Vsync",
+    "Options": "Be\u00e1ll\u00edt\u00e1sok",
+    "OptionsTooltip": "MIEL\u0150TT ELINDULN\u00c1L",
+    "DevelopmentVersion": "Fejleszt\u0151i verzi\u00f3",
+    "InventoryFull": "Az eszk\u00f6zt\u00e1r megtelt",
+    "RadiationDetected": "SUG\u00c1RZ\u00c1S \u00c9SZLELVE",
+    "Quartz": "Kvarc",
+    "ScrapMetal": "F\u00e9mhullad\u00e9k",
+    "Limestone": "M\u00e9szk\u0151 kin\u00f6v\u00e9s",
+    "Copper": "R\u00e9z\u00e9rc",
+    "CopperWire": "R\u00e9zdr\u00f3t",
+    "Salt": "S\u00f3lerak\u00f3d\u00e1s",
+    "Placeholder": "Hely\u0151rz\u0151",
+    "Glass": "\u00dcveg",
+    "EnameledGlass": "Zom\u00e1ncozott \u00fcveg",
+    "Titanium": "Tit\u00e1n",
+    "TitaniumIngot": "Tit\u00e1n \u00f6ntv\u00e9ny",
+    "PlasteelIngot": "Plasztac\u00e9l \u00f6ntv\u00e9ny",
+    "Silver": "Ez\u00fcst\u00e9rc",
+    "Gold": "Arany",
+    "Lodestone": "M\u00e1gnesvas\u00e9rc",
+    "WiringKit": "K\u00e1belk\u00e9szlet",
+    "AdvancedWiringKit": "Fejlett k\u00e1belk\u00e9szlet",
+    "ComputerChip": "Sz\u00e1m\u00edt\u00f3g\u00e9p chip",
+    "Diamond": "Gy\u00e9m\u00e1nt",
+    "MODULES": "MODULOK",
+    "Energy": "Energia",
+    "AddedToInventory": "hozz\u00e1adva az eszk\u00f6zt\u00e1rhoz.",
+    "BreakLimestone": "M\u00e9szk\u0151 kin\u00f6v\u00e9s felt\u00f6r\u00e9se",
+    "BreakSandstone": "Homokk\u0151 kin\u00f6v\u00e9s felt\u00f6r\u00e9se",
+    "BreakShale": "Pala kin\u00f6v\u00e9s felt\u00f6r\u00e9se",
+    "BreakBasalt": "Bazalt kin\u00f6v\u00e9s felt\u00f6r\u00e9se",
+    "BreakObsidian": "Obszidi\u00e1n kin\u00f6v\u00e9s felt\u00f6r\u00e9se",
+    "Fabricator": "Fabrik\u00e1tor",
+    "UseFabricator": "Fabrik\u00e1tor haszn\u00e1lata",
+    "Locker": "T\u00e1rol\u00f3",
+    "Spotlight": "Reflektor",
+    "Reinforce hull": "Burkolat meger\u0151s\u00edt\u00e9se",
+    "Aquarium": "Akv\u00e1rium",
+    "EnterSeamoth": "Besz\u00e1ll\u00e1s a Csik\u00f3halba",
+    "NoSeamothDocked": "Nincs dokkolt Csik\u00f3hal",
+    "DiveSuit": "B\u00fav\u00e1rruha",
+    "ShipComputer": "Fed\u00e9lzeti sz\u00e1m\u00edt\u00f3g\u00e9p",
+    "Fins": "Uszonyok",
+    "RadiationSuit": "Sug\u00e1rz\u00e1s\u00e1ll\u00f3 b\u00fav\u00e1rruha",
+    "Tank": "O\u2082 tart\u00e1ly",
+    "Battery": "Elem",
+    "Builder": "\u00c9l\u0151hely-\u00e9p\u00edt\u0151",
+    "Knife": "T\u00fal\u00e9l\u0151k\u00e9s",
+    "Drill": "F\u00far\u00f3",
+    "Flashlight": "Eleml\u00e1mpa",
+    "Beacon": "Jelad\u00f3",
+    "Bleach": "Feh\u00e9r\u00edt\u0151",
+    "CurrentGenerator": "\u00c1raml\u00e1s-gener\u00e1tor",
+    "PowerCell": "Energia cella",
+    "DiveReel": "B\u00fav\u00e1r ors\u00f3",
+    "Rebreather": "L\u00e9gvisszanyer\u0151",
+    "Welder": "Hegeszt\u0151",
+    "Constructor": "Hordozhat\u00f3 j\u00e1rm\u0171k\u00e9sz\u00edt\u0151",
+    "UseConstructor": "J\u00e1rm\u0171k\u00e9sz\u00edt\u0151 haszn\u00e1lata",
+    "Transfuser": "Transzf\u00fazi\u00f3s k\u00e9sz\u00fcl\u00e9k",
+    "Flare": "Jelz\u0151f\u00e1klya",
+    "StasisRifle": "Szt\u00e1zis-puska",
+    "Observatory": "Obszervat\u00f3rium",
+    "Audiolog": "Hangbejegyz\u00e9s - \u00c1uu, hol jelenik meg ez a j\u00e1t\u00e9kban?",
+    "SafeShallowsEgg": "Sek\u00e9ly felsz\u00edn toj\u00e1s",
+    "KelpForestEgg": "H\u00edn\u00e1rerd\u0151 toj\u00e1s",
+    "GrassyPlateausEgg": "F\u00fcves Fenns\u00edk toj\u00e1s",
+    "GrandReefsEgg": "Nagy z\u00e1tonyok toj\u00e1s",
+    "MushroomForestEgg": "Gomba Erd\u0151 toj\u00e1s",
+    "KooshZoneEgg": "K\u00f3coska z\u00f3na toj\u00e1s",
+    "TwistyBridgesEgg": "Tekerg\u0151 hidak toj\u00e1s",
+    "LavaZoneEgg": "L\u00e1va z\u00f3na toj\u00e1s",
+    "Workbench": "M\u00f3dos\u00edt\u00f3 \u00e1llom\u00e1s",
+    "Tooltip_Workbench": "Fejlesztett Fabrik\u00e1tor a t\u00fal\u00e9l\u0151 eszk\u00f6z\u00f6k m\u00f3dos\u00edt\u00e1s\u00e1ra",
+    "SpecialHullPlate": "Burkolati lemez",
+    "Tooltip_SpecialHullPlate": "Limit\u00e1lt kiad\u00e1s\u00fa burkolati lemez (k\u00f6sz\u00f6nj\u00fck!)",
+    "Seamoth": "Csik\u00f3hal",
+    "Exosuit": "L\u00e9peget\u0151",
+    "PropulsionCannon": "Vonz\u00f3-\u00e1gy\u00fa",
+    "SandLoot": "Homok",
+    "Signal": "Jelz\u00e9s",
+    "BallClusters": "Korall-ikra",
+    "BarnacleSuckers": "Fany\u0171v\u0151",
+    "BlueBarnacle": "K\u00e9k kacsakagyl\u00f3",
+    "BlueBarnacleCluster": "K\u00e9k kacsakagyl\u00f3 f\u00fcrt",
+    "BlueCoralTubes": "Gy\u00f6ngy Nyelve",
+    "RedGrass": "V\u00f6r\u00f6s f\u0171",
+    "GreenGrass": "Z\u00f6ld f\u0171",
+    "CreepvinePiece": "K\u00fasz\u00f3sz\u0151l\u0151-minta",
+    "Mohawk": "Mohik\u00e1n-n\u00f6v\u00e9ny",
+    "GreenReeds": "Pettyes n\u00e1dak",
+    "JellyPlant": "Zsel\u00e9 n\u00f6v\u00e9ny",
+    "BlueJeweledDisk": "K\u00e9k t\u00e1blakorall",
+    "GreenJeweledDisk": "Z\u00f6ld t\u00e1blakorall",
+    "PurpleJeweledDisk": "Lila t\u00e1blakorall",
+    "RedJeweledDisk": "V\u00f6r\u00f6s t\u00e1blakorall",
+    "SmallKoosh": "T\u00f6rpe K\u00f3coska",
+    "MediumKoosh": "K\u00f6zepes K\u00f3coska",
+    "LargeKoosh": "Nagy K\u00f3coska",
+    "HugeKoosh": "\u00d3ri\u00e1s K\u00f3coska",
+    "MembrainTree": "Membr\u00e1n-fa",
+    "PurpleFan": "Lila legyez\u0151",
+    "AcidMushroom": "Savgomba",
+    "PurpleTentacle": "Vonagl\u00f3 gyom",
+    "RedSeaweed": "V\u00e9rgyom",
+    "CoralShellPlate": "Korall k\u00e9reglemez",
+    "SmallFan": "T\u00f6rpe Legyez\u0151",
+    "SmallFanCluster": "T\u00f6rpe legyez\u0151 f\u00fcrt",
+    "BigCoralTubes": "\u00d3ri\u00e1s korallcs\u00f6vek",
+    "TreeMushroom": "Gombafa",
+    "BlueCluster": "Ny\u00fajt\u00f3z\u00f3 f\u00fcrt",
+    "BrownTubes": "Earthen coral tubes",
+    "BloodGrass": "V\u00e9rf\u0171",
+    "JeweledDiskPiece": "T\u00e1blakorall minta",
+    "CoralChunk": "K\u00f6z\u00f6ns\u00e9ges korall minta",
+    "KooshChunk": "K\u00f3coska minta",
+    "StalkerTooth": "Cserk\u00e9sz\u0151 fog",
+    "SmallStorage": "V\u00edz\u00e1ll\u00f3 t\u00e1rol\u00f3",
+    "SeamothFragment": "Csik\u00f3hal t\u00f6red\u00e9k",
+    "StasisRifleFragment": "Szt\u00e1zis-puska t\u00f6red\u00e9k",
+    "ExosuitFragment": "L\u00e9peget\u0151 t\u00f6red\u00e9k",
+    "TransfuserFragment": "Transzf\u00fazi\u00f3s k\u00e9sz\u00fcl\u00e9k-t\u00f6red\u00e9k",
+    "TerraformerFragment": "Terraform\u00e1l\u00f3 t\u00f6red\u00e9k",
+    "ReinforceHullFragment": "K\u00fcklopsz Nyom\u00e1s-kiegyenl\u00edt\u0151 t\u00f6red\u00e9k",
+    "WorkbenchFragment": "M\u00f3dos\u00edt\u00f3 \u00e1llom\u00e1s t\u00f6red\u00e9k",
+    "FabricatorBlueprint": "Fabrik\u00e1tor tervrajz",
+    "ConstructorBlueprint": "Hordozhat\u00f3 j\u00e1rm\u0171k\u00e9sz\u00edt\u0151 tervrajz",
+    "CyclopsBlueprint": "K\u00fcklopsz tervrajz",
+    "SeamothBlueprint": "Csik\u00f3hal tervrajz",
+    "StasisRifleBlueprint": "Szt\u00e1zis-puska tervrajz",
+    "ExosuitBlueprint": "L\u00e9peget\u0151 tervrajz",
+    "TransfuserBlueprint": "Transzf\u00fazi\u00f3s k\u00e9sz\u00fcl\u00e9k-tervrajz",
+    "TerraformerBlueprint": "Terraform\u00e1l\u00f3 tervrajz",
+    "ReinforceHullBlueprint": "K\u00fcklopsz Nyom\u00e1s-kiegyenl\u00edt\u0151 tervrajz",
+    "WorkbenchBlueprint": "M\u00f3dos\u00edt\u00f3 \u00e1llom\u00e1s tervrajz",
+    "Boulder": "Szikla",
+    "HangingStinger": "L\u00f3g\u00f3 Full\u00e1nkok",
+    "SpikePlant": "Tigris n\u00f6v\u00e9ny",
+    "FilteredWater": "Sz\u0171rt v\u00edz",
+    "DisinfectedWater": "Fert\u0151tlen\u00edtett v\u00edz",
+    "CookedPeeper": "F\u0151tt Kukucsk\u00e1l\u00f3",
+    "CookedHoleFish": "F\u0151tt Lyukhal",
+    "CookedHoopfish": "F\u0151tt Abroncshal",
+    "CookedGarryFish": "F\u0151tt Kalaphal",
+    "CookedReginald": "F\u0151tt Fellengz\u0151shal",
+    "CookedBladderfish": "F\u0151tt H\u00f3lyaghal",
+    "CookedHoverfish": "F\u0151tt Cselleng\u0151l\u00e9ny",
+    "CookedSpadefish": "F\u0151tt Lap\u00e1thal",
+    "CookedBoomerang": "F\u0151tt Bumer\u00e1nghal",
+    "CookedEyeye": "F\u0151tt Szemeshal",
+    "CookedOculus": "F\u0151tt Okulusz",
+    "Unobtanium": "Megszerezhetetlenium",
+    "Creepvine": "K\u00fasz\u00f3sz\u0151l\u0151",
+    "HoleFish": "Lyukhal",
+    "Jumper": "Ugr\u00f3",
+    "Peeper": "Kukucsk\u00e1l\u00f3",
+    "Oculus": "Okulusz",
+    "Hoopfish": "Abroncshal",
+    "RabbitRay": "Ny\u00fal R\u00e1ja",
+    "GarryFish": "Kalaphal",
+    "Slime": "Ny\u00e1lka",
+    "Crash": "Becsap\u00f3d\u00e1s",
+    "Boomerang": "Bumer\u00e1nghal",
+    "LavaLarva": "L\u00e1va l\u00e1rva",
+    "Stalker": "Cserk\u00e9sz\u0151",
+    "Eyeye": "Szemeshal",
+    "Bloom": "Vir\u00e1gz\u00e1s",
+    "Bladderfish": "H\u00f3lyaghal",
+    "Hoverfish": "Cselleng\u0151l\u00e9ny",
+    "Jellyray": "Zsel\u00e9r\u00e1ja",
+    "Reefback": "Z\u00e1tonyh\u00e1t",
+    "Reginald": "Fellengz\u0151shal",
+    "Spadefish": "Lap\u00e1thal",
+    "Grabcrab": "Fog\u00f3r\u00e1k",
+    "Floater": "Sodr\u00f3d\u00f3l\u00e9ny",
+    "Gasopod": "G\u00e1zp\u00f6ffeteg",
+    "Sandshark": "Homoki c\u00e1pa",
+    "Player": "J\u00e1t\u00e9kos",
+    "AirBladder": "L\u00e9gh\u00f3lyag",
+    "DEPTH": "M\u00c9LYS\u00c9G",
+    "NITROGEN": "NITROG\u00c9N",
+    "MeterSuffix": "m",
+    "SUB DEPTH": "TENGERALATTJ\u00c1R\u00d3 M\u00c9LYS\u00c9GE",
+    "ECOSYSTEM": "\u00d6KOSZISZT\u00c9MA",
+    "BATHSPHERE": "B\u00daV\u00c1RG\u00d6MB",
+    "BLOOD SUGAR": "V\u00c9RCUKORSZINT",
+    "FOOD": "\u00c9TEL",
+    "H20": "H20",
+    "Initializing dive suit HUD...": "B\u00fav\u00e1rruha szemmagass\u00e1g\u00fa kijelz\u0151j\u00e9nek bet\u00f6lt\u00e9se...",
+    "Initializing objectives...": "C\u00e9lok bet\u00f6lt\u00e9se...",
+    "|": "\/",
+    "Demo time": "Dem\u00f3ban elt\u00f6lt\u00f6tt id\u0151",
+    "InventorySecured": "Eszk\u00f6zt\u00e1r biztos\u00edtva.",
+    "THANK YOU FOR PLAYING": "K\u00d6SZ\u00d6NJ\u00dcK A J\u00c1T\u00c9KOT!",
+    "PRIMARY": "ELS\u0150DLEGES",
+    "SECONDARY": "M\u00c1SODLAGOS",
+    "ControlSubInstructions": "Ir\u00e1ny\u00edt\u00e1s a WASD billenty\u0171kkel, f\u00fcgg\u0151leges mozg\u00e1s a SPACE\/C billenty\u0171kkel",
+    "Drop loot onto Constructor": "Zs\u00e1km\u00e1ny bedob\u00e1sa az \u00c9p\u00edt\u0151be",
+    "PressUseToExit": "Kil\u00e9p\u00e9s",
+    "DeployConstructor": "J\u00e1rm\u0171k\u00e9sz\u00edt\u0151 v\u00edzbe enged\u00e9se",
+    "DeployConstructorInWater": "A v\u00edzben kell lenned a J\u00e1rm\u0171k\u00e9sz\u00edt\u0151 kibocs\u00e1t\u00e1s\u00e1hoz!",
+    "Total: ": "\u00d6sszes:",
+    "<UnImplemented>": "(m\u00e9g nem el\u00e9rhet\u0151)",
+    "<Bullet>": "\u2022",
+    "DontHaveNeededIngredients": "Nem rendelkezel a sz\u00fcks\u00e9ges hozz\u00e1val\u00f3kkal!",
+    "YouDied": "Meghalt\u00e1l.",
+    "YouDiedLostStuff": "Meghalt\u00e1l \u00e9s elvesztett\u00e9l n\u00e9h\u00e1ny dolgot.",
+    "OXYGEN": "LEVEG\u0150",
+    "0": "2",
+    "How likely are you to recommend this game to a friend?": "Mennyire aj\u00e1nlan\u00e1d ezt a j\u00e1t\u00e9kot egy bar\u00e1todnak?",
+    "Submit": "Elfogad\u00e1s",
+    "WASD to pilot, SPACE\/C for vertical, E to exit": "Ir\u00e1ny\u00edt\u00e1s a WASD billenty\u0171kkel, f\u00fcgg\u0151leges mozg\u00e1s a SPACE\/C billenty\u0171kkel, E a kil\u00e9p\u00e9shez",
+    "I": "I",
+    "TRANSFUSER SERUM": "TRANSZF\u00daZI\u00d3S K\u00c9SZ\u00dcL\u00c9K SZ\u00c9RUM",
+    "PLAYER EFFECTS": "J\u00c1T\u00c9KOSRA HATNAK",
+    "CREATURE DEBUG": "L\u00c9NY HIBAKERES\u00c9S",
+    "PickUp": "Felvesz",
+    "PickedUp": "Felv\u00e9ve: {0}",
+    "Needs": "Sz\u00fcks\u00e9ges",
+    "Tooltip_AcidMushroom": "Lila gombaf\u00e9le. Savas h\u00fasa v\u00e9delmez\u0151 szerepet t\u00f6lt be.",
+    "Tooltip_AdvancedWiringKit": "Processzor arany\/ez\u00fcst vezet\u00e9kekkel a fejlettebb konstrukci\u00f3\u00e9rt.",
+    "Tooltip_AirBladder": "K\u00e9miai reakci\u00f3 \u00e1ltal termelt, leveg\u0151n\u00e9l k\u00f6nnyebb g\u00e1z a szem\u00e9lyes felhajt\u00f3er\u0151\u00e9rt.",
+    "Tooltip_Battery": "Hordozhat\u00f3 energiaforr\u00e1s.",
+    "Tooltip_Beacon": "Navig\u00e1ci\u00f3s seg\u00edts\u00e9g. Tartja \u00e9s sug\u00e1rozza a helyzet\u00e9t.",
+    "Tooltip_Bleach": "NaClO. N\u00e1trium-hipoklorit feh\u00e9r\u00edt\u0151. Fert\u0151tlen\u00edt\u0151k\u00e9nt val\u00f3 alkalmaz\u00e1shoz.",
+    "Tooltip_Builder": "Nyersanyagokb\u00f3l lak\u00f3hely-elemeket \u00e9s berendez\u00e9seket k\u00e9sz\u00edt.",
+    "Tooltip_Compass": "HUD \u00c9DKNy-jelz\u0151je",
+    "Tooltip_ComputerChip": "T\u00f6bbc\u00e9l\u00fa processzor",
+    "Tooltip_Constructor": "Nyersanyagokb\u00f3l j\u00e1rm\u0171veket k\u00e9sz\u00edt.",
+    "Tooltip_CookedBladderfish": "Szivacsos. Porcos. Szerencs\u00e9re szagtalan.",
+    "Tooltip_CookedBoomerang": "A porcos uszonyokat kiv\u00e9ve finom.",
+    "Tooltip_CookedEyeye": "Magas protein-tartalom. Kis m\u00e9ret. Neh\u00e9z lent tartani.",
+    "Tooltip_CookedGarryFish": "Vir\u00e1g\u00edz\u0171, de csak egy kicsit.",
+    "Tooltip_CookedHoleFish": "Kocsony\u00e1s h\u00fas magas t\u00e1p\u00e9rt\u00e9kkel.",
+    "Tooltip_CookedHoopfish": "Soha ne edd meg az antenn\u00e1t.",
+    "Tooltip_CookedHoverfish": "Kem\u00e9ny, alacsony zs\u00edrtartalm\u00fa h\u00fcll\u0151h\u00fas.",
+    "Tooltip_CookedOculus": "S\u00f6t\u00e9t, kem\u00e9ny h\u00fas.  Megfelel\u0151 h\u00fasszelet k\u00e9nes ut\u00f3\u00edzzel. ",
+    "Tooltip_CookedPeeper": "Proteinben gazdag szemgoly\u00f3k. A kis csontok tart\u00e1st adnak neki.",
+    "Tooltip_CookedReginald": "Cs\u00edp\u0151s \u00e9s f\u00fcst\u00f6s \u00edz\u0171.",
+    "Tooltip_CookedSpadefish": "Elfogadhat\u00f3 m\u00e9ret\u0171, de s\u00f3s.",
+    "Tooltip_Copper": "Alapvet\u0151 k\u00e1bel alkot\u00f3elem",
+    "Tooltip_CopperWire": "R\u00e9zatomok \u00e1talak\u00edtva alapvet\u0151 elektromos vezet\u00e9kk\u00e9.",
+    "Tooltip_CoralChunk": "A minta  CaCO\u00b3-at tartalmaz. A kalcium-karbon\u00e1t a feh\u00e9r\u00edt\u0151 alapvet\u0151 \u00f6sszetev\u0151je.",
+    "Tooltip_Creepvine": "Szerves anyag.",
+    "Tooltip_CreepvinePiece": "Szervesanyag-minta",
+    "Tooltip_CurrentGenerator": "Mesters\u00e9ges gravit\u00e1ci\u00f3t gener\u00e1l \u00e1raml\u00e1s el\u0151\u00e1ll\u00edt\u00e1s\u00e1hoz.",
+    "Tooltip_Cyclops": "Hatalmas ipari tengeralattj\u00e1r\u00f3.",
+    "Tooltip_Diamond": "C. Sz\u00e9n allotrop m\u00f3dosulata p\u00e1ratlan fizikai tulajdons\u00e1gokkal.",
+    "Tooltip_DisinfectedWater": "H\u00b2O. 250 ml. Mikroorganizmus-mentes.",
+    "Tooltip_DiveReel": "Lehorgonyoz egy fizikai pontra \u00e9s letekeredik, ahogy felfedezel.",
+    "Tooltip_EnameledGlass": "Term\u00e9szetes anyaggal megedzett \u00fcveg.",
+    "Tooltip_Exosuit": "K\u00e9pes mozogni az \u00f3ce\u00e1n fenek\u00e9n.",
+    "Tooltip_Fabricator": "Alapvet\u0151 t\u00fal\u00e9l\u0151-fabrik\u00e1tor. Atomi szinten rendezi \u00e1t az er\u0151forr\u00e1sokat.",
+    "Tooltip_FilteredWater": "H\u2082O. 200 ml. Tiszta.",
+    "Tooltip_Fins": "A f\u00fcgg\u0151leges v\u00edzalatti v\u00e9gtagmozg\u00e1st tol\u00f3er\u0151v\u00e9 alak\u00edtja.",
+    "Tooltip_Flare": "T\u00f6bbc\u00e9l\u00fa v\u00edz alatti f\u00e9nyforr\u00e1s.",
+    "Tooltip_Flashlight": "Elemes v\u00edz alatti f\u00e9nyforr\u00e1s.",
+    "Tooltip_Floater": "Sz\u00e1mos, szimbi\u00f3zisban \u00e9l\u0151 organizmus egyetlen l\u00e9nny\u00e9 \u00f6ssze\u00e1llva. \u00c9letciklusa ismeretlen.",
+    "Tooltip_Gaspod": "Sz\u00e9nsavas, savereget\u0151 \u00e9letforma.",
+    "Tooltip_Glass": "SIO\u2084. Tiszta olvasztott kvarc \u00fcveg.",
+    "Tooltip_Gold": "Au. \u00c9rt\u00e9kes elektromos vezet\u0151 tulajdons\u00e1gokkal.",
+    "Tooltip_GrandReefsEgg": "Azonos\u00edtatlan toj\u00e1s.",
+    "Tooltip_GrassyPlateausEgg": "Azonos\u00edtatlan toj\u00e1s.",
+    "Tooltip_Gravsphere": "Mesters\u00e9ges gravit\u00e1ci\u00f3t haszn\u00e1l, hogy mag\u00e1hoz vonzza a k\u00f6nny\u0171 t\u00e1rgyakat.",
+    "Tooltip_Hoopfish": "A test\u00e9t k\u00f6r\u00fclvev\u0151 antenn\u00e1t haszn\u00e1lva \u00e1tl\u00f6ki mag\u00e1t a v\u00edzen.",
+    "Tooltip_JeweledDiskPiece": "Nyomokban nemesf\u00e9meket tartalmaz. A sz\u00e1m\u00edt\u00f3g\u00e9p gy\u00e1rt\u00e1sban hasznos\u00edtj\u00e1k.",
+    "Tooltip_KelpForestEgg": "Azonos\u00edtatlan toj\u00e1s",
+    "Tooltip_Knife": "Hagyom\u00e1nyos t\u00fal\u00e9l\u0151eszk\u00f6z. Multifunkci\u00f3s. ",
+    "Tooltip_KooshZoneEgg": "Azonos\u00edtatlan toj\u00e1s.",
+    "Tooltip_LavaZoneEgg": "Azonos\u00edtatlan toj\u00e1s.",
+    "Tooltip_Lithium": "Li. Nagy szil\u00e1rds\u00e1g\u00fa \u00f6tv\u00f6zetekben haszn\u00e1lj\u00e1k.",
+    "Tooltip_Locker": "Az elt\u00e1roland\u00f3 dolgokat ide z\u00e1rhatod.",
+    "Tooltip_Magnesium": "Mg. \u00c9ghet\u0151 f\u00e9m.",
+    "Tooltip_MushroomForestEgg": "Egy titokzatos toj\u00e1s",
+    "Tooltip_Pipe": "Leveg\u0151t szivatty\u00faz a felsz\u00ednr\u0151l.",
+    "Tooltip_PlasteelIngot": "Ultra-er\u0151s anyag.",
+    "Tooltip_PowerCell": "Nagy kapacit\u00e1s\u00fa hordozhat\u00f3 energiaforr\u00e1s.",
+    "Tooltip_Quartz": "SiO\u2084. Szilik\u00e1t krist\u00e1lyos form\u00e1ban.",
+    "Tooltip_RadiationSuit": "\u00d3lommal b\u00e9lelt ruha, sug\u00e1rz\u00e1s elleni szigetel\u00e9st biztos\u00edt.",
+    "Tooltip_Rebreather": "Elnyeli a CO\u2082-ot, hogy a leveg\u0151 \u00fajra bel\u00e9legezhet\u0151 legyen.",
+    "Tooltip_SafeShallowsEgg": "Egy azonos\u00edtatlan toj\u00e1s.",
+    "Tooltip_Salt": "NaCl. Kulin\u00e1ris \u00e9s fert\u0151tlen\u00edt\u0151 szerepe van.",
+    "Tooltip_ScrapMetal": "87%-a tit\u00e1nb\u00f3l tev\u0151dik \u00f6ssze.",
+    "Tooltip_Seamoth": "Egyszem\u00e9lyes tengeralattj\u00e1r\u00f3.",
+    "Tooltip_Signal": "Koordin\u00e1t\u00e1k.",
+    "Tooltip_Silicone": "Szintetikus, szilikon-alap\u00fa gumi.",
+    "Tooltip_Silver": "Ag. Kiv\u00e1l\u00f3 elektromos vezet\u0151 \u00e9s mikroba\u00f6l\u0151.",
+    "Tooltip_SmallStorage": "4x4-es rakt\u00e1r, amely megtartja poz\u00edci\u00f3j\u00e1t a v\u00edzben.",
+    "Tooltip_StalkerTooth": "Egy \u00e9les, kem\u00e9ny\u00edtett kalcium-k\u00e9pz\u0151dm\u00e9ny.",
+    "Tooltip_StasisRifle": "Megfagyasztja a fizikai c\u00e9lpontokat.",
+    "Tooltip_Tank": "O\u00b2 kever\u00e9k. 30 m\u00e1sodpercnyi bel\u00e9legezhet\u0151 leveg\u0151t t\u00e1rol.",
+    "Tooltip_Terraformer": "Hozz\u00e1f\u00e9rhet\u0151 terepform\u00e1l\u00f3 eszk\u00f6z.",
+    "Tooltip_Thermometer": "Szemmagass\u00e1g\u00fa kijelz\u0151 h\u0151m\u00e9r\u0151 szenzora.",
+    "Tooltip_Titanium": "Ti. Alapvet\u0151 \u00e9p\u00edt\u0151anyag.",
+    "Tooltip_TitaniumIngot": "Ti. S\u0171r\u00edtett tit\u00e1n r\u00fad.",
+    "Tooltip_Transfuser": "DNS-mint\u00e1kat t\u00e1rol.",
+    "Tooltip_TwistyBridgesEgg": "Egy azonos\u00edtatlan toj\u00e1s.",
+    "Tooltip_Welder": "T\u00f6bbc\u00e9l\u00fa jav\u00edt\u00f3eszk\u00f6z, minden k\u00f6rnyezetben haszn\u00e1lhat\u00f3.",
+    "Tooltip_WiringKit": "Szigetelt ez\u00fcst vezet\u00e9k. Alapvet\u0151 elektronikai hozz\u00e1val\u00f3.",
+    "Tooltip_SeamothFragment": "Ha j\u00f3l tudom, ez a le\u00edr\u00e1s t\u00f6bb\u00e9 nem jelennek meg a j\u00e1t\u00e9kban . K\u00e9rj\u00fck jelentse hibak\u00e9nt, ha l\u00e1tja ezt a sz\u00f6veget.",
+    "Tooltip_StasisRifleFragment": "A szt\u00e1zis-puska egy darabja",
+    "Tooltip_ExosuitFragment": "A l\u00e9peget\u0151 technol\u00f3gi\u00e1j\u00e1nak darabja",
+    "Tooltip_TransfuserFragment": "A transzf\u00fazi\u00f3s k\u00e9sz\u00fcl\u00e9k technol\u00f3gi\u00e1j\u00e1nak darabja",
+    "Tooltip_TerraformerFragment": "A terraform\u00e1l\u00f3 technol\u00f3gi\u00e1j\u00e1nak darabja",
+    "Tooltip_WorkbenchFragment": "Az Aur\u00f3ra egyik m\u00f3dos\u00edt\u00f3 \u00e1llom\u00e1s\u00e1nak egy s\u00e9r\u00fclt r\u00e9sze",
+    "Tooltip_FabricatorBlueprint": "Tervek Fabrik\u00e1tor \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_ConstructorBlueprint": "Tervek a Konstrukt\u0151r meg\u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_CyclopsBlueprint": "Tervek a K\u00fcklopsz meg\u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_SeamothBlueprint": "Tervek Csik\u00f3hal \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_StasisRifleBlueprint": "Tervek Szt\u00e1zis-puska \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_ExosuitBlueprint": "Tervek L\u00e9peget\u0151 \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_TransfuserBlueprint": "Tervek Transzf\u00fazi\u00f3s k\u00e9sz\u00fcl\u00e9k \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_TerraformerBlueprint": "Tervek Terraform\u00e1l\u00f3 \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_ReinforceHullBlueprint": "Tervek meger\u0151s\u00edtett burkolat \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_WorkbenchBlueprint": "Tervek M\u00f3dos\u00edt\u00f3 \u00e1llom\u00e1s \u00e9p\u00edt\u00e9s\u00e9hez",
+    "WorldArrow_EquipFlashlight": "Eleml\u00e1mpa el\u0151k\u00e9sz\u00edt\u00e9se",
+    "WorldArrow_EquipKnife": "K\u00e9s el\u0151k\u00e9sz\u00edt\u00e9se",
+    "WorldArrow_CutCreepvine": "V\u00e1gj \u00dasz\u00f3sz\u0151l\u0151t a k\u00e9ssel",
+    "WorldArrow_EquipSeaglide": "Elemes Sikl\u00f3 el\u0151k\u00e9sz\u00edt\u00e9se ",
+    "WorldArrow_TurnOnFlashlight": "Zsebl\u00e1mpa bekapcsol\u00e1sa",
+    "WorldArrow_EquipConstructor": "J\u00e1rm\u0171k\u00e9sz\u00edt\u0151 el\u0151k\u00e9sz\u00edt\u00e9se",
+    "WorldArrow_ReleaseConstructor": "J\u00e1rm\u0171k\u00e9sz\u00edt\u0151 kienged\u00e9se",
+    "WorldArrow_EatSomething": "Egy\u00e9l valamit",
+    "WorldArrow_DrinkSomething": "Igy\u00e1l valamit",
+    "WorldArrow_PickupMetal": "F\u00e9mhullad\u00e9k felv\u00e9tele",
+    "WorldArrow_PickupQuartz": "Kvarc felv\u00e9tele",
+    "WorldArrow_BreakLimestone": "M\u00e9szk\u0151 \u00f6sszet\u00f6r\u00e9se",
+    "WorldArrow_BoardEscapePod": "Besz\u00e1ll\u00e1s a Ment\u0151kabinba",
+    "WorldArrow_UseFabricator": "Fabrik\u00e1tor haszn\u00e1lata",
+    "WorldArrow_OpenPDA": "PDA megnyit\u00e1sa",
+    "WorldArrow_CatchPeeper": "Kukucsk\u00e1l\u00f3 megfog\u00e1sa",
+    "WorldArrow_SwimToSurface": "\u00dassz a felsz\u00ednre!",
+    "WorldArrow_EnterSeamoth": "Besz\u00e1ll\u00e1s a Csik\u00f3halba",
+    "WorldArrow_BoardCyclops": "Besz\u00e1ll\u00e1s a K\u00fcklopszba",
+    "WorldArrow_DockSeamoth": "Dokkol\u00e1s a Csik\u00f3hallal",
+    "FragmentAnalyzer": "T\u00f6red\u00e9k analiz\u00e1l\u00f3",
+    "Tooltip_FragmentAnalyzer": "T\u00f6red\u00e9kek analiz\u00e1l\u00e1s\u00e1val tervrajzokat k\u00e9sz\u00edt",
+    "FragmentAnalysisComplete": "T\u00f6red\u00e9k szkennelve, felfedezve: {0}.",
+    "Terraformer_Ammo": "ANYAG: {0}",
+    "BaseFoundation": "Alapoz\u00e1s",
+    "BaseCorridor": "Folyos\u00f3",
+    "BaseCorridorI": "I-alak\u00fa folyos\u00f3",
+    "BaseCorridorT": "T-alak\u00fa folyos\u00f3",
+    "BaseCorridorL": "L-alak\u00fa folyos\u00f3",
+    "BaseCorridorX": "X-alak\u00fa folyos\u00f3",
+    "BaseDoor": "Ajt\u00f3",
+    "BaseHatch": "Zsilip",
+    "BaseLadder": "L\u00e9tra",
+    "BaseReinforcement": "Meger\u0151s\u00edt\u00e9s",
+    "BaseRoom": "T\u00f6bbc\u00e9l\u00fa helys\u00e9g",
+    "BaseWall": "Fal",
+    "BaseWindow": "Ablak",
+    "PowerGenerator": "\u00c1ramfejleszt\u0151",
+    "Tooltip_BaseFoundation": "El\u0151sz\u00f6r ezt \u00e9p\u00edtsd meg (+2\u00c9P)",
+    "Tooltip_BaseCorridor": "Alap folyos\u00f3 (-1\u00c9P)",
+    "Tooltip_BaseCorridorI": "Alap folyos\u00f3 (-1\u00c9P)",
+    "Tooltip_BaseCorridorT": "Bal \u00e9s jobb (-1\u00c9P)",
+    "Tooltip_BaseCorridorL": "90 fokos fordulat (-1\u00c9P)",
+    "Tooltip_BaseCorridorX": "N\u00e9gy csatlakoz\u00e1si pont (-1\u00c9P)",
+    "Tooltip_BaseDoor": "Megt\u00e1masztja a szerkezetet \u00e9s meg\u00e1ll\u00edtja a v\u00edzbe\u00f6ml\u00e9st",
+    "Tooltip_BaseHatch": "Sz\u00fcks\u00e9ges a b\u00e1zisra val\u00f3 bel\u00e9p\u00e9shez (-1\u00c9P)",
+    "Tooltip_BaseLadder": "K\u00e9t szint csatlakoztat\u00e1s\u00e1hoz",
+    "Tooltip_BaseReinforcement": "Megn\u00f6veli a burkolat szil\u00e1rds\u00e1g\u00e1t (+7 \u00c9P)",
+    "Tooltip_BaseRoom": "Alap szoba (-1,25 \u00c9P)",
+    "Tooltip_BaseWall": "Kett\u00e9oszt egy szob\u00e1t",
+    "Tooltip_BaseWindow": "Megfigyel\u0151 ablak (-1 \u00c9P)",
+    "Tooltip_PowerGenerator": "Az alapoz\u00e1sra \u00e9p\u00edtsd, hogy energi\u00e1val l\u00e1thassa el a lak\u00f3helyet",
+    "GhostModelRotateInput": "Eg\u00e9rg\u00f6rg\u0151vel forgathat\u00f3",
+    "WarningUnsafeDepth": "FIGYELEM: Biztons\u00e1gos mer\u00fcl\u00e9si m\u00e9lys\u00e9g elhagy\u00e1sa {0} m\u00e9terrel. Az \u00fctk\u00f6z\u00e9sek k\u00e1rt fognak tenni a burkolatban.",
+    "WarningCrushDepth": " FIGYELEM: V\u00e9gzetes mer\u00fcl\u00e9si m\u00e9lys\u00e9g el\u00e9r\u00e9se {0} m\u00e9ter m\u00falva. A burkolat megs\u00e9r\u00fcl\u00e9se elker\u00fclhetetlen! Azonnal emelkedjen!",
+    "SafeDepthNow": "A biztons\u00e1gos mer\u00fcl\u00e9si m\u00e9lys\u00e9g jelenleg {0} m\u00e9ter",
+    "CrushDepthNow": "A v\u00e9gzetes mer\u00fcl\u00e9si m\u00e9lys\u00e9g jelenleg {0} m\u00e9ter",
+    "NewLeakDetected": "Burkolati s\u00e9r\u00fcl\u00e9s \u00e9szlelve! {0} l\u00e9k, {1} kisebb s\u00e9r\u00fcl\u00e9s.",
+    "LeakWelded": "Burkolat behegesztve. {0} l\u00e9k \u00e9s {1} kisebb s\u00e9r\u00fcl\u00e9s maradt.",
+    "HullRestored": "Burkolat integrit\u00e1sa helyre\u00e1ll\u00edtva. Elsz\u00edv\u00f3 rendszerek beind\u00edtva.",
+    "AimCloserToGround": "Ker\u00fclj k\u00f6zelebb a f\u00f6ldh\u00f6z \u00e9s c\u00e9lozz r\u00e1.",
+    "DiveReelUsage": "Jobb eg\u00e9rgomb a horgony r\u00f6gz\u00edt\u00e9s\u00e9hez a f\u00f6ldbe. Ut\u00e1na csak \u00fassz.",
+    "DiveReelAfterAnchor": "\u00dajboli jobb eg\u00e9rgomb az ors\u00f3 r\u00f6gz\u00edt\u00e9s\u00e9hez a f\u00f6ldbe. Ekkor az ors\u00f3 eltehet\u0151.",
+    "PickUpDiveReelAnchor": "R\u00f6gz\u00edt\u00e9s felszed\u00e9se",
+    "WrongAnchorForReel": "R\u00f6gz\u00edt\u00e9si pont l\u00e9trehoz\u00e1s\u00e1hoz el\u0151sz\u00f6r k\u00e9sz\u00edtse el\u0151 az ors\u00f3t!",
+    "BaseHullStrChanged": "{0} a b\u00e1zis burkolat\u00e1nak szil\u00e1rds\u00e1g\u00e1hoz, jelenleg \u00f6sszesen {1}",
+    "BaseHullStrDamageDetected": "S\u00e9r\u00fcl\u00e9s t\u00f6rt\u00e9nt az alacsony szerkezeti szil\u00e1rds\u00e1g miatt {0}! \u00c9p\u00edts Meger\u0151s\u00edt\u00e9seket vagy bontsd el a gyenge elemeket!",
+    "GiantMushroomTree": "Nagym\u00e9ret\u0171 szerves t\u00f6meg",
+    "SecretCave": "Lehets\u00e9ges barlang bej\u00e1rat",
+    "CaveEntrance": "Lehets\u00e9ges barlang bej\u00e1rat",
+    "HeatSignature": "H\u0151k\u00e9p",
+    "HatchExitBlocked": "A zsilip kij\u00e1rata blokkolva!",
+    "RotateCorridorHint": "Rotate",
+    "Lead": "\u00d3lomg\u00f6mb\u00f6k",
+    "Magnesium": "Magn\u00e9zium",
+    "NutrientBlock": "T\u00e1panyag r\u00fad",
+    "OpalGem": "Op\u00e1l dr\u00e1gak\u0151",
+    "SupplyCrate": "V\u00e1kuum-csomag",
+    "SmallSupplyCrate": "Kism\u00e9ret\u0171 v\u00e1kuum-csomag",
+    "HoldShiftToPreventMenuClose": "Tartsd lenyomva a shift gombot, hogy megel\u0151zd a men\u00fc bez\u00e1r\u00f3d\u00e1s\u00e1t gy\u00e1rt\u00e1s k\u00f6zben",
+    "RadiationHelmet": "Sug\u00e1rz\u00e1s\u00e1ll\u00f3 sisak",
+    "RadiationGloves": "Sug\u00e1rz\u00e1s\u00e1ll\u00f3 keszty\u0171k",
+    "HullReinforcementModule": "K\u00fcklopsz nyom\u00e1skiegyenl\u00edt\u0151je",
+    "Tooltip_HullReinforcementModule": "Atomi szinten rendezi \u00e1t a tengeralattj\u00e1r\u00f3 szerkezet\u00e9t, hogy n\u00f6velje a biztons\u00e1gos mer\u00fcl\u00e9si m\u00e9lys\u00e9get",
+    "PowerUpgradeModule": "Energiahat\u00e9konys\u00e1g fejleszt\u0151 modul",
+    "Tooltip_PowerUpgradeModule": "\u00dajrahasznos\u00edtja a keletkez\u0151 hullad\u00e9kh\u0151t hogy 15%-kal n\u00f6velje a motor hat\u00e9konys\u00e1g\u00e1t",
+    "SpecimenAnalyzerBlueprint": "Fajanaliz\u00e1l\u00f3 tervrajz",
+    "FirstAidKit": "Els\u0151seg\u00e9ly k\u00e9szlet",
+    "Tooltip_FirstAidKit": "Kezelt k\u00f6tszer. V\u00e9rz\u00e9s el\u00e1ll\u00edt\u00e1s\u00e1ra \u00e9s sebek fert\u0151tlen\u00edt\u00e9s\u00e9re.",
+    "Tooltip_Lead": "Pb. Sug\u00e1rz\u00e1s ellen szigetel.",
+    "Tooltip_NutrientBlock": "S\u0171r\u0171, feldolgozott \u00e9lelmiszer az Aur\u00f3r\u00e1r\u00f3l.",
+    "Tooltip_OpalGem": "Si. S\u0171r\u00edtett szilikonb\u00f3l k\u00e9sz\u00fclt dr\u00e1gak\u0151.",
+    "Tooltip_RadiationGloves": "\u00d3lom alap\u00fa, sug\u00e1rz\u00e1s elleni v\u00e9delem.",
+    "Tooltip_RadiationHelmet": "\u00d3lommal b\u00e9lelt, sug\u00e1rz\u00e1s\u00e1ll\u00f3 sisak.",
+    "Tooltip_SupplyCrate": "V\u00e1kuum-csomagolt felszerel\u00e9s az Aur\u00f3r\u00e1r\u00f3l.",
+    "Tooltip_SmallSupplyCrate": "V\u00e1kuum-csomagolt k\u00e9szletek az Auror\u00e1r\u00f3l.",
+    "Open_SupplyCrate": "K\u00e9szlet-l\u00e1da kinyit\u00e1sa",
+    "Close_SupplyCrate": "K\u00e9szlet-l\u00e1da bez\u00e1r\u00e1sa",
+    "Tooltip_SpecimenAnalyzerBlueprint": "Tervek Fajanaliz\u00e1l\u00f3 \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_HoleFish": "80% porc. A \"lyuk\" seg\u00edts\u00e9g\u00e9vel kisz\u00e1m\u00edthatatlanul man\u0151verezik.",
+    "Tooltip_Peeper": "Mozg\u00e9kony n\u00f6v\u00e9nyev\u0151, a nappali \u00f3r\u00e1kban akt\u00edv.",
+    "Tooltip_Oculus": "A Kukucsk\u00e1l\u00f3 evol\u00faci\u00f3s rokona. Alkalmazkodott a rossz f\u00e9nyviszonyokhoz.",
+    "Tooltip_GarryFish": "Egy j\u00f3 \u00edz\u0171 kis hal.",
+    "Tooltip_Boomerang": "Nappali faj jellegzetes iker-uszonyos meghajt\u00e1si mechanizmussal.",
+    "Tooltip_LavaLarva": "Herny\u00f3szer\u0171 l\u00e9ny fejlett h\u0151t\u0171r\u0151 k\u00e9pess\u00e9ggel.",
+    "Tooltip_Eyeye": "\u00dagy fejl\u0151d\u00f6tt, hogy megl\u00e1ssa a ragadoz\u00f3kat, miel\u0151tt azok \u00e9szrevenn\u00e9k \u0151t.",
+    "Tooltip_Bladderfish": "\u00c1tereszt\u0151 membr\u00e1nokat haszn\u00e1l, hogy kisz\u0171rje az oxig\u00e9nt a v\u00edzb\u0151l. Tele van leveg\u0151vel.",
+    "Tooltip_Hoverfish": "A vibr\u00e1l\u00f3 v\u00e9gtagja lehet\u0151v\u00e9 teszi ennek a l\u00e9nynek, hogy az \u00e1ramlatokban is megtartsa a poz\u00edci\u00f3j\u00e1t.",
+    "Tooltip_Reginald": "Tanul\u00e9kony \u0151shonos \u00e9l\u0151l\u00e9ny.",
+    "Tooltip_Spadefish": "V\u00edzi faj, egyetlen t\u00falfejlett szemmel.",
+    "SpecimenAnalyzer": "Faj analiz\u00e1l\u00f3",
+    "AccessSpecimenAnalyzer": "Hozz\u00e1f\u00e9r\u00e9s a Fajanaliz\u00e1l\u00f3hoz",
+    "Tooltip_SpecimenAnalyzer": "Mint\u00e1kat tanulm\u00e1nyoz tervrajz-k\u00e9sz\u00edt\u00e9s c\u00e9lj\u00e1b\u00f3l",
+    "SpecimenAnalyzerEmpty": "Fajanaliz\u00e1l\u00f3: \u00fcres",
+    "SpecimenAnalyzerIdle": "Fajanaliz\u00e1l\u00f3: t\u00e9tlen",
+    "SpecimenAnalyzing": "Analiz\u00e1l\u00e1s: {0}{1}{2}%...",
+    "SpecimenAnalysisCommencing": "{0} analiz\u00e1l\u00e1sa elkezd\u0151d\u00f6tt.",
+    "SpecimenAnalysisComplete": "Faj elemezve, felfedezve {0}",
+    "ReefbackTissue": "Porcos sz\u00f6vet",
+    "Tooltip_ReefbackTissue": "Ez az er\u0151s k\u00f6t\u0151sz\u00f6vet tal\u00e1n lehet\u0151v\u00e9 teszi \u00faj t\u00edpus\u00fa meger\u0151s\u00edtett b\u00fav\u00e1rruh\u00e1k k\u00e9sz\u00edt\u00e9s\u00e9t.",
+    "ReefbackShell": "Porcos h\u00e9j",
+    "Tooltip_ReefbackShell": "Ez a rendk\u00edv\u00fcl rugalmas h\u00e9j tal\u00e1n lehet\u0151v\u00e9 teszi nagyobb szil\u00e1rds\u00e1g\u00fa szerkezetek \u00e9p\u00edt\u00e9s\u00e9t.",
+    "ReefbackAdvancedStructure": "Tekn\u0151sp\u00e1nc\u00e9l-szerkezet",
+    "Tooltip_ReefbackAdvancedStructure": "Elemezve a r\u00e9szletes bels\u0151 m\u0171k\u00f6d\u00e9s\u00e9t, ez a fejlett h\u00e9jszerkezet tal\u00e1n tov\u00e1bbi szerkezeti er\u0151s\u00edt\u00e9st tesz lehet\u0151v\u00e9.",
+    "HullReinforcementModule2": "Kagyl\u00f3szer\u0171 burkolat-meger\u0151s\u00edt\u0151 modul",
+    "Tooltip_HullReinforcementModule2": "Burkolat-meger\u0151s\u00edt\u0151 modul, amely a Z\u00e1tonyh\u00e1t kagyl\u00f3-szerkezet\u00e9n alapul",
+    "HullReinforcementModule3": "Tekn\u0151sp\u00e1nc\u00e9l burkolat-meger\u0151s\u00edt\u0151 modul",
+    "Tooltip_HullReinforcementModule3": "Burkolat-er\u0151s\u00edt\u0151 modul, mely a Z\u00e1tonyh\u00e1t tekn\u0151sp\u00e1nc\u00e9l-szer\u0171 sejtjein alapul",
+    "ReefbackEgg": "Z\u00e1tonyh\u00e1t toj\u00e1s",
+    "Tooltip_ReefbackEgg": "Hihetetlen, de ezekb\u0151l Z\u00e1tonyh\u00e1tak kelnek ki",
+    "ReefbackDNA": "Z\u00e1tonyh\u00e1t DNS-minta",
+    "UpgradeConsole": "Hozz\u00e1f\u00e9r\u00e9s a fejleszt\u00e9sekhez",
+    "PowerRatingNow": "A jelenlegi hat\u00e1sfok {0}",
+    "RadiationFixed": "A hajt\u00f3m\u0171 sziv\u00e1rg\u00f3 magja lez\u00e1rva. A sug\u00e1rz\u00e1s 3 nap alatt eloszlik. K\u00eds\u00e9rlet az Aur\u00f3ra fekete doboz\u00e1ban t\u00e1rolt adatok let\u00f6lt\u00e9s\u00e9re. Interferenci\u00e1ba \u00fctk\u00f6ztem.",
+    "RemainingRadiationLeaks": "{0} sug\u00e1rz\u00f3 sziv\u00e1rg\u00e1s maradt",
+    "HardcoreGameOver": "Meghalt\u00e1l. J\u00e1t\u00e9k v\u00e9ge.",
+    "WorldArrow_AttackBleeder": "T\u00e1mad\u00e1s",
+    "EscToSkip": "Hold ESC to skip",
+    "InventoryLabel": "ESZK\u00d6ZT\u00c1R",
+    "StorageLabel": "T\u00c1ROL\u00d3",
+    "EquipmentLabel": "VISELVE",
+    "CraftingLabel": "\u00c9P\u00cdT\u00c9S",
+    "KeyRange15": "1-5",
+    "ShiftLMB": "Shift+Bal eg\u00e9rgomb",
+    "KeyE": "E",
+    "BeaconLabelEdit": "Jelad\u00f3 c\u00edmk\u00e9j\u00e9nek szerkeszt\u00e9se",
+    "BeaconLabel": "Jelad\u00f3 cimk\u00e9je",
+    "BeaconSubmit": "OK",
+    "BeaconDefaultPrefix": "J",
+    "EscapePodStorageLabel": "T\u00c1ROL\u00d3",
+    "CyclopsUpgradesStorageLabel": "MODULOK FEJLESZT\u00c9SE",
+    "SpecimenAnalyzerStorageLabel": "FAJANALIZ\u00c1L\u00d3",
+    "CalciumChunk": "Kalcium kin\u00f6v\u00e9s",
+    "CuredPeeper": "Tart\u00f3s\u00edtott Kukucsk\u00e1l\u00f3",
+    "CuredHoleFish": "Tart\u00f3s\u00edtott Lyukhal",
+    "CuredHoopfish": "Tart\u00f3s\u00edtott Abroncshal",
+    "CuredGarryFish": "Tart\u00f3s\u00edtott Kalaphal",
+    "CuredReginald": "Tart\u00f3s\u00edtott Fellengz\u0151shal",
+    "CuredBladderfish": "Tart\u00f3s\u00edtott H\u00f3lyaghal",
+    "CuredHoverfish": "Tart\u00f3s\u00edtott Cselleng\u0151l\u00e9ny",
+    "CuredSpadefish": "Tart\u00f3s\u00edtott Lap\u00e1thal",
+    "CuredBoomerang": "Tart\u00f3s\u00edtott Bumer\u00e1nghal",
+    "CuredEyeye": "Tart\u00f3s\u00edtott Szemeshal",
+    "CuredOculus": "Tart\u00f3s\u00edtott Okulusz",
+    "Decomposing": "R\u00e9gi",
+    "Ripe": "Oszl\u00f3",
+    "Rotting": "Rohadt",
+    "CookedFood": "F\u0151tt \u00e9tel",
+    "CuredFood": "Tart\u00f3s\u00edtott \u00e9tel",
+    "Tooltip_CuredBladderfish": "Felf\u00fajtra eml\u00e9keztet.",
+    "Tooltip_CuredBoomerang": "Kem\u00e9ny, de \u00edzletes.",
+    "Tooltip_CuredEyeye": "Fonnyadt, r\u00e1g\u00f3s, m\u00e9gis \u00e9tv\u00e1gygerjeszt\u0151.",
+    "Tooltip_CuredGarryFish": "Az egyetlen, amit \u00e9rzel rajta, a s\u00f3.",
+    "Tooltip_CuredHoleFish": "A s\u00f3z\u00e1st\u00f3l a h\u00fas felf\u00fajt \u00e1llag\u00fav\u00e1 v\u00e1lt.",
+    "Tooltip_CuredHoopfish": "Ez a hal egy\u00e9rtelm\u0171en hal\u00edz\u0171.",
+    "Tooltip_CuredHoverfish": "A ropog\u00f3s, s\u00f3s l\u00e1bak a legfinomabbak.",
+    "Tooltip_CuredOculus": "H\u00fasos \u00e9s m\u00e9g mindig er\u0151s \u00edzvil\u00e1ggal rendelkezik.",
+    "Tooltip_CuredPeeper": "S\u00f3ban tart\u00f3s\u00edtva.",
+    "Tooltip_CuredReginald": "T\u00fals\u00f3zott.",
+    "Tooltip_CuredSpadefish": "A napi s\u00f3sz\u00fcks\u00e9gleted egyetlen adagban.",
+    "NoBattery": "Az eszk\u00f6zt\u00e1rban nincsenek elemek",
+    "UseWorkbench": "M\u00f3dos\u00edt\u00f3 \u00e1llom\u00e1s haszn\u00e1lata",
+    "DiamondBlade": "Kem\u00e9ny\u00edtett penge",
+    "HeatBlade": "H\u0151penge",
+    "LithiumIonBattery": "L\u00edtium-ion elem",
+    "PlasteelTank": "Plasztac\u00e9l tart\u00e1ly",
+    "HighCapacityTank": "Nagy kapacit\u00e1s\u00fa tart\u00e1ly",
+    "UltraGlideFins": "Ultragyorsan sikl\u00f3 uszonyok",
+    "SwimChargeFins": "\u00dasz\u00e1s k\u00f6zben t\u00f6lt\u0151 uszonyok",
+    "RepulsionCannon": "Tasz\u00edt\u00f3-\u00e1gy\u00fa",
+    "Stillsuit": "Cirkoruha",
+    "PowerGlide": "Motoros sikl\u00f3",
+    "Tooltip_DiveSuit": "Alap b\u00fav\u00e1rruha",
+    "Tooltip_DiamondBlade": "Gy\u00e9m\u00e1nttal meger\u0151s\u00edtett penge",
+    "Tooltip_HeatBlade": "F\u0171t\u00f6tt penge",
+    "Tooltip_LithiumIonBattery": "Egy hagyom\u00e1nyos elem energi\u00e1j\u00e1nak k\u00e9tszeres\u00e9t t\u00e1rolja",
+    "Tooltip_PlasteelTank": "Extra k\u00f6nny\u0171 tart\u00e1ly",
+    "Tooltip_HighCapacityTank": "Extra leveg\u0151-kapacit\u00e1s",
+    "Tooltip_UltraGlideFins": "Megn\u00f6velt \u00fasz\u00e1si sebess\u00e9g",
+    "Tooltip_SwimChargeFins": "\u00dasz\u00e1s k\u00f6zben vezet\u00e9k n\u00e9lk\u00fcl t\u00f6lti a n\u00e1lad l\u00e9v\u0151 elemes eszk\u00f6zt",
+    "Tooltip_RepulsionCannon": "Er\u0151t gyakorol a c\u00e9lpontokra",
+    "Tooltip_Stillsuit": "Visszanyeri a kiizzadt vizet",
+    "Tooltip_PowerGlide": "Right-mouse to activate power surge",
+    "SecsO2": "{0} m\u00e1sodperc",
+    "Empty": "\u00fcres",
+    "Tooltip_PropulsionCannon": "M\u00f3dos\u00edtja a gravit\u00e1ci\u00f3t, hogy mag\u00e1hoz h\u00fazzon vagy ell\u00f6kj\u00f6n c\u00e9lpontokat.",
+    "Tooltip_PropulsionCannonBlueprint": "Tervek a Vonz\u00f3-\u00e1gy\u00fa \u00e9p\u00edt\u00e9s\u00e9hez",
+    "InventoryOverflow": "Az eszk\u00f6zt\u00e1r megtelt. Szabad\u00edts fel helyet a felv\u00e9tel\u00e9hez: {0}",
+    "CrashPowder": "Robban\u00f3-por",
+    "Tooltip_CrashPowder": "SO\u2074Tr. K\u00e9n-alap\u00fa por. V\u00edz alatt is \u00e9ghet\u0151.",
+    "LoadGame": "J\u00e1t\u00e9k bet\u00f6lt\u00e9se",
+    "Quit": "Kil\u00e9p\u00e9s",
+    "SurvivalDescription": "Ker\u00fcld el a vesz\u00e9lyes l\u00e9nyeket, tal\u00e1lj forr\u00e1sokat, csillap\u00edtsd \u00e9hs\u00e9ged \u00e9s szomj\u00fas\u00e1god a t\u00fal\u00e9l\u00e9shez.",
+    "FreedomDescription": "Olyan, mint a T\u00fal\u00e9l\u0151-m\u00f3d, de \u00e9hs\u00e9g \u00e9s szomj\u00fas\u00e1g n\u00e9lk\u00fcl. ",
+    "HardcoreDescription": "T\u00fal\u00e9l\u00e9s egyetlen \u00e9lettel. Nincs oxig\u00e9nhi\u00e1ny figyelmeztet\u00e9s.",
+    "GetDevelopmentUpdates": "Kapj fejleszt\u0151i friss\u00edt\u00e9seket",
+    "ViewOnSteam": "Megtekint\u00e9s Steam-en",
+    "RedeemaKey": "Kulcs bev\u00e1lt\u00e1sa",
+    "GetDevUpdates": "Kapj fejleszt\u0151i friss\u00edt\u00e9seket",
+    "GetDevUpdatesDescription": "\u00cdrd be az e-mail c\u00edmedet, hogy \u00e9rtes\u00edthess\u00fcnk, a k\u00f6vetkez\u0151 Korai Hozz\u00e1f\u00e9r\u00e9s\u0171 Subnautica friss\u00edt\u00e9sr\u0151l!",
+    "EnterEmailPlaceholder": "E-mail c\u00edm be\u00edr\u00e1sa...",
+    "ViewPastUpdates": "Kor\u00e1bbi friss\u00edt\u00e9sek",
+    "Subscribe": "Feliratkoz\u00e1s",
+    "RedeemanItemKey": "T\u00e1rgy-kulcs bev\u00e1lt\u00e1sa",
+    "EnterKeyPlaceholder": "Kulcs be\u00edr\u00e1sa...",
+    "RedemptionDescription": "Van Subnautica t\u00e1rgy-kulcsod? V\u00e1ltsd be itt, hogy hozz\u00e1adhasd a Steam Rakt\u00e1radhoz \u00e9s megjelenhessen a j\u00e1t\u00e9kban!",
+    "Redeem": "Bev\u00e1lt\u00e1s",
+    "StillsuitEquipped": "Cirkoruha felv\u00e9ve, mostant\u00f3l gy\u0171jti az izzads\u00e1got",
+    "StillsuitCreatedWater": "A Cirkoruha 250 ml \u00fajrahasznos\u00edtott H2O-t gy\u0171jt\u00f6tt",
+    "StillsuitWater": "Visszanyert v\u00edz",
+    "Tooltip_StillsuitWater": "H\u2082O. Izzads\u00e1gb\u00f3l visszanyert, tiszt\u00edtott v\u00edz.",
+    "PropulsionCannonEToRelease": "Nyomj E -t a t\u00e1rgy elenged\u00e9s\u00e9hez",
+    "Help": "Seg\u00edts\u00e9g",
+    "Inventory": "Eszk\u00f6zt\u00e1r",
+    "OpenSteamInventory": "Steam rakt\u00e1r megnyit\u00e1sa",
+    "BackToDevNews": "Vissza a h\u00edrekhez",
+    "EconomyWarning": "Ez a funkci\u00f3 jelenleg fejleszt\u00e9s alatt \u00e1ll. K\u00e9rlek, hagyd figyelmen k\u00edv\u00fcl!",
+    "DevTestItem": "Fejleszt\u0151i teszt t\u00e1rgy",
+    "Tooltip_DevTestItem": "T\u00e9nyleg. T\u00c9NYLEG.",
+    "BikemanHullPlate": "Bikeman burkolati lemez",
+    "EatMyDictionHullPlate": "Eat My Diction burkolati lemez",
+    "POWER": "ENERGIA",
+    "DevelopmentNews": "Fejleszt\u00e9si h\u00edrek",
+    "SavedGames": "Mentett j\u00e1t\u00e9kok",
+    "ClimbLadder": "L\u00e9tra haszn\u00e1lata",
+    "ExitEscapePod": "Kisz\u00e1ll\u00e1s a Ment\u0151kabinb\u00f3l",
+    "EnterEscapePod": "Besz\u00e1ll\u00e1s a Ment\u0151kabinba",
+    "BoardEscapePod": "Besz\u00e1ll\u00e1s a Ment\u0151kabinba",
+    "UseLadder": "L\u00e9tra haszn\u00e1lata",
+    "Open": "Kinyit",
+    "Close": "Bez\u00e1r",
+    "OpenStorage": "T\u00e1rol\u00f3 kinyit\u00e1sa",
+    "SavingGame": "J\u00e1t\u00e9k ment\u00e9se...",
+    "GameSaved": "J\u00e1t\u00e9k mentve.",
+    "PressButton": "Gomb megnyom\u00e1sa",
+    "Climb": "M\u00e1sz\u00e1s",
+    "Dig": "\u00c1s\u00e1s:",
+    "DriveVehicle": "J\u00e1rm\u0171 vezet\u00e9se",
+    "CloseDoor": "Ajt\u00f3 bez\u00e1r\u00e1sa",
+    "OpenDoor": "Ajt\u00f3 kinyit\u00e1sa",
+    "ClimbUp": "Felm\u00e1sz\u00e1s",
+    "ClimbDown": "Lem\u00e1sz\u00e1s",
+    "GrabOn": "Megfog",
+    "PowerCableInstructions": "Csatlakoz\u00e1s (bal eg\u00e9rgomb) Lev\u00e1l\u00e1s (jobb eg\u00e9rgomb)",
+    "PickupCable": "K\u00e1bel felv\u00e9tele",
+    "InsertPowerCell": "\u00daj energiacella behelyez\u00e9se",
+    "PilotSub": "Tengeralattj\u00e1r\u00f3 vezet\u00e9se",
+    "SetAutopilot": "Robotpil\u00f3ta bekapcsol\u00e1sa",
+    "SignInstructions": "Felvesz (nyomj jobb eg\u00e9rgombot a szerkeszt\u00e9shez)",
+    "TerraformerInstructions": "Anyag hozz\u00e1ad\u00e1sa jobb eg\u00e9rgomb nyomva tart\u00e1s\u00e1val. Anyag ki\u00e1s\u00e1sa shift + jobb eg\u00e9rgomb nyomva tart\u00e1s\u00e1val.",
+    "TerraformerOutOfMaterial": "Az anyag elfogyott! Tov\u00e1bbi ki\u00e1s\u00e1sa (shift + jobb eg\u00e9rgomb nyomva tart\u00e1s\u00e1val)",
+    "TerraformerTooClose": "T\u00fal k\u00f6zel vagy! Menj h\u00e1tr\u00e9bb",
+    "TerraformerTooFar": "T\u00fal messze vagy a talajt\u00f3l!",
+    "PipeInstructions": "Lehelyez\u00e9s jobb eg\u00e9rgombbal. Helyezd v\u00edz f\u00f6l\u00e9 vagy csatlakoztasd egy m\u00e1r megl\u00e9v\u0151 k\u00e9k l\u00e9gcs\u0151h\u00f6z (c\u00e9lozz r\u00e1).",
+    "PipeCantReconnect": "Nem tud csatlakozni a k\u00f6zeli l\u00e9gcs\u0151h\u00f6z - az t\u00fal messze van!",
+    "PipeNotConnected": "A l\u00e9gcs\u0151 nem \u00e9r el a felsz\u00ednig! Nem kap leveg\u0151t.",
+    "FeedbackInstructions": "Nyomj F8-at a hib\u00e1k jelent\u00e9s\u00e9hez \u00e9s visszajelz\u00e9s k\u00fcld\u00e9s\u00e9hez",
+    "NightTime": "S\u00f6t\u00e9tedik.",
+    "SpawnNearbyFailed": "K\u00f6zeli beteremt\u00e9s nem siker\u00fclt.",
+    "Compass": "Ir\u00e1nyt\u0171",
+    "Pipe": "L\u00e9gcs\u0151",
+    "Terraformer": "Terraform\u00e1l\u00f3",
+    "Thermometer": "H\u0151m\u00e9r\u0151",
+    "BatteryDepleted": "Az elem lemer\u00fclt",
+    "Gravsphere": "Gravig\u00f6mb",
+    "Cyclops": "K\u00fcklopsz",
+    "EscapePod": "Ment\u0151kabin",
+    "Silicone": "Szilikon-gumi",
+    "Tooltip_Aquarium": "\u00d6nfenntart\u00f3 v\u00edzi \u00e9l\u0151hely.",
+    "Tooltip_Spotlight": "R\u00f6gz\u00edtett vil\u00e1g\u00edt\u00e1si megold\u00e1s.",
+    "DeconstructAttachedError": "El\u0151sz\u00f6r t\u00e1vol\u00edtsa el a csatolt komponenseket.",
+    "Pause": "Sz\u00fcnet",
+    "BackToGame": "Vissza a j\u00e1t\u00e9kba",
+    "GiveFeedback": "Visszajelz\u00e9s k\u00fcld\u00e9se",
+    "Save": "Ment\u00e9s",
+    "QuitToDesktop": "Kil\u00e9p\u00e9s az asztalra",
+    "AreYouSure": "Biztos vagy benne?",
+    "Yes": "Igen",
+    "No": "Nem",
+    "InvertMouse": "Eg\u00e9rgombok felcser\u00e9l\u00e9se",
+    "MouseSensitivity": "Eg\u00e9r \u00e9rz\u00e9kenys\u00e9ge",
+    "OculusRift": "Oculus Rift",
+    "OculusRecenter": "K\u00f6z\u00e9ppont \u00fajradefini\u00e1l\u00e1sa (F2)",
+    "DisableMousePitch": "Disable mouse pitch",
+    "ArmFollowsGaze": "A kar k\u00f6veti a tekintetet",
+    "capacity": "kapacit\u00e1s",
+    "ClimbUpLadder": "Felm\u00e1sz\u00e1s a l\u00e9tr\u00e1n",
+    "ClimbDownLadder": "Lem\u00e1sz\u00e1s a l\u00e9tr\u00e1n",
+    "sand": "homok",
+    "FabricatorMenu_Resources": "Nyersanyagok",
+    "FabricatorMenu_Electronics": "Elektronika",
+    "FabricatorMenu_Survival": "\u00c9lelmiszerek",
+    "FabricatorMenu_Water": "V\u00edz",
+    "FabricatorMenu_CookedFood": "F\u0151tt \u00e9tel",
+    "FabricatorMenu_CuredFood": "Tart\u00f3s\u00edtott \u00e9tel",
+    "FabricatorMenu_Personal": "Szem\u00e9lyes",
+    "FabricatorMenu_Equipment": "Felszerel\u00e9s",
+    "FabricatorMenu_Tools": "Eszk\u00f6z\u00f6k",
+    "FabricatorMenu_Machines": "Telep\u00edthet\u0151k",
+    "FabricatorMenu_Submarine": "Tengeralattj\u00e1r\u00f3",
+    "ConstructorMenu_Vehicles": "J\u00e1rm\u0171vek",
+    "WorkbenchMenu_KnifeMenu": "T\u00fal\u00e9l\u0151k\u00e9s",
+    "WorkbenchMenu_TankMenu": "Oxig\u00e9n-tart\u00e1ly",
+    "WorkbenchMenu_FinsMenu": "Uszonyok",
+    "PropulsionCannonFragment": "Vonz\u00f3-\u00e1gy\u00fa t\u00f6red\u00e9k",
+    "Tooltip_PropulsionCannonFragment": "A Vonz\u00f3-\u00e1gy\u00fa egy darabja",
+    "Tooltip_ReinforceHullFragment": "Az Aur\u00f3ra meger\u0151s\u00edtett t\u00f6rzs\u00e9nek egy darabja",
+    "TabInventory": "Eszk\u00f6zt\u00e1r",
+    "TabJournal": "Tervrajzok",
+    "SignDefaultLabel": "FELIRAT",
+    "SignEditLabel": "Jelz\u00e9s szerkeszt\u00e9se",
+    "CategoryMisc": "Egyebek",
+    "CategoryBase": "\u00c9l\u0151hely elemek",
+    "CategoryPower": "Energia",
+    "CategoryModule": "Berendez\u00e9sek",
+    "Sign": "Jelz\u00e9s",
+    "Tooltip_Sign": "Jelz\u00e9s",
+    "SolarPanel": "Napelem",
+    "SolarPanelStatus": "Napelem (nap: {0}% t\u00f6lt\u00e9s: {1}\/{2})",
+    "Tooltip_SolarPanel": "\u00c9p\u00edtsd napf\u00e9nyes talajra, hogy t\u00f6lt\u0151dj\u00f6n (25 energia\/perc)",
+    "WorkbenchMenu_PropulsionCannonMenu": "Vonz\u00f3-\u00e1gy\u00fa",
+    "Uranium": "Ur\u00e1n",
+    "RegenPowerCell": "\u00d6nt\u00f6lt\u0151 energiacella",
+    "CompostCreepvine": "K\u00fasz\u00f3sz\u0151l\u0151 komposzt\u00e1l\u00e1sa",
+    "Tooltip_CompostCreepvine": "Id\u0151vel a K\u00fasz\u00f3sz\u0151l\u0151ket komposzt\u00e1lva energi\u00e1t \u00e1ll\u00edt el\u0151",
+    "ProcessUranium": "Ur\u00e1n feldolgoz\u00e1sa",
+    "Tooltip_ProcessUranium": "Er\u0151sen kontroll\u00e1lt hasad\u00e1si reakci\u00f3",
+    "TreeMushroomPiece": "Gomba minta",
+    "Tooltip_TreeMushroomPiece": "\u0150shonos n\u00f6v\u00e9ny. Gomba-enzimeket tartalmaz",
+    "Tooltip_Uranium": "U. Nukle\u00e1ris hasad\u00f3anyagk\u00e9nt haszn\u00e1lhat\u00f3.",
+    "PowerTransmitter": "Energia tov\u00e1bb\u00edt\u00f3",
+    "Accumulator": "Akkuml\u00e1tor",
+    "Bioreactor": "Bioreaktor",
+    "ThermalPlant": "H\u0151er\u0151m\u0171",
+    "NuclearReactor": "Nukle\u00e1ris reaktor",
+    "PowerCellStatus": "ENERGIA: {0}\/{1}",
+    "HUDPowerStatus": "ENERGIA: {0}\/{1}",
+    "AccumulatorStatus": "Akkumul\u00e1tor (t\u00f6lt\u00f6tts\u00e9g: {0}\/{1})",
+    "BioreactorStatus": "Bioreaktor (t\u00f6lt\u00f6tts\u00e9g: {0}\/{1})",
+    "BioreactorProcessingStatus": "Bioreaktor (feldolgozand\u00f3: {0} t\u00f6lt\u00e9s: {1}\/{2})",
+    "ThermalPlantStatus": "H\u0151er\u0151m\u0171 (t\u00f6lt\u00e9s: {0}\/{1})",
+    "NuclearReactorStatus": "Nukle\u00e1ris reaktor (t\u00f6lt\u00e9s: {0}\/{1})",
+    "NuclearReactorProcessingStatus": "Nukle\u00e1ris reaktor (feldolgoz\u00e1s: {0} t\u00f6lt\u00e9s: {1}\/{2})",
+    "Tooltip_PowerTransmitter": "Megn\u00f6veli az energiaforr\u00e1s hat\u00f3t\u00e1vols\u00e1g\u00e1t",
+    "Tooltip_Accumulator": "Energi\u00e1t t\u00e1rol",
+    "Tooltip_Bioreactor": "N\u00f6v\u00e9nyi anyagokat komposzt\u00e1l energi\u00e1v\u00e1 (40 energia\/perc)",
+    "Tooltip_ThermalPlant": "H\u0151t konvert\u00e1l energi\u00e1v\u00e1 (> 15 \u00b0C) (50 energia\/perc)",
+    "Tooltip_NuclearReactor": "Ur\u00e1nt dolgoz fel jelent\u0151s mennyis\u00e9g\u0171 energi\u00e1v\u00e1 (150 egys\u00e9g energia\/perc)",
+    "SmallLockerDefaultLabel": "T\u00c1ROL\u00d3",
+    "SmallLockerEditLabel": "T\u00e1rol\u00f3 felirat\u00e1nak szerkeszt\u00e9se",
+    "SmallLocker": "Fali t\u00e1rol\u00f3",
+    "Tooltip_SmallLocker": "Falra szerelt t\u00e1rol\u00f3.",
+    "Lithium": "L\u00edtium",
+    "DioramaHullPlate": "\u00c9letk\u00e9p burkolati-lemez",
+    "Tooltip_DioramaHullPlate": "Egy speci\u00e1lis burkolati lemez, megeml\u00e9kezend\u0151 egy egyedi \u00e9letk\u00e9pr\u0151l.",
+    "OpenPercent": "KINYITVA: {0}%",
+    "LaserCutter": "L\u00e9zerv\u00e1g\u00f3",
+    "Tooltip_LaserCutter": "Lez\u00e1rt dolgokat nyit",
+    "Sealed_SupplyCrate": "Lez\u00e1rt ell\u00e1tm\u00e1nyl\u00e1da",
+    "Sealed": "Lez\u00e1rt",
+    "SealedInstructions": "V\u00e1gd ki, hogy hozz\u00e1f\u00e9rj",
+    "BoardCyclops": "Besz\u00e1ll\u00e1s a K\u00fcklopszba",
+    "LeaveCyclops": "K\u00fcklopsz elhagy\u00e1sa",
+    "EnterBase": "Bel\u00e9p\u00e9s a b\u00e1zisra",
+    "ExitBase": "B\u00e1zis elhagy\u00e1sa",
+    "MarkiplierHullPlate": "Markiplier burkolati lemez",
+    "Tooltip_MarkiplierHullPlate": "I'm not scared. Not even a little bit.",
+    "MuyskermHullPlate": "Muyskerm burkolati lemez",
+    "Tooltip_MuyskermHullPlate": "Vizsg\u00e1ld fel\u00fcl a YouTube feliratkoz\u00e1si elv\u00e1r\u00e1saidat.",
+    "LordMinionHullPlate": "LordMinion burkolati lemez",
+    "Tooltip_LordMinionHullPlate": "Minden id\u0151k legj\u00f3k\u00e9p\u0171bb Subnautica burkolati lemeze.",
+    "JackSepticEyeHullPlate": "JackSepticEye burkolati lemez",
+    "Tooltip_JackSepticEyeHullPlate": "Jack creates clean, swearing-free videos appropriate for viewing by all ages.",
+    "Aerogel": "Aerog\u00e9l",
+    "AluminumOxide": "Alum\u00ednium-oxid krist\u00e1ly",
+    "AminoAcids": "Aminosavak",
+    "AramidFibers": "Szintetikus sz\u00e1lak",
+    "Benzene": "Benzol",
+    "BloodOil": "V\u00e9rolaj",
+    "BloodRoot": "V\u00e9rgy\u00f6k\u00e9r",
+    "BloodVine": "V\u00e9r inda",
+    "Graphene": "Graf\u00e9n",
+    "HydrochloricAcid": "S\u00f3sav",
+    "Magnetite": "Magnetit",
+    "MercuryOre": "Higany\u00e9rc",
+    "Nanowires": "Nanovezet\u00e9kek",
+    "Polyaniline": "Polianalin",
+    "Sulphur": "K\u00e9n",
+    "WhiteMushroom": "M\u00e9lytengeri gomba",
+    "FabricatorMenu_BasicMaterials": "Alapanyagok",
+    "FabricatorMenu_AdvancedMaterials": "Sz\u00e1rmaztatott nyersanyagok",
+    "Tooltip_Aerogel": "K\u00f6nny\u0171, por\u00f3zus, sz\u00e1r\u00edtott g\u00e9l. J\u00f3 h\u0151szigetel\u0151.",
+    "Tooltip_AluminumOxide": "Al\u2082O\u2083. Hasznos h\u0151- \u00e9s elektromos-vezet\u0151.",
+    "Tooltip_AminoAcids": "Feh\u00e9rje- \u00e9s neurotranszmitter-\u00e9p\u00edt\u0151 blokkok.",
+    "Tooltip_AramidFibers": "Nagy szil\u00e1rds\u00e1g\u00fa mesters\u00e9ges sz\u00e1lak",
+    "Tooltip_Benzene": "C\u2076H\u2076. Olajk\u00e9nt \u00e9s old\u00f3szerk\u00e9nt hasznos\u00edthat\u00f3.",
+    "Tooltip_BloodOil": "Olajos ragacs",
+    "Tooltip_BloodRoot": "Pirosas gy\u00f6k\u00e9r",
+    "Tooltip_BloodVine": "",
+    "Tooltip_Graphene": "C. Egy atomnyi vastag vonalba rendezett grafit. Er\u0151sebb, mint az ac\u00e9l.",
+    "Tooltip_HydrochloricAcid": "HCl. Er\u0151sen savas vegy\u00fclet. Kell\u0151 gondoss\u00e1ggal haszn\u00e1land\u00f3.",
+    "Tooltip_Magnetite": "Ma. M\u00e1gneses tulajdons\u00e1gokkal rendelkez\u0151 f\u00e9m.",
+    "Tooltip_MercuryOre": "HgS. Cin\u00f3ber. O\u00b2-gazdag k\u00f6rnyezetben meleg\u00edtve finom\u00edtott higanyt eredm\u00e9nyez.",
+    "Tooltip_Nanowires": "Vezet\u00e9kek nanom\u00e9ret\u0171 kvantumeszk\u00f6z\u00f6kh\u00f6z.",
+    "Tooltip_Polyaniline": "J\u00f3 vezet\u0151k\u00e9pess\u00e9g\u0171 polimer.",
+    "Tooltip_Sulphur": "S. Oxid\u00e1l\u00f3- \u00e9s reduk\u00e1l\u00f3szer.",
+    "Tooltip_WhiteMushroom": "H\u00fasa er\u0151sen savas.",
+    "Cutefish": "Cukihal",
+    "Tooltip_Cutefish": "A k\u00fcl\u00f6nleges kiad\u00e1s h\u00e1zi\u00e1llata",
+    "BaseBulkhead": "V\u00e1laszfal",
+    "Tooltip_BaseBulkhead": "Szerkezeti merev\u00edt\u0151 \u00e9s k\u00e9pes meg\u00e1ll\u00edtani a v\u00edzbe\u00f6ml\u00e9st (+2 \u00c9P)",
+    "OpenLocker": "T\u00e1rol\u00f3 kinyit\u00e1sa",
+    "Lubricant": "Ken\u0151anyag",
+    "CreepvineSeedCluster": "K\u00fasz\u00f3sz\u0151l\u0151 magf\u00fcrt",
+    "Tooltip_CreepvineSeedCluster": "\u0150shonos magvak er\u0151sen olajos beltartalommal.",
+    "Tooltip_Lubricant": "Term\u00e9szetes, olaj alap\u00fa ken\u0151anyag. Ipari haszn\u00e1latra.",
+    "SeamothReinforcementModule": "Csik\u00f3hal nyom\u00e1skiegyenl\u00edt\u0151je",
+    "Tooltip_SeamothReinforcementModule": "Meger\u0151s\u00edti a Csik\u00f3hal v\u00e1z\u00e1t extr\u00e9m nyom\u00e1s eset\u00e9re, modulonk\u00e9nt 200 m-rel n\u00f6velve a biztons\u00e1gos mer\u00fcl\u00e9si m\u00e9lys\u00e9get.",
+    "SeamothPowerUpgradeModule": "Csik\u00f3hal energia-hat\u00e9konys\u00e1gi modulja",
+    "Tooltip_SeamothPowerUpgradeModule": "H\u0151visszavezet\u00e9ssel minimaliz\u00e1lja az energia-pazarl\u00e1st. Modulonk\u00e9nt 15%-kal cs\u00f6kkenti az energia-felhaszn\u00e1l\u00e1st.",
+    "SeamothSolarCharge": "Csik\u00f3hal napkollektoros t\u00f6lt\u0151je",
+    "Tooltip_SeamothSolarCharge": "Napf\u00e9ny hat\u00e1s\u00e1ra visszat\u00f6lti a Csik\u00f3hal energiacell\u00e1j\u00e1t.",
+    "Bench": "Pad",
+    "Tooltip_Bench": " Egyszer\u0171 f\u00e9m szerkezet. Haszn\u00e1lat\u00e1val energi\u00e1t lehet megtakar\u00edtani.",
+    "BaseCorridorGlassI": "I-alak\u00fa \u00fcvegfolyos\u00f3",
+    "BaseCorridorGlassL": "L-alak\u00fa \u00fcvegfolyos\u00f3",
+    "BaseObservatory": "Obszervat\u00f3rium",
+    "Tooltip_BaseCorridorGlassI": "Alap \u00fcvegfolyos\u00f3 (-2 \u00c9P)",
+    "Tooltip_BaseCorridorGlassL": "90 fokos kanyar (-2\u00c9P)",
+    "Tooltip_BaseObservatory": "N\u00e9zd meg a k\u00f6rny\u00e9kbeli \u00f3ce\u00e1ni \u00e9letet (-3 \u00c9P)",
+    "BaseConnector": "F\u00fcgg\u0151leges csatlakoz\u00e1s",
+    "Tooltip_BaseConnector": "Alap f\u00fcgg\u0151leges csatlakoz\u00f3 (-0,5 \u00c9P)",
+    "BioreactorFragment": "Bioreaktor t\u00f6red\u00e9k",
+    "NuclearReactorFragment": "Nukle\u00e1ris reaktor t\u00f6red\u00e9k",
+    "ThermalPlantFragment": "H\u0151er\u0151m\u0171 t\u00f6red\u00e9k",
+    "Tooltip_BioreactorFragment": "A bioreaktor egy darabja",
+    "Tooltip_ThermalPlantFragment": "A h\u0151er\u0151m\u0171 egy darabja",
+    "Tooltip_BioreactorBlueprint": "Tervek Bioreaktor \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_NuclearReactorBlueprint": "Tervek Nukle\u00e1ris reaktor \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_ThermalPlantBlueprint": "Tervek H\u0151er\u0151m\u0171 \u00e9p\u00edt\u00e9s\u00e9hez",
+    "BaseMoonpool": "Sz\u00e1razdokk",
+    "Tooltip_BaseMoonpool": "Dokkol\u00f3 szoba (-5 \u00c9P)",
+    "AquariumStorageLabel": "AKV\u00c1RIUM",
+    "UseAquarium": "Akv\u00e1rium haszn\u00e1lata",
+    "SitDown": "Le\u00fcl\u00e9s",
+    "StandUp": "Fel\u00e1ll\u00e1s",
+    "MoonpoolFragment": "Sz\u00e1razdokk t\u00f6red\u00e9k",
+    "BioreactorBlueprint": "Bioreaktor tervrajz",
+    "MoonpoolBlueprint": "Sz\u00e1razdokk tervrajz",
+    "NuclearReactorBlueprint": "Nukle\u00e1ris reaktor tervrajz",
+    "ThermalPlantBlueprint": "H\u0151er\u0151m\u0171 tervrajz",
+    "Tooltip_MoonpoolFragment": "A Sz\u00e1razdokk technol\u00f3gi\u00e1j\u00e1nak egy darabja",
+    "Tooltip_NuclearReactorFragment": "A nukle\u00e1ris reaktor egy darabja",
+    "FloatingIsland": "F\u00f6ldt\u00f6meg \u00e9szlelve",
+    "CoralArch": "Nagym\u00e9ret\u0171 szerves t\u00f6meg",
+    "BalancingRock": "Geol\u00f3giai k\u00e9pz\u0151dm\u00e9ny",
+    "HugePillar": "Geol\u00f3giai k\u00e9pz\u0151dm\u00e9ny",
+    "InventoryCantDropHere": "A t\u00e1rgy itt nem dobhat\u00f3 el. Haszn\u00e1ld a t\u00e1rol\u00f3 kont\u00e9nereket.",
+    "BaseCorridorGlass": "\u00fcvegfolyos\u00f3",
+    "Tooltip_BaseCorridorGlass": "\u00dcvegfolyos\u00f3 (-2 \u00c9P)",
+    "SeamothDefaultName": "CSIK\u00d3HAL",
+    "ExosuitDefaultName": "L\u00c9PEGET\u0150",
+    "SubmersibleNotDocked": "DOKK \u00dcRES",
+    "SubmersibleDocked": "DOKKOLVA",
+    "SubmersibleFullyCharged": "TELJESEN FELT\u00d6LT\u00d6TT",
+    "SubmersibleCharging": "T\u00d6LT\u0150DIK",
+    "BaseUpgradeConsole": "Csik\u00f3hal M\u00f3dos\u00edt\u00f3 \u00e1llom\u00e1s",
+    "Tooltip_BaseUpgradeConsole": "\u00c9p\u00edtsd meg a Sz\u00e1razdokkban, hogy fejleszthesd a Csik\u00f3halat",
+    "NotEnoughSpaceToSit": "Nincs el\u00e9g hely, hogy le\u00fclj erre a padra",
+    "Creative": "Kreat\u00edv",
+    "CreativeDescription": "\u00c9p\u00edts b\u00e1rmit, megk\u00f6t\u00e9sek n\u00e9lk\u00fcl. Oxig\u00e9n, \u00e9lelmiszer, nyom\u00e1s, t\u00f6rt\u00e9net \u00e9s hal\u00e1l kikapcsolva.",
+    "unpowered": "Energia sz\u00fcks\u00e9ges",
+    "SeamothStorageModule": "Csik\u00f3hal rakt\u00e9r modul",
+    "Tooltip_SeamothStorageModule": "4x4-es be\u00e9p\u00edtett rakt\u00e9r.",
+    "SeamothStorageNotEmpty": "El\u0151sz\u00f6r \u00fcr\u00edtsd ki a rakteret",
+    "SeamothElectricalDefense": "Csik\u00f3hal kis t\u00e1vols\u00e1g\u00fa v\u00e9delmi rendszere",
+    "Tooltip_SeamothElectricalDefense": "Helyi elektromos mez\u0151t gener\u00e1l, elriasztva az agressz\u00edv \u00e9l\u0151l\u00e9nyeket.",
+    "Skyray": "\u00c9gi R\u00e1ja",
+    "SeamothTorpedoModule": "Csik\u00f3hal torped\u00f3-rendszere",
+    "Tooltip_SeamothTorpedoModule": "Szabv\u00e1nyos v\u00edzalatti sz\u00e1ll\u00edt\u00f3rendszer \u00e1talak\u00edtva nem-hal\u00e1los \u00f6rv\u00e9nytorped\u00f3k kil\u00f6v\u00e9s\u00e9re.",
+    "Goal_Lifepod1": "PDA V\u00e9szhelyzeti \u00fczemm\u00f3d bet\u00f6lt\u00e9se. Biometria csatlakoztatva. Ment\u0151kabin rendszerei csatlakoztatva. Helyzetelemz\u00e9s futtat\u00e1sa.",
+    "Goal_Lifepod2": "Az Aur\u00f3ra B\u00e1ny\u00e1szhaj\u00f3 v\u00e9gzetes burkolati s\u00e9r\u00fcl\u00e9st szenvedett. Ok: ismeretlen. Emberi \u00e9letre utal\u00f3 jelek nem mutathat\u00f3k ki 100 m\u00e9teres k\u00f6rzetben",
+    "Goal_Lifepod3": "Id\u0151: 3 \u00f3ra telt el a becsap\u00f3d\u00e1s \u00f3ta. Ment\u0151kabin \u00e1llapota: burkolat \u00e9p. Kommunik\u00e1ci\u00f3: nem el\u00e9rhet\u0151",
+    "Goal_Lifepod4": "K\u00f6rnyezet: Felt\u00e9rk\u00e9pezetlen \u00f3ce\u00e1nbolyg\u00f3. Oxig\u00e9n-nitrog\u00e9n atmoszf\u00e9ra. V\u00edz fert\u0151z\u00f6tts\u00e9ge: magas.",
+    "Goal_Intro1": " R\u00f6vid hat\u00f3t\u00e1vols\u00e1g\u00fa automatikus seg\u00e9lyk\u00e9r\u0151 \u00fczenet k\u00fcld\u00e9se nem siker\u00fclt. A ment\u0151kabin kommunik\u00e1ci\u00f3s rel\u00e9je nem el\u00e9rhet\u0151.",
+    "Goal_Intro2": "A ment\u0151kabinok fel vannak szerelve Fabrik\u00e1torral, amit arra programoztak, hogy eszk\u00f6z\u00f6ket gy\u00e1rtson \u00e9s az organikus anyagokat ehet\u0151v\u00e9 tegye.",
+    "Goal_CookedPeeper": "A Fabrik\u00e1tor kis organizmusokat s\u00fct meg, mik\u00f6zben kivonja a csontozatot, a testnedveket \u00e9s a bels\u0151 szerveket, emberi fogyaszt\u00e1sra alkalmass\u00e1 t\u00e9ve \u0151ket.",
+    "Goal_LocationAuroraEntry": "Figyelem, szerkezeti szil\u00e1rds\u00e1g ismeretlen. Felder\u00edt\u00e9s nem javasolt.",
+    "Goal_LocationAuroraFurtherIn": "Emberi maradv\u00e1nyok \u00e9szlelhet\u0151k egy k\u00f6zeli organizmus em\u00e9szt\u0151rendszer\u00e9ben. Tov\u00e1bbi kutat\u00e1s nem aj\u00e1nlott.",
+    "Goal_BiomeCrashedShip": "Kiterjedt t\u00f6rmel\u00e9kmez\u0151 \u00e9szlelve.",
+    "Goal_LocationAuroraInterior": "A haj\u00f3 lakhat\u00e1sra alkalmas ter\u00fclet\u00e9nek 87%-a lakhatatlann\u00e1 v\u00e1lt a robban\u00e1s k\u00f6vetkezt\u00e9ben.",
+    "Goal_LocationAuroraHallway": "Bels\u0151 s\u00e9r\u00fcl\u00e9sek \u00e9rt\u00e9kel\u00e9se. A s\u00e9r\u00fcl\u00e9sek mint\u00e1zata ellentmond a bels\u0151 meghib\u00e1sod\u00e1s elm\u00e9let\u00e9nek. Az Aur\u00f3ra fekete doboza hi\u00e1nyzik.",
+    "Goal_LocationAuroraDriveEntry": "Az Aur\u00f3ra bels\u0151 magj\u00e1n tapasztalhat\u00f3 s\u00e9r\u00fcl\u00e9sek \u00f6sszevet\u00e9se a becsap\u00f3d\u00e1s erej\u00e9vel. A sz\u00e1m\u00edt\u00e1sok arra utalnak, hogy a becsap\u00f3d\u00e1s ereje eleny\u00e9sz\u0151 erej\u0171 volt ahhoz, hogy a reaktormag burkolata \u00e1tszakadjon.",
+    "Goal_Location AuroraDriveInterior": "Aur\u00f3ra fekete doboz eszk\u00f6z \u00e9szlelve. Let\u00f6lt\u00e9si k\u00eds\u00e9rlet megkezd\u00e9se. Zavar\u00f3 t\u00e9nyez\u0151 \u00e9szlelve. Figyelem, a sug\u00e1rz\u00e1s el\u00e9rte a maxim\u00e1lisan elfogadhat\u00f3 szintet. ",
+    "SeamothStorageOpen": "Ny\u00edlt t\u00e1rol\u00e1si megold\u00e1s",
+    "SeamothSonarModule": "Csik\u00f3hal szon\u00e1rja",
+    "Tooltip_SeamothSonarModule": "Topogr\u00e1fiai adatok kutat\u00e1s\u00e1ra \u00e9s a szemmagass\u00e1g\u00fa kijelz\u0151n t\u00f6rt\u00e9n\u0151 megjelen\u00edt\u00e9s\u00e9re l\u00e9trehozott rendszer.",
+    "LootSensorMetal": "Csik\u00f3hal f\u00e9mdetektora",
+    "Tooltip_LootSensorMetal": "",
+    "LootSensorLithium": "Csik\u00f3hal l\u00edtium szenzora",
+    "Tooltip_LootSensorLithium": "",
+    "LootSensorFragment": "Csik\u00f3hal t\u00f6red\u00e9k-\u00e9rz\u00e9kel\u0151 szenzora",
+    "Tooltip_LootSensorFragment": "",
+    "SeamothTorpedoStorage": "Csik\u00f3hal torped\u00f3-raktere",
+    "SeamothTorpedoNoAmmo": "L\u0151szer kifogyott. Sz\u00e1llj ki a j\u00e1rm\u0171b\u0151l \u00e9s t\u00f6ltsd \u00fajra a torped\u00f3-rakteret.",
+    "WhirlpoolTorpedo": "Csik\u00f3hal \u00f6rv\u00e9ny-torped\u00f3ja",
+    "Tooltip_WhirlpoolTorpedo": "Load this to the torpedo bay on the forward section of your Seamoth.",
+    "SeamothArmorPlating": "Csik\u00f3hal meger\u0151s\u00edtett burkolata",
+    "Tooltip_SeamothArmorPlating": "Norm\u00e1l k\u00f6r\u00fclm\u00e9nyek k\u00f6z\u00f6tt \u00fctk\u00f6z\u00e9s el\u0151tt a v\u00e1zat meger\u0151s\u00edtve elimin\u00e1lja a k\u00e1rokat.",
+    "SeamothUpgradesMenu_ModuleMenu": "Csik\u00f3hal fejleszt\u00e9si modulok",
+    "SeamothUpgradesMenu_ItemMenu": "Csik\u00f3hal torped\u00f3i",
+    "ContainerOverflow": "A leg\u00fajabb friss\u00edt\u00e9s okozta v\u00e1ltoztat\u00e1sok eszk\u00f6zt\u00e1r-t\u00falcsordul\u00e1st okoztak. Szabad\u00edtson fel helyet, hogy l\u00e1ssa lelt\u00e1ra teljes tartalm\u00e1t.",
+    "DURABILITY": "TART\u00d3SS\u00c1G",
+    "TabLog": "Hang\u00fczenetek",
+    "Day": "Nap",
+    "MasterVolume": "F\u0151 hanger\u0151",
+    "MusicVolume": "Zene hangereje",
+    "ExchangeBattery": "Elem csere (R)",
+    "Health": "Burkolat",
+    "PlanterStorageLabel": "\u00dcLTET\u0150",
+    "FiltrationMachineStorageLabel": "V\u00cdZSZ\u0170R\u0150 BERENDEZ\u00c9S",
+    "TabGallery": "Fot\u00f3album",
+    "SortByDateDescending": "Rendez\u00e9s d\u00e1tum szerint (cs\u00f6kken\u0151)",
+    "SortByDateAscending": "Rendez\u00e9s d\u00e1tum szerint (n\u00f6vekv\u0151)",
+    "SortByTopic": "Rendez\u00e9s t\u00e9ma szerint",
+    "SortByName": "Rendez\u00e9s n\u00e9v szerint",
+    "ScreenshotUpload": "Felt\u00f6lt\u00e9s",
+    "ScreenshotAddToSteamLibrary": "Hozz\u00e1ad\u00e1s a Steam-hez",
+    "ScreenshotDelete": "T\u00f6rl\u00e9s",
+    "PDAGalleryTabInstructions": "Press {0} to take a screenshot",
+    "PDAGalleryThumbnailSize": "M\u00e9ret",
+    "PDAGalleryUpload": "K\u00e9p felt\u00f6lt\u00e9se a K\u00e9pkeretbe",
+    "PDAGalleryAddToSteam": "K\u00e9p hozz\u00e1ad\u00e1sa a Steam K\u00f6nyvt\u00e1rhoz",
+    "PDAGalleryDelete": "K\u00e9p t\u00f6rl\u00e9se (dupla kattint\u00e1s)",
+    "UsePlanter": "\u00dcltet\u0151 haszn\u00e1lata",
+    "UseFiltrationMachine": "V\u00edztiszt\u00edt\u00f3 berendez\u00e9s haszn\u00e1lata",
+    "PictureFrameEditLabel": "K\u00e9p be\u00e1ll\u00edt\u00e1sa",
+    "BreakPurplePinecone": "Lila toboz \u00f6sszet\u00f6r\u00e9se",
+    "PlanterPot": "Kasp\u00f3",
+    "PlanterBox": "Belt\u00e9ri vetem\u00e9nyes",
+    "PlanterShelf": "Fali kasp\u00f3",
+    "FarmingTray": "K\u00fclt\u00e9ri vetem\u00e9nyes",
+    "FiltrationMachine": "V\u00edztiszt\u00edt\u00f3 berendez\u00e9s",
+    "FullyCharged": "Teljesen felt\u00f6ltve",
+    "ReinforcedDiveSuit": "Meger\u0151s\u00edtett b\u00fav\u00e1rruha",
+    "PictureFrame": "K\u00e9pkeret",
+    "Tooltip_PictureFrame": "",
+    "Tooltip_PlanterPot": "Mesters\u00e9ges talajt tartalmaz\u00f3 tit\u00e1n cser\u00e9p.",
+    "Tooltip_PlanterBox": "Mesters\u00e9ges n\u00f6v\u00e9ny\u00e1gy, kiz\u00e1r\u00f3lag belt\u00e9ri haszn\u00e1latra.",
+    "Tooltip_PlanterShelf": "Falra szerelhet\u0151 kasp\u00f3",
+    "Tooltip_FarmingTray": "Mesters\u00e9ges n\u00f6v\u00e9ny\u00e1gy, alkalmas sz\u00e1razf\u00f6ldi \u00e9s v\u00edz alatti haszn\u00e1latra.",
+    "Tooltip_FiltrationMachine": "V\u00edztiszt\u00edt\u00f3 berendez\u00e9s",
+    "Tooltip_ReinforcedDiveSuit": "Neh\u00e9z, aramidsz\u00e1las b\u00fav\u00e1rruha: 50% fizikai v\u00e9delmet biztos\u00edt.",
+    "FiltrationComplete": "Filtration complete",
+    "FiltrationProgress": "Sz\u0171r\u00e9s folyamatban: v\u00edz {0:P0}, s\u00f3 {1:P0}",
+    "BasePlanter": "\u00c9l\u0151 fal",
+    "BaseFiltrationMachine": "V\u00edztiszt\u00edt\u00f3 berendez\u00e9s",
+    "Tooltip_BasePlanter": "Falra helyezhet\u0151 n\u00f6v\u00e9nytakar\u00f3. Tiszt\u00e1n dekor\u00e1ci\u00f3s c\u00e9l\u00fa.",
+    "Tooltip_BaseFiltrationMachine": "Sz\u00e9tv\u00e1lasztja a vizet \u00e9s a s\u00f3t",
+    "Story_AuroraWarning3": "Figyelmeztet\u00e9s. A helyben m\u00e9rt sug\u00e1rz\u00e1s tendenci\u00e1ja egybev\u00e1g az Aur\u00f3ra s\u00f6t\u00e9tanyag-hajt\u00f3m\u0171v\u00e9nek teljes \u00f6sszeoml\u00e1s\u00e1val. Egy kvantum deton\u00e1ci\u00f3 bek\u00f6vetkez\u00e9s\u00e9nek val\u00f3sz\u00edn\u0171s\u00e9ge 85,5%. Tan\u00e1csos 1 km-es biztons\u00e1gi t\u00e1vols\u00e1g tart\u00e1sa.",
+    "Story_AuroraWarning2": "Vigy\u00e1zat. Az Aur\u00f3ra hajt\u00f3m\u0171 magj\u00e1nak \u00e1llapota tov\u00e1bb romlik, ami kvantum-deton\u00e1ci\u00f3t okozhat. Ha a hajt\u00f3m\u0171 magj\u00e1nak burkolata beszakad, a radioakt\u00edv sug\u00e1rz\u00e1s \u00e1ltali hal\u00e1l val\u00f3sz\u00edn\u0171s\u00e9ge a becsap\u00f3d\u00e1si ter\u00fcleten 37%-ra emelkedik.",
+    "Story_AuroraWarning1": "Megemelkedett helyi sug\u00e1rz\u00e1si szint \u00e9szlelve. A tendencia egybev\u00e1g az Aur\u00f3ra B\u00e1ny\u00e1szhaj\u00f3 s\u00f6t\u00e9t anyag hajt\u00f3m\u0171v\u00e9ben bek\u00f6vetkez\u0151 \u00f6sszeoml\u00e1si folyamattal, amit a becsap\u00f3d\u00e1s ereje okozott. Megfigyel\u00e9s folytat\u00e1sa.",
+    "TabEncyclopedia": "Adatbank",
+    "Ency_CuteFish": "Cukihal",
+    "EncyDesc_CuteFish": "Cukihal le\u00edr\u00e1s",
+    "Ency_Gasopod": "G\u00e1zp\u00f6ffeteg",
+    "EncyDesc_Gasopod": "Lassan mozg\u00f3 \u00e9letforma, amely k\u00e9pes m\u00e9rgez\u0151 \u00e9s mar\u00f3 hat\u00e1s\u00fa vegy\u00fcletet ereszteni a v\u00edzbe, amely m\u00e9g a szintetikus sz\u00e1lakat is feloldja.
+
+2. Hasizmok: \u00d6sszer\u00e1ndul, ha a l\u00e9ny megijed, kibocs\u00e1tva a m\u00e9rgez\u0151 vegy\u00fcletet a k\u00f6rnyez\u0151 vizekbe.
+
+3. Sz\u0171r\u0151rendszer: Sz\u00e1mos kopolty\u00fa-r\u00e9tegb\u0151l \u00e1ll, megv\u00e9dve a l\u00e9nyt az \u00f6nmaga \u00e1ltal termelt \u00e1rtalmas g\u00e1zfelh\u0151t\u0151l.
+
+\u00c9rt\u00e9kel\u00e9s: Ker\u00fclend\u0151",
+    "Ency_Biter": "Harap\u00f3hal",
+    "EncyDesc_Biter": "Apr\u00f3, agressz\u00edv l\u00e9ny. 94% izom, 4% k\u00f6t\u0151sz\u00f6vet, 2% agy.  
+
+- T\u00falfejlett farok\u00fasz\u00f3j\u00e1val k\u00e9pes lehagyni, t\u00falerej\u00e9vel pedig legy\u0151zni jobban man\u0151verez\u0151 zs\u00e1km\u00e1ny\u00e1llat\u00e1t - A fej\u00e9n tal\u00e1lhat\u00f3 egy speci\u00e1lis szagl\u00f3szerv, ami lehet\u0151v\u00e9 teszi a testnedvek felder\u00edt\u00e9s\u00e9t a v\u00edzben - Val\u00f3sz\u00edn\u0171leg v\u00e1logat\u00e1s n\u00e9lk\u00fcl vad\u00e1szik: minden s\u00e9r\u00fclt l\u00e9ny potenci\u00e1lis c\u00e9lpont - A m\u00e1sodlagos szemp\u00e1r miatt a homokc\u00e1p\u00e1ra eml\u00e9keztet. Ezek val\u00f3sz\u00edn\u0171leg a nagyobb ragadoz\u00f3k mozg\u00e1s\u00e1nak \u00e9szlel\u00e9s\u00e9re szolg\u00e1lnak.  Zs\u00e1km\u00e1ny\u00e1llatok: Kis n\u00f6v\u00e9nyev\u0151k, de a sz\u00e1m\u00edt\u00e1sok szerint falk\u00e1ban vad\u00e1szva a Harap\u00f3halak saj\u00e1t testt\u00f6meg\u00fck 100-szoros\u00e1t is k\u00e9pes leter\u00edteni.
+
+\u00c9rt\u00e9kel\u00e9s: Megfelel\u0151 \u00f3vint\u00e9zked\u00e9sek h\u00edj\u00e1n hal\u00e1los - Ingerl\u00e9se ker\u00fclend\u0151 - Pr\u00f3b\u00e1lj meg nem v\u00e9rezni",
+    "Ency_Stalker": "Cserk\u00e9sz\u0151",
+    "EncyDesc_Stalker": "\u00c1ramvonalas ragadoz\u00f3 fejlett intelligenci\u00e1val \u00e9s er\u0151vel. 
+
+- A Moszat erd\u0151ben tal\u00e1lhat\u00f3k meg, ott v\u00e1rva, hogy a pr\u00e9d\u00e1juk elhagyja a sek\u00e9ly, biztons\u00e1gos felsz\u00edni ter\u00fcleteket.
+- A retina-mint\u00e1zata arra utal, hogy az \u00e9jszakai vad\u00e1szathoz alkalmazkodott
+- Idegp\u00e1ly\u00e1i jelzik velesz\u00fcletett k\u00e9pess\u00e9g\u00e9t a jutalom-alap\u00fa tanul\u00e1sra; ennek evol\u00faci\u00f3s magyar\u00e1zat jelenleg nem vil\u00e1gos
+- Vonz\u00f3dik a f\u00e9mekhez. Hevesen harcol a kincs\u00e9\u00e9rt. Ennek a viselked\u00e9snek a magyar\u00e1zata nem el\u00e9rhet\u0151. Tov\u00e1bbi kutat\u00e1s sz\u00fcks\u00e9ges.
+ 
+Pr\u00e9da: Evol\u00faci\u00f3s profilja alapj\u00e1n a Kukucsk\u00e1l\u00f3 term\u00e9szetes ragadoz\u00f3ja
+ 
+\u00c9rt\u00e9kel\u00e9s: K\u00e9nyszer\u00edteni vagy elker\u00fclni",
+    "Ency_SandShark": "Sand Shark",
+    "EncyDesc_SandShark": "Szelv\u00e9nyezett k\u00fcls\u0151 v\u00e1za lass\u00fa, de er\u0151s ragadoz\u00f3v\u00e1 teszi. A hasoldali l\u00e1bak nem t\u00e1maszt\u00e1sra szolg\u00e1lnak - ehelyett ezekkel kavarja fel a homokos aljzatot, ahov\u00e1 el tud b\u00fajni, hogy ut\u00e1na lesb\u0151l t\u00e1madhassa meg \u00e1ldozat\u00e1t.
+
+Pr\u00e9da: Saj\u00e1t m\u00e9ret\u00e9nek ak\u00e1r k\u00e9tszeres\u00e9t el\u00e9r\u0151 n\u00f6v\u00e9nyev\u0151k
+
+\u00c9rt\u00e9kel\u00e9s: Ker\u00fcld el a gyan\u00fas homokfellegeket",
+    "Locked_Door": "Z\u00e1rt ajt\u00f3",
+    "Sealed_Door": "Lez\u00e1rt ajt\u00f3",
+    "DoorInstructions_Powercell": "Helyezd \u00e1ram al\u00e1 a k\u00f6zeli konzolt a kinyit\u00e1s\u00e1hoz",
+    "DoorInstructions_Keycard": "Tal\u00e1ld meg a megfelel\u0151 kulcsk\u00e1rty\u00e1t a bel\u00e9p\u00e9shez",
+    "GenericLocked": "Az ajt\u00f3 m\u00e1shonnan nyithat\u00f3",
+    "FiltrationMachineFragment": "V\u00edzsz\u0171r\u0151 berendez\u00e9s t\u00f6red\u00e9k",
+    "FiltrationMachineBlueprint": "V\u00edzsz\u0171r\u0151 berendez\u00e9s tervrajz",
+    "Tooltip_FiltrationMachineFragment": "A v\u00edztiszt\u00edt\u00f3 berendez\u00e9s technol\u00f3gi\u00e1j\u00e1nak egy darabja",
+    "ScannerInstanceScanned": "{0} szkennelve. Teljes folyamat: {1}% ({2}\/{3}).",
+    "ScannerRedundantScanned": "Redund\u00e1ns t\u00f6red\u00e9k beszkennelve.",
+    "ScannerInstanceKnown": "Ez az egys\u00e9gminta m\u00e1r be van szkennelve. Tal\u00e1lnod kell egy m\u00e1sikat, hogy befejezd a kutat\u00e1st.",
+    "ScannerEntityKnown": "Entit\u00e1s '{0}' kutat\u00e1sa m\u00e1r k\u00e9sz. Nincs sz\u00fcks\u00e9g szkennel\u00e9sre.",
+    "EncyclopediaEntryUnlocked": "{0} bejegyz\u00e9s hozz\u00e1adva az enciklop\u00e9di\u00e1hoz",
+    "Scanner": "Szkenner",
+    "PropulsionCannonBlueprint": "Vonz\u00f3-\u00e1gy\u00fa tervrajz",
+    "Tooltip_Scanner": "K\u00e9zi spektrom\u00e9teres szkenner atomi-szint\u0171 inform\u00e1ci\u00f3 r\u00f6gz\u00edt\u00e9s\u00e9re a megc\u00e9lzott entit\u00e1sr\u00f3l",
+    "Tooltip_MoonpoolBlueprint": "Tervek Sz\u00e1razdokk \u00e9p\u00edt\u00e9s\u00e9hez",
+    "WaterParkPlanterStorageLabel": "AKV\u00c1RIUMI N\u00d6V\u00c9NYEK",
+    "UnknownEgg1": "L\u00e9ny toj\u00e1sa",
+    "UnknownEgg2": "L\u00e9ny toj\u00e1sa",
+    "UnknownEgg3": "L\u00e9ny toj\u00e1sa",
+    "UnknownEgg4": "L\u00e9ny toj\u00e1sa",
+    "UnknownEgg5": "L\u00e9ny toj\u00e1sa",
+    "UnknownEgg6": "L\u00e9ny toj\u00e1sa",
+    "UnknownEgg7": "L\u00e9ny toj\u00e1sa",
+    "UnknownEgg8": "L\u00e9ny toj\u00e1sa",
+    "UnknownEgg9": "L\u00e9ny toj\u00e1sa",
+    "UnknownEgg10": "L\u00e9ny toj\u00e1sa",
+    "Tooltip_UnknownEgg1": "Egy azonos\u00edtatlan toj\u00e1s",
+    "Tooltip_UnknownEgg2": "Egy azonos\u00edtatlan toj\u00e1s",
+    "Tooltip_UnknownEgg3": "Egy azonos\u00edtatlan toj\u00e1s",
+    "Tooltip_UnknownEgg4": "Egy azonos\u00edtatlan toj\u00e1s",
+    "Tooltip_UnknownEgg5": "Egy azonos\u00edtatlan toj\u00e1s",
+    "Tooltip_UnknownEgg6": "Egy azonos\u00edtatlan toj\u00e1s",
+    "Tooltip_UnknownEgg7": "Egy azonos\u00edtatlan toj\u00e1s",
+    "Tooltip_UnknownEgg8": "Egy azonos\u00edtatlan toj\u00e1s",
+    "Tooltip_UnknownEgg9": "Egy azonos\u00edtatlan toj\u00e1s",
+    "Tooltip_UnknownEgg10": "Egy azonos\u00edtatlan toj\u00e1s",
+    "BonesharkEgg": "Csontc\u00e1pa toj\u00e1s",
+    "CrabsnakeEgg": "R\u00e1kk\u00edgy\u00f3 toj\u00e1s",
+    "GasopodEgg": "G\u00e1zp\u00f6ffeteg toj\u00e1s",
+    "JellyrayEgg": "Zsel\u00e9r\u00e1ja toj\u00e1s",
+    "JumperEgg": "Sikl\u00f3bog\u00e1r toj\u00e1s",
+    "MesmerEgg": "Babon\u00e1z\u00f3 toj\u00e1s",
+    "RabbitrayEgg": "Ny\u00fal R\u00e1ja toj\u00e1s",
+    "ShockerEgg": "Sokkol\u00f3l\u00e9ny toj\u00e1s",
+    "SpadefishEgg": "Lap\u00e1thal toj\u00e1s",
+    "StalkerEgg": "Cserk\u00e9sz\u0151 toj\u00e1s",
+    "SandsharkEgg": "Sandshark egg",
+    "Tooltip_BonesharkEgg": "Ezekb\u0151l Csontc\u00e1pa kel ki",
+    "Tooltip_CrabsnakeEgg": "Ezekb\u0151l R\u00e1kk\u00edgy\u00f3 kel ki",
+    "Tooltip_GasopodEgg": "Ezekb\u0151l G\u00e1zp\u00f6ffeteg kel ki",
+    "Tooltip_JellyrayEgg": "Zsel\u00e9 R\u00e1ja kel ki bel\u0151l\u00fck",
+    "Tooltip_JumperEgg": "Ezekb\u0151l Sikl\u00f3bog\u00e1r kel ki",
+    "Tooltip_MesmerEgg": "Ezekb\u0151l Babon\u00e1z\u00f3 kel ki",
+    "Tooltip_RabbitrayEgg": "Ezekb\u0151l Ny\u00falr\u00e1ja kel ki",
+    "Tooltip_ShockerEgg": "Ezekb\u0151l Sokkol\u00f3l\u00e9ny kel ki",
+    "Tooltip_SpadefishEgg": "Lap\u00e1thalak kelnek ki bel\u0151le",
+    "Tooltip_StalkerEgg": "Ezekb\u0151l Cserk\u00e9sz\u0151 kel ki",
+    "Tooltip_SandsharkEgg": "Sandshark hatch from these",
+    "EggDiscovered": "{0} felfedezve",
+    "BaseWaterPark": "Nagym\u00e9ret\u0171 akv\u00e1rium",
+    "Tooltip_BaseWaterPark": " Ide\u00e1lis felt\u00e9teleket biztos\u00edt az \u00e1llat,- \u00e9s n\u00f6v\u00e9nyvil\u00e1gnak. Adj hozz\u00e1 egy ny\u00edl\u00e1st a bel\u00e9p\u00e9shez.",
+    "EnterWaterPark": "Bel\u00e9p\u00e9s a nagym\u00e9ret\u0171 akv\u00e1riumba",
+    "ExitWaterPark": "Nagy akv\u00e1rium elhagy\u00e1sa",
+    "LimestoneChunk": "M\u00e9szk\u0151 t\u00f6mb",
+    "ScannerScreenDefault": "KERES\u00c9S...",
+    "ScannerScreenReady": "SZKENNEL\u00c9SRE K\u00c9SZ",
+    "ScannerScreenScanning": "SZKENNEL\u00c9S...",
+    "CookedSpinefish": "F\u0151tt Gerinchal",
+    "CuredSpinefish": "Tart\u00f3s\u00edtott Gerinchal",
+    "Spinefish": "Gerinchal",
+    "Shuttlebug": "Sikl\u00f3bog\u00e1r",
+    "Blighter": "Fonnyaszt\u00f3l\u00e9ny",
+    "Tooltip_CookedSpinefish": "Soha ne edd meg az antenn\u00e1t.",
+    "Tooltip_CuredSpinefish": "Ez a hal egy\u00e9rtelm\u0171en hal\u00edz\u0171.",
+    "Tooltip_Spinefish": "Az Abroncshal m\u00e9lytengeri rokona, amely feh\u00e9r mint\u00e1zata miatt nyitott mellkasra eml\u00e9keztet - ezt kihaszn\u00e1lva a ragadoz\u00f3k megjelen\u00e9sekor az \u00f3ce\u00e1n fenek\u00e9n halottnak tetteti mag\u00e1t.",
+    "Story_AuroraWarning4": "V\u00e9szhelyzet: A szeizmikus mozg\u00e1sok arra utalnak, hogy a kvantum-deton\u00e1ci\u00f3 k\u00f6vetkezett be az Aur\u00f3ra hajt\u00f3m\u0171v\u00e9nek magj\u00e1ban. A reaktor el\u00e9ri a szuper-kritikus h\u0151m\u00e9rs\u00e9kletet T-10 m\u00e1sodperc m\u00falva:  9, 8, 7, 6, 5, 4, 3, 2, 1-",
+    "Goal_Lifepod6": "T\u00e1j\u00e9koztat\u00f3 inform\u00e1ci\u00f3k ker\u00fcltek a PDA Adatbankj\u00e1ba. Tan\u00e1cs sz\u00fcks\u00e9g eset\u00e9n ker\u00fcl megjelen\u00edt\u00e9sre. Sok szerencs\u00e9t.",
+    "Goal_Airsack": "Kontaktus l\u00e9tes\u00edt\u00e9se el\u0151tt er\u0151sen aj\u00e1nlott a l\u00e9nyek spektroszk\u00f3pi\u00e1s vizsg\u00e1lata.",
+    "Goal_Titanium": "Tit\u00e1n: felfedezve. Sokoldal\u00fa \u00e9s n\u00e9lk\u00fcl\u00f6zhetetlen \u00e9p\u00edt\u0151anyag. ",
+    "Goal_Quartz": "Kvarc: felfedezve. A kvarc alapvet\u0151 t\u00fal\u00e9l\u0151-felszerel\u00e9sek \u00e9s hossz\u00fat\u00e1v\u00fa lak\u00f3helyek \u00e9p\u00edt\u00e9s\u00e9hez haszn\u00e1lhat\u00f3.",
+    "Goal_Copper": "R\u00e9z\u00e9rc: felfedezve. A r\u00e9z l\u00e9nyeges eleme minden energi\u00e1t haszn\u00e1l\u00f3 berendez\u00e9snek. A t\u00fal\u00e9l\u00e9s val\u00f3sz\u00edn\u0171s\u00e9ge 7,6% -kal n\u0151tt.",
+    "Goal_FilteredWater": "Az \u0151shonos \u00e9letform\u00e1k tal\u00e1n \u00fagy fejl\u0151dtek, hogy gyakorlati m\u00f3dszerekkel sz\u0171rj\u00e9k ki a szennyez\u0151d\u00e9seket a v\u00edzb\u0151l.",
+    "Goal_Scanner": "A K\u00e9zi spektroszk\u00f3pos szkenner megmentett technol\u00f3gi\u00e1kb\u00f3l k\u00e9pes tervrajzok el\u0151\u00e1ll\u00edt\u00e1s\u00e1ra, valamint az idegen \u00e9letform\u00e1k biol\u00f3giai adatainak r\u00f6gz\u00edt\u00e9s\u00e9re.",
+    "Goal_Fins": "A Fabrik\u00e1tor a rendelkez\u00e9sre \u00e1ll\u00f3 adatokb\u00f3l dolgozik, hogy helyben el\u00e9rhet\u0151 nyersanyagokb\u00f3l a helyzethez legink\u00e1bb megfelel\u0151 felszerel\u00e9st biztos\u00edthassa \u00d6nnek. Biztons\u00e1ga \u00e9rdek\u00e9ben ezt a be\u00e1ll\u00edt\u00e1st nem lehet fel\u00fcl\u00edrni.",
+    "Goal_Knife": "A k\u00e9s n\u00e9lk\u00fcl\u00f6zhetetlen eszk\u00f6ze az emberi fajnak, megk\u00f6zel\u00edt\u0151leg k\u00e9t \u00e9s f\u00e9l...milli\u00f3 \u00e9ve. Azt javasoljuk, vigy\u00e1zz erre a p\u00e9ld\u00e1nyra.",
+    "Goal_Tank": "T\u00f6bb oxig\u00e9n-tart\u00e1lyt hordozva n\u0151 a v\u00edz alatt, ellens\u00e9ges k\u00f6rnyezetben t\u00f6lthet\u0151 id\u0151.",
+    "Goal_Battery": "A Fabrik\u00e1tor a hagyom\u00e1nyos elemsavat helyettes\u00edtette egy savas vegy\u00fclettel, amelyet a helyi n\u00f6v\u00e9nyzetb\u0151l szintetiz\u00e1lt.",
+    "Goal_Bleach": "A feh\u00e9r\u00edt\u0151 n\u00e9lk\u00fcl\u00f6zhetetlen vegyszer, amelyet sebek tiszt\u00edt\u00e1s\u00e1ra \u00e9s v\u00edz fert\u0151tlen\u00edt\u00e9s\u00e9re haszn\u00e1lnak.",
+    "Goal_CookedGarryfish": "Teljesen norm\u00e1lis, hogy irt\u00f3zol a halott \u00e1llatok megev\u00e9s\u00e9nek gondolat\u00e1t\u00f3l. De jobb, ha eml\u00e9kezteted magad, az emberek sok \u00e9ven \u00e1t t\u00fal\u00e9ltek mesters\u00e9ges \u00e9lelmiszerek n\u00e9lk\u00fcl is. Te is k\u00e9pes vagy r\u00e1.",
+    "Goal_CookedHoverfish": "Ha hozz\u00e1 vagy szokva a hagyom\u00e1nyos \u00e9telekhez, \u00e1lc\u00e1zd az \u0151shonos h\u00fasok \u00edz\u00e9t helyben beszerzett gy\u00f3gyn\u00f6v\u00e9nyekkel \u00e9s f\u0171szerekkel.",
+    "Goal_PurifiedWater": "A napi folyad\u00e9k-adag id\u0151 el\u0151tti elfogyaszt\u00e1s\u00e1val megel\u0151zheti a kisz\u00e1rad\u00e1st \u00e9s az ebb\u0151l ad\u00f3d\u00f3 esetleges hal\u00e1lt.",
+    "Goal_Silver": "Ez\u00fcst\u00e9rc: felfedezve. Az ez\u00fcst alap\u00fa sz\u00e1m\u00edt\u00f3g\u00e9p chipek n\u00e9lk\u00fcl\u00f6zhetetlen elemei a sug\u00e1rv\u00e9d\u0151 \u00f6lt\u00f6z\u00e9knek \u00e9s az \u00e9l\u0151hely-\u00e9p\u00edt\u0151nek. ",
+    "Goal_Lubricant": "A ken\u0151anyag n\u00e9lk\u00fcl\u00f6zhetetlen a j\u00e1rm\u0171vek \u00e9s er\u0151m\u0171vek \u00e9p\u00edt\u00e9s\u00e9hez. Az idegen helyettes\u00edt\u0151 anyagok ily m\u00f3d\u00fa kihaszn\u00e1l\u00e1sa bizony\u00edtott t\u00fal\u00e9l\u00e9si strat\u00e9gia. ",
+    "Goal_Beacon": "A k\u00f6rnyezet felt\u00e1r\u00e1sa \u00e9s dokument\u00e1l\u00e1sa nem lehets\u00e9ges a megfelel\u0151 berendez\u00e9sek \u00e9s kell\u00e9kek n\u00e9lk\u00fcl. Aj\u00e1nlott minden helyzetben a Ment\u0151kabin vagy lak\u00f3hely 2 km-es k\u00f6rnyezet\u00e9ben tart\u00f3zkodni.",
+    "Goal_Seaglide": "Az elemes sikl\u00f3 megn\u00f6veli a v\u00edz alatti v\u00e9gsebess\u00e9gedet 9,5 m\/s-ra, tov\u00e1bb\u00e1 kijelzi a k\u00f6rny\u00e9k topogr\u00e1fiai inform\u00e1ci\u00f3it.",
+    "Goal_Builder": "A (k\u00e9zi) \u00e9p\u00edt\u0151t arra tervezt\u00e9k, hogy extr\u00e9m k\u00f6rnyezetnek is ellen\u00e1llni k\u00e9pes lak\u00f3helyet hozzon l\u00e9tre.",
+    "Goal_EnameledGlass": "Term\u00e9szetes adal\u00e9kanyag Zom\u00e1ncozott \u00fcveg gy\u00e1rt\u00e1s\u00e1hoz: felfedezve. Ezzel az anyaggal lehet\u0151v\u00e9 v\u00e1lnak fejlettebb tengeralattj\u00e1r\u00f3k \u00e9s lak\u00f3hely-modulok gy\u00e1rt\u00e1sa.",
+    "EncyPath_Aurora": "Aur\u00f3ra",
+    "EncyPath_Tech": "Technika",
+    "EncyPath_Welcome": "\u00dcdv\u00f6z\u00f6lj\u00fck",
+    "EncyPath_Tech\/Habitats": "Lak\u00f3helyek",
+    "EncyPath_Tech\/Equipment": "Felszerel\u00e9s",
+    "EncyPath_Lifeforms": "Idegen \u00e9letform\u00e1k",
+    "EncyPath_Lifeforms\/Coral": "Korallok",
+    "EncyPath_Lifeforms\/Fauna": "\u00c1llatvil\u00e1g",
+    "EncyPath_Lifeforms\/Flora": "N\u00f6v\u00e9nyvil\u00e1g",
+    "EncyPath_Lifeforms\/Fauna\/Herbivores": "N\u00f6v\u00e9nyev\u0151k",
+    "EncyPath_Lifeforms\/Fauna\/Carnivores": "Ragadoz\u00f3k",
+    "EncyPath_Lifeforms\/Fauna\/Scavengers": "D\u00f6gev\u0151k \u00e9s parazit\u00e1k",
+    "EncyPath_PlanetaryGeology": "F\u00f6ldtan",
+    "EncyPath_Advanced": "Elm\u00e9letek",
+    "Ency_Lifepod": "Szabv\u00e1nyos k\u00e9t\u00fcl\u00e9ses v\u00e9szhelyzeti ment\u0151kabin",
+    "EncyDesc_Lifepod": "T\u00f6meg: 576 kg
+M\u00e9retek: 3 m x 3 m 
+
+\u00c1ltal\u00e1nos jellemz\u0151k: 
+- Kis s\u0171r\u0171s\u00e9g\u0171, nagy szerkezeti szil\u00e1rds\u00e1g\u00fa konstrukci\u00f3 
+- Fed\u00e9lzeti l\u00e9gf\u00e9k, \u00f6nfelf\u00faj\u00f3 \u00f6v \u00e9s f\u00e9kez\u0151rak\u00e9t\u00e1k sz\u00e1razf\u00f6ldi, v\u00edzi \u00e9s l\u00e9gi ment\u00e9shez 
+- Kis hat\u00f3t\u00e1vols\u00e1g\u00fa kommunik\u00e1ci\u00f3s rel\u00e9 (maximum 250 km-es hat\u00f3t\u00e1v) 
+- Napkollektor
+- Falra szerelt Fabrik\u00e1tor
+ - T\u00f6bb kij\u00e1rat
+
+Szabv\u00e1nyos ell\u00e1tm\u00e1ny:
+2x Minden k\u00f6rnyezetben haszn\u00e1lhat\u00f3 v\u00e9d\u0151(b\u00fav\u00e1r)ruha
+1x K\u00e9zi spektroszk\u00f3pos szkenner 
+3x Fogyaszt\u00e1sra k\u00e9sz \u00e9lelmiszer-adagok 
+3x 1 L-nyi iv\u00f3v\u00edz-csomag 1x 
+V\u00e9szhelyzeti els\u0151seg\u00e9ly-doboz 
+1x Eleml\u00e1mpa 
+1x V\u00e9szhelyzeti f\u00e1klya 
+1x V\u00e1logatott p\u00f3talkatr\u00e9szek",
+    "Ency_Readme": "Olvass el",
+    "EncyDesc_Readme": "Ha ezt olvassa, \u00d6n t\u00fal\u00e9lt egy v\u00e9szki\u00fcr\u00edt\u00e9st egy Alterra technol\u00f3gi\u00e1val felszerelt haj\u00f3n. Gratul\u00e1lunk: a nehez\u00e9n m\u00e1r t\u00fal van.
+
+PDA-ja automatikusan \u00fajraindul v\u00e9szhelyzeti \u00fczemm\u00f3dban. Az oper\u00e1ci\u00f3s rendszernek egyetlen c\u00e9lja van: \u00e9letben tartani \u00d6nt. Jellemz\u0151i:
+
+-  Teljes fel\u00fcgyelet a felhaszn\u00e1l\u00f3 felett \u00e9s val\u00f3s idej\u0171 t\u00fal\u00e9l\u00e9si tan\u00e1csad\u00e1s
+- Tervrajzok alapvet\u0151 t\u00fal\u00e9l\u00e9si eszk\u00f6z\u00f6kr\u0151l
+- Fed\u00e9lzeti mikrofon, kamera \u00e9s OCR-technol\u00f3gia a r\u00f6vid hat\u00f3t\u00e1vols\u00e1g\u00fa (20m) helyzetelemz\u00e9shez
+- Alterra k\u00e9zi spektrom\u00e9ter kereszt-kompatibilit\u00e1s
+
+K\u00f6vesse az utas\u00edt\u00e1sokat \u00e9s v\u00e1llalatunk \u00e9ps\u00e9gben hazasz\u00e1ll\u00edtja \u00d6nt. 
+
+Ut\u00f3lagos megjegyz\u00e9s: Az \u00d6n szem\u00e9lyes \u00e9s munkaf\u00e1jljai titkos\u00edtva lesznek \u00e9s csak egy k\u00e9s\u0151bbi id\u0151pontban tudja majd lek\u00e9rni \u0151ket egy enged\u00e9llyel rendelkez\u0151 m\u00e9rn\u00f6kt\u0151l.
+
+
+
+",
+    "Ency_SurvivalChecklist": "T\u00fal\u00e9l\u00e9si ellen\u0151rz\u0151-lista",
+    "EncyDesc_SurvivalChecklist": "1. Sz\u00fcks\u00e9g eset\u00e9n els\u0151seg\u00e9ly ny\u00fajt\u00e1sa
+2. K\u00f6rnyezet felm\u00e9r\u00e9se
+3. Tov\u00e1bbi t\u00fal\u00e9l\u0151k keres\u00e9se
+4. \u00c9tel \u00e9s ital-ell\u00e1tm\u00e1nyok felm\u00e9r\u00e9se, majd az \u00e9lelmiszer-fejadagok meghat\u00e1roz\u00e1sa
+5. Ment\u0151kabin \u00e1tvizsg\u00e1l\u00e1sa, sz\u00fcks\u00e9g eset\u00e9n a s\u00e9r\u00fcl\u00e9sek kijav\u00edt\u00e1sa
+6. Helyi seg\u00e9lyk\u00e9r\u00e9s sug\u00e1rz\u00e1sa a ment\u0151kabin r\u00f6vid hat\u00f3t\u00e1vols\u00e1g\u00fa kommunik\u00e1ci\u00f3s rel\u00e9j\u00e9n kereszt\u00fcl
+7. Fellelhet\u0151 nyersanyagok begy\u0171jt\u00e9se \u00e9s rakt\u00e1roz\u00e1sa
+8. T\u00fal\u00e9l\u0151 eszk\u00f6z\u00f6k haszn\u00e1lata a helyi k\u00f6rnyezet lakhat\u00f3v\u00e1 t\u00e9tel\u00e9hez
+9. Fizikai \u00e9s pszichikai eg\u00e9szs\u00e9g fenntart\u00e1sa a ment\u00e9sig
+
+FONTOS: Ezek az inform\u00e1ci\u00f3k \u00e1ltal\u00e1nos ir\u00e1nymutat\u00e1st jelentenek. Els\u0151k\u00e9nt mindig \u00e9rdemes k\u00f6vetni a PDA tan\u00e1csait, mivel az figyelembe veszi az adott helyzetet.",
+    "Ency_AuroraOverview": "Aur\u00f3ra B\u00e1ny\u00e1szhaj\u00f3 \u00c1ttekint\u00e9s",
+    "EncyDesc_AuroraOverview": "K\u00fcldet\u00e9s: 3 \u00e9ves b\u00e1ny\u00e1szati felm\u00e9r\u0151-k\u00fcldet\u00e9s
+Leg\u00e9nys\u00e9g: Parancsnoki csapat (11 f\u0151), M\u00e9rn\u00f6k csapat (57 f\u0151), Kiszolg\u00e1l\u00f3 szem\u00e9lyzet (30 f\u0151), Utasok (3 f\u0151)
+
+L\u00e9tes\u00edtm\u00e9nyek:
+- S\u00f6t\u00e9t-anyaggal m\u0171k\u00f6d\u0151 V8-as ion-hajt\u00f3m\u0171
+- M\u00e9rn\u00f6ki szekci\u00f3 A kateg\u00f3ri\u00e1s al-l\u00e9tes\u00edtm\u00e9nyekkel (tartalmaz meteor-z\u00faz\u00f3t, ir\u00e1ny\u00edtott robotokat \u00e9s szkennerek sz\u00e9les v\u00e1laszt\u00e9k\u00e1t)
+- 0,25 n\u00e9gyzetkilom\u00e9teres rakt\u00e9r a kib\u00e1ny\u00e1szott nyersanyagoknak
+- Lak\u00f3hely szekci\u00f3 C+ kateg\u00f3ri\u00e1s szabadid\u0151 al-l\u00e9tes\u00edtm\u00e9nyekkel;",
+    "Ency_AEPSuit": "K\u00f6rnyezetf\u00fcggetlen V\u00e9d\u0151 (b\u00fav\u00e1r)Ruha",
+    "EncyDesc_AEPSuit": "Alterra K.V. (b\u00fav\u00e1r)Ruha: Egys\u00e9ges megold\u00e1s az univerzum v\u00e9gtelen vesz\u00e9lyforr\u00e1saira
+
+Jelenleg K.V. (b\u00fav\u00e1r)Ruh\u00e1t viselsz - egy hermetikusan z\u00e1rt, szem\u00e9lyes mikrok\u00f6rnyezetet, amelyet arra tervezek, hogy megv\u00e9djen az ismert univerzum legextr\u00e9mebb hat\u00e1sait\u00f3l is. A ruha tartalmaz:
+
+- Be\u00e9p\u00edtett h\u0151m\u00e9rs\u00e9klet \u00e9s hidrat\u00e1l\u00f3-szab\u00e1lyoz\u00f3t - Kompatibilis egy sor egy\u00e9ni k\u00f6rnyezetre szabott m\u00f3dos\u00edt\u00f3 egys\u00e9ggel - Karcs\u00fas\u00edtott kialak\u00edt\u00e1s a maxim\u00e1lis mozg\u00e1s-szabads\u00e1g\u00e9rt - Biometrikus \u00e9rz\u00e9kel\u0151k - Sz\u00f6veges szemmagass\u00e1g\u00fa kijelz\u0151
+
+A K.P. (b\u00fav\u00e1r)Ruh\u00e1t m\u00e9g a ment\u0151kabin ind\u00edt\u00e1sa EL\u0150TT \u00e9rdemes felvenni - arra az esetre, ha a kabin burkolata megs\u00e9r\u00fclne",
+    "Ency_MetalSalvage": "Szerkezeti elemz\u00e9s: Sz\u00e9tsz\u00f3r\u00f3dott roncsok",
+    "EncyDesc_MetalSalvage": "Az anal\u00edzis meger\u0151s\u00edtette, hogy ez a roncsdarab az Aur\u00f3r\u00e1r\u00f3l sz\u00e1rmazik. 
+
+A k\u00fcls\u0151 r\u00e9tegek oxid\u00e1l\u00f3dtak, ami arra utal, hogy 1200 Celsius fok f\u00f6l\u00e9 melegedett. Ez a mint\u00e1zat egybev\u00e1g a burkolat atmoszf\u00e9r\u00e1ba val\u00f3 behatol\u00e1skori sz\u00e9tes\u00e9s\u00e9vel. A bels\u0151 r\u00e9tegek elegend\u0151 tit\u00e1nt tartalmaznak, amelyet a Fabrik\u00e1torral vissza lehet nyerni.",
+    "Ency_Airsack": "H\u00f3lyaghal",
+    "EncyDesc_Airsack": "1. F\u00e9lig\u00e1tereszt\u0151 membr\u00e1n: A test egy oxig\u00e9nnel \u00e9s v\u00edzzel megtelt f\u00e9lig\u00e1tereszt\u0151 membr\u00e1nb\u00f3l \u00e1ll. Sz\u00e1jny\u00edl\u00e1s nem l\u00e1that\u00f3. A membr\u00e1n tal\u00e1n n\u00f6v\u00e9nyi anyagokat sz\u0171r ki a v\u00edzb\u0151l. 
+
+2. Ny\u00edlt v\u00e9g\u0171 \u00e9rrendszeri cs\u0151: Elford\u00edthat\u00f3 \u00e9s az\u00e9rt j\u00f6tt l\u00e9tre, hogy vizet pump\u00e1ljon ki, l\u00e9trehozva egy alacsony sebess\u00e9g\u0171, ir\u00e1ny\u00edtott mozg\u00e1st. Uszonyok nem l\u00e1that\u00f3ak. 
+
+3. T\u00f6bbnyire nem t\u00f6r\u0151dik a vesz\u00e9llyel - egyetlen v\u00e9delmi rendszere van: 95% porc. 
+
+\u00c9rt\u00e9kel\u00e9se: A membr\u00e1nt fel lehetne haszn\u00e1lni term\u00e9szetes v\u00edzsz\u0171r\u0151k\u00e9nt",
+    "Ency_RabbitRay": "Ny\u00falr\u00e1ja",
+    "EncyDesc_RabbitRay": "N\u00f6v\u00e9nyev\u0151, v\u00edzi \u00e9letforma er\u0151sen m\u00e9rgez\u0151 h\u00fassal.
+
+1. Hull\u00e1mz\u00f3 sz\u00e1rnyak: a helyv\u00e1ltoztat\u00e1s els\u0151dleges m\u00f3dja.
+
+ 2. M\u00e9rgez\u0151 h\u00fas: Nagym\u00e9ret\u0171 l\u00e9nyk\u00e9nt m\u00e1s v\u00e9dekez\u00e9si m\u00f3d h\u00edj\u00e1n a ny\u00fal r\u00e1ja l\u00e1that\u00f3an m\u00e9rgez\u0151 h\u00fas\u00e1val riasztja el a ragadoz\u00f3kat.
+
+3. \u00c9trend: F\u00fcvek \u00e9s tengeri moszatok. 
+
+\u00c9rt\u00e9kel\u00e9s: Ehetetlen, de bar\u00e1ts\u00e1gos",
+    "Ency_AcidMushroom": "Savgomba",
+    "EncyDesc_AcidMushroom": "Gyakori, sp\u00f3ra-hordoz\u00f3 gombafaj fejlett v\u00e9dekez\u0151 mechanizmussal. H\u00fasa er\u0151sen savas vegy\u00fcletet tartalmaz, amely a burok megs\u00e9r\u00fcl\u00e9se eset\u00e9n a v\u00edzbe sziv\u00e1rog. A helyi v\u00edznyom\u00e1s-v\u00e1ltoz\u00e1s hat\u00e1s\u00e1ra \u00f6sszeh\u00faz\u00f3dhat. 
+
+Nem vil\u00e1gos, hogy melyik \u00e9l\u0151l\u00e9ny ellen sz\u00fcks\u00e9ges ilyen extr\u00e9m v\u00e9dekez\u00e9si mechanizmus, de a savgomb\u00e1k sz\u00e1ma azt sugallja, hogy t\u00f6bbs\u00e9g\u00fck sikeresen elriasztja \u0151ket.
+
+\u00c9rt\u00e9kel\u00e9s: Ehetetlen, de elemk\u00e9sz\u00edt\u00e9s c\u00e9lj\u00e1b\u00f3l kitermelhet\u0151, ha \u00f3vatosan szedik",
+    "Ency_LimestoneOutcrops": "M\u00e9szk\u0151 kin\u00f6v\u00e9s",
+    "EncyDesc_LimestoneOutcrops": "Ezek a szokatlan geol\u00f3giai alakzatok gyakran tit\u00e1n vagy r\u00e9z k\u00f6r\u00fcl j\u00f6nnek l\u00e9tre \u00e9s a bolyg\u00f3 megk\u00fcl\u00f6nb\u00f6ztet\u0151 jegy\u00e9nek sz\u00e1m\u00edtanak. A k\u00f6zelebbi anal\u00edzis kider\u00edtette, hogy a m\u00e9szk\u0151 v\u00e9delmet ny\u00fajt az er\u00f3zi\u00f3 ellen, de maga a mechanizmus nem ismert. 
+
+\u00c9rt\u00e9kel\u00e9s: Tit\u00e1n \u00e9s r\u00e9z forr\u00e1s",
+    "Ency_SandstoneOutcrops": "Homokk\u0151 kin\u00f6v\u00e9s",
+    "EncyDesc_SandstoneOutcrops": "Ezek a gyakori, por\u00f3zus kin\u00f6v\u00e9sek l\u00e1that\u00f3an kisebb mennyis\u00e9g\u0171 nemesf\u00e9mek k\u00f6r\u00fcl j\u00f6nnek l\u00e9tre vagy id\u0151vel az \u00fcled\u00e9kb\u0151l ezek az anyagok rak\u00f3dnak ki. 
+
+\u00c9rt\u00e9kel\u00e9s: Ez\u00fcst \u00e9s arany forr\u00e1s",
+    "Ency_ShaleOutcrops": "Pala kin\u00f6v\u00e9s",
+    "EncyDesc_ShaleOutcrops": "Ez az \u00fcled\u00e9kes k\u0151zet agyagdarabokb\u00f3l j\u00f6n l\u00e9tre - benn\u00fck olyan ritka f\u00e9mek tal\u00e1lhat\u00f3ak, mint a l\u00edtium. A bolyg\u00f3 geol\u00f3giai felt\u00e9telei miatt gyakran m\u00e9lyebb ter\u00fcleteken fordul el\u0151.
+
+\u00c9rt\u00e9kel\u00e9s: Arany \u00e9s l\u00edtium forr\u00e1s",
+    "Ency_BasaltOutcrops": "Bazalt kin\u00f6v\u00e9s",
+    "EncyDesc_BasaltOutcrops": "Kem\u00e9ny, vulkanikus k\u0151zet, melyet egy kor\u00e1bbi vulk\u00e1ni aktivit\u00e1s hozott l\u00e9tre. Val\u00f3sz\u00edn\u0171leg olyan ritka nyersanyagokat tartalmaz, mint a gy\u00e9m\u00e1nt \u00e9s az ur\u00e1nium, amelyek m\u00e1shol nem tal\u00e1lhat\u00f3k meg.
+
+\u00c9rt\u00e9kel\u00e9s: Arany, gy\u00e9m\u00e1nt \u00e9s ur\u00e1nium forr\u00e1s",
+    "Ency_BrainCoral": "Lila agykorall",
+    "EncyDesc_BrainCoral": "Mikroszkopikus organizmusok egy helyben marad\u00f3, n\u00f6vekv\u0151 kol\u00f3ni\u00e1ja. Ez a korallfaj sz\u00e9n-dioxid kisz\u0171r\u00e9s\u00e9hez alkalmazkodott a k\u00f6rnyezet\u00e9b\u0151l, \u00e9p\u00edtve a kol\u00f3ni\u00e1j\u00e1t \u00e9s kivonva az oxig\u00e9nt a kimer\u00fclt cs\u00f6vekb\u0151l.",
+    "Ency_Peeper": "Kukucsk\u00e1l\u00f3",
+    "EncyDesc_Peeper": "1. T\u00falfejlett, oldals\u00f3 szemek: J\u00f3l alkalmazkododtt sz\u00e1mos ragadoz\u00f3j\u00e1nak felismer\u00e9s\u00e9hez \u00e9s az el\u0151l\u00fck val\u00f3 menek\u00fcl\u00e9shez. Emellett gazdag feh\u00e9rj\u00e9ben.
+
+2. Er\u0151s farok\u00fasz\u00f3: Lehet\u0151v\u00e9 tesz hirtelen gyors\u00edt\u00e1sokat \u00e9s k\u00e9pess\u00e9 teszi t\u00f6bb m\u00e9teres v\u00edz feletti ugr\u00e1sokra.
+
+3. Keskeny h\u00e1ti uszonyok: N\u00f6veli a man\u0151verez\u0151-k\u00e9pess\u00e9get.
+
+A vizu\u00e1lis felismer\u00e9sre val\u00f3 t\u00e1maszkod\u00e1s s\u00e9r\u00fcl\u00e9kenny\u00e9 teheti rossz f\u00e9nyviszony\u00fa k\u00f6rnyezetben.
+
+\u00c9rt\u00e9kel\u00e9s: Ehet\u0151 \u00e9s fontos - ha el tudod kapni ",
+    "Ency_Boomerang": "Bumer\u00e1nghal",
+    "EncyDesc_Boomerang": "1. Iker\u00fasz\u00f3k: Szokatlan m\u00f3don ennek a fajnak a k\u00e9t \u00fasz\u00f3ja a csontv\u00e1z\u00e1nak porcos kin\u00f6v\u00e9sei. Kev\u00e9sb\u00e9 hajlamos a s\u00e9r\u00fcl\u00e9sre, de nehezebben n\u0151 vissza.
+
+2. Rec\u00e9s fogak: Azt sugallj\u00e1k, hogy a korallok lecsiszol\u00e1s\u00e1ra alkalmazkodtak. 
+
+3. A nappali \u00f3r\u00e1kban akt\u00edvabb, megk\u00f6zel\u00edt\u00e9s eset\u00e9n elmenek\u00fcl.
+
+\u00c9rt\u00e9kel\u00e9s: Ehet\u0151, t\u00e1panyagban szeg\u00e9ny, de megb\u00edzhat\u00f3",
+    "Ency_Garryfish": "Kalaphal",
+    "EncyDesc_Garryfish": "Lassan mozg\u00f3 \u00e9s k\u00edv\u00e1ncsi n\u00f6v\u00e9nyev\u0151.
+
+1. \u00c1lc\u00e1ja jelzi az \u00f3ce\u00e1n fenek\u00e9n folytatott rejt\u0151zk\u00f6d\u0151 magatart\u00e1s\u00e1t.
+
+2. A kocs\u00e1nyon l\u00f3g\u00f3 szemek tal\u00e1n el\u0151ny\u00f6sek a korallok k\u00f6z\u00f6tt lapul\u00f3 ragadoz\u00f3k \u00e9szlel\u00e9s\u00e9hez.
+
+3. Jelent\u0151s gyomor-\u00fcreg: folyamatosan eszik a nappali \u00f3r\u00e1kban, minim\u00e1lis ehet\u0151 h\u00fast hagyva maga ut\u00e1n.
+
+\u00c9rt\u00e9kel\u00e9s: Nem annyira ehet\u0151, mint amennyire annak l\u00e1tszik",
+    "Ency_Shuttlebug": "Sikl\u00f3bog\u00e1r",
+    "EncyDesc_Shuttlebug": "1. H\u00e1rom l\u00e1b: A nagy erej\u0171 izmokkal jelent\u0151s t\u00e1vols\u00e1gokat k\u00e9pes megtenni a v\u00edzben, illetve a tenger fenek\u00e9n haladni.
+
+2. H\u00e1rom \u00e1llkapocs: Mozg\u00e1s k\u00f6zbeni orient\u00e1ci\u00f3ra haszn\u00e1lja, valamint a t\u00f6rmel\u00e9ken kereszt\u00fcli halad\u00e1sra a barlangok alj\u00e1n. Jelenl\u00e9t\u00fck egy k\u00f6zeli barlangrendszerre utalhat.
+
+\u00c9rt\u00e9kel\u00e9s: A t\u00e1pl\u00e1l\u00e9kl\u00e1nc fontos \u00fajrahasznos\u00edt\u00f3i",
+    "Ency_Floater": "Sodr\u00f3d\u00f3l\u00e9ny",
+    "EncyDesc_Floater": "Evol\u00faci\u00f3s rendelleness\u00e9g. Tov\u00e1bbi kutat\u00e1s sz\u00fcks\u00e9ges.
+
+1. Domin\u00e1ns \u00e9letforma: A szerkezeti anal\u00edzis kimutatta, hogy ez az entit\u00e1s k\u00e9t k\u00fcl\u00f6n\u00e1ll\u00f3 l\u00e9nyb\u0151l \u00e1ll. A r\u00f3zsasz\u00edn test \u00e9s a bels\u0151 \u00e1llkapcsok a domin\u00e1ns \u00e1llat.
+
+2. Mikroorganizmus-membr\u00e1n: A k\u00fcls\u0151, g\u00e9l-szer\u0171 anyag egy mikroorganizmus-h\u00e1l\u00f3zat, amely k\u00e9pes korl\u00e1tozott v\u00e1kuum l\u00e9trehoz\u00e1s\u00e1ra a l\u00e9ny \u00e1llkapcsa k\u00f6r\u00fcl.
+
+3. L\u00e9gbubor\u00e9k: Egy v\u00e9kony h\u00e9liumr\u00e9teg tal\u00e1lhat\u00f3 a k\u00fcls\u0151 membr\u00e1nban, amely lehet\u0151v\u00e9 teszi a lebeg\u00e9st.
+
+Az \u00e9letforma szinte kiz\u00e1r\u00f3lag nagy szikl\u00e1khoz csatlakozva l\u00e1that\u00f3. L\u00e1that\u00f3an teljesen v\u00e9dtelen a mesters\u00e9ges lev\u00e1laszt\u00e1s ellen \u00e9s ha ez megt\u00f6rt\u00e9nik, v\u00e1logat\u00e1s n\u00e9lk\u00fcl b\u00e1rmihez \u00fajra csatlakozik.
+
+\u00c9rt\u00e9kel\u00e9s: T\u00f6bb inform\u00e1ci\u00f3 sz\u00fcks\u00e9ges",
+    "Ency_Holefish": "Lyukhal",
+    "EncyDesc_Holefish": "1. A sz\u00ednezete arra utal, hogy a barlangok k\u00f6rnyezet\u00e9hez alkalmazkodott.
+
+2. Kilyukadt farokuszony: A lyuk m\u00e9ret\u00e9t \u00e9s alakj\u00e1t v\u00e1ltoztatva k\u00e9pes kisz\u00e1m\u00edthatatlan man\u0151verekre.
+
+A legt\u00f6bb n\u00f6v\u00e9nyev\u0151n\u00e9l kisebb, tal\u00e1n a veget\u00e1ci\u00f3 hi\u00e1nya miatt a rossz f\u00e9nyviszony\u00fa \u00e9l\u0151helyeken. A ragadoz\u00f3kkal szemben minim\u00e1lis f\u00e9lelmet mutat.
+
+\u00c9rt\u00e9kel\u00e9s: \u00c9rt\u00e9kes, megb\u00edzhat\u00f3 barlangi \u00e9tel",
+    "Ency_CaveCrawler": "Barlangi f\u00e9reg",
+    "EncyDesc_CaveCrawler": "Mozg\u00e9kony, territori\u00e1lis d\u00f6gev\u0151.
+
+1. N\u00e9gy l\u00e1b: A tengerfen\u00e9ken val\u00f3 mozg\u00e1sra haszn\u00e1lja \u0151ket, valamint a falakr\u00f3l val\u00f3 l\u00f3g\u00e1sra. Sz\u00e1razf\u00f6ldi haszn\u00e1ltra szint\u00e9n alkalmas.
+
+2. G\u00e1zcsere membr\u00e1n: Elnyeli a sz\u00fcks\u00e9ges g\u00e1zokat a leveg\u0151b\u0151l \u00e9s a v\u00edzb\u0151l.
+
+Ez a faj holttestek ut\u00e1n kutat, majd r\u00e1telepszik \u00e9s elnyeli a tetemet.
+
+\u00c9rt\u00e9kel\u00e9s: Kellemetlen, k\u00fcl\u00f6n\u00f6sen temet\u00e9seken",
+    "Ency_TableCoral": "T\u00e1bla korall",
+    "EncyDesc_TableCoral": "Minden egyes t\u00e1ny\u00e9r egy k\u00fcl\u00f6n\u00e1ll\u00f3 mikroorganizmus-kol\u00f3nia, amely kisz\u0171ri a t\u00e1panyagokat a rajta \u00e1tfoly\u00f3 v\u00edzb\u0151l. 
+
+A n\u00f6veked\u00e9si mint\u00e1zatok azt jelzik, hogy a kol\u00f3ni\u00e1k k\u00f6zvetlen versenyben \u00e1llnak egym\u00e1ssal a t\u00f6bb t\u00e1panyag\u00e9rt \u00e9s f\u00e9ny\u00e9rt. M\u00e1s korallokt\u00f3l elt\u00e9r\u0151en ez a faj k\u00e9pl\u00e9keny \u00e9s finoman pulz\u00e1l, ahogy \u00e1tpump\u00e1lja mag\u00e1n a nyersanyagokat \u00e9s csak akkor v\u00e1lik kem\u00e9nny\u00e9, ha fizikai behat\u00e1st \u00e9rz\u00e9kel.
+
+Az \u00e9kszer-szer\u0171 b\u00fctyk\u00f6k a felsz\u00edn\u00e9n koncentr\u00e1lt ritka nyersanyagok, amelyeket k\u00e9ptelen volt feldolgozni.
+
+\u00c9rt\u00e9kel\u00e9s: Sz\u00e1m\u00edt\u00f3g\u00e9pes chipek gy\u00e1rt\u00e1s\u00e1hoz kifejthet\u0151",
+    "Ency_HangingStinger": "L\u00f3g\u00f3 Full\u00e1nkok",
+    "EncyDesc_HangingStinger": "1. Nulla fotoszintetikus cella \u00e9szlelve. Ez h\u00fasev\u0151k\u00e9nt val\u00f3 alkalmazkod\u00e1sra utal a f\u00e9nyszeg\u00e9ny k\u00f6rnyezetben.
+
+2. A cs\u00e1pok ment\u00e9n t\u00fcsz\u0151k tal\u00e1lhat\u00f3k, amelyek k\u00e9pesek \u00e9rz\u00e9kelni az \u00e9rintkez\u00e9st idegen testekkel, kiv\u00e1ltva egy 600 Wattos tartom\u00e1nyba es\u0151 elektrom\u00e1gneses t\u00f6lt\u00e9st. Az \u00e1ldozat val\u00f3sz\u00edn\u0171leg megb\u00e9nul \u00e9s hetek alatt elnyel\u0151dik.
+
+Pr\u00e9da: Kis halak
+
+\u00c9rt\u00e9kel\u00e9s: Ker\u00fclend\u0151",
+    "Ency_Hoopfish": "Abroncshal",
+    "EncyDesc_Hoopfish": "1. Kis m\u00e9ret, kisiskol\u00e1s mentalit\u00e1s, pr\u00e9dahal.
+
+2. Antenna: \u00dasz\u00e1s helyett ez az \u00e9letforma az \u0151t k\u00f6r\u00fclvev\u0151 z\u00f6ld antenn\u00e1j\u00e1t haszn\u00e1lja, megv\u00e1ltoztatva a v\u00edz \u00f6sszet\u00e9tel\u00e9t, lehet\u0151v\u00e9 t\u00e9ve sz\u00e1m\u00e1ra, hogy 'vitorl\u00e1zzon' az \u00edgy l\u00e9trehozott kis s\u0171r\u0171s\u00e9g\u0171 t\u00e9rben.
+
+\u00c9rt\u00e9kel\u00e9s: Ehet\u0151, de t\u00e1p\u00e9rt\u00e9ke csek\u00e9ly",
+    "Ency_CoralSample": "K\u00f6z\u00f6ns\u00e9ges korallok",
+    "EncyDesc_CoralSample": "Az \u00f3ri\u00e1s korallcs\u00f6vek \u00e9s ferde kagyl\u00f3-lemezek k\u00fcl\u00f6nb\u00f6z\u0151 megold\u00e1sok ugyanarra a probl\u00e9m\u00e1ra: maximaliz\u00e1lni a v\u00edz- \u00e9s t\u00e1panyag-\u00e1t\u00e1raml\u00e1st a kol\u00f3ni\u00e1n. A k\u00fcls\u0151 k\u00fcl\u00f6nbs\u00e9gek ellen\u00e9re ezek a strukt\u00far\u00e1k nagyon hasonl\u00f3 organizmusokb\u00f3l, azonos elven \u00e9p\u00fclnek fel. A mint\u00e1k kalciumban gazdagok.
+
+\u00c9rt\u00e9kel\u00e9s: Hasznos\u00edthat\u00f3 a feh\u00e9r\u00edt\u0151-gy\u00e1rt\u00e1sban ",
+    "Ency_Crash": "Csattan\u00f3",
+    "EncyDesc_Crash": "1. \u00c9rint\u00e9s-\u00e9rz\u00e9keny t\u00fcsk\u00e9k: amennyiben az \u00e9letforma kell\u0151 sebess\u00e9ggel \u00fctk\u00f6zik valamivel \u00e9s a t\u00fcsk\u00e9k \u00e9rintkeznek vele, elind\u00edtanak egy bels\u0151 k\u00e9miai reakci\u00f3t. 
+
+2. Sz\u00edv\u00f3sz\u00e1j:  Val\u00f3sz\u00edn\u0171leg ahhoz alkalmazkodott, hogy kis rovarokat \u00e9s l\u00e1rv\u00e1kat sz\u00edvjon fel a barlangrendszerekben.
+ 
+3. K\u00e9miai t\u00e1rol\u00f3 szerv: id\u0151vel k\u00e9n keletkezik benne, amit az \u00e1llat robban\u00e1ssal k\u00e9pes felhaszn\u00e1lni, v\u00e9gs\u0151 v\u00e9dekez\u00e9si formak\u00e9nt a f\u00e9szkel\u00e9si f\u00e1zisban. Az adatok fejlett szimbi\u00f3zist mutatnak a Csattan\u00f3-n\u00f6v\u00e9nnyel. Hipot\u00e9zis: A n\u00f6v\u00e9ny \u00fagy fejl\u0151d\u00f6tt, hogy hasznos\u00edtani tudja a robbant\u00f3 \u00e1ltal kibocs\u00e1tott k\u00e9nvegy\u00fcletet. Az er\u0151sebb, jobb v\u00e9delmet ny\u00fajt\u00f3 n\u00f6v\u00e9nyek jobb f\u00e9szekhelyet k\u00edn\u00e1lnak, ami a n\u00f6v\u00e9ny el\u0151ny\u00e9re v\u00e1lik a t\u00f6bb t\u00e1panyag r\u00e9v\u00e9n, \u00e9s az egy\u00fcttm\u0171k\u00f6d\u00e9si-ciklus tov\u00e1bb folytat\u00f3dik. 
+
+\u00c9rt\u00e9kel\u00e9s: Ker\u00fclend\u0151 vagy \u00c1rtalmatlan\u00edtand\u00f3",
+    "Ency_CrashLair": "Csattan\u00f3-n\u00f6v\u00e9ny",
+    "EncyDesc_CrashLair": "L\u00e1that\u00f3an ez a n\u00f6v\u00e9nyfaj szimbiotikus kapcsolatban \u00e9l azokkal a v\u00edzi \u00e9l\u0151l\u00e9nyekkel, amelyek benne f\u00e9szkelnek. A szirom-szer\u0171 k\u00fcls\u0151 \u00e9rintetlen marad, amikor az \u00e9letforma kiemelkedik bel\u0151le \u00e9s val\u00f3sz\u00edn\u0171leg addig marad nyitva, am\u00edg azt eredeti tulajdonosa vagy egy m\u00e1sik \u00e9l\u0151l\u00e9ny el nem foglalja.
+
+Tov\u00e1bbi inform\u00e1ci\u00f3 szerz\u00e9se err\u0151l a kapcsolatr\u00f3l nem lehets\u00e9ges, mert ehhez a n\u00f6v\u00e9nyt izol\u00e1lni kellene.
+
+A bels\u0151 leveleken k\u00e9n-maradv\u00e1nyok \u00e9rz\u00e9kelhet\u0151k.
+
+\u00c9rt\u00e9kel\u00e9s: Kitermelhet\u0151",
+    "Ency_Creepvine": "K\u00fasz\u00f3sz\u0151l\u0151",
+    "EncyDesc_Creepvine": "E tengeri moszatfaj jelent\u0151s, erd\u0151szer\u0171 telepeket hoz l\u00e9tre a sek\u00e9ly, homokos vizekben.
+
+Laza gy\u00f6kerei lehorgonyozz\u00e1k a n\u00f6v\u00e9nyt a tengerfen\u00e9kre, ahonnan folyamatosan n\u0151 a felsz\u00edn fel\u00e9, t\u00f6rekedve a t\u00f6bb napf\u00e9ny fel\u00e9.
+
+A sz\u00e1r rostos \u00e9s vasban gazdag, haszn\u00e1lhat\u00f3 \u00e9lelmiszerr\u00e9, valamint k\u00f6telek \u00e9s k\u00f6t\u00e9sek alapanyag\u00e1v\u00e1 alak\u00edtva.
+
+Fogyasztj\u00e1k:  Cselleng\u0151l\u00e9ny, Szemeshal, Ny\u00fal R\u00e1ja, Kukucsk\u00e1l\u00f3
+
+\u00c9rt\u00e9kel\u00e9s: L\u00e9tfontoss\u00e1g\u00fa idegen er\u0151forr\u00e1s - Ehet\u0151 - Medicin\u00e1lis felhaszn\u00e1l\u00e1s - \u00c9p\u00edt\u00e9si alkalmaz\u00e1sok",
+    "Ency_CreepvineSeeds": "K\u00fasz\u00f3sz\u0151l\u0151 magok",
+    "EncyDesc_CreepvineSeeds": "Azok az \u00e9rett k\u00fasz\u00f3ind\u00e1k, amelyek t\u00fal\u00e9lt\u00e9k a kis n\u00f6v\u00e9nyev\u0151ket, f\u00e9nykibocs\u00e1t\u00f3 magf\u00fcrt\u00f6ket termelnek, melyeket k\u00e9s\u0151bb levernek vagy a n\u00f6v\u00e9nyev\u0151k elfogyasztj\u00e1k \u00e9s m\u00e1shol ki\u00fcr\u00edtik, el\u0151seg\u00edtve a szaporod\u00e1st. 
+
+A mag-embri\u00f3t egy s\u0171r\u0171 olajos r\u00e9teg veszi k\u00f6r\u00fcl, amely a k\u00fcls\u0151 b\u0151r elboml\u00e1s\u00e1val eloszlik a k\u00f6rnyez\u0151 f\u00f6ldben. Val\u00f3sz\u00edn\u0171leg ez biztos\u00edtja a csemet\u00e9nek a sz\u00fcks\u00e9ges t\u00e1panyagot, hogy t\u00fal\u00e9lhessen a f\u00e9nyszeg\u00e9ny tengerfen\u00e9ken.
+
+\u00c9rt\u00e9kel\u00e9s: Kitermelhet\u0151 olajok",
+    "Ency_Eyeye": "Szemeshal",
+    "EncyDesc_Eyeye": "Egy sz\u00e9ls\u0151s\u00e9ges evol\u00faci\u00f3s alkalmazkod\u00e1s, ahol a testt\u00f6meg 90%-\u00e1t az \u00fcvegtest teszi ki.
+
+- A ragadoz\u00f3k \u00e9szlel\u00e9s\u00e9re specializ\u00e1l\u00f3dott f\u00e9nyszeg\u00e9ny k\u00f6rnyezetben, j\u00f3val azok l\u00e1t\u00f3t\u00e1vols\u00e1g\u00e1n t\u00falr\u00f3l
+- Nincsen agya, csak idegrendszere
+- T\u00fal buta ahhoz, hogy kis t\u00e1vols\u00e1gb\u00f3l kiker\u00fclje a ragadoz\u00f3kat
+- S\u00e9r\u00fcl\u00e9keny a meglepet\u00e9sszer\u0171 t\u00e1mad\u00e1sokra, ami a Homokc\u00e1pa ide\u00e1lis pr\u00e9d\u00e1j\u00e1v\u00e1 teszi
+
+\u00c9rt\u00e9kel\u00e9s: Ehet\u0151 \u00e9s ha egyszer \u00e9szrevett\u00fck, k\u00f6nny\u0171 elkapni",
+    "Ency_Hoverfish": "Cselleng\u0151l\u00e9ny",
+    "EncyDesc_Hoverfish": "Hat egyedi f\u00fcggel\u00e9k-v\u00e9gtaggal rendelkezik, a v\u00e9g\u00fck\u00f6n t\u00f6lt\u00f6tt p\u00e1rn\u00e1kkal, amelyekkel k\u00e9pes ioniz\u00e1lni a k\u00f6rnyez\u0151 vizet. \u00dagy t\u0171nik, a Cselleng\u0151l\u00e9ny ezt a k\u00e9pess\u00e9g\u00e9t arra haszn\u00e1lja, hogy az \u00e1r ellen\u00e9ben is megtartsa poz\u00edci\u00f3j\u00e1t, mik\u00f6zben tengeri moszatokkal \u00e9s zuzm\u00f3val t\u00e1pl\u00e1lkozik.
+
+\u00c9rt\u00e9kel\u00e9s: Ehet\u0151, eg\u00e9szs\u00e9ges alap-\u00e9lelmiszer",
+    "Ency_Bleeder": "V\u00e9reztet\u0151",
+    "EncyDesc_Bleeder": "Egy egyszer\u0171 parazita-organizmus, ami kicsit fejlettebb, mint a k\u00f6z\u00f6ns\u00e9ges kullancs. 
+
+Azonos\u00edt\u00f3 jellemz\u0151i k\u00f6z\u00e9 tartozik a k\u00e9pl\u00e9keny h\u00e1ts\u00f3 zs\u00e1k a v\u00e9r begy\u0171jt\u00e9s\u00e9hez \u00e9s em\u00e9szt\u00e9s\u00e9hez; valamint egy \u00e1llkapocs t\u00f6bb sornyi foggal \u00e9s \u00e1llcsonttal, amelyekkel hozz\u00e1kapcsol\u00f3dik \u00e1ldozata b\u0151r\u00e9hez.
+
+Zs\u00e1km\u00e1nya: Az biztos, hogy \u00e9l\u0151l\u00e9nyeket t\u00e1mad - a V\u00e9reztet\u0151 lass\u00fa mozg\u00e1sa \u00e9s gyenge v\u00e9delme azt sugallja, hogy els\u0151sorban d\u00f6gev\u0151.
+
+\u00c9rt\u00e9kel\u00e9s: Kellemetlen \u00e9s nem higi\u00e9nikus",
+    "Ency_StalkerTooth": "A Cserk\u00e9sz\u0151 viselked\u00e9se \u00e9s fiziol\u00f3gi\u00e1ja",
+    "EncyDesc_StalkerTooth": "B\u0151v\u00edtett elemz\u00e9s a Cserk\u00e9sz\u0151 fog\u00e1szati mint\u00e1j\u00e1nak elemz\u00e9se alapj\u00e1n.
+
+M\u00e1s helyi \u00e9letform\u00e1k fogainak \u00f6sszet\u00e9tele az ismer\u0151s biol\u00f3giai folyamatot k\u00f6veti, amely sor\u00e1n az elmeszesedett v\u00e1z n\u0151 ki a fog\u00ednyb\u0151l.
+
+A Cserk\u00e9sz\u0151 foga viszont egyedi, rendk\u00edv\u00fcl k\u00f6nny\u0171 \u00e9s er\u0151s, \u00e9s csak nyomokban tartalmaz kalciumot. Szerkezeti szil\u00e1rds\u00e1gukat a fogakat fel\u00e9p\u00edt\u0151 tit\u00e1nium\/vas \u00f6tv\u00f6zetnek k\u00f6sz\u00f6nhetik, amely valamilyen m\u00f3don a cserk\u00e9sz\u0151 test\u00e9ben keletkezik.
+
+Ez lehet a magyar\u00e1zatra a l\u00e9ny f\u00e9mgy\u0171jt\u0151 viselked\u00e9s\u00e9re, ugyanakkor ez t\u00f6bb tov\u00e1bbi k\u00e9rd\u00e9st vet fel:
+
+- Milyen m\u00f3dszerrel k\u00e9pes a cserk\u00e9sz\u0151 a nyersanyagb\u00f3l fog-anyagot el\u0151\u00e1ll\u00edtani?
+- Mivel magyar\u00e1zhat\u00f3 ez a l\u00e1that\u00f3an bonyolult evol\u00faci\u00f3s adapt\u00e1ci\u00f3? Egy p\u00e1nc\u00e9lozott ellens\u00e9ggel? Kalcium-hi\u00e1nnyal?
+
+\u00c9rt\u00e9kel\u00e9s: Tov\u00e1bbi kutat\u00e1s sz\u00fcks\u00e9ges",
+    "Ency_Spadefish": "Lap\u00e1thal",
+    "EncyDesc_Spadefish": "Egy gyakori n\u00f6v\u00e9nyev\u0151, amely l\u00e1that\u00f3an elker\u00fcli a sek\u00e9ly vizeket \u00e9s ink\u00e1bb a tengerfen\u00e9k k\u00f6zel\u00e9ben \u00faszik, ahol egy szemmel mindig a f\u00f6l\u00f6tte halad\u00f3 ragadoz\u00f3kat figyelheti. A k\u00f6zelm\u00faltban megfigyelt p\u00e9ld\u00e1nyok nagy koncentr\u00e1ci\u00f3ban tartalmaznak egy m\u00e9rgez\u0151 enzimet - ez tal\u00e1n egy szezon\u00e1lis \u00e1llapot az \u00e9letciklusukban. Folytassa a megfigyel\u00e9st.
+
+\u00c9rt\u00e9kel\u00e9s: Ehet\u0151, kiad\u00f3s",
+    "Ency_Reginald": "Fellengz\u0151shal",
+    "EncyDesc_Reginald": "Gyakori zs\u00e1km\u00e1nyhal. Tompa z\u00f6ld sz\u00ednezet a m\u00e9lytengeri \u00e1lc\u00e1z\u00e1shoz. A dereng\u0151 farok-mint\u00e1zat val\u00f3sz\u00edn\u0171leg a p\u00e1rkeres\u00e9si viselked\u00e9s r\u00e9sze. A n\u00e9gy kopolty\u00fa-szer\u0171 el\u00fcls\u0151 ny\u00edl\u00e1s\u00e1n \u00e1t ritk\u00e1s sz\u0171r\u0151ivel alg\u00e1kat \u00e9s m\u00e1s n\u00f6v\u00e9nyi darabokat sz\u0171r ki.
+
+\u00c9rt\u00e9kel\u00e9s: Ehet\u0151, kiad\u00f3s",
+    "Ency_TigerPlant": "Tigris n\u00f6v\u00e9ny",
+    "EncyDesc_TigerPlant": "Ez a n\u00f6v\u00e9ny adapt\u00e1l\u00f3dott a v\u00edzbeli hull\u00e1mz\u00e1sok megv\u00e1ltoz\u00e1s\u00e1nak \u00e9rz\u00e9kel\u00e9s\u00e9hez ak\u00e1r 15 m\u00e9terr\u0151l, r\u00e1ad\u00e1sul k\u00e9pes kapaszkod\u00f3 mozg\u00e1sra a cs\u00f6veivel \u00e9s t\u00fcsk\u00e9k kil\u00f6v\u00e9s\u00e9re ak\u00e1r 10 m\/s-os sebess\u00e9ggel.
+
+Hab\u00e1r k\u00e9pes kisebb n\u00f6v\u00e9nyev\u0151k megb\u00e9n\u00edt\u00e1s\u00e1ra, ez a n\u00f6v\u00e9ny nem rendelkezik em\u00e9szt\u0151 szervekkel. Az \u00e1ltal elfogott ragadoz\u00f3-jel\u00f6ltek v\u00e9delmi c\u00e9lt szolg\u00e1lnak, figyelmeztetve a t\u00f6bbi n\u00f6v\u00e9nyev\u0151t, hogy ne k\u00f6zel\u00edts\u00e9k meg; valamint a leboml\u00f3 l\u00e9ny komposztul szolg\u00e1l a Tigris n\u00f6v\u00e9nynek.
+
+\u00c9rt\u00e9kel\u00e9s: Ker\u00fclend\u0151 vagy megb\u00e9n\u00edt ",
+    "Ency_BloodGrass": "V\u00e9rf\u0171",
+    "EncyDesc_BloodGrass": "Gyakori tengeri f\u0171, amely alkalmazkodott a sek\u00e9ly, homokos k\u00f6rnyezethez.
+
+- Val\u00f3sz\u00edn\u0171leg mindenhol n\u0151, ahol a talaj t\u00fal laza vagy a felsz\u00edn t\u00fal t\u00e1vol van ahhoz, hogy a K\u00fasz\u00f3sz\u0151l\u0151 megjelenjen
+- Gyakran n\u0151nek d\u0171n\u00e9k tetej\u00e9n \u00e9s felf\u00f6ldeken a t\u00f6bb napf\u00e9ny el\u00e9r\u00e9s\u00e9\u00e9rt
+- Megk\u00fcl\u00f6nb\u00f6ztet\u0151 v\u00f6r\u00f6s sz\u00ednezete tal\u00e1n alkalmazkod\u00e1s az alacsony hull\u00e1mhossz\u00fa tengerfen\u00e9ki f\u00e9nyhez, a n\u00f6v\u00e9nyev\u0151k elrettent\u00e9sek\u00e9nt vagy mindk\u00e9t okb\u00f3l
+- Emberi fogyaszt\u00e1shoz el\u00e9gtelen kal\u00f3ri\u00e1t tartalmaz
+
+Fogyasztj\u00e1k: Fellengz\u0151shal, Lap\u00e1thal, Bumer\u00e1nghal
+
+\u00c9rt\u00e9kel\u00e9s: Jelenl\u00e9te el\u0151seg\u00edti az eg\u00e9szs\u00e9ges biodiverzit\u00e1st",
+    "Ency_TreeLeech": "Fany\u0171v\u0151",
+    "EncyDesc_TreeLeech": "Parazita, gomba-szer\u0171 kin\u00f6v\u00e9s, amely m\u00e1s n\u00f6v\u00e9nyekre tapadva l\u00e1that\u00f3. Ez az organizmus egy enzimet enged ki mag\u00e1b\u00f3l, amely lyukat \u00e9get a gazdatest burk\u00e1n, ahonnan a pi\u00f3c\u00e1k a t\u00e1panyagokat k\u00f6zvetlen\u00fcl sz\u00edvhatj\u00e1k ki.
+
+A k\u00fcls\u0151, fog-szer\u0171 \u00e1llkapocsnak nincs beazonos\u00edthat\u00f3 szerepe. Tal\u00e1n az organizmus egy m\u00e1sik \u00e9letciklus\u00e1n\u00e1l van haszna?
+
+\u00c9rt\u00e9kel\u00e9s: Kiakn\u00e1zhat\u00f3 gomba-enzimek",
+    "Ency_TreeMushroom": "Gombaf\u00e1k",
+    "EncyDesc_TreeMushroom": "Ezeknek a nagym\u00e9ret\u0171 organikus szerkezeteknek az anal\u00edzise kimutatta, hogy ez egy\u00fcttm\u0171k\u00f6d\u0151, egy\u00fctt \u00e9l\u0151, egym\u00e1st kieg\u00e9sz\u00edt\u0151 \u00e9l\u0151l\u00e9nyek mikrokozmosza.
+
+A f\u0151 t\u00f6nk egy korallfaj, amelynek egyes kol\u00f3ni\u00e1i az 50000 \u00e9ves kort is el\u00e9rik. A t\u00f6rzsre mer\u0151leges kalapok t\u00f6bb tekintetben a f\u00f6ldi gomb\u00e1kra hasonl\u00edtanak. M\u00e1s organizmusok a t\u00f6rzs\u00f6n n\u0151nek, ahol van hely \u00e9s f\u00e9ny.
+
+A k\u00f6rnyez\u0151 vizek s\u0171r\u0171ek az 1-10 mm-es tartom\u00e1nyban mozg\u00f3 n\u00f6v\u00e9nyev\u0151kt\u0151l, ami arra utal, hogy a nagyobb n\u00f6v\u00e9nyev\u0151k nagyr\u00e9szt elhagyt\u00e1k a ter\u00fcletet.
+
+\u00c9rt\u00e9kel\u00e9s: Kitermelhet\u0151",
+    "Ency_Jellyray": "Zsel\u00e9r\u00e1ja",
+    "EncyDesc_Jellyray": "A Ny\u00fal R\u00e1j\u00e1val azonos evol\u00faci\u00f3s jellemz\u0151kkel rendelkezik, bele\u00e9rtve az er\u0151sen m\u00e9rgez\u0151 h\u00fast. Ez a faj alkalmazkodott a rossz f\u00e9nyviszony\u00fa k\u00f6rnyezethez egy \u00e1ttetsz\u0151, dereng\u0151 testtel. Ez seg\u00edti:
+
+- Megvil\u00e1g\u00edtani a k\u00f6rnyez\u0151 vizeket azok kifoszt\u00e1s\u00e1hoz
+- A ragadoz\u00f3k elriaszt\u00e1s\u00e1ban
+- Beazonos\u00edtani a faj m\u00e1s egyedeit
+
+A zsel\u00e9r\u00e1j\u00e1k nyom\u00e1ban kisebb l\u00e9nyek \u00fasznak, saj\u00e1t c\u00e9ljaikra haszn\u00e1lva annak f\u00e9nyforr\u00e1s\u00e1t.
+
+\u00c9rt\u00e9kel\u00e9s: Ehetetlen ",
+    "Ency_Mesmer": "Babon\u00e1z\u00f3",
+    "EncyDesc_Mesmer": "Kism\u00e9ret\u0171, h\u00fasev\u0151 \u00e9letforma egyedi vad\u00e1sz\u00f3 mechanizmussal, amely lehet\u0151v\u00e9 teszi a n\u00e1l\u00e1n\u00e1l k\u00e9tszer nagyobb pr\u00e9d\u00e1k elkap\u00e1s\u00e1t is.
+
+A Banon\u00e1z\u00f3 megv\u00e1rja, am\u00edg egy nagyobb ragadoz\u00f3 felbukkan, miel\u0151tt kinyitn\u00e1 a sz\u00e1rnyait. A ragadoz\u00f3kat ekkor csill\u00e1ml\u00f3 mint\u00e1zat\u00e1val elk\u00e1b\u00edtja, mivel a v\u00e9d\u0151 h\u00e9j ekkor egy \u00fagy n\u00e9z ki, mint egy hatalmas kit\u00e1tott sz\u00e1j, lehet\u0151v\u00e9 t\u00e9ve az \u00e1llat \u00e9lve felfal\u00e1s\u00e1t vagy elegend\u0151 id\u0151re elk\u00e1pr\u00e1ztat\u00e1s\u00e1t ahhoz, hogy a Babon\u00e1z\u00f3 elmenek\u00fclj\u00f6n.
+
+\u00c9rt\u00e9kel\u00e9s: Ker\u00fclend\u0151",
+    "Ency_Reefback": "Z\u00e1tonyh\u00e1t",
+    "EncyDesc_Reefback": "Ennek a hatalmas \u00e9letform\u00e1nak a p\u00e1nc\u00e9lzata el\u00e9g vastag ahhoz, hogy interferenci\u00e1t okozzon a spektroszk\u00f3pos szkennel\u00e9sben. Limit\u00e1lt mennyis\u00e9g\u0171 adat \u00e9rhet\u0151 el.
+
+Az \u00e1llat m\u00e9rete a 20 m\u00e9tert is el\u00e9rheti. A cs\u00e1pok lass\u00fa l\u00f6khajt\u00e1st biztos\u00edtanak. Szoci\u00e1lis, kis csapatban mozog. A profilja egybev\u00e1g egy, a t\u00e1pl\u00e1l\u00e9kl\u00e1nc tetej\u00e9n elhelyezked\u0151 n\u00f6v\u00e9nyev\u0151\u00e9vel.
+
+Fogyasztj\u00e1k: ragadoz\u00f3ja nem ismert
+
+\u00c9rt\u00e9kel\u00e9s: Jelenleg egy sincs",
+    "Ency_ModificationStation": "M\u00f3dos\u00edt\u00f3 \u00e1llom\u00e1s",
+    "EncyDesc_ModificationStation": "Am\u00edg a szabv\u00e1nyos Fabrik\u00e1tor atomi szinten alak\u00edtja a nyersanyagot egy komplex eszk\u00f6zz\u00e9, a M\u00f3dos\u00edt\u00f3 \u00e1llom\u00e1s k\u00e9pes kombin\u00e1lni ezeket az eszk\u00f6z\u00f6ket, b\u0151v\u00edtve a funkci\u00f3ikat.
+
+A legt\u00f6bb ipari \u0171rhaj\u00f3t felszerelik kieg\u00e9sz\u00edt\u0151 M\u00f3dos\u00edt\u00f3 \u00e1llom\u00e1sokkal, ami lehet\u0151v\u00e9 teszi a m\u00e9rn\u00f6k\u00f6knek, hogy menet k\u00f6zben adapt\u00e1lj\u00e1k eszk\u00f6zeiket az adott szitu\u00e1ci\u00f3hoz. Sp\u00f3roland\u00f3 a t\u00e1rhellyel a m\u00f3dos\u00edt\u00f3 \u00e1llom\u00e1s a legt\u00f6bb szem\u00e9lyes v\u00e9szhelyzeti tervrajzhoz val\u00f3 hozz\u00e1f\u00e9r\u00e9st blokkolja; ugyanakkor az extr\u00e9m k\u00f6rnyezet (mint az \u00f3ce\u00e1n- vagy sivatag-t\u00edpus\u00fa bolyg\u00f3k) sz\u00fcks\u00e9gess\u00e9 tehetik az alapvet\u0151 t\u00fal\u00e9l\u0151 eszk\u00f6z\u00f6k adapt\u00e1l\u00e1s\u00e1t (pl.: a k\u00e9s\u00e9t \u00e9s az oxig\u00e9n-tart\u00e1ly\u00e9t) v\u00e1ratlan felhaszn\u00e1l\u00e1sra. Ezen okb\u00f3l a M\u00f3dos\u00edt\u00f3 \u00e1llom\u00e1s beszerz\u00e9se mindig javasolt.",
+    "Ency_StasisRifle": "Szt\u00e1zis-puska",
+    "EncyDesc_StasisRifle": "A Szt\u00e1zis-puska szabadalmaztatott technol\u00f3gi\u00e1t haszn\u00e1l egy ter\u00fcleten olyan m\u00e9rt\u00e9k\u0171, amennyire azt a fizika szab\u00e1lyai lehet\u0151v\u00e9 teszik. Ez egy fejlett, k\u00e9zi eszk\u00f6z, amelyet a tudom\u00e1ny el\u0151remozd\u00edt\u00e1s\u00e1ra \u00e9s m\u00e9rn\u00f6ki m\u0171veletekhez haszn\u00e1lnak, hogy n\u00f6velje az id\u0151\u00e9rz\u00e9keny feladatok lehet\u0151s\u00e9geit.
+
+Gyakori alkalmaz\u00e1sok k\u00f6re:
+
+- Gyorsan mozg\u00f3 mechanizmusok, pl.: ventil\u00e1torok lelass\u00edt\u00e1s\u00e1ra, megk\u00f6nny\u00edtend\u0151 a karbantart\u00e1si m\u0171veleteket
+- Meg\u00e1ll\u00edtani az organizmusok biol\u00f3giai folyamatait azok k\u00f6zelebbi tanulm\u00e1nyoz\u00e1sa c\u00e9lj\u00e1b\u00f3l
+- Lass\u00edtani t\u00fczek \u00e9s \u00e1rvizek terjed\u00e9s\u00e9t
+- Vesz\u00e9lyes helyeken mozogva n\u00f6velve a biztons\u00e1got a potenci\u00e1lis vesz\u00e9lyforr\u00e1sok megfagyaszt\u00e1s\u00e1val
+
+A Szt\u00e1zis-puska tartalmaz egy f\u00fcggetlen, cser\u00e9lhet\u0151 energiacell\u00e1t - az els\u00fct\u0151billenty\u0171 nyomva tart\u00e1s\u00e1val n\u00f6velhet\u0151 a hat\u00e1s ereje \u00e9s ideje.
+
+Jelent\u0151s energia-felhaszn\u00e1l\u00e1sa \u00e9s nem-hal\u00e1los kialak\u00edt\u00e1sa miatt szem\u00e9lyv\u00e9delemre konvencion\u00e1lis fegyverek haszn\u00e1lata aj\u00e1nlott.",
+    "Ency_PropulsionCannon": "Vonz\u00f3-\u00e1gy\u00fa",
+    "EncyDesc_PropulsionCannon": "A Vonz\u00f3-\u00e1gy\u00fa lehet\u0151v\u00e9 teszi a technikai szem\u00e9lyzetnek, hogy manipul\u00e1lja a gravit\u00e1ci\u00f3s er\u0151ket, ak\u00e1r 20 m\u00e9teres t\u00e1vols\u00e1gb\u00f3l. Gyakran haszn\u00e1lj\u00e1k \u00e9p\u00edtkez\u00e9seken \u00e9s a b\u00e1ny\u00e1szatban anyagmozgat\u00e1sra.
+
+Haszn\u00e1lati utas\u00edt\u00e1s:
+
+- H\u00fazza meg a c\u00e9lra ir\u00e1ny\u00edtott eszk\u00f6z ravasz\u00e1t egyszer egyetlen c\u00e9lpont eset\u00e9n, amelynek t\u00f6mege nem \u00e9ri el a 25 kg-ot.
+- Az objektum most biztons\u00e1gosan elt\u00e1vol\u00edthat\u00f3 a gravit\u00e1ci\u00f3s sug\u00e1rb\u00f3l
+- Alternat\u00edvak\u00e9nt h\u00fazza meg a ravaszt m\u00e1sodszor, hogy nagy sebess\u00e9ggel ell\u00f6kje a c\u00e9lpontot az eszk\u00f6zt\u0151l
+- Organikus c\u00e9lponton nem aj\u00e1nlott haszn\u00e1lni",
+    "Ency_Seamoth": "Csik\u00f3hal",
+    "EncyDesc_Seamoth": "A Csik\u00f3hal egy egyszem\u00e9lyes tengeralattj\u00e1r\u00f3 f\u00fcggetlen, cser\u00e9lhet\u0151 energiaforr\u00e1ssal \u00e9s teljesen szem\u00e9lyre szabhat\u00f3 kialak\u00edt\u00e1ssal. A legt\u00f6bb hossz\u00fa t\u00e1v\u00fa b\u00e1ny\u00e1sz-\u0171rhaj\u00f3 legal\u00e1bb k\u00e9t ilyen tengeralattj\u00e1r\u00f3t sz\u00e1ll\u00edt, hogy megk\u00f6nny\u00edtse a vizes bolyg\u00f3k felt\u00e1r\u00e1s\u00e1t \u00e9s kiakn\u00e1z\u00e1sukat.
+
+M\u0171szaki adatok:
+- Maxim\u00e1lis sebess\u00e9g: 13 m\/s - Gyorsul\u00e1s: 5 m\/s\u00b2
+- Hat\u00f3t\u00e1vols\u00e1g\/energiacella: 10 km
+- Maxim\u00e1lis mer\u00fcl\u00e9si m\u00e9lys\u00e9g: -225 m
+- Be\u00e9p\u00edthet\u0151 modulok sz\u00e1ma: 4
+- M\u00e9retek: 3 m x 1,5 m x 1 m
+- F\u00e9r\u0151hely: 1 f\u0151
+
+A Csik\u00f3halak m\u00f3dos\u00edthat\u00f3k kieg\u00e9sz\u00edt\u0151 modulok be\u00e9p\u00edt\u00e9s\u00e9vel - alap\u00e9rtelmezett hozz\u00e1f\u00e9r\u00e9s a bal sz\u00e1rny fels\u0151 r\u00e9sz\u00e9n. A kieg\u00e9sz\u00edt\u0151 modulok a k\u00f6vetkez\u0151k lehetnek:
+
+- Megn\u00f6velt m\u00e9ret\u0171 rakt\u00e9r
+- Nagyobb kapacit\u00e1s\u00fa energiacella
+- Nyom\u00e1s \u00e9s \u00fctk\u00f6z\u00e9s-kompenz\u00e1tor
+- Fejlesztett szon\u00e1r
+- Kis t\u00e1vols\u00e1g\u00fa v\u00e9delem
+
+FONTOS: ezen modulok egy r\u00e9sze csak egy megfelel\u0151en felszerelt Sz\u00e1razdokkban vagy Hordozhat\u00f3 j\u00e1rm\u0171k\u00e9sz\u00edt\u0151vel k\u00e9sz\u00edthet\u0151 el.",
+    "Ency_SeamothConfigs": "Csik\u00f3hal konfigur\u00e1ci\u00f3s katal\u00f3gus",
+    "EncyDesc_SeamothConfigs": "Tehersz\u00e1ll\u00edt\u00f3: 3x rakt\u00e9r; 1x napkollektor
+Felder\u00edt\u0151: 1x nyom\u00e1skiegyenl\u00edt\u0151; 1x energiahat\u00e9konys\u00e1g-n\u00f6vel\u0151; 1x kis t\u00e1vols\u00e1g\u00fa v\u00e9delem; 1x szon\u00e1r;
+P\u00e1nc\u00e9los: 1x kis t\u00e1vols\u00e1g\u00fa v\u00e9delem; 1x torped\u00f3-rendszer; 2x meger\u0151s\u00edtett burkolat ",
+    "Ency_Builder": "Minden terepen haszn\u00e1lhat\u00f3, gyors-\u00e9p\u00edt\u00e9s\u0171 \u00e9l\u0151helyek",
+    "EncyDesc_Builder": "Az Alterra k\u00e9zi \u00e9l\u0151hely-\u00e9p\u00edt\u0151 n\u00e9lk\u00fcl\u00f6zhetetlen eszk\u00f6ze az idegen l\u00e9nyek kutat\u00f3inak, telepeseknek \u00e9s ment\u0151egys\u00e9gek leg\u00e9nys\u00e9g\u00e9nek h\u00e9t k\u00fcl\u00f6nb\u00f6z\u0151 birodalomban, m\u00e1r t\u00f6bb mint 50 \u00e9ve. 
+
+Az \u00e9l\u0151hely-modulok hermetikusan z\u00e1rtak, \u00edgy \u00e9p\u00edthet\u0151ek sz\u00e1razf\u00f6ldre, v\u00edz al\u00e1 \u00e9s v\u00e1kuumban is. Az oxig\u00e9n- \u00e9s energia-rendszerek nem tartoznak az alapfelszerelts\u00e9ghez, k\u00fcl\u00f6n kell \u0151ket meg\u00e9p\u00edteni. A legt\u00f6bb vez\u00e9rhaj\u00f3 sz\u00e9les v\u00e1laszt\u00e9k\u00e1t sz\u00e1ll\u00edtja k\u00fcl\u00f6nb\u00f6z\u0151 fejlett moduloknak \u00e9s reaktoroknak a terepen t\u00f6rt\u00e9n\u0151 gyors telep\u00edt\u00e9s \u00e9rdek\u00e9ben. 
+
+A fejlesztett \u00e9l\u0151helyek hossz\u00fa t\u00e1v\u00fa otthonokk\u00e1, kutat\u00f3-\u00e1llom\u00e1sokk\u00e1, v\u00e9dhet\u0151 el\u0151\u0151rs\u00f6kk\u00e9 alak\u00edthat\u00f3k.",
+    "Ency_Moonpool": "Sz\u00e1razdokk",
+    "EncyDesc_Moonpool": "A Sz\u00e1razdokk egy elengedhetetlen modul az \u00f3ce\u00e1ni k\u00f6rnyezet hossz\u00fa t\u00e1v\u00fa kutat\u00e1s\u00e1hoz. Els\u0151dleges funkci\u00f3ja a (Csik\u00f3hal) tengeralattj\u00e1r\u00f3 t\u00e1rol\u00e1sa (a modul tengeralattj\u00e1r\u00f3t nem tartalmaz).
+
+A nagym\u00e9ret\u0171 k\u00f6z\u00e9ps\u0151 terem tartalmaz egy nyom\u00e1s alatt \u00e1ll\u00f3 medenc\u00e9t, amely lehet\u0151v\u00e9 teszi a k\u00f6rnyez\u0151 vizek el\u00e9r\u00e9s\u00e9t, valamint tartalmaz szabv\u00e1nyos felszerel\u00e9st a Csik\u00f3hal kiemel\u00e9s\u00e9hez \u00e9s \u00fajrat\u00f6lt\u00e9s\u00e9hez.
+
+Amint lehet aj\u00e1nlott az \u00c9l\u0151hely-\u00e9p\u00edt\u0151vel egy, a Csik\u00f3lhalhoz kifejlesztett M\u00f3dos\u00edt\u00f3 \u00e1llom\u00e1st l\u00e9trehozni a Sz\u00e1razdokkban. Ez t\u00f6bbek k\u00f6z\u00f6tt lehet\u0151v\u00e9 teszi a Csik\u00f3hal moduljainak fejleszt\u00e9s\u00e9t.
+
+M\u0171szaki adatok:
+- M\u00e9retek: 16 m x 10 m x 5 m
+- Csatlakoz\u00e1si pontok sz\u00e1ma: 6
+- Lak\u00f3hely burkolati terhel\u00e9s-v\u00e1ltoz\u00e1sa tengerszinten: -5 (egyenl\u0151 4 szob\u00e1val)
+- Kapacit\u00e1s: 1 db Csik\u00f3hal
+- Jelent\u0151s energia-fogyaszt\u00e1s",
+    "NoKeyExchangeBattery": "Elem cser\u00e9je",
+    "NoKeyExchangePowerCell": "Energiacella cser\u00e9je",
+    "CyclopsWelcomeAboard": "K\u00fcklopsz: \u00dcdv\u00f6zl\u00f6m a fed\u00e9lzeten, kapit\u00e1ny.",
+    "CyclopsHullBreach": "K\u00fcklopsz: Burkolati reped\u00e9s \u00e9szlelve.",
+    "CyclopsHullRestored": "K\u00fcklopsz: Burkolati integrit\u00e1s helyre\u00e1ll\u00edtva. Elsz\u00edv\u00f3 rendszerek beind\u00edtva",
+    "SeamothWelcomeAboard": "Csik\u00f3hal: \u00dcdv\u00f6zl\u00f6m a fed\u00e9lzeten, kapit\u00e1ny.",
+    "BaseWelcomeAboard": "B\u00e1zis: \u00dcdv\u00f6zl\u00f6m a fed\u00e9lzeten, kapit\u00e1ny.",
+    "BasePowerUp": "B\u00e1zis: Energia vissza\u00e1ll\u00edtva. Minden els\u0151dleges rendszer m\u0171k\u00f6dik.",
+    "BasePowerDown": "B\u00e1zis: Figyelmeztet\u00e9s: csak a v\u00e9szhelyzeti energia m\u0171k\u00f6dik.",
+    "BaseHullBreach": "B\u00e1zis: Burkolati reped\u00e9s \u00e9szlelve.",
+    "BaseHullRestored": "B\u00e1zis: Burkolati integrit\u00e1s helyre\u00e1ll\u00edtva. Elsz\u00edv\u00f3 rendszerek beind\u00edtva.",
+    "AcidMushroomSpore": "Savgomba sp\u00f3ra",
+    "BulboTree": "Gum\u00f3fa",
+    "BulboTreePiece": "Gum\u00f3fa minta",
+    "HangingFruitTree": "F\u00fcgg\u0151gy\u00fcm\u00f6lcs-fa",
+    "HangingFruit": "F\u00fcgg\u0151gy\u00fcm\u00f6lcs",
+    "OrangeMushroom": "Narancssz\u00edn gomba",
+    "OrangeMushroomSpore": "Narancssz\u00edn gomba-sp\u00f3ra",
+    "PinkMushroom": "R\u00f3zsasz\u00edn gomba",
+    "PinkMushroomSpore": "R\u00f3zsasz\u00edngomba-sp\u00f3ra",
+    "PurpleRattle": "Lila cs\u00f6rg\u0151",
+    "PurpleRattleSpore": "Lila cs\u00f6rg\u0151 sp\u00f3ra",
+    "PurpleVasePlant": "Lila v\u00e1zan\u00f6v\u00e9ny",
+    "PurpleVasePlantSeed": "Lila v\u00e1zan\u00f6v\u00e9ny-sp\u00f3ra",
+    "WhiteMushroomSpore": "M\u00e9lytengeri gomba sp\u00f3ra",
+    "Tooltip_AcidMushroomSpore": "",
+    "Tooltip_BulboTreePiece": "",
+    "Tooltip_HangingFruit": "",
+    "Tooltip_KooshChunk": "",
+    "Tooltip_OrangeMushroomSpore": "",
+    "Tooltip_PinkMushroom": "",
+    "Tooltip_PinkMushroomSpore": "",
+    "Tooltip_PurpleRattle": "",
+    "Tooltip_PurpleRattleSpore": "",
+    "Tooltip_PurpleVasePlantSeed": "",
+    "Tooltip_WhiteMushroomSpore": "",
+    "LEDLight": "F\u00e9nyr\u00fad",
+    "LEDLightBlueprint": "F\u00e9nyr\u00fad tervrajz",
+    "Tooltip_LEDLightBlueprint": "Tervek f\u00e9nyr\u00fad \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_LEDLight": " Lehelyezhet\u0151, elemes f\u00e9nyforr\u00e1s",
+    "Ency_LEDLight": "F\u00e9nyr\u00fad",
+    "EncyDesc_LEDLight": "Hordozhat\u00f3, elemes LED vil\u00e1g\u00edt\u00e1s, amely alacsony-f\u00e9nyerej\u0171, 360 fokos megvil\u00e1g\u00edt\u00e1st biztos\u00edt \u00e9s a legt\u00f6bb felsz\u00ednre lehelyezhet\u0151.",
+    "LoadingMessage": "Loading...
+
+NOTE: This screen may take some minutes to load and may look as if it has crashed during that time. Please be patient.",
+    "Dead": "Halott",
+    "CyclopsHullFragment": "K\u00fcklopsz burkolat-t\u00f6red\u00e9k",
+    "CyclopsBridgeFragment": "K\u00fcklopsz parancsnoki h\u00edd-t\u00f6red\u00e9k",
+    "CyclopsEngineFragment": "K\u00fcklopsz hajt\u00f3m\u0171-t\u00f6red\u00e9k",
+    "CyclopsDockingBayFragment": "K\u00fcklopsz dokkol\u00f3 egys\u00e9g-t\u00f6red\u00e9k",
+    "CyclopsHullBlueprint": "K\u00fcklopsz burkolat-tervrajz",
+    "CyclopsBridgeBlueprint": "K\u00fcklopsz parancsnoki h\u00edd-tervrajz",
+    "CyclopsEngineBlueprint": "K\u00fcklopsz hajt\u00f3m\u0171-tervrajz",
+    "CyclopsDockingBayBlueprint": "K\u00fcklopsz dokkol\u00f3 egys\u00e9g-tervrajz",
+    "Tooltip_CyclopsHullBlueprint": "Tervek K\u00fcklopsz \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_CyclopsBridgeBlueprint": "Tervek K\u00fcklopsz \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_CyclopsEngineBlueprint": " Tervek K\u00fcklopsz \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_CyclopsDockingBayBlueprint": " Tervek K\u00fcklopsz \u00e9p\u00edt\u00e9s\u00e9hez",
+    "FiberMesh": "Rosth\u00e1l\u00f3",
+    "Tooltip_FiberMesh": "Er\u0151s term\u00e9szetes rost. K\u00e9nyelmes.",
+    "PlanterPot2": "2-es t\u00edpus\u00fa vir\u00e1gcser\u00e9p",
+    "PlanterPot3": "3-as t\u00edpus\u00fa vir\u00e1gcser\u00e9p",
+    "Tooltip_PlanterPot2": "Szintetikus talajt tartalmaz\u00f3 tit\u00e1n cser\u00e9p.",
+    "Tooltip_PlanterPot3": "Szintetikus talajt tartalmaz\u00f3 tit\u00e1n cser\u00e9p.",
+    "Tooltip_Radio": "Kis hat\u00f3t\u00e1vols\u00e1g\u00fa k\u00fclvil\u00e1gi kommunik\u00e1ci\u00f3 fogad\u00e1sa.",
+    "Radio": "Kommunik\u00e1ci\u00f3s rel\u00e9",
+    "Radio_Play": "\u00dczenet lej\u00e1tsz\u00e1sa",
+    "EncyPath_DownloadedData": "Adat let\u00f6lt\u00e9sek",
+    "Ency_BasePlanter": "Vetem\u00e9nyesek \u00e9s kasp\u00f3k",
+    "EncyDesc_BasePlanter": "A belt\u00e9ri vetem\u00e9nyesek k\u00fcl\u00f6nf\u00e9le konfigur\u00e1ci\u00f3kban \u00e9rhet\u0151ek el \u00e9s alkalmasak a legt\u00f6bb n\u00f6v\u00e9nyfaj kis egyedsz\u00e1m\u00fa termeszt\u00e9s\u00e9re. Dekorat\u00edv \u00e9s botanikai c\u00e9lokra. ",
+    "Ency_FarmingTray": "K\u00fclt\u00e9ri vetem\u00e9nyes",
+    "EncyDesc_FarmingTray": "A tov\u00e1bbfejlesztett term\u0151f\u00f6ld idegen n\u00f6v\u00e9nyfajok hatalmas v\u00e1laszt\u00e9k\u00e1hoz alkalmas \u00e9s b\u00e1rhov\u00e1 lehelyezhet\u0151ek, ahol van el\u00e9g hely, legyen sz\u00f3 sz\u00e1razf\u00f6ldr\u0151l vagy v\u00edzalatti \u00e9l\u0151helyr\u0151l.",
+    "Ency_PlanterBox": "Belt\u00e9ri vetem\u00e9nyes",
+    "EncyDesc_PlanterBox": " Kiz\u00e1r\u00f3lag szab\u00e1lyozott belt\u00e9ri \u00e9l\u0151hely-modulba tervezett vetem\u00e9nyes, ez a v\u00e1ltozat kompaktabb, mint k\u00fclt\u00e9ri t\u00e1rsa.",
+    "Ency_WaterFilter": "V\u00edzsz\u0171r\u0151 berendez\u00e9s",
+    "EncyDesc_WaterFilter": "A sz\u0171r\u0151rendszer k\u00fcls\u0151 forr\u00e1sb\u00f3l emberi fogyaszt\u00e1sra alkalmatlan vizet sz\u00edv be, atomi szinten alkot\u00f3r\u00e9szeire bontja, majd sz\u00e9tv\u00e1lasztja ihat\u00f3 v\u00edzre \u00e9s s\u00f3ra, mik\u00f6zben kisz\u0171r minden k\u00e1ros mell\u00e9kterm\u00e9ket. B\u00e1rmelyik \u00e9l\u0151hely-modulban meg\u00e9p\u00edthet\u0151, de energia-ig\u00e9nye jelent\u0151s.",
+    "BluePalm": "K\u00e9k p\u00e1lma",
+    "BluePalmSeed": "K\u00e9kp\u00e1lma-mag",
+    "EyesPlant": "Szemes n\u00f6v\u00e9ny",
+    "EyesPlantSeed": "Szemesn\u00f6v\u00e9ny-mag",
+    "FernPalm": "P\u00e1fr\u00e1ny p\u00e1lma",
+    "FernPalmSeed": "P\u00e1fr\u00e1ny p\u00e1lma mag",
+    "GabeSFeather": "Gabi tolla",
+    "GabeSFeatherSeed": "Gabi tolla mag",
+    "JellyPlantSeed": "Zsel\u00e9n\u00f6v\u00e9ny-mag",
+    "MelonPlant": "M\u00e1rv\u00e1nydinnye n\u00f6v\u00e9ny",
+    "Melon": "M\u00e1rv\u00e1nydinnye",
+    "MembrainTreeSeed": "Membr\u00e1nfa mag",
+    "SeaCrown": "Tengeri korona",
+    "SeaCrownSeed": "Tengeri korona mag",
+    "SmallMelon": "Kicsi m\u00e1rv\u00e1nydinnye",
+    "OrangePetalsPlant": "Narancs-szirm\u00fa n\u00f6v\u00e9ny",
+    "OrangePetalsPlantSeed": "Narancs-szirm\u00fa n\u00f6v\u00e9ny mag",
+    "PinkFlower": "R\u00f3zsasz\u00edn vir\u00e1g",
+    "PinkFlowerSeed": "R\u00f3zsasz\u00edn vir\u00e1g mag",
+    "PurpleBrainCoral": "Lila agykorall",
+    "PurpleBrainCoralPiece": "Lila agykorall minta",
+    "PurpleBranches": "Lila \u00e1gak",
+    "PurpleBranchesSeed": "Lila \u00e1gak mag",
+    "PurpleFanSeed": "Lila legyez\u0151 mag",
+    "PurpleStalk": "Lila Inda",
+    "PurpleStalkSeed": "Lilainda-mag",
+    "PurpleTentacleSeed": "Vonagl\u00f3 Gyom mag",
+    "PurpleVegetable": "Lila z\u00f6lds\u00e9g",
+    "PurpleVegetablePlant": "Z\u00f6lds\u00e9g n\u00f6v\u00e9ny",
+    "RedBasketPlant": "V\u00f6r\u00f6s puttonyn\u00f6v\u00e9ny",
+    "RedBasketPlantSeed": "V\u00f6r\u00f6s puttonyn\u00f6v\u00e9ny-mag",
+    "RedBush": "V\u00f6r\u00f6s bokor",
+    "RedBushSeed": "V\u00f6r\u00f6s cserje mag",
+    "RedConePlant": "V\u00f6r\u00f6s k\u00fapn\u00f6v\u00e9ny",
+    "RedConePlantSeed": "V\u00f6r\u00f6s k\u00fapn\u00f6v\u00e9ny mag",
+    "RedGreenTentacle": "V\u00f6r\u00f6s z\u00f6ldcs\u00e1p",
+    "RedGreenTentacleSeed": "V\u00f6r\u00f6s z\u00f6ldcs\u00e1p mag",
+    "RedRollPlant": "V\u00f6r\u00f6s hengern\u00f6v\u00e9ny",
+    "RedRollPlantSeed": "V\u00f6r\u00f6s hengern\u00f6v\u00e9ny mag",
+    "ShellGrass": "Kagyl\u00f3f\u0171",
+    "ShellGrassSeed": "Kagyl\u00f3f\u0171-mag",
+    "SpikePlantSeed": "Tigrisn\u00f6v\u00e9ny mag",
+    "SmallFanSeed": "T\u00f6rpe Legyez\u0151 mag",
+    "SnakeMushroom": "K\u00edgy\u00f3 gomba",
+    "SnakeMushroomSpore": "K\u00edgy\u00f3gomba sp\u00f3ra",
+    "SpottedLeavesPlant": "Pettyes n\u00e1dak",
+    "SpottedLeavesPlantSeed": "Pettyes n\u00e1dak mag",
+    "Tooltip_BluePalmSeed": "K\u00e9k p\u00e1lma mag",
+    "Tooltip_EyesPlantSeed": "Szemesn\u00f6v\u00e9ny-mag",
+    "Tooltip_FernPalmSeed": "P\u00e1fr\u00e1nyp\u00e1lma-mag ",
+    "Tooltip_GabeSFeatherSeed": "Gabi tolla mag",
+    "Tooltip_JellyPlant": "Zsel\u00e9 n\u00f6v\u00e9ny",
+    "Tooltip_JellyPlantSeed": "Zsel\u00e9n\u00f6v\u00e9ny-mag",
+    "Tooltip_Melon": "",
+    "Tooltip_MembrainTreeSeed": "Membr\u00e1nfa mag",
+    "Tooltip_SmallMelon": "",
+    "Tooltip_OrangePetalsPlantSeed": "Narancs-szirm\u00fa n\u00f6v\u00e9ny mag",
+    "Tooltip_PinkFlowerSeed": "R\u00f3zsasz\u00edn vir\u00e1g-mag",
+    "Tooltip_PurpleBrainCoralPiece": "Lila agykorall minta",
+    "Tooltip_PurpleBranchesSeed": "Lila \u00e1gak mag",
+    "Tooltip_PurpleFanSeed": "Lila legyez\u0151 mag",
+    "Tooltip_PurpleStalkSeed": "Lilainda-mag",
+    "Tooltip_PurpleTentacleSeed": "Vonagl\u00f3gyom-mag",
+    "Tooltip_PurpleVegetable": "",
+    "Tooltip_RedBasketPlantSeed": "V\u00f6r\u00f6s Puttonyn\u00f6v\u00e9ny mag",
+    "Tooltip_RedBushSeed": "V\u00f6r\u00f6s bokor-mag",
+    "Tooltip_RedConePlantSeed": "V\u00f6r\u00f6s k\u00fapn\u00f6v\u00e9ny mag",
+    "Tooltip_RedGreenTentacleSeed": "V\u00f6r\u00f6s z\u00f6ldcs\u00e1p mag",
+    "Tooltip_RedRollPlantSeed": "V\u00f6r\u00f6s hengern\u00f6v\u00e9ny mag",
+    "Tooltip_SeaCrownSeed": "Tengeri korona mag",
+    "Tooltip_ShellGrassSeed": "Kagyl\u00f3f\u0171-mag",
+    "Tooltip_SnakeMushroomSpore": "K\u00edgy\u00f3gomba sp\u00f3ra",
+    "Tooltip_SpikePlantSeed": "",
+    "Tooltip_SpottedLeavesPlantSeed": "Pettyes N\u00e1dak mag",
+    "Tooltip_SmallFan": "T\u00f6rpe Legyez\u0151",
+    "Tooltip_SmallFanSeed": "T\u00f6rpe Legyez\u0151 mag",
+    "Ency_HangingFruitTree": "F\u00fcgg\u0151gy\u00fcm\u00f6lcs-fa",
+    "EncyDesc_HangingFruitTree": "Egy fa, nagy narancssz\u00edn gy\u00fcm\u00f6lcs\u00f6kkel",
+    "Ency_BulboTree": "Gum\u00f3fa",
+    "EncyDesc_BulboTree": "\u00dagy n\u00e9z ki, mint egy fa",
+    "Ency_WhiteMushroom": "M\u00e9lytengeri gomba",
+    "EncyDesc_WhiteMushroom": "",
+    "Ency_PinkMushroom": "R\u00f3zsasz\u00edn gomba",
+    "EncyDesc_PinkMushroom": "Ez egy\u00e9rtelm\u0171en egy gomba",
+    "Ency_PurpleRattle": "Lila cs\u00f6rg\u0151",
+    "EncyDesc_PurpleRattle": "",
+    "Ency_PurpleVasePlant": "Lila v\u00e1zan\u00f6v\u00e9ny",
+    "EncyDesc_PurpleVasePlant": "",
+    "Ency_OrangeMushroom": "Narancssz\u00edn\u0171 gomba",
+    "EncyDesc_OrangeMushroom": "Nagy Narancssz\u00edn\u0171 gomba",
+    "Ency_VegetablePlant": "Z\u00f6lds\u00e9g n\u00f6v\u00e9ny",
+    "EncyDesc_VegetablePlant": "",
+    "Ency_MelonPlant": "M\u00e1rv\u00e1nydinnye-n\u00f6v\u00e9ny",
+    "EncyDesc_MelonPlant": "",
+    "Ency_KooshBush": "K\u00f3coska-bokor",
+    "EncyDesc_KooshBush": "",
+    "Ency_BluePalm": "K\u00e9k p\u00e1lma",
+    "EncyDesc_BluePalm": "",
+    "Ency_SmallFan": "T\u00f6rpe Legyez\u0151",
+    "EncyDesc_SmallFan": "",
+    "Ency_PurpleFan": "Lila Legyez\u0151",
+    "EncyDesc_PurpleFan": "",
+    "Ency_WrithingWeed": "Vonagl\u00f3 gyom",
+    "EncyDesc_WrithingWeed": "",
+    "Ency_GabeSFeather": "Gabi tolla",
+    "EncyDesc_GabeSFeather": "",
+    "Ency_SeaCrown": "Tengeri korona",
+    "EncyDesc_SeaCrown": "",
+    "Ency_MembrainTree": "Membr\u00e1nfa",
+    "EncyDesc_MembrainTree": "",
+    "Ency_PinkFlower": "R\u00f3zsasz\u00edn Vir\u00e1g",
+    "EncyDesc_PinkFlower": "",
+    "Ency_FernPalm": "P\u00e1fr\u00e1ny p\u00e1lma",
+    "EncyDesc_FernPalm": "",
+    "Ency_OrangePetalsPlant": "Narancsszirm\u00fa n\u00f6v\u00e9ny",
+    "EncyDesc_OrangePetalsPlant": "",
+    "Ency_EyesPlant": "Szemes n\u00f6v\u00e9ny",
+    "EncyDesc_EyesPlant": "",
+    "Ency_RedGreenTentacle": "V\u00f6r\u00f6s z\u00f6ldcs\u00e1p",
+    "EncyDesc_RedGreenTentacle": "",
+    "Ency_PurpleStalk": "Lila Inda",
+    "EncyDesc_PurpleStalk": "",
+    "Ency_RedBasketPlant": "V\u00f6r\u00f6s kos\u00e1rn\u00f6v\u00e9ny",
+    "EncyDesc_RedBasketPlant": "",
+    "Ency_RedBush": "V\u00f6r\u00f6s bokor",
+    "EncyDesc_RedBush": "",
+    "Ency_RedConePlant": "V\u00f6r\u00f6s K\u00fapn\u00f6v\u00e9ny",
+    "EncyDesc_RedConePlant": "",
+    "Ency_ShellGrass": "Kagyl\u00f3f\u0171",
+    "EncyDesc_ShellGrass": "",
+    "Ency_SpottedLeavesPlant": "Pettyes N\u00e1dak",
+    "EncyDesc_SpottedLeavesPlant": "",
+    "Ency_RedRollPlant": "V\u00f6r\u00f6s hengern\u00f6v\u00e9ny",
+    "EncyDesc_RedRollPlant": "",
+    "Ency_PurpleBranches": "Lila \u00c1gak",
+    "EncyDesc_PurpleBranches": "",
+    "Ency_SnakeMushroom": "K\u00edgy\u00f3 gomba",
+    "EncyDesc_SnakeMushroom": "",
+    "Ency_BloodVine": "V\u00e9r Inda",
+    "EncyDesc_BloodVine": "",
+    "FeedbackNewReply": "\u00daj fejleszt\u0151i v\u00e1laszt kapt\u00e1l.
+Nyomj F8-at az elolvas\u00e1s\u00e1hoz.",
+    "SurvivorPDA": "Elhagyott PDA",
+    "Tooltip_SurvivorPDA": "Adatok let\u00f6lt\u00e9se",
+    "StarshipCargoCrate": "Cargo crate",
+    "StarshipCircuitBox": "\u00c1ramk\u00f6ri doboz",
+    "StarshipDesk": "\u00cdr\u00f3asztal ",
+    "StarshipChair": "Sz\u00e9k",
+    "StarshipMonitor": "Monitor",
+    "Tooltip_StarshipCargoCrate": "De hol van a rakom\u00e1ny?!",
+    "Tooltip_StarshipCircuitBox": "N\u00e9zz\u00e9tek, bonyolult vezet\u00e9kek!",
+    "Tooltip_StarshipDesk": "Feh\u00e9rgall\u00e9ros munk\u00e1sok r\u00e9sz\u00e9re.",
+    "Tooltip_StarshipChair": "Meglep\u0151en k\u00e9nyelmes.",
+    "Tooltip_StarshipMonitor": "Nincs jel.",
+    "Techlight": "Reflektor",
+    "Seaglide": "Elemes sikl\u00f3",
+    "BaseBulkheadFragment": "V\u00e1laszfal t\u00f6red\u00e9k",
+    "BaseFiltrationMachineFragment": "B\u00e1zis-sz\u0171r\u0151 t\u00f6red\u00e9k",
+    "BaseObservatoryFragment": "Obszervat\u00f3rium t\u00f6red\u00e9k",
+    "BaseUpgradeConsoleFragment": "Csik\u00f3hal fejleszt\u0151konzol t\u00f6red\u00e9k",
+    "ConstructorFragment": "Hordozhat\u00f3 j\u00e1rm\u0171k\u00e9sz\u00edt\u0151 t\u00f6red\u00e9k",
+    "PowerTransmitterFragment": "Energia tov\u00e1bb\u00edt\u00f3 t\u00f6red\u00e9k",
+    "RadioFragment": "R\u00e1di\u00f3 t\u00f6red\u00e9k",
+    "ScannerRoomFragment": "Ir\u00e1ny\u00edt\u00f3 szoba t\u00f6red\u00e9k",
+    "SeaglideFragment": "Elemes Sikl\u00f3 t\u00f6red\u00e9k",
+    "SolarPanelFragment": "Napelem t\u00f6red\u00e9k",
+    "SpecimenAnalyzerFragment": "Fajanaliz\u00e1l\u00f3 t\u00f6red\u00e9k",
+    "TechlightBlueprint": "Reflektor tervrajz",
+    "Tooltip_Seaglide": "V\u00edz alatt forgat\u00f3nyomat\u00e9kot alak\u00edt tol\u00f3er\u0151v\u00e9 egy propellerrel.",
+    "Tooltip_TechlightBlueprint": "Tervek Reflektor \u00e9p\u00edt\u00e9s\u00e9hez",
+    "Tooltip_Techlight": "Minden k\u00f6rnyezetben haszn\u00e1lhat\u00f3 ipari, akkumul\u00e1toros vil\u00e1g\u00edt\u00e1s",
+    "Ency_Techlight": "Reflektor",
+    "EncyDesc_Techlight": "Szabv\u00e1nyos, elemmel m\u0171k\u00f6d\u0151 reflektor, amelyet arra terveztek, hogy egy er\u0151s f\u00e9nysugarat f\u00f3kusz\u00e1ljon egy adott ir\u00e1nyba - hasznos ipari \u00e9s v\u00e9szhelyzeti m\u0171veletekben. Minden ismert k\u00f6rnyezetben m\u0171k\u00f6dik. Az elem cser\u00e9lhet\u0151. ",
+    "Ency_Spotlight": "Reflektor",
+    "EncyDesc_Spotlight": "",
+    "OxygenWarning10": "V\u00e9szhelyzet: 10 m\u00e1sodpercre elegend\u0151 oxig\u00e9n maradt.",
+    "OxygenWarning30": "Figyelem: 30 m\u00e1sodpercre elegend\u0151 oxig\u00e9n maradt.",
+    "GrowingProgress": "Growth: {0:P0}",
+    "GrowingPlant": "N\u00f6v\u00e9sben {0}",
+    "MelonSeed": "M\u00e1rv\u00e1nydinnye-mag",
+    "Tooltip_SmallKoosh": "",
+    "Tooltip_MediumKoosh": "",
+    "Tooltip_LargeKoosh": "",
+    "Tooltip_HugeKoosh": "",
+    "Tooltip_BulboTree": "",
+    "Tooltip_OrangeMushroom": "",
+    "Tooltip_PurpleVasePlant": "",
+    "Tooltip_MelonPlant": "",
+    "Tooltip_PurpleBrainCoral": "",
+    "Tooltip_SpikePlant": "",
+    "Tooltip_BluePalm": "",
+    "Tooltip_PurpleFan": "",
+    "Tooltip_SmallFanCluster": "",
+    "Tooltip_PurpleTentacle": "",
+    "Tooltip_GabeSFeather": "",
+    "Tooltip_SeaCrown": "",
+    "Tooltip_MembrainTree": "",
+    "Tooltip_PinkFlower": "",
+    "Tooltip_FernPalm": "",
+    "Tooltip_OrangePetalsPlant": "",
+    "Tooltip_EyesPlant": "",
+    "Tooltip_RedGreenTentacle": "",
+    "Tooltip_PurpleStalk": "",
+    "Tooltip_RedBasketPlant": "",
+    "Tooltip_RedBush": "",
+    "Tooltip_RedConePlant": "",
+    "Tooltip_ShellGrass": "",
+    "Tooltip_SpottedLeavesPlant": "",
+    "Tooltip_RedRollPlant": "",
+    "Tooltip_PurpleBranches": "",
+    "Tooltip_SnakeMushroom": "",
+    "Tooltip_MelonSeed": "",
+    "Tooltip_BlueJeweledDisk": "",
+    "Tooltip_GreenJeweledDisk": "",
+    "Tooltip_PurpleJeweledDisk": "",
+    "Tooltip_RedJeweledDisk": "",
+    "Tooltip_TreeMushroom": "",
+    "Tooltip_BigCoralTubes": "",
+    "Tooltip_CoralShellPlate": "",
+    "Goal_HolyDiver": "You've been down too long in the midnight sea. Oh don't you see what I mean?",
+    "RadioBounceBack": "This is an automated bounce back from the Aurora Mining Vessel. Your distress signal has been received. An emergency relief team will be dispatched to your location. *Static* Estimated arrival time: 9...9...9...9...9 hours.",
+    "RadioLifepod17": "This is an automated distress signal from Aurora Lifepod 17. Co-ordinates attached. Please send immediate emergency relief team.",
+    "RadioSecondOfficer": "This is Second Officer Keen, broadcasting to all surviving Aurora crew! Captain Hollister is gone. I have assumed command. The computer has identified dry land approximately 750m south of the crash site. Your orders are to stay together, ensure your immediate safety, and then regroup at the attached rendezvous co-ordinates. Good luck. Over and out.",
+    "RadioWarper1": "Nine new biological subjects designated. Mode switch: hunting\/analyzing. Sharing subject locations with other agents.",
+    "RadioLifepod7": "This is Aurora Senior Engineer LaFette, broadcasting from Lifepod 7! We have survived impact, but flotation devices have failed to deploy and we are sinking! Co-ordinates attached! Will attempt repair! Anticipate losing radio contact at- *Static*",
+    "RadioWarper2": "Subject 11783 destroyed. Mode switch: patrol. New targets unaccounted for: 1.",
+    "RadioPrecursor1": "Karflaget gertrupop flayra. Troflagot e aitrart. Trankeboop. Askrinol forlaget yarma aquit e flyra e aitrart escimay.",
+    "RadioPassingShip": "This is trade vessel Sunbeam. Aurora, we've received your emergency transmission and your co-ordinates have been recorded. Wish we had better news for you, but we just aren't equipped to assist you at this time. We're anticipating arrival at the nearest starbase in approximately 461 earth days, that's four, six, one days. We will at that time pass on your emergency message to the appropriate corporate authority. You hold on in there, alright? Sunbeam out.",
+    "HintMouseLook": "Eg\u00e9rrel n\u00e9zhet k\u00f6r\u00fcl",
+    "HintWSADToMove": "WSAD gombokkal mozoghat",
+    "HintLMBToPickupFireExtinguisher": "Bal eg\u00e9rgombbal vegye fel a porolt\u00f3t",
+    "HintRMBToUseFireExtinguisher": "Jobb eg\u00e9rgombbal haszn\u00e1lja a porolt\u00f3t",
+    "HintTabToOpenClosePDA": "TAB gombbal megnyithatja vagy bez\u00e1rhatja a PDA-t",
+    "HintSuccess": "Kit\u0171n\u0151!",
+    "PDABootingEmergency": "IND\u00cdT\u00c1S V\u00c9SZHELYZETI \u00dcZEMM\u00d3DBAN",
+    "PDABootingLoading": "BET\u00d6LT\u00c9S
+[ {0}% ]",
+    "EscapePodStorageOpen": "Ell\u00e1tm\u00e1nyl\u00e1da kinyit\u00e1sa",
+    "EscapePodMedKitOpen": "Open med cabinet",
+    "EscapePodMedKitClose": "Close med cabinet",
+    "EnergyPercent": "Energia: {0:P0}",
+    "FuelPercent": "\u00dczemanyag: {0:P0}",
+    "Weld": "Hegeszt\u00e9s",
+    "Tooltip_MedicalCabinet": "30 percenk\u00e9nt el\u0151\u00e1ll\u00edt egy els\u0151seg\u00e9ly k\u00e9szletet",
+    "Tooltip_FireExtinguisher": "Keeps fires in check.",
+    "Damaged": "S\u00e9r\u00fclt",
+    "Pickup_FireExtinguisher": "Pickup Fire Extinguisher",
+    "FireExtinguisher_Douse": "T\u0171z elolt\u00e1sa",
+    "MedicalCabinet": "Medical Kit Fabricator",
+    "MedicalCabinet_DoorClose": "Bez\u00e1r",
+    "MedicalCabinet_DoorOpen": "Kinyit",
+    "MedicalCabinet_PickupMedKit": "Pick Up First Aid Kit",
+    "DamagedWires": "S\u00e9r\u00fclt ment\u0151kabin rendszerek",
+    "WeldToFix": "Haszn\u00e1ljon hegeszt\u0151t a jav\u00edt\u00e1shoz",
+    "IntroEscapePod1Header": "LAUNCH SEQUENCE ACTIVE!",
+    "IntroEscapePod1Content": "Detachment from Aurora: OK.
+Crew restraints: secure.
+Entering planetary atmosphere.
+G-force approaching hazardous levels.
+Brace for impact.",
+    "IntroEscapePod1Power": "ENERGIA CELLA 1-3 ONLINE",
+    "IntroEscapePod2Header": "V\u00c9SZHELYZET!",
+    "IntroEscapePod2Content": "Collision detected.
+Flotation devices deployed.
+Fire detected in lifepod interior.
+CO2 approaching hazardous levels.
+Secondary systems: offline.
+Hatches: malfunctioning.",
+    "IntroEscapePod2Power": "ELS\u0150DLEGES ENERGIA NEM EL\u00c9RHET\u0150",
+    "IntroEscapePod3Header": "FIGYELEM!",
+    "IntroEscapePod3Content": "Multiple errors detected in lifepod power systems.
+Circuitry test: failed.
+Secondary systems: offline.
+Gravity anchor: offline.
+Lifepod hull integrity: OK.",
+    "IntroEscapePod3Power": "1-3 ENERGIACELL\u00c1K M\u0170K\u00d6DNEK",
+    "IntroEscapePod4Header": "ST\u00c1TUSZ: OK",
+    "IntroEscapePod4Content": "Hull integrity: OK.
+Secondary systems: online
+Gravity anchor: online.
+Lifepod hull integrity: OK.
+Scanning all emergency frequencies.",
+    "IntroEscapePod4Power": "ELS\u0150DLEGES ENERGIAFORR\u00c1S \u00dcZEMEL",
+    "EncyPath_DownloadedData\/Degasi": "Degasi Survivors",
+    "Ency_WreckAuxOrders": "Aurora Auxiliary Mission Orders",
+    "EncyDesc_WreckAuxOrders": "SENIOR PERSONNEL ONLY
+
+Mission type: Search & Rescue
+Mission target: Crew of the Mongolian Empire vessel 'Degasi'
+Mission location: Ariadne Arm, 3 light years beyond furthest phasegate
+Mission contact: Emissary Jochi Khasar, Aurora Passenger Quarters, Room 4
+
+Mission brief:
+Aurora is due to pass through System 2001 approximately 13 months post-launch. The Aurora is scheduled to perform a gravity slingshot maneuver around planet 4546B. This will bring you within range of the Degasi's last known position.
+
+The Mongolian Empire lost contact with private vessel 'Degasi' 18 months after it left colonized space. The Empire has purchased passage aboard Aurora for Emissary Khasar, and your orders are to afford him every reasonable facility to locate and, if appropriate, retrieve Degasi crewmembers, without compromising the primary mission.
+
+Degasi crew manifesto has been distributed to senior officers in a separate data package.
+
+Mission classification:
+Aurora crew should not be informed of this mission until such time as their co-operation in locating or retrieving Degasi crew is required. It should be stressed that humanitarian auxiliary missions fall outside normal remuneration structures.",
+    "Ency_PaalTorgalBio": "Search & Rescue: Paal Torgal ",
+    "EncyDesc_PaalTorgalBio": "SENIOR PERSONNEL ONLY
+
+Auxiliary Search & Rescue Target: Paal Torgal
+Position: Chief Executive Officer of Torgaljin Corp, Captain of the 'Degasi'
+Status: Lost in space, Ariadne Arm
+Age at time of disappearance: 79
+
+Paal Torgal and his crew fell out of contact with Mongolian authorities ten years ago while travelling through System 2001. The vessel was insured for opportunistic search and rescue, and multiple vessels passing through the system have since attempted to trace the ship to no effect.
+
+    - Made majority shareholder in Torgaljin Corp. by his mother upon her retirement
+    - Interaction with Alterra limited to infrequent chartered munitions deliveries
+    - Beneficiary of life extension technologies
+    - Accompanied by his only child, Baat Torgal (19), heir to the Torgaljin Coproration
+    - Mongolian emissary Khasar reports Torgal frequently travelled with fewer than the minimum skeleton crew
+    - Inadequate systems maintenence may account for the ship's disappearance",
+    "Ency_BaatTorgalBio": "Search & Rescue: Baat Torgal",
+    "EncyDesc_BaatTorgalBio": "SENIOR PERSONNEL ONLY
+
+Auxiliary Search & Rescue Target: Baat Torgal
+Position: Vice President of Torgaljin Corp.
+Status: Lost in space, Ariadne Arm
+Age at time of disappearance: 19
+
+    - The only child of Paal Torgal
+    - Beneficiary of enhanced learning techniques and cerebral implants
+    - Digi-trained in advanced biochemistry and stellar economics
+    - Mongolian emissary Khasar reports Baat was accompanying his father, Paal, to a newly constructed space station where he was to serve a five year term as Chief Operating Officer",
+    "Ency_MargueritMaidaBio": "Search & Rescue: Paal Torgal",
+    "EncyDesc_MargueritMaidaBio": "SENIOR PERSONNEL ONLY
+
+Auxiliary Search & Rescue Target: Marguerit Maida
+Position: Security Personnel
+Status: Lost in space, Ariadne Arm
+Age at time of disappearance: 42
+
+    - Freelance mercenary, born in the Mongolian Empire
+    - Experienced in ship-to-ship and close quarters combat techniques
+    - Tours of duty with the Mongolian Defense Force and the Trans-Federation Military Police
+    - Dishonourably discharged from the TSA 15 years ago for going off mission (details classified)
+    - Mongolian emissary Khasar reports Maida was hired to accompany Paal Torgal onboard the Degasi into uncharted space and defend the ship in case of pirate assault",
+    "Ency_AuroraLaunchNews": "Alterra Launches the Aurora",
+    "EncyDesc_AuroraLaunchNews": "PHASEGATE ANNOUNCED FOR THE ARIADNE ARM: ALTERRA LAUNCHES THE AURORA
+
+The furthest reaches of inhabited space are due to expand, as Alterra Technologies launches the Aurora, a newly-constructed capital ship carrying state-of-the-art phasegate technology, bound for the Ariadne Arm. 
+
+The Aurora will travel from spacedock on the edge of Alterra space, making 324 consecutive warpgate jumps through nine different trans-gov authorities, and arrive on the far side of the Ariadne Arm of solar systems in approximately three months. From there the 100-strong crew will pilot the ship beyond the furthest warpgate, arriving in Solar System 84763 approximately 12 months later.
+
+There the elite team of engineers will begin a 6 month construction project which will see the new phasegate fully operational less than two years from today. The crew will be eager to complete the work on time, since the phasegate represents their fastest route home.
+
+Alterra Technologies currently operates 9% of all phasegates in the galaxy. If the Aurora's mission is successful Alterra will have outmaneuvered various private interests in the Mongolian Empire, which have to date established a number of outposts and mining operations in the region.
+
+The launch ceremony proceeded with the usual fanfare...",
+    "Ency_IslandsPDABase1Interior": "Paal Torgal bejegyz\u00e9se #1",
+    "EncyDesc_IslandsPDABase1Interior": "I am Paal Torgal, Chief Executive Officer of the Torgaljin Corporation. My crew and I were marooned here 5 weeks ago when our ship was struck by some kind of weapon. 
+
+We constructed a habitat using materials reclaimed from the ship. We survived by cultivating indigenous flora. The biochemistry imprint I commissioned for my son has already paid for itself. He has grown enough food to last us a month.
+
+Now I fear for our safety. A mercenary I hired for the journey, Marguerit Maida, is increasingly disturbed. She insists we abandon this site and establish a habitat underwater. I fear she may take steps to sabotage our habitat here to enforce her own agenda. Nonetheless, and against my better judgement, I have acquiesced to her request to scout for a suitable aquatic site. My hope is she will quickly realize how unforgiving the ocean is, and abandon this foolish ambition.",
+    "Ency_IslandsPDABase1a": "Baat Torgal bejegyz\u00e9se #6?",
+    "EncyDesc_IslandsPDABase1a": "I messed up. Real bad this time.  It's been two days since what happened. We never should have left this island. I shouldn't have listened to them. We shouldn't have gone so deep. They don't want us down there. They don't trust us. I knew it and I didn't say. I could see it, and they couldn't, and now they're stuck down there, and I'm up here, alone. I deserve this.",
+    "Ency_IslandsPDABase1bDesk": "Degasi Hang\u00fczenet #1",
+    "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT: It won't work, Chief. We salvaged enough scrap from the Degasi for, what, a couple of observatories?
+PAAL: It'll be enough.
+MARGUERIT: For now. And then we'll run out. Ain't no building materials on this island. We're gonna have to get our feet wet. No other way. 
+PAAL: This island is safe. There's fertile land. No predators. Shelter from the elements.
+MARGUERIT: All we'd need is a water filtration system, some hull reinforcements, maybe a thermal plant or two...
+PAAL: I've made my decision. You want to forfeit your commision just to take a swim?
+MARGUERIT: Believe me, I'm thinking on it.
+BAAT: Those mountains look like they get the most of the sun. If we built observatories up there I think I could grow enough food to keep us all alive. I think this could work.
+PAAL: You hear that? You think you know better than 10 million credits of biochem training?
+MARGUERIT: It's not the kid I doubt. All I'm sayin' is, ocean's got us surrounded. No use hiding.
+PAAL: No. This is where we build. This is how we survive.",
+    "Ency_IslandsPDABase1Desk": "Degasi hang\u00fczenet #2",
+    "EncyDesc_IslandsPDABase1Desk": "PAAL: Your life is worth more. I forbid you go out there.
+BAAT: I stopped needing your permission when the ship you were captaining sunk.
+PAAL: You will stop needing my permission the day I cease to be your father!
+MAIDA: Say, Chief. Chief! 
+PAAL: What?
+MAIDA: Do you know how to drain those grow beds out there of 40 tons of storm water? Or where we'll find food for three people for the next two weeks?
+PAAL: You know I don't.
+MAIDA: So what's your boy's life worth to you today, if next week you're gonna be so hungry you start wondering what he tastes like? Let him go cover the plants.
+PAAL: Son, go cover the plants.
+CPU: Baat Torgal is no longer aboard the habitat.
+PAAL: Interfere with my family again and when the rescue team arrives I will leave you here. You understand me?
+MAIDA: No rescue coming, Chief. Not in time. And no stayin' here, neither. This rain keeps falling, and sooner or later this place'll be buried. Only choice we've got is whether we get buried with it.
+PAAL: Stay away from my boy.",
+    "Ency_IslandsPDAExterior": "Degasi Hang\u00fczenet #3",
+    "EncyDesc_IslandsPDAExterior": "MARGUERIT: You see, Chief? You brought us to this fracking planet. You told us we'd see a lush payday. Now what do we got? Half of us dead. A pile of fracking dirt in our front room. Rain coming in the through the windows.
+PAAL: And you would have avoided this how?
+MARGEURIT: I woulda started by not taking an unscheduled detour. You NEVER go off course. That's something you gotta learn the hard way. Now you know.
+PAAL: What exactly do you propose?
+MARGEURIT: You want to waste what time you have left lugging titanium up from the seabed? Or you want to hit this thing head on?
+PAAL: If we build underwater, what will we do for food? Drinking water? Power?
+MARGEURIT: We'll go fishing. Build water filters. We go deep enough we gotta find thermal vents - we'll have more power than we could ever use. Chief, we'll eat fracking seaweed salad if that's what it takes. Or you got something better?
+BAAT: I think I could make a good seaweed salad.
+PAAL: Son, the adults are talking.
+BAAT: I'm serious, father. If I can grow fruit on the land, I can grow seaweed underwater. We can farm fish. Father, I kept us alive this long. I can keep on doing it.",
+    "Ency_JellyPDABrokenCorridor": "Degasi hang\u00fczenet #4 - Meg\u00e9rkez\u00e9s a Zsel\u00e9 erd\u0151be",
+    "EncyDesc_JellyPDABrokenCorridor": "BAAT: This place is rad.
+PAAL: It's not what I expected. Have you factored in the pressure on the hull construction?
+MARGUERIT: I reinforced the hull, installed bulkhead doors.
+PAAL: Of course.
+BAAT: We could build an observatory deck. We could learn a lot here.
+MARGUERIT: Now, the foundations... they're not in the best of shape. But I guarantee you, if this place comes loose it won't be the fall that kills us.",
+    "Ency_JellyPDARoom2Desk": "Degasi hang\u00fczenet #5 - M\u00e9lyebbre?!",
+    "EncyDesc_JellyPDARoom2Desk": "PAAL: We're already 300m below sea level! You want to go DEEPER?!
+MARGUERIT: Look around us, Chief. You know what I see? Water. Water leaking through the hull. Water outside the hatch. Water above me, water below me. It's all freaking water, Chief. We're drowning. Real slow. You want to live out your few remaining days eating fruit on the beach afraid to get your toes wet? 
+PAAL: What is it YOU want?
+MARGUERIT: I want to know how to get off this freaking planet.",
+    "Ency_JellyPDAObservatory": "Baat Torgal bejegyz\u00e9se #1",
+    "EncyDesc_JellyPDAObservatory": "OK, get this. We ran out of enamelled glass we salvaged from the shipwreck so it looked like we couldn't build the observatory. And Marguerit, here's what she does - she takes the Seamoth out to the kelp forests, armed with just a heatblade, and freaking wrestles a stalker to the seafloor and brings back its teeth. 
+
+She entered hand-to-hand combat with an alien shark and brought home it's TEETH. Now we can fabricate all the enamel we need.
+
+On one hand, that is the most badass thing I ever heard, and now I'm sitting in this sweet observatory watching biters tap harmlessly at the glass.
+
+On the other hand, was it worth it? Did that creature survive? How fast do their teeth grow? Is there a way to manufacture materials without harming the ecosystem here?
+
+If we had a full size aquarium we could study these lifeforms up close. Find the answers.",
+    "Ency_JellyPDARoom1Desk": "Baat Torgal bejegyz\u00e9se #2",
+    "EncyDesc_JellyPDARoom1Desk": "We've been living in this habitat a month now. It used to be exciting, but it's more claustrophobic than I thought. There are so many predators in these caves that Marguerit is just about the only person that gets to go out there.
+
+All the same, the life down here is INCREDIBLE. Marguerit has been bringing back the wildest specimens you could imagine. OK, the plantlife is inedible. I learnt that the hard way. But the fish... down here they GLOW. There's one that's 90% eyeball. Snakes the length of two glass corridor sections.
+
+It's not easy without a proper lab and equipment, but sometimes the old fashioned way - observing, taking notes, testing theories - reveals things a spectroscopic analysis never would. 
+
+For example, I've been watching the sea snakes that make their homes in the purple mushrooms that grow here. They await their prey, and strike when small herbivores stray too close. What they don't consume settles on the seabed, which fertilizes the mushrooms, which feed the herbivores, and the chain continues. Co-evolution just blows my mind.",
+    "Ency_JellyPDARoom1Locker": "Paal Torgal bejegyz\u00e9se #2",
+    "EncyDesc_JellyPDARoom1Locker": "You know what Maida asked me today? 'Have you heard of a Cyclops Submarine?' she asks me. ME. I've hauled starwhals to Neptune, plasteel to the Federation... this family operates nine different mining colonies across the Ariadne Arm. She thinks I don't know what a Cyclops is?! She thinks she's in charge? Her contract still says otherwise.
+
+So she wants to build a habitat at 700m below sea level, a kilometre east of here. And she needs Baat and I to pull it off. She's got it into her head that there's no rescue coming. That she can save us if she just acts recklessly enough.
+
+And I just cannot goddamn tell whether it's the stupidest idea I ever heard, or my only hope. I turned 80 years old last week. I thought I had another 80 in me yet. But stuck here, there's no swapping out my liver when the old one fails. Down here, I'm mortal. And I'm running out of time.
+
+So it's my responsibility to make a decision. Return to the island and hope whatever knocked the Degasi out of the sky won't do the same to the rescue ship, or take us deeper in search of answers. And all the while be hoping old age gets me before the seamonsters do.
+
+I'll give Maida just one thing. She was right about these caves. There's enough lithium here to fabricate a hundred tons of plasteel. Enough for a damn FLEET of submarines. There was nothing anyone could have done to avoid crashing here, but I was right to order the detour. When we get off this planet they'll be talking about the Torgaljin Corp. share price on the other side of the Federation.",
+    "Ency_JellyPDAExterior": "Marguerit Maida bejegyz\u00e9se #1",
+    "EncyDesc_JellyPDAExterior": "These freaking corporate, bourgeois, inbred, incompetent, self-absorbed ASSHOLES don't have a FRIGGING clue. I swear every single thing that comes out of that idiot's face is a narcissistic lie. He wants to stay here, his problem.  I'm the one doing the heavy lifting. Screw the contract. Screw the bonus pay. Screw the charges. I'm building that sub and I'm going deeper.
+
+I've started preparing for the operation. The kid's alien petting zoo was worth chipping in for. No need to visit the surface for stalker teeth when he's got a whole school of them whipped to eat the fish from the palm of his hand. I've started defanging them when the Torgals are sleeping, and stockpiling enamel and metal ores for construction of the sub.
+
+When fracking seamonsters are hunting you, you don't run and hide. You hunt the fracking seamonsters. Then you build a bigger boat out of the bones of your vanquished foes and go hunt bigger monsters. Repeat until there aren't any monsters left to hunt you.",
+    "Ency_JellyPDARoom2Locker": "Degasi hang\u00fczenet #6 - Furcsa felfedez\u00e9s",
+    "EncyDesc_JellyPDARoom2Locker": "PAAL: What is that thing?
+MARGUERIT: I don't know.
+PAAL: Part of another ship?
+MARGUERIT: None I've ever seen.
+BAAT: It's in such good condition. It's not even scratched. It could originate here, on this planet.
+PAAL: Don't touch it, it could be valuable. I said don't touch it!
+MARGUERIT: Stand down, Chief, I'm just lookin'. If it were goin' to crumble to dust it woulda done so when I picked it up.
+BAAT: It's glowing.
+PAAL: It's still powered? Someone else was here recently.
+BAAT: Either that, or so long ago that no one remembers.",
+    "Ency_DeepPDABase3": "Degasi hang\u00fczenet #7",
+    "EncyDesc_DeepPDABase3": "BAAT: Stop it, both of you! We're sick.
+MARGUERIT: What?
+PAAL: How?
+BAAT: You've been coughing, right? Feeling itchy?
+MARGUERIT: Yeah.
+BAAT: We've been sick since we started breathing the air.
+PAAL: The suit biometrics would have warned us.
+BAAT: It's something new. A bacterial infection.
+MARGUERIT: What does it do?
+BAAT: Nothing much, so far. But it's smart. With enough time I think it could begin altering our genetic structure. Things get gross after that.
+PAAL: What can you do?
+BAAT: I think I can slow it down. 
+PAAL: How did you find it?
+BAAT: It's everywhere, I just couldn't see it. Everything on this planet is infected. It's pretty much just part of the ecosystem.
+MARGUERIT: How bad can it be if everything's got it?
+BAAT: The local lifeforms must have developed coping mechanisms. We haven't.
+PAAL: Yet. You have my full faith, son, that you'll figure this out for us.
+MARGUERIT: Tell me what you need, kid.",
+    "BaseMapRoomFragment": "Ir\u00e1ny\u00edt\u00f3 Szoba tervrajz",
+    "BaseMapRoom": "Ir\u00e1ny\u00edt\u00f3 Szoba",
+    "Tooltip_BaseMapRoom": "Ir\u00e1ny\u00edt\u00f3 Szoba",
+    "RecipeUnlocked": "{0} recipe unlocked",
+    "TechTypeUnlocked": "{0} unlocked",
+    "MapRoomCameraInfo": "Kamera {0}",
+    "MapRoomCameraControls": "Eg\u00e9rgombokkal v\u00e1lthat a kamer\u00e1k k\u00f6z\u00f6tt",
+    "MapRoomCameraDistance": "T\u00c1VOLS\u00c1G: {0}",
+    "MapRoomCameraDepth": "M\u00c9LYS\u00c9G: {0}",
+    "EncyPath_DownloadedData\/Lifepods": "Ment\u0151kabinok",
+    "EncyPath_DownloadedData\/AuroraSurvivors": "Aurora Survivors",
+    "Ency_Lifepod1": "Danby's Flight Recorder",
+    "EncyDesc_Lifepod1": "This is medical officer Danby, I'm breaking atmosphere at high velocity, planetfall in 20 seconds! *Explosion* Taking fire! Going into a spin! Attempting- *Static*",
+    "Ency_Lifepod2": "Lifepod Flight Recorder #1",
+    "EncyDesc_Lifepod2": "PASSENGER: We're sinking!
+CREW: Ma'am, I'm doing everything that I can!
+PASSENGER: Where are the support teams?!
+CREW: They're on their way, Ma'am!
+PASSENGER: That's not what he said on the radio!
+CREW: Ma'am, I have to ask you to stay where you are! The computer hasn't completed situational analysis, we've no idea what's out there!
+PASSENGER: I will not drown in here!
+CREW: Ma'am, come back, it's not safe!
+*Reaper sounds*",
+    "Ency_Lifepod3": "Engineers' Flight Recorder",
+    "EncyDesc_Lifepod3": "PDA: Situational analysis complete. Communications relay offline.
+ENGINEER 1: Frack it! How are we going to make the rendezvous without a radio signal?
+ENGINEER 2: We have a compass bearing. We'll have to do it the old fashioned way.
+ENGINEER 1: You want to fabricate a compass?
+ENGINEER 2: Why stop there? If we find the others, we can build stillsuits. Construct habitats. Maybe even make it to the Aurora and reactivate the interstellar communications. You have a welder?
+ENGINEER 1: Yeah I- Damn it, I left it in the exo bay.
+ENGINEER 2: Don't sweat.
+ENGINEER 1: No, I fracked up.
+ENGINEER 2: No, we can do this. All we need is some basic materials. This planet can't be barren. Let's get out there and find out.",
+    "Ency_Lifepod4": "Emissary Khasar's Flight Recorder",
+    "EncyDesc_Lifepod4": "Blackbox Data #345
+00:00 Lifepod systems online.
+00:03 Passenger 07 'Emissary Jochi Khasar' has boarded the lifepod.
+00:07 Lifepod launch sequence initiated.
+00:15 Lifepod detached from Aurora OK.
+00:17 Onboard microphones detecting voice communications, recording:
+'Our creators, who art gracious and merciful, hallowed be thy names. Praise be to you, the glorious one, the cherisher and sustainer of worlds. Give us this day our daily goods, and allow us our pleasures, as we allow those who seek pleasure from us.'
+
+00:33 Entering planetary atmosphere.
+00:35 External temperature approaching critical levels.
+
+00:37 'Show us the straight path, the path of those you favor. In Life, Truth, Love, the wholeness of reality. In Substance, Principle and Mind, man is its image and likeness. For ours is the power, we are the one. For ever and ever. Athem.'
+
+01:02 Exterior hull damage sustained.
+01:05 Life support systems failed.
+01:06 Impact imminent.",
+    "Ency_LifepodSeaglide": "Ment\u0151kabin hang\u00fczenet #1",
+    "EncyDesc_LifepodSeaglide": "This may be my last report. The lifepod made planetfall intact, but now it's surrounded by some kind of aquatic alien predator. They're encased in a carapace armour, and attack the moment I open the hatches. The first one that came at me I attacked with the survival knife, but it got lodged in the armor layers. Tried distracting them with flares - no effect. No propulsion cannon available. No stasis rifle. No chance. 
+
+I've stripped some of the lifepod electrics to manufacture a seaglide. My only hope is I can outrun them. Wish me luck.",
+    "Ency_LifepodKeenDialog": "Officer Keen's Flight Recorder",
+    "EncyDesc_LifepodKeenDialog": "CAPTAIN: Keen! This is Aurora, come in!
+KEEN: I hear you, Captain!
+CAPTAIN: The computer has identified a landmass at the attached coordinates! I want you to regroup the crew there!
+KEEN: Understood, but-
+CAPTAIN: They're your responsibility now, don't let me down!
+KEEN: Captain, you need to evacuate!
+*Explosion aboard the Aurora*
+KEEN: Captain?!",
+    "Ency_LifepodKeenLog": "Officer Keen's Log #1",
+    "EncyDesc_LifepodKeenLog": "To all crew - If you are reading this then you have followed the automatic distress signal broadcast by this lifepod's onboard computer, contrary to protocol. My lifepod was damaged on impact and I am forced to evacuate. Your orders are to disregard my safety and attempt to reach the designated regroup co-ordinates at the nearest landmass. I hope to see you there.
+
+- Second Officer Keen",
+    "Ency_LifepodCrashZone1": "Ment\u0151kabin hang\u00fczenet #2",
+    "EncyDesc_LifepodCrashZone1": "CREW: I need you to stay calm. The hull's secure. We're not in immediate danger.
+PASSENGER: Where are the rescue teams?!
+CREW: The Aurora didn't make it, Ma'am.
+PASSENGER: What do you mean?
+CREW: They're dead, ma'am. They're all dead.
+PASSENGER: What do you intend to do about it?
+CREW: We can't wait here for rescue. We're going to have to fabricate radiation suits and make for the crash site.
+PDA: Detecting local metal deposits.
+CREW: The PDA's interfacing with the fabricator okay. We'll have to go outside for the materials.
+PASSENGER: We?! It's your job, isn't it? To look after the passengers!
+CREW: Within reasonable parameters.
+PASSENGER: I beg your pardon?
+CREW: Forget it, I'll go. Just don't assume I'll find enough materials for the both of us.",
+    "Ency_LifepodCrashZone2": "Ment\u0151kabin hang\u00fczenet #3",
+    "EncyDesc_LifepodCrashZone2": "*Hatch closes*
+CREW: *Coughing* Here, take this.
+PASSENGER: What do I do?!
+CREW: I pre-programmed the fabricator, just plug in the materials!
+FABRICATOR: Radiation suit fabricated.
+PASSENGER: It says there's only enough materials for one.
+CREW: It's all I could find. You'll have to take it.
+PASSENGER: To be clear, you want me to leave you here?
+CREW: Frack me, no! Find Officer Keen at the rendezvous, and send someone back for me with anti-rad meds, you incompetent, ungrateful-
+PASSENGER: Well if that's going to be your attitude-
+CREW: *Violent coughing*
+PASSENGER: OK, OK, I'm going!
+*Hatch opens*
+CREW: And stay clear of the crash zone in case the drive core goes up!",
+    "Ency_LifepodCTODialog1": "CTO hang\u00fczenet #1",
+    "EncyDesc_LifepodCTODialog1": "CTO: We're sinking! The flotation devices must have failed!
+TECHNICIAN: Should we evacuate?!
+CTO: No! The seafloor shouldn't be more than a couple hundred meters down. We're safer in here than out there.
+TECHNICIAN: There's water coming in!
+CTO: Wait, I can reconfigure the O2 system to act as a bilge!
+TECHNICIAN: It's working!
+*Crash*
+CTO: You okay?!
+TECHNICIAN: I think so...
+CTO: OK, good news or bad?
+TECHNICIAN: Good.
+CTO: We're alive, and we've stopped sinking.
+TECHNICIAN: Bad?
+CTO: The O2's going to run out in 30 minutes!
+TECHNICIAN: Frack! What do we do?
+CTO: Let me think.",
+    "Ency_LifepodCTODialog2": "CTO hang\u00fczenet #2",
+    "EncyDesc_LifepodCTODialog2": "*Sound of water inside the lifepod*
+CTO: According to these pressure readings we've sunk more than 400m.
+TECHNICIAN: So let's just build a flotation device, or a seaglide, and make for the surface.
+CTO: We'll never make it without air tanks. It's too far.
+TECHNICIAN: *Spluttering* I don't want to pressure you, but my feet aren't touching the floor anymore.
+CTO: I've got it! There's another lifepod nearby, a hundred meters from here. If we can make it there, we can resupply our O2 tanks then head for the surface!
+TECHNICIAN: What if that pod's screwed too?!
+CTO: Then we're screwed too, but no more than we are already!
+TECHNICIAN: I'm ready.",
+    "Ency_LifepodCTOLog1": "CTO bejegyz\u00e9se #1",
+    "EncyDesc_LifepodCTOLog1": "Entry 1
+Screw this planet! Technician Berkeley and I were forced to abandon our lifepod when it hit the ocean floor. We swam for this pod, but Berkeley ran out of air on the way here. And I don't know how, but we're not in open water. There's no natural light here. There's a roof overhead, and no obvious way out. Lifepod must have rolled down into a cave system of some kind. Might be I can use a dive reel and compass to chart a way out. Might be I'm going to breathe my last down here.
+
+Entry 2
+Two hours since the first pod sunk. I've tried exploring the area. There's no air pockets. No overhead exit. If I had plasteel I could build an air tank, a submersible, anything! But as it is I can only explore so far before I'm forced back to this lifepod. I have to find another way.
+
+Entry 3
+I've managed to cobble together a rebreather and explore a bit further. I've found an incline heading up. Not clear whether it's part of the cave wall, or the way out. One way to know for sure.
+
+Entry 4
+Daylight! It was definitely daylight, I'm sure of it. I swam as far as I could. Next time I have to go past the point of no return and take my chances. If any rescue party finds this, please retrieve Berkeley's body, if the fish don't get to it first. I will now attempt to make it to the surface and regroup with Keen and anyone else that made it. 
+
+- Chief Technical Officer Yu",
+    "Ency_LifepodCTOLog2": "CTO bejegyz\u00e9se #2",
+    "EncyDesc_LifepodCTOLog2": "This beacon marks the beginning of a major cave system. Strong currents dragged our lifepod down. Do not pass this point for fear of death.
+
+- Chief Technical Officer Yu",
+    "MapRoomCameraNoSignal": "NINCS JEL",
+    "MapRoomCamera": "Dr\u00f3n",
+    "Tooltip_MapRoomCamera": "Vez\u00e9relhet\u0151 kamera",
+    "Presentation": "Presentation",
+    "Quality": "Min\u0151s\u00e9g",
+    "VRRenderScale": "VR render scale",
+    "Apply": "Apply",
+    "HorizontalSensitivity": "V\u00edzszintes \u00e9rz\u00e9kenys\u00e9g",
+    "VerticalSensitivity": "F\u00fcgg\u0151leges \u00e9rz\u00e9kenys\u00e9g",
+    "InvertLook": "Invert look",
+    "EnableController": "Kontroller enged\u00e9lyez\u00e9se",
+    "ResetToDefault": "Vissza\u00e1ll\u00edt\u00e1s alaphelyzetbe",
+    "Deconstruct": "Lebont\u00e1s",
+    "Construct": "\u00c9p\u00edt\u00e9s",
+    "CyclopsWelcomeNoPower": "Cyclops: Warning: Emergency power only. Oxygen production offline.",
+    "AssignQuickSlot": "assign quick slot",
+    "Eat": "megev\u00e9s",
+    "Use": "haszn\u00e1l",
+    "Place": "place",
+    "Drop": "eldob",
+    "SwitchContainer": "kont\u00e9ner cser\u00e9je",
+    "SeamothWelcomeNoPower": "Seamoth: Warning: Emergency power only. Oxygen production offline.",
+    "BaseWelcomeNoPower": "Base: Warning: Emergency power only. Oxygen production offline.",
+    "MapRoomCameraConnecting": "KAPCSOL\u00d3D\u00c1S",
+    "StarshipChair2": "2-es t\u00edpus\u00fa sz\u00e9k",
+    "StarshipChair3": "3-as t\u00edpus\u00fa sz\u00e9k",
+    "Tooltip_StarshipChair2": "Meglep\u0151en k\u00e9nyelmes.",
+    "Tooltip_StarshipChair3": "Meglep\u0151en k\u00e9nyelmes.",
+    "1": "2"
+}

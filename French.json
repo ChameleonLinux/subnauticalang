@@ -1,0 +1,2201 @@
+{
+    "NewGame": "Nouvelle Partie",
+    "New Game Tooltip": "ENTREZ DANS L'UNIVERS DE SUBNAUTICA",
+    "ContinueGame": "Continuer la partie",
+    "Exit Tooltip": "RETOURNEZ \u00c0 LA SURFACE",
+    "Survival": "Survie",
+    "Freedom": "Libre",
+    "Hardcore": "Extr\u00eame",
+    "Back": "Retour",
+    "LatestNews": "Derni\u00e8res infos",
+    "NewsLoading": "Chargement...",
+    "Language": "Langue",
+    "Resolution": "R\u00e9solution",
+    "FieldOfView": "Champ de vision ",
+    "Vsync": "Vsync",
+    "Options": "Options",
+    "OptionsTooltip": "AVANT D'EMBARQUER",
+    "DevelopmentVersion": "Version en d\u00e9veloppement",
+    "InventoryFull": "Inventaire plein",
+    "RadiationDetected": "RADIATIONS D\u00c9TECT\u00c9ES",
+    "Quartz": "Quartz",
+    "ScrapMetal": "D\u00e9bris m\u00e9talliques ",
+    "Limestone": "Affleurement de calcaire",
+    "Copper": "Minerai de cuivre",
+    "CopperWire": "Fil de cuivre",
+    "Salt": "D\u00e9p\u00f4t de sel",
+    "Placeholder": "Espace r\u00e9serv\u00e9",
+    "Glass": "Verre",
+    "EnameledGlass": "Verre \u00e9maill\u00e9",
+    "Titanium": "Titane",
+    "TitaniumIngot": "Lingot de titane",
+    "PlasteelIngot": "Lingot de plastacier",
+    "Silver": "Minerai d'argent",
+    "Gold": "Or",
+    "Lodestone": "Magn\u00e9tite",
+    "WiringKit": "Kit de c\u00e2blage",
+    "AdvancedWiringKit": "Kit de c\u00e2blage avanc\u00e9",
+    "ComputerChip": "Circuit int\u00e9gr\u00e9",
+    "Diamond": "Diamant",
+    "MODULES": "MODULES",
+    "Energy": "\u00c9nergie",
+    "AddedToInventory": "ajout\u00e9 \u00e0 l'inventaire.",
+    "BreakLimestone": "Rompre affleurement de calcaire",
+    "BreakSandstone": "Rompre affleurement de gr\u00e8s",
+    "BreakShale": "Rompre affleurement de schiste",
+    "BreakBasalt": "Rompre affleurement de basalte",
+    "BreakObsidian": "Rompre affleurement d'obsidienne",
+    "Fabricator": "Fabricateur",
+    "UseFabricator": "Utiliser Fabricateur ",
+    "Locker": "Armoire",
+    "Spotlight": "Spot de lumi\u00e8re",
+    "Reinforce hull": "Renforcer la coque",
+    "Aquarium": "Aquarium",
+    "EnterSeamoth": "Entrer dans le Seamoth",
+    "NoSeamothDocked": "Aucun Seamoth \u00e0 quai",
+    "DiveSuit": "Combinaison de plong\u00e9e",
+    "ShipComputer": "Ordinateur de bord",
+    "Fins": "Palmes",
+    "RadiationSuit": "Combinaison anti-radiation",
+    "Tank": "R\u00e9servoir d'O\u00b2",
+    "Battery": "Pile",
+    "Builder": "Constructeur d'Habitat ",
+    "Knife": "Couteau de survie",
+    "Drill": "Perceuse",
+    "Flashlight": "Lampe-Torche ",
+    "Beacon": "Balise",
+    "Bleach": "Javel",
+    "CurrentGenerator": "G\u00e9n\u00e9rateur de courant",
+    "PowerCell": "Batterie haute capacit\u00e9",
+    "DiveReel": "Fil d'Ariane",
+    "Rebreather": "Recycleur",
+    "Welder": "Soudeuse",
+    "Constructor": "Baie \u00e0 v\u00e9hicules mobiles",
+    "UseConstructor": "Utiliser Baie \u00e0 v\u00e9hicules",
+    "Transfuser": "\u00c9chantillonneur",
+    "Flare": "Fus\u00e9e \u00e9clairante ",
+    "StasisRifle": "Fusil \u00e0 stase",
+    "Observatory": "Observatoire",
+    "Audiolog": "Journal Audio - Ouch, o\u00f9 cela s'affiche-t-il dans le jeu ?",
+    "SafeShallowsEgg": "\u0152uf des Bancs Calmes",
+    "KelpForestEgg": "\u0152uf des For\u00eats d'Algues",
+    "GrassyPlateausEgg": " \u0152uf des Plateaux herbeux",
+    "GrandReefsEgg": "\u0152uf des Grands R\u00e9cifs",
+    "MushroomForestEgg": "\u0152uf des For\u00eats de Champignons",
+    "KooshZoneEgg": "\u0152uf des Champs de pompons",
+    "TwistyBridgesEgg": " \u0152uf des Ponts tortueux",
+    "LavaZoneEgg": "\u0152uf de Zone de Lave ",
+    "Workbench": "Station de modification",
+    "Tooltip_Workbench": "Fabricateur avanc\u00e9 con\u00e7u pour la modification d'\u00e9quipement de survie",
+    "SpecialHullPlate": "Plaque de coque",
+    "Tooltip_SpecialHullPlate": "Plaque de coque en \u00e9dition sp\u00e9ciale num\u00e9rot\u00e9e (merci !)",
+    "Seamoth": "Seamoth",
+    "Exosuit": "Exosquelette",
+    "PropulsionCannon": "Canon \u00e0 propulsion",
+    "SandLoot": "Sable",
+    "Signal": "Signal",
+    "BallClusters": "Treespawn",
+    "BarnacleSuckers": "Sangsue v\u00e9g\u00e9tale ",
+    "BlueBarnacle": "Bernacle bleue",
+    "BlueBarnacleCluster": "Grappe de bernacles bleues",
+    "BlueCoralTubes": "Jordi's Tung",
+    "RedGrass": "Herbe rouge",
+    "GreenGrass": "Herbe verte",
+    "CreepvinePiece": "\u00c9chantillon de Vigne d'Orin",
+    "Mohawk": "Mohawk",
+    "GreenReeds": "Roseaux tachet\u00e9s",
+    "JellyPlant": "Plante m\u00e9duse",
+    "BlueJeweledDisk": "Corail plat bleu",
+    "GreenJeweledDisk": "Corail plat vert",
+    "PurpleJeweledDisk": "Corail plat violet",
+    "RedJeweledDisk": "Corail plat rouge",
+    "SmallKoosh": "Pompon pygm\u00e9e",
+    "MediumKoosh": "Pompon moyen",
+    "LargeKoosh": "Grand pompon",
+    "HugeKoosh": "\u00c9norme pompon",
+    "MembrainTree": "Arbre \u00e0 membrane",
+    "PurpleFan": "\u00c9ventail violet",
+    "AcidMushroom": "Champignon acide",
+    "PurpleTentacle": "Mauvaise herbe putride ",
+    "RedSeaweed": "Algue rouge",
+    "CoralShellPlate": "Plaque de coquille corallien ",
+    "SmallFan": "Pygmy fan",
+    "SmallFanCluster": "Pygmy fan cluster",
+    "BigCoralTubes": "Tubes de corail g\u00e9ants ",
+    "TreeMushroom": "Arbre Champignon",
+    "BlueCluster": "Grue cluster",
+    "BrownTubes": "Tubes de Corail d'argile ",
+    "BloodGrass": "Herbe sanguine",
+    "JeweledDiskPiece": "\u00c9chantillon de corail plat",
+    "CoralChunk": "\u00c9chantillon de corail ordinaire",
+    "KooshChunk": "\u00c9chantillon de Koosh",
+    "StalkerTooth": "Dent de R\u00f4deur ",
+    "SmallStorage": "Armoire imperm\u00e9able",
+    "SeamothFragment": "Fragment de Seamoth",
+    "StasisRifleFragment": "Fragment de Fusil \u00e0 stase",
+    "ExosuitFragment": "Fragment d'Exosquelette",
+    "TransfuserFragment": "Fragment d'\u00c9chantillonneur",
+    "TerraformerFragment": "Fragment de Terraformeur",
+    "ReinforceHullFragment": "Fragment de balance de pression pour Cyclops",
+    "WorkbenchFragment": "Fragment de station de modification",
+    "FabricatorBlueprint": "Sch\u00e9ma de Fabricateur",
+    "ConstructorBlueprint": "Sch\u00e9ma de Baie \u00e0 v\u00e9hicules mobiles",
+    "CyclopsBlueprint": "Sch\u00e9ma de Cyclops",
+    "SeamothBlueprint": "Sch\u00e9ma de Seamoth",
+    "StasisRifleBlueprint": "Sch\u00e9ma de Fusil \u00e0 stase",
+    "ExosuitBlueprint": "Sch\u00e9ma d'Exosquelette",
+    "TransfuserBlueprint": "Sch\u00e9ma d'\u00c9chantilloneur",
+    "TerraformerBlueprint": "Sch\u00e9ma de Terraformeur",
+    "ReinforceHullBlueprint": "
+Sch\u00e9ma de Balance de Pression pour Cyclops",
+    "WorkbenchBlueprint": "Sch\u00e9ma de station de modification",
+    "Boulder": "Rocher",
+    "HangingStinger": "Javelon",
+    "SpikePlant": "Plante Tigre",
+    "FilteredWater": "Eau filtr\u00e9e",
+    "DisinfectedWater": "Eau d\u00e9sinfect\u00e9e",
+    "CookedPeeper": "Peeper cuit",
+    "CookedHoleFish": "Holefish cuit",
+    "CookedHoopfish": "Hoopfish cuit",
+    "CookedGarryFish": "Garryfish cuit",
+    "CookedReginald": "Reginald cuit",
+    "CookedBladderfish": "Airsack cuit",
+    "CookedHoverfish": "Hoverfish cuit",
+    "CookedSpadefish": "Spadefish cuit",
+    "CookedBoomerang": "Boomerang cuit",
+    "CookedEyeye": "Poisson \u0153il cuit",
+    "CookedOculus": "Oculus cuit",
+    "Unobtanium": "Unobtanium",
+    "Creepvine": "Vigne d'Orin",
+    "HoleFish": "Holefish",
+    "Jumper": "Jumper",
+    "Peeper": "Peeper",
+    "Oculus": "Oculus",
+    "Hoopfish": "Hoopfish",
+    "RabbitRay": "Raie lapin",
+    "GarryFish": "Garryfish",
+    "Slime": "Gel\u00e9e",
+    "Crash": "Poisson Explosif ",
+    "Boomerang": "Boomerang",
+    "LavaLarva": "Larve de lave",
+    "Stalker": "R\u00f4deur",
+    "Eyeye": "Poisson \u0153il",
+    "Bloom": "Bloom",
+    "Bladderfish": "Airsack",
+    "Hoverfish": "Hoverfish",
+    "Jellyray": "Raie m\u00e9duse",
+    "Reefback": "Reefback",
+    "Reginald": "Reginald",
+    "Spadefish": "Spadefish",
+    "Grabcrab": "Grabcrab",
+    "Floater": "Flotteur",
+    "Gasopod": "Gazopode",
+    "Sandshark": "Requin des sables",
+    "Player": "Joueur",
+    "AirBladder": "Poche d'air",
+    "DEPTH": "PROFONDEUR",
+    "NITROGEN": "AZOTE",
+    "MeterSuffix": "m",
+    "SUB DEPTH": "PROFONDEUR DU VAISSEAU",
+    "ECOSYSTEM": "\u00c9COSYST\u00c8ME",
+    "BATHSPHERE": "BATHYSPH\u00c8RE",
+    "BLOOD SUGAR": "SUCRE DANS LE SANG",
+    "FOOD": "NOURRITURE",
+    "H20": "H2O",
+    "Initializing dive suit HUD...": "Initialisation du HUD...",
+    "Initializing objectives...": "Initialisation des objectifs...",
+    "|": "\/",
+    "Demo time": "D\u00e9monstration",
+    "InventorySecured": "Inventaire s\u00e9curis\u00e9.",
+    "THANK YOU FOR PLAYING": "MERCI D'AVOIR JOU\u00c9",
+    "PRIMARY": "PRINCIPAL",
+    "SECONDARY": "SECONDAIRE",
+    "ControlSubInstructions": "Pilotez avec ZQSD, Espace\/C pour monter\/descendre",
+    "Drop loot onto Constructor": "Placez vos objets sur le Constructeur",
+    "PressUseToExit": "Sortir",
+    "DeployConstructor": "D\u00e9ployer la baie \u00e0 v\u00e9hicules dans l'eau",
+    "DeployConstructorInWater": "Doit \u00eatre dans l'eau pour d\u00e9ployer la baie \u00e0 v\u00e9hicules !",
+    "Total: ": "Total :",
+    "<UnImplemented>": "(pas encore impl\u00e9ment\u00e9)",
+    "<Bullet>": "\u2022",
+    "DontHaveNeededIngredients": "Il vous manque des ingr\u00e9dients !",
+    "YouDied": "Vous \u00eates mort.",
+    "YouDiedLostStuff": "Vous \u00eates mort et avez perdu du mat\u00e9riel.",
+    "OXYGEN": "AIR",
+    "0": "2",
+    "How likely are you to recommend this game to a friend?": "A quel point recommanderiez-vous ce jeu \u00e0 un ami ?",
+    "Submit": "Soumettre",
+    "WASD to pilot, SPACE\/C for vertical, E to exit": "ZQSD pour diriger, Espace\/C pour monter\/descendre, E pour quitter",
+    "I": "\/",
+    "TRANSFUSER SERUM": "S\u00c9RUM D'\u00c9CHANTILLONNEUR",
+    "PLAYER EFFECTS": "EFFETS JOUEUR",
+    "CREATURE DEBUG": "DEBUG CR\u00c9ATURE",
+    "PickUp": "Ramasser",
+    "PickedUp": "Ajout\u00e9 : {0}",
+    "Needs": "Besoins",
+    "Tooltip_AcidMushroom": "Champignons violets. Se d\u00e9fendent gr\u00e2ce \u00e0 leur chair acide.",
+    "Tooltip_AdvancedWiringKit": "Processeur \u00e0 circuits en or\/argent pour une utilisation avanc\u00e9e.",
+    "Tooltip_AirBladder": "Une r\u00e9action chimique produit un gaz plus l\u00e9ger que l'air pour am\u00e9liorer sa flottabilit\u00e9.",
+    "Tooltip_Battery": "Source d'\u00e9nergie mobile.",
+    "Tooltip_Beacon": "Aide \u00e0 la navigation. Maintient sa position tout en la transmettant en permanence.",
+    "Tooltip_Bleach": "Javel d'hypochlorite de sodium (NaClO). Pour utilisations sanitaires.",
+    "Tooltip_Builder": "Transforme des mat\u00e9riaux bruts en modules d'habitat et en \u00e9quipement.",
+    "Tooltip_Compass": "Indique les points cardinaux sur le HUD.",
+    "Tooltip_ComputerChip": "Micro-processeur g\u00e9n\u00e9rique.",
+    "Tooltip_Constructor": "Construit des v\u00e9hicules \u00e0 partir de mat\u00e9riaux bruts.",
+    "Tooltip_CookedBladderfish": "Spongieux. Nerveux. Et, heureusement, sans odeur.",
+    "Tooltip_CookedBoomerang": "Bonne chair entre des arr\u00eates cartilagineuses.",
+    "Tooltip_CookedEyeye": "Petit mais rempli de prot\u00e9ines. Difficile \u00e0 ma\u00eetriser. ",
+    "Tooltip_CookedGarryFish": "Ar\u00f4me de fleur, mais tr\u00e8s l\u00e9g\u00e8rement. ",
+    "Tooltip_CookedHoleFish": "Chair g\u00e9latineuse avec de bonnes qualit\u00e9s nutritives.",
+    "Tooltip_CookedHoopfish": "Ne mangez jamais les antennes.",
+    "Tooltip_CookedHoverfish": "Chair reptil\u00e9enne ferme et sans graisse.",
+    "Tooltip_CookedOculus": "Viande sombre et dense. Bon repas si on peut mettre l'arri\u00e8re-go\u00fbt de sulphure de c\u00f4t\u00e9.",
+    "Tooltip_CookedPeeper": "Globes oculaires riches en prot\u00e9ines. De petits os ajoutent de la texture.",
+    "Tooltip_CookedReginald": "Acre et enfum\u00e9.",
+    "Tooltip_CookedSpadefish": "De bonne taille mais sal\u00e9e.",
+    "Tooltip_Copper": "Composant essentiel pour le c\u00e2blage.",
+    "Tooltip_CopperWire": "Atomes de cuivre fabriqu\u00e9s dans le c\u00e2blage \u00e9lectrique de base.",
+    "Tooltip_CoralChunk": "\u00c9chantillon contenant du CaCO\u00b3. Le carbonate de calcium est un ingr\u00e9dient de base pour la Javel.",
+    "Tooltip_Creepvine": "Mati\u00e8re organique.",
+    "Tooltip_CreepvinePiece": "\u00c9chantillon de mati\u00e8re organique.",
+    "Tooltip_CurrentGenerator": "Utilise la gravit\u00e9 artificielle pour g\u00e9n\u00e9rer un courant de convection.",
+    "Tooltip_Cyclops": "Immense sous-marin \u00e0 usage industriel.",
+    "Tooltip_Diamond": "C. Forme allotropique de carbone \u00e0 propri\u00e9t\u00e9s physiques superlatifs.",
+    "Tooltip_DisinfectedWater": "H\u00b2O. 12oz. Sans micro-organismes.",
+    "Tooltip_DiveReel": "Se fixe \u00e0 un point physique et se d\u00e9roule pendant que vous explorez.",
+    "Tooltip_EnameledGlass": "Verre tremp\u00e9 utilisant un substrat naturel.",
+    "Tooltip_Exosuit": "Marchez au fond de l'oc\u00e9an.",
+    "Tooltip_Fabricator": "Fabricateur de survie de base. R\u00e9organise de fa\u00e7on atomique les ressources.",
+    "Tooltip_FilteredWater": "H\u00b2O. 6oz. Pur.",
+    "Tooltip_Fins": "Traduisent les mouvements des membres verticaux sous l'eau en pouss\u00e9e avant.",
+    "Tooltip_Flare": "Source de lumi\u00e8re efficace sous l'eau.",
+    "Tooltip_Flashlight": "Source de lumi\u00e8re aliment\u00e9e par des piles.",
+    "Tooltip_Floater": "Compos\u00e9 de plusieurs organismes en symbiose. Cycle de vie inconnu.",
+    "Tooltip_Gaspod": "Gousse d'acide gazeuse.",
+    "Tooltip_Glass": "SiO\u2074. Verre pur de quartz fondu.",
+    "Tooltip_Gold": "Au. Propri\u00e9t\u00e9s conductrices pr\u00e9cieuses.",
+    "Tooltip_GrandReefsEgg": "Oeuf non identifi\u00e9.",
+    "Tooltip_GrassyPlateausEgg": "Oeuf non identifi\u00e9.",
+    "Tooltip_Gravsphere": "Utilise la gravit\u00e9 artificielle pour attirer des objets l\u00e9gers.",
+    "Tooltip_Hoopfish": "S'entoure de ses antennes pour se propulser dans l'eau.",
+    "Tooltip_JeweledDiskPiece": "Contient des traces de m\u00e9taux pr\u00e9cieux utilis\u00e9s dans la fabrication informatique.",
+    "Tooltip_KelpForestEgg": "Oeuf non identifi\u00e9.",
+    "Tooltip_Knife": "Outil de survie standard. Multi-fonctionnel.",
+    "Tooltip_KooshZoneEgg": "Oeuf non identifi\u00e9.",
+    "Tooltip_LavaZoneEgg": "Oeuf non identifi\u00e9.",
+    "Tooltip_Lithium": "Li. Utiles dans les alliages \u00e0 haute r\u00e9sistance.",
+    "Tooltip_Locker": "Verrouille ce dont vous avez besoin d'entreposer.",
+    "Tooltip_Magnesium": "Mg. M\u00e9tal combustible.",
+    "Tooltip_MushroomForestEgg": "Un \u0153uf myst\u00e9rieux",
+    "Tooltip_Pipe": "Pompe l'air de la surface.",
+    "Tooltip_PlasteelIngot": "Mati\u00e8re ultra-forte.",
+    "Tooltip_PowerCell": "Source d'alimentation mobile \u00e0 haute capacit\u00e9.",
+    "Tooltip_Quartz": "SiO\u2074. Silice sous forme cristalline.",
+    "Tooltip_RadiationSuit": "Costume doubl\u00e9 de plomb assurant une protection contre les radiations.",
+    "Tooltip_Rebreather": "Absorbe le CO\u00b2 afin de recycler l'air utilis\u00e9 \u00e0 de plus grandes profondeurs.",
+    "Tooltip_SafeShallowsEgg": "Oeuf non identifi\u00e9.",
+    "Tooltip_Salt": "NaCl. A utilisations culinaires et d'assainissement.",
+    "Tooltip_ScrapMetal": "Compos\u00e9 \u00e0 87% de titane.",
+    "Tooltip_Seamoth": "Un submersible pour une personne.",
+    "Tooltip_Signal": "Envoie des coordonn\u00e9es.",
+    "Tooltip_Silicone": "Caoutchouc synth\u00e9tique \u00e0 base de silicium.",
+    "Tooltip_Silver": "Ag. \u00c9l\u00e9ment conducteur et microbicide.",
+    "Tooltip_SmallStorage": "Stockage 4x4 immobile dans l'eau.",
+    "Tooltip_StalkerTooth": "Pointu, form\u00e9 de calcium durci",
+    "Tooltip_StasisRifle": "G\u00e8le les objets physiques.",
+    "Tooltip_Tank": "O\u00b2 mix. 30 secondes d'air respirable.",
+    "Tooltip_Terraformer": "Alt\u00e8re de mani\u00e8re simple le terrain.",
+    "Tooltip_Thermometer": "Capteur de temp\u00e9rature.",
+    "Tooltip_Titanium": "Ti. Mat\u00e9riau de construction de base.",
+    "Tooltip_TitaniumIngot": "Ti. Barre de titane condens\u00e9e.",
+    "Tooltip_Transfuser": "\u00c9chantillons d'ADN.",
+    "Tooltip_TwistyBridgesEgg": "Oeuf non identifi\u00e9.",
+    "Tooltip_Welder": "Outil de r\u00e9paration multi-usages. Fonctionne dans tous les environnements.",
+    "Tooltip_WiringKit": "Fil isolant d'argent. Composant \u00e9lectronique essentiel.",
+    "Tooltip_SeamothFragment": "Cette bulle d'aide ne devrait vraisemblablement plus appara\u00eetre dans le jeu. Si vous \u00eates toujours en mesure de voir ceci, merci de signaler un bug.",
+    "Tooltip_StasisRifleFragment": "Un fragment du fusil \u00e0 stase",
+    "Tooltip_ExosuitFragment": "Un fragment d'Exosquelette",
+    "Tooltip_TransfuserFragment": "Un fragment d'\u00c9chantillonneur ",
+    "Tooltip_TerraformerFragment": "Un fragment de Terraformeur",
+    "Tooltip_WorkbenchFragment": "Une section endommag\u00e9e de l'une des stations de modification d'\u00e9quipement de l'Aurora",
+    "Tooltip_FabricatorBlueprint": "Sch\u00e9ma de construction d'un Fabricateur",
+    "Tooltip_ConstructorBlueprint": "Sch\u00e9ma de construction d'un Constructeur",
+    "Tooltip_CyclopsBlueprint": "Sch\u00e9ma de construction d'un Cyclops",
+    "Tooltip_SeamothBlueprint": "Sch\u00e9ma de construction d'un Seamoth",
+    "Tooltip_StasisRifleBlueprint": "Sch\u00e9ma de construction d'un Fusil \u00e0 stase",
+    "Tooltip_ExosuitBlueprint": "Sch\u00e9ma de construction d'un Exosquelette",
+    "Tooltip_TransfuserBlueprint": "Sch\u00e9ma de construction d'un \u00c9chantillonneur",
+    "Tooltip_TerraformerBlueprint": "Sch\u00e9ma de construction d'un Terraformeur",
+    "Tooltip_ReinforceHullBlueprint": "Sch\u00e9ma de construction de coque renforc\u00e9e",
+    "Tooltip_WorkbenchBlueprint": "Plans de construction d'une station de modification",
+    "WorldArrow_EquipFlashlight": "\u00c9quipez votre Lampe-Torche",
+    "WorldArrow_EquipKnife": "\u00c9quipez votre Couteau",
+    "WorldArrow_CutCreepvine": "Coupez de la Vigne d'Orin avec un couteau",
+    "WorldArrow_EquipSeaglide": "\u00c9quipez-vous du Seaglide ",
+    "WorldArrow_TurnOnFlashlight": "Allumez la Lampe-Torche",
+    "WorldArrow_EquipConstructor": "S'\u00e9quiper de la baie de v\u00e9hicules",
+    "WorldArrow_ReleaseConstructor": "D\u00e9ployer la baie de v\u00e9hicules",
+    "WorldArrow_EatSomething": "Cherchez \u00e0 manger",
+    "WorldArrow_DrinkSomething": "Cherchez \u00e0 boire",
+    "WorldArrow_PickupMetal": "Ramassez d\u00e9p\u00f4t de m\u00e9tal",
+    "WorldArrow_PickupQuartz": "Ramassez du quartz",
+    "WorldArrow_BreakLimestone": "Cassez ce bloc de calcaire",
+    "WorldArrow_BoardEscapePod": "Montez dans la capsule de sauvetage",
+    "WorldArrow_UseFabricator": "Utilisez le Fabricateur",
+    "WorldArrow_OpenPDA": "Ouvrir PDA",
+    "WorldArrow_CatchPeeper": "Attrapez ce Peeper",
+    "WorldArrow_SwimToSurface": "Nagez vers la surface !",
+    "WorldArrow_EnterSeamoth": "Entrez dans le Seamoth",
+    "WorldArrow_BoardCyclops": "Montez \u00e0 bord du Cyclops",
+    "WorldArrow_DockSeamoth": "Amarrez le Seamoth",
+    "FragmentAnalyzer": "Analyseur de fragments",
+    "Tooltip_FragmentAnalyzer": "Transforme les fragments en sch\u00e9mas",
+    "FragmentAnalysisComplete": "Fragment num\u00e9ris\u00e9, d\u00e9verrouill\u00e9 {0}.",
+    "Terraformer_Ammo": "MATERIEL : {0}",
+    "BaseFoundation": "Fondation",
+    "BaseCorridor": "Couloir",
+    "BaseCorridorI": "Couloir en I",
+    "BaseCorridorT": "Couloir en T",
+    "BaseCorridorL": "Couloir en L",
+    "BaseCorridorX": "Couloir en X",
+    "BaseDoor": "Porte",
+    "BaseHatch": "\u00c9coutille",
+    "BaseLadder": "\u00c9chelle",
+    "BaseReinforcement": "Consolidation",
+    "BaseRoom": "Salle multifonction",
+    "BaseWall": "Mur",
+    "BaseWindow": "Fen\u00eatre",
+    "PowerGenerator": "G\u00e9n\u00e9rateur \u00e9lectrique",
+    "Tooltip_BaseFoundation": "A construire en premier (+2HP)",
+    "Tooltip_BaseCorridor": "Couloir basique (-1HP)",
+    "Tooltip_BaseCorridorI": "Couloir basique (-1HP)",
+    "Tooltip_BaseCorridorT": "Gauche et droite (-1HP)",
+    "Tooltip_BaseCorridorL": "Virage \u00e0 90 degr\u00e9s (-1HP)",
+    "Tooltip_BaseCorridorX": "Quatre connexions (-1HP)",
+    "Tooltip_BaseDoor": "Soutien structurel et arr\u00eate le d\u00e9bit d'eau",
+    "Tooltip_BaseHatch": "N\u00e9cessaire pour p\u00e9n\u00e9trer dans la base (-1HP)",
+    "Tooltip_BaseLadder": "Pour connecter deux \u00e9tages",
+    "Tooltip_BaseReinforcement": "Augmente la r\u00e9sistance de la coque (+7HP)",
+    "Tooltip_BaseRoom": "Salle basique (-1.25HP)",
+    "Tooltip_BaseWall": "S\u00e9pare une salle",
+    "Tooltip_BaseWindow": "Fen\u00eatre d'observation (-1HP)",
+    "Tooltip_PowerGenerator": "A construire sur une fondation pour alimenter la base",
+    "GhostModelRotateInput": "Utilisez la molette pour orienter",
+    "WarningUnsafeDepth": "ATTENTION : Profondeur de s\u00e9curit\u00e9 de {0} m\u00e8tres d\u00e9pass\u00e9e. Toute collision endommagera la coque.",
+    "WarningCrushDepth": "ATTENTION: Vous approchez de la profondeur {0}. La coque risque de subir des d\u00e9g\u00e2ts ! Remontez vite !",
+    "SafeDepthNow": "Nouvelle profondeur de s\u00e9curit\u00e9 : {0} m\u00e8tres ",
+    "CrushDepthNow": "Nouvelle profondeur critique : {0} m\u00e8tres",
+    "NewLeakDetected": "D\u00e9g\u00e2ts de coque d\u00e9tect\u00e9s ! {0} br\u00e8che majeure, {1} mineure. ",
+    "LeakWelded": "Soudure achev\u00e9e. {0} br\u00e8che majeure et {1} mineure restante.",
+    "HullRestored": "Int\u00e9grit\u00e9 de la coque restaur\u00e9e. Syst\u00e8me de drainage enclench\u00e9.",
+    "AimCloserToGround": "Approchez-vous d'une surface et visez-la.",
+    "DiveReelUsage": "Clic droit pour fixer l'ancre au sol. Puis nagez.",
+    "DiveReelAfterAnchor": "Clic droit \u00e0 nouveau pour fixer la bobine au sol. Se d\u00e9s\u00e9quiper de la bobine est OK.",
+    "PickUpDiveReelAnchor": "R\u00e9cup\u00e9rer l'ancre",
+    "WrongAnchorForReel": "Equipez la bobine pour cette ancre d'abord !",
+    "BaseHullStrChanged": "R\u00e9sistance de la coque chang\u00e9e de {0}, total de {1} \u00e0 pr\u00e9sent",
+    "BaseHullStrDamageDetected": "Int\u00e9grit\u00e9 de la coque endommag\u00e9e \u00e0 {0} ! Consolidez la coque ou r\u00e9parer les structures affaiblies !",
+    "GiantMushroomTree": "Grande masse organique",
+    "SecretCave": "Ouverture de grotte possible ",
+    "CaveEntrance": "Ouverture de grotte possible",
+    "HeatSignature": "Signature thermique",
+    "HatchExitBlocked": "L'\u00e9coutille est bloqu\u00e9e !",
+    "RotateCorridorHint": "Rotate",
+    "Lead": "Plaque de plomb",
+    "Magnesium": "Magn\u00e9sium",
+    "NutrientBlock": "Bloc de nutriments",
+    "OpalGem": "Gemme d'opale",
+    "SupplyCrate": "Vac-Pack",
+    "SmallSupplyCrate": "Petit Vac-Pack",
+    "HoldShiftToPreventMenuClose": "Maintenez Maj pour emp\u00eacher la fermeture du menu pendant la fabrication",
+    "RadiationHelmet": "Casque anti-radiation",
+    "RadiationGloves": "Gants anti-radiations",
+    "HullReinforcementModule": "Balance de pression pour Cyclops ",
+    "Tooltip_HullReinforcementModule": "R\u00e9organise la structure atomique de la coque sous-marine afin d'augmenter en toute s\u00e9curit\u00e9 la profondeur de plong\u00e9e",
+    "PowerUpgradeModule": "Module d'am\u00e9lioration de rendement \u00e9nerg\u00e9tique ",
+    "Tooltip_PowerUpgradeModule": "Recycle la chaleur d\u00e9riv\u00e9e pour augmenter l'efficacit\u00e9 du moteur de 15%.",
+    "SpecimenAnalyzerBlueprint": "Sch\u00e9ma d'analyseur de sp\u00e9cimen",
+    "FirstAidKit": "Kit de soin",
+    "Tooltip_FirstAidKit": "Bandages trait\u00e9s. A appliquer pour endiguer le flux sanguin et d\u00e9sinfecter les plaies.",
+    "Tooltip_Lead": "Pb. Prot\u00e8ge des radiations.",
+    "Tooltip_NutrientBlock": "Dense, denr\u00e9es alimentaires transform\u00e9es de l'Aurora.",
+    "Tooltip_OpalGem": "Si. Un joyau de silicium concentr\u00e9.",
+    "Tooltip_RadiationGloves": "Protection anti-radiation \u00e0 base de plomb.",
+    "Tooltip_RadiationHelmet": "Casque anti-radiation doubl\u00e9 de plomb.",
+    "Tooltip_SupplyCrate": "\u00c9quipement emball\u00e9 sous vide de l'Aurora.",
+    "Tooltip_SmallSupplyCrate": "Approvisionnements emball\u00e9s sous vide de l'Aurora.",
+    "Open_SupplyCrate": "Ouvrir la caisse de fournitures",
+    "Close_SupplyCrate": "Fermer la caisse de fournitures",
+    "Tooltip_SpecimenAnalyzerBlueprint": "Sch\u00e9ma de construction d'un Analyseur de sp\u00e9cimen",
+    "Tooltip_HoleFish": "Cartilagineux \u00e0 80%. Utilise son \"trou\" pour se d\u00e9placer de mani\u00e8re impr\u00e9visible.",
+    "Tooltip_Peeper": "Herbivore agile, actif durant les heures du jour.",
+    "Tooltip_Oculus": "Relativement similaire au Peeper mais adapt\u00e9 aux environnements \u00e0 faible luminosit\u00e9.",
+    "Tooltip_GarryFish": "Un petit poisson assez savoureux.",
+    "Tooltip_Boomerang": "Esp\u00e8ces diurnes poss\u00e8dant deux nageoires jumelles caract\u00e9ristiques de leur m\u00e9canisme de propulsion.",
+    "Tooltip_LavaLarva": "Ce sp\u00e9cimen sans-t\u00eate a d\u00e9velopp\u00e9 une tol\u00e9rance \u00e0 la chaleur.",
+    "Tooltip_Eyeye": "A \u00e9volu\u00e9 pour voir les pr\u00e9dateurs avant qu'ils ne le voient.",
+    "Tooltip_Bladderfish": "Utilise des membranes perm\u00e9ables afin de filtrer l'oxyg\u00e8ne de l'eau. Rempli d'air.",
+    "Tooltip_Hoverfish": "Les pieds vibrants de cette cr\u00e9ature lui permettent de maintenir la position dans les courants.",
+    "Tooltip_Reginald": "Faune indig\u00e8ne docile.",
+    "Tooltip_Spadefish": "Sp\u00e9cimen aquatique avec un seul \u0153il sur-d\u00e9velopp\u00e9.",
+    "SpecimenAnalyzer": "Analyseur de sp\u00e9cimen",
+    "AccessSpecimenAnalyzer": "Acc\u00e9der \u00e0 l'analyseur de sp\u00e9cimen",
+    "Tooltip_SpecimenAnalyzer": "\u00c9tudie des sp\u00e9cimens pour en d\u00e9duire des sch\u00e9mas de fabrication",
+    "SpecimenAnalyzerEmpty": "Analyseur de sp\u00e9cimen vide",
+    "SpecimenAnalyzerIdle": "Analyse du sp\u00e9cimen en attente",
+    "SpecimenAnalyzing": "Analyse \u00e0 {0}{1}{2}%... ",
+    "SpecimenAnalysisCommencing": "Analyse de {0} enclench\u00e9e.",
+    "SpecimenAnalysisComplete": "Analyse de sp\u00e9cimen termin\u00e9e. {0} disponible.",
+    "ReefbackTissue": "Tissus cartilagineux",
+    "Tooltip_ReefbackTissue": "Ce tissu conjonctif solide peut favoriser la d\u00e9couverte de nouvelles fa\u00e7ons de d\u00e9velopper des costumes de plong\u00e9e renforc\u00e9s.",
+    "ReefbackShell": "Carapace cartilagineuse",
+    "Tooltip_ReefbackShell": "Ce cartilage de coquille tr\u00e8s r\u00e9sistant peut permettre la construction de structures de renforcement plus solides.",
+    "ReefbackAdvancedStructure": "Carcasse d'oeuf de Chelonian",
+    "Tooltip_ReefbackAdvancedStructure": "L'analyse du fonctionnement interne de la structure de la coque avanc\u00e9e peut permettre un \u00e9ventuel renforcement structurel.",
+    "HullReinforcementModule2": "Module de renforcement de coque",
+    "Tooltip_HullReinforcementModule2": "Module de renforcement de coque construit gr\u00e2ce \u00e0 la carapace d'un Reefback",
+    "HullReinforcementModule3": "Module de renfort de coque Chelonian",
+    "Tooltip_HullReinforcementModule3": "Module de renforcement de la coque. Construit \u00e0 l'aide d'AFN de Reefback et de carcasse d'\u0153uf de chelonian.",
+    "ReefbackEgg": "\u0152uf de Reefback",
+    "Tooltip_ReefbackEgg": "\u00c9tonnament, les Reefbacks \u00e9closent de ceci",
+    "ReefbackDNA": " \u00c9chantillon d'ADN de Reefback",
+    "UpgradeConsole": "Acc\u00e8s am\u00e9liorations",
+    "PowerRatingNow": "Rendement \u00e9nerg\u00e9tique actuel {0}  ",
+    "RadiationFixed": "Noyau principal endommag\u00e9. Dissipation totales des radiations d'ici 3 jours. Tentative de t\u00e9l\u00e9chargement de la boite noire de l'Aurora. Rencontre des interf\u00e9rences.",
+    "RemainingRadiationLeaks": "{0} br\u00e8che(s) de radiation restante(s)",
+    "HardcoreGameOver": "Vous \u00eates mort. Partie termin\u00e9e.",
+    "WorldArrow_AttackBleeder": "Attaquer ",
+    "EscToSkip": "Maintenez \u00c9chap pour quitter",
+    "InventoryLabel": "INVENTAIRE",
+    "StorageLabel": "STOCKAGE",
+    "EquipmentLabel": "\u00c9QUIP\u00c9",
+    "CraftingLabel": "CONSTRUCTION",
+    "KeyRange15": "1-5",
+    "ShiftLMB": "Shift + Clic gauche",
+    "KeyE": "E",
+    "BeaconLabelEdit": "Changer le nom de la balise ",
+    "BeaconLabel": "Nom de la balise",
+    "BeaconSubmit": "Valider",
+    "BeaconDefaultPrefix": "B",
+    "EscapePodStorageLabel": "STOCKAGE",
+    "CyclopsUpgradesStorageLabel": "MODULES D'AM\u00c9LIORATION",
+    "SpecimenAnalyzerStorageLabel": "ANALYSER UN SP\u00c9CIMEN",
+    "CalciumChunk": "Affleurement de calcium",
+    "CuredPeeper": "Peeper ass\u00e9ch\u00e9",
+    "CuredHoleFish": "Holefish ass\u00e9ch\u00e9",
+    "CuredHoopfish": "Hoopfish ass\u00e9ch\u00e9",
+    "CuredGarryFish": "Garryfish ass\u00e9ch\u00e9",
+    "CuredReginald": "Reginald ass\u00e9ch\u00e9",
+    "CuredBladderfish": "Airsack ass\u00e9ch\u00e9",
+    "CuredHoverfish": "Hoverfish ass\u00e9ch\u00e9",
+    "CuredSpadefish": "Spadefish ass\u00e9ch\u00e9",
+    "CuredBoomerang": "Boomerang ass\u00e9ch\u00e9 ",
+    "CuredEyeye": "Poisson \u0153il ass\u00e9ch\u00e9",
+    "CuredOculus": "Oculus ass\u00e9ch\u00e9",
+    "Decomposing": "Vieux",
+    "Ripe": "En d\u00e9composition",
+    "Rotting": "Pourri",
+    "CookedFood": "Nourriture cuisin\u00e9e",
+    "CuredFood": "Nourriture b\u00e9n\u00e9fique",
+    "Tooltip_CuredBladderfish": "Impression \u00e9trange de mouvement.",
+    "Tooltip_CuredBoomerang": "Dur, mais savoureux.",
+    "Tooltip_CuredEyeye": "Fl\u00e9tri, durci et en quelque sorte plus app\u00e9tissant.",
+    "Tooltip_CuredGarryFish": "Le seul ar\u00f4me est le sel.",
+    "Tooltip_CuredHoleFish": "Le salage a donn\u00e9 \u00e0 la chair une consistance mousseuse.",
+    "Tooltip_CuredHoopfish": "Ce poisson a en fait un go\u00fbt de poisson.",
+    "Tooltip_CuredHoverfish": "Les jambes \u00e0 la fois croustillantes et sal\u00e9es en sont le clou.",
+    "Tooltip_CuredOculus": "Charnu et encore fort en saveur.",
+    "Tooltip_CuredPeeper": "Conserv\u00e9 dans le sel.",
+    "Tooltip_CuredReginald": "Trop sal\u00e9.",
+    "Tooltip_CuredSpadefish": "Votre dose quotidienne de sel en une seule portion.",
+    "NoBattery": "Aucune pile dans l'inventaire",
+    "UseWorkbench": "Utiliser la station de modification ",
+    "DiamondBlade": "Lame durcie",
+    "HeatBlade": "Lame thermique",
+    "LithiumIonBattery": "Pile au lithium-ion",
+    "PlasteelTank": "R\u00e9servoir en plastacier",
+    "HighCapacityTank": "R\u00e9servoir haute-capacit\u00e9",
+    "UltraGlideFins": "Palmes ultra glissantes",
+    "SwimChargeFins": "Palmes de charge",
+    "RepulsionCannon": "Canon \u00e0 r\u00e9pulsion",
+    "Stillsuit": "Distille",
+    "PowerGlide": "Powerglide",
+    "Tooltip_DiveSuit": "Tenue de plong\u00e9e simple",
+    "Tooltip_DiamondBlade": "Lame de diamant durci",
+    "Tooltip_HeatBlade": "Lame chauff\u00e9e",
+    "Tooltip_LithiumIonBattery": "Double l'\u00e9nergie d'une pile standard",
+    "Tooltip_PlasteelTank": "R\u00e9servoir l\u00e9ger suppl\u00e9mentaire",
+    "Tooltip_HighCapacityTank": "Capacit\u00e9 d'oxyg\u00e8ne suppl\u00e9mentaire",
+    "Tooltip_UltraGlideFins": "Vitesse de natation augment\u00e9e",
+    "Tooltip_SwimChargeFins": "Recharge votre \u00e9quipement pendant que vous nagez",
+    "Tooltip_RepulsionCannon": "Applique une force aux objets",
+    "Tooltip_Stillsuit": "Recycle l'humidit\u00e9 du corps",
+    "Tooltip_PowerGlide": "Clic-droit pour activer une surtension",
+    "SecsO2": "{0}s",
+    "Empty": "vide",
+    "Tooltip_PropulsionCannon": "D\u00e9forme la gravit\u00e9 pour attirer et repousser des objets.",
+    "Tooltip_PropulsionCannonBlueprint": "Plans pour la construction d'un Canon \u00e0 propulsion",
+    "InventoryOverflow": "Inventaire rempli. Lib\u00e9rez de l'espace pour ramasser {0}.",
+    "CrashPowder": "Poudre de Poisson Explosif ",
+    "Tooltip_CrashPowder": "SO\u2074Tr. \u00c0 base de soufre en poudre. Combustible sous-marin..",
+    "LoadGame": "Charger une partie",
+    "Quit": "Quitter",
+    "SurvivalDescription": "Prenez garde aux cr\u00e9atures hostiles, trouvez vos propres ressources et g\u00e9rez votre faim et soif pour survivre.",
+    "FreedomDescription": "Comme le Mode Survie, mais sans faim ou soif.",
+    "HardcoreDescription": "Mode Survie avec une seule vie. Aucune alerte O2.",
+    "GetDevelopmentUpdates": "Suivez les mises \u00e0 jour du jeu",
+    "ViewOnSteam": "Voir sur Steam",
+    "RedeemaKey": "Activer une cl\u00e9",
+    "GetDevUpdates": "Suivre les mises \u00e0 jour ",
+    "GetDevUpdatesDescription": "Entrer votre email pour recevoir la newsletter \u00e0 chaque mise \u00e0 jour de l'Acc\u00e8s Anticip\u00e9 de Subnautica !",
+    "EnterEmailPlaceholder": "Entrez votre email...",
+    "ViewPastUpdates": "Voir les mises \u00e0 jour pr\u00e9c\u00e9dentes",
+    "Subscribe": "S'abonner ",
+    "RedeemanItemKey": "Activer une cl\u00e9 objet ",
+    "EnterKeyPlaceholder": "Entrer une cl\u00e9...",
+    "RedemptionDescription": "En possession d'une cl\u00e9 objet ? Activez-la, ajoutez-la dans votre Inventaire Steam, et retrouvez-la en jeu ! ",
+    "Redeem": "Activer",
+    "StillsuitEquipped": "Distille \u00e9quip\u00e9 et capturant l'humidit\u00e9 du corps",
+    "StillsuitCreatedWater": "Le distille a recueilli 8oz de H2O recycl\u00e9",
+    "StillsuitWater": "Eau r\u00e9cup\u00e9r\u00e9e",
+    "Tooltip_StillsuitWater": "H\u00b2O. Purifi\u00e9e, eau corporelle recycl\u00e9e.",
+    "PropulsionCannonEToRelease": "Appuyez sur E pour l\u00e2cher l'objet",
+    "Help": "Aide",
+    "Inventory": "Inventaire",
+    "OpenSteamInventory": "Ouvrir inventaire Steam ",
+    "BackToDevNews": "Revenir aux Dev News",
+    "EconomyWarning": "Cette fonctionnalit\u00e9 est actuellement en test. Merci de l'ignorer pour le moment !",
+    "DevTestItem": "Objet de test des Devs",
+    "Tooltip_DevTestItem": "Vraiment. VRAIMENT.",
+    "BikemanHullPlate": "Plaque comm\u00e9morative \"Bikeman\"",
+    "EatMyDictionHullPlate": "Plaque comm\u00e9morative \"Eat My Diction\"",
+    "POWER": "PUISSANCE",
+    "DevelopmentNews": "News de d\u00e9veloppement",
+    "SavedGames": "Parties sauvegard\u00e9es",
+    "ClimbLadder": "Escalader l'\u00e9chelle",
+    "ExitEscapePod": "Sortir de la capsule de sauvetage",
+    "EnterEscapePod": "Entrer dans la capsule de sauvetage",
+    "BoardEscapePod": "Monter \u00e0 bord de la capsule",
+    "UseLadder": "Utiliser l'\u00e9chelle",
+    "Open": "Ouvrir",
+    "Close": "Fermer",
+    "OpenStorage": "Ouvrir le stockage",
+    "SavingGame": "Sauvegarde en cours...",
+    "GameSaved": "Partie sauvegard\u00e9e.",
+    "PressButton": "Appuyer sur le bouton",
+    "Climb": "Escalader",
+    "Dig": "Creuser",
+    "DriveVehicle": "Piloter le v\u00e9hicule",
+    "CloseDoor": "Fermer la porte",
+    "OpenDoor": "Ouvrir la porte",
+    "ClimbUp": "Grimper",
+    "ClimbDown": "Descendre",
+    "GrabOn": "Saisir",
+    "PowerCableInstructions": "Attacher (clic gauche) D\u00e9tacher (clic droit)",
+    "PickupCable": "C\u00e2ble de ramassage",
+    "InsertPowerCell": "Ins\u00e9rer une nouvelle batterie haute capacit\u00e9",
+    "PilotSub": "Piloter le sous-marin",
+    "SetAutopilot": "R\u00e9gler le pilote automatique",
+    "SignInstructions": "Ramasser (clic droit pour \u00e9diter)",
+    "TerraformerInstructions": "Faites glisser le bouton droit pour ajouter des mat\u00e9riaux. Et shift-glisser pour les enlever.",
+    "TerraformerOutOfMaterial": "En manque de mat\u00e9riaux ! Creusez (shift-glissez le bouton droit) pour en obtenir",
+    "TerraformerTooClose": "Trop pr\u00e8s ! Reculez ",
+    "TerraformerTooFar": "Trop \u00e9loign\u00e9 du terrain !",
+    "PipeInstructions": "Faites un clic droit pour placer. Placez au-dessus de l'eau, ou connectez-le \u00e0 un tuyeau bleu existant en le visant.",
+    "PipeCantReconnect": " Impossible de reconnecter le tuyau \u00e0 proximit\u00e9 - trop loin !",
+    "PipeNotConnected": "Tuyau non reli\u00e9 \u00e0 la surface ! Impossible d'obtenir de l'oxyg\u00e8ne.",
+    "FeedbackInstructions": "Appuyer sur F8 pour signaler les bugs et laisser un commentaire",
+    "NightTime": "La nuit approche.",
+    "SpawnNearbyFailed": "R\u00e9apparition \u00e0 proximit\u00e9 \u00e9chou\u00e9e.",
+    "Compass": "Boussole",
+    "Pipe": "Tuyau",
+    "Terraformer": "\u00c9chantillonneur ",
+    "Thermometer": "Thermom\u00e8tre",
+    "BatteryDepleted": "Pile d\u00e9charg\u00e9e",
+    "Gravsphere": "Gravisph\u00e8re",
+    "Cyclops": "Cyclops",
+    "EscapePod": "Capsule de sauvetage",
+    "Silicone": "Caoutchouc en silicone",
+    "Tooltip_Aquarium": "Habitat aquatique autonome.",
+    "Tooltip_Spotlight": "Solution d'\u00e9clairage fixe.",
+    "DeconstructAttachedError": "Les composants reli\u00e9s doivent \u00eatre d\u00e9mantel\u00e9s en premier ",
+    "Pause": "Pause",
+    "BackToGame": "Retour au jeu",
+    "GiveFeedback": "Apporter un commentaire",
+    "Save": "Sauvegarder",
+    "QuitToDesktop": "Retourner au Bureau",
+    "AreYouSure": "En \u00eates-vous s\u00fbr ?",
+    "Yes": "Oui",
+    "No": "Non",
+    "InvertMouse": "Souris invers\u00e9e",
+    "MouseSensitivity": "Sensibilit\u00e9 Souris",
+    "OculusRift": "Oculus Rift",
+    "OculusRecenter": "Recentrer (F2)",
+    "DisableMousePitch": "D\u00e9sactiver le mouvement de haut de la souris ",
+    "ArmFollowsGaze": "Les bras suivent le regard",
+    "capacity": "capacit\u00e9",
+    "ClimbUpLadder": "Grimper l'\u00e9chelle",
+    "ClimbDownLadder": "Descendre l'\u00e9chelle ",
+    "sand": "sable",
+    "FabricatorMenu_Resources": "Ressources",
+    "FabricatorMenu_Electronics": "\u00c9lectroniques",
+    "FabricatorMenu_Survival": "Alimentation ",
+    "FabricatorMenu_Water": "Eau",
+    "FabricatorMenu_CookedFood": "Nourriture cuite",
+    "FabricatorMenu_CuredFood": "Nourriture ass\u00e9ch\u00e9e",
+    "FabricatorMenu_Personal": "Personnel",
+    "FabricatorMenu_Equipment": "\u00c9quipement",
+    "FabricatorMenu_Tools": "Outils",
+    "FabricatorMenu_Machines": "D\u00e9ployables",
+    "FabricatorMenu_Submarine": "Sous-marin",
+    "ConstructorMenu_Vehicles": "V\u00e9hicules",
+    "WorkbenchMenu_KnifeMenu": "Couteau de survie",
+    "WorkbenchMenu_TankMenu": "R\u00e9servoir d'air",
+    "WorkbenchMenu_FinsMenu": "Palmes",
+    "PropulsionCannonFragment": "Fragment de canon \u00e0 propulsion",
+    "Tooltip_PropulsionCannonFragment": "Un morceau de canon \u00e0 propulsion",
+    "Tooltip_ReinforceHullFragment": "Un fragment de coque renforc\u00e9e de l'Aurora",
+    "TabInventory": "Inventaire",
+    "TabJournal": "Sch\u00e9mas ",
+    "SignDefaultLabel": "Marque",
+    "SignEditLabel": "Renommer ",
+    "CategoryMisc": "Divers",
+    "CategoryBase": "Compartiments pour habitat ",
+    "CategoryPower": "Puissance",
+    "CategoryModule": "\u00c9lectrom\u00e9nager",
+    "Sign": "\u00c9criteau",
+    "Tooltip_Sign": "\u00c9criteau",
+    "SolarPanel": "Panneau solaire",
+    "SolarPanelStatus": "Panneau solaire (soleil : {0}% charge : {1}\/{2}) ",
+    "Tooltip_SolarPanel": "A construire sur un sol ensoleill\u00e9 pour recharger (25 \u00e9nergie\/min)",
+    "WorkbenchMenu_PropulsionCannonMenu": "Canon \u00e0 propulsion",
+    "Uranium": "Uranium",
+    "RegenPowerCell": "Batterie haute-capacit\u00e9 auto-rechargeante",
+    "CompostCreepvine": "Composter Vigne d'Orin",
+    "Tooltip_CompostCreepvine": "D\u00e9compose la Vigne d'Orin au cours du temps pour une \u00e9nergie fiable",
+    "ProcessUranium": "Traiter l'uranium",
+    "Tooltip_ProcessUranium": "Une r\u00e9action de fission hautement contr\u00f4l\u00e9e",
+    "TreeMushroomPiece": "\u00c9chantillon fongique ",
+    "Tooltip_TreeMushroomPiece": "Flore indig\u00e8ne. Contient des enzymes fongiques.",
+    "Tooltip_Uranium": "U. Utile en mati\u00e8re de fission nucl\u00e9aire.",
+    "PowerTransmitter": "Transmetteur de puissance ",
+    "Accumulator": "Accumulateur",
+    "Bioreactor": "Bior\u00e9acteur ",
+    "ThermalPlant": "Centrale thermique",
+    "NuclearReactor": "R\u00e9acteur nucl\u00e9aire",
+    "PowerCellStatus": "PUISSANCE : {0}\/{1} ",
+    "HUDPowerStatus": "PUISSANCE : {0}\/{1} ",
+    "AccumulatorStatus": "Accumulateur (charge : {0}\/{1})",
+    "BioreactorStatus": "Bior\u00e9acteur (charge : {0}\/{1})",
+    "BioreactorProcessingStatus": "Bior\u00e9acteur (en cours : {0} charge : {1}\/{2}) ",
+    "ThermalPlantStatus": "Centrale thermique (charge : {0}\/{1})",
+    "NuclearReactorStatus": "R\u00e9acteur nucl\u00e9aire (charge : {0}\/{1}) ",
+    "NuclearReactorProcessingStatus": "R\u00e9acteur nucl\u00e9aire (en cours : {0} charge : {1}\/{2}) ",
+    "Tooltip_PowerTransmitter": "\u00c9tend la port\u00e9e de la source d'alimentation",
+    "Tooltip_Accumulator": "Conserve l'\u00e9nergie",
+    "Tooltip_Bioreactor": "Composte la mati\u00e8re v\u00e9g\u00e9tale en \u00e9nergie (40 \u00e9nergie\/min)",
+    "Tooltip_ThermalPlant": "Convertit la chaleur en \u00e9nergie (> 15 \u00b0C) (50 \u00e9nergie\/min)",
+    "Tooltip_NuclearReactor": "Traite l'uranium en puissante \u00e9nergie (150 \u00e9nergie\/min)",
+    "SmallLockerDefaultLabel": "ARMOIRE",
+    "SmallLockerEditLabel": "Modifier le nom de l'armoire",
+    "SmallLocker": "Armoire murale ",
+    "Tooltip_SmallLocker": "Armoire de stockage murale ",
+    "Lithium": "Lithium ",
+    "DioramaHullPlate": "Plaque comm\u00e9morative Diorama",
+    "Tooltip_DioramaHullPlate": "Une plaque comm\u00e9morative sp\u00e9ciale en l'honneur d'un unique diorama.",
+    "OpenPercent": "POURCENTAGE D'OUVERTURE : {0}% ",
+    "LaserCutter": "Cutter laser",
+    "Tooltip_LaserCutter": "Permet d'ouvrir certaines choses",
+    "Sealed_SupplyCrate": "Caisse de ressources scell\u00e9e",
+    "Sealed": "Scell\u00e9",
+    "SealedInstructions": "Couper \u00e0 travers pour p\u00e9n\u00e9trer",
+    "BoardCyclops": "Monter \u00e0 bord du Cyclops",
+    "LeaveCyclops": "Sortir du Cyclops",
+    "EnterBase": "Entrer dans la Base",
+    "ExitBase": "Sortir de la Base",
+    "MarkiplierHullPlate": "Plaque comm\u00e9morative Markiplier",
+    "Tooltip_MarkiplierHullPlate": "Je n'ai pas peur. Pas m\u00eame un peu.",
+    "MuyskermHullPlate": "Plaque comm\u00e9morative Muyskerm",
+    "Tooltip_MuyskermHullPlate": "Reconsid\u00e9rez vos crit\u00e8res d'abonnement YouTube.",
+    "LordMinionHullPlate": "Plaque comm\u00e9morative LordMinion",
+    "Tooltip_LordMinionHullPlate": "La plus belle plaque comm\u00e9morative Subnautica de tous les temps.",
+    "JackSepticEyeHullPlate": "Plaque comm\u00e9morative JackSepticEye",
+    "Tooltip_JackSepticEyeHullPlate": "Jack cr\u00e9e du propre, jurant gratuitement dans des vid\u00e9os appropri\u00e9es pour la visualisation par tout type d'\u00e2ge.",
+    "Aerogel": "A\u00e9rogel",
+    "AluminumOxide": "Cristal d'oxyde d'aluminium",
+    "AminoAcids": "Acides amin\u00e9s",
+    "AramidFibers": "Fibres synth\u00e9tiques ",
+    "Benzene": "Benz\u00e8ne",
+    "BloodOil": "Huile de sang ",
+    "BloodRoot": "Racine de sang",
+    "BloodVine": "Vin de sang ",
+    "Graphene": "Graph\u00e8ne",
+    "HydrochloricAcid": "Acide chlorhydrique",
+    "Magnetite": "Magn\u00e9tite",
+    "MercuryOre": "Minerai de mercure",
+    "Nanowires": "Nanofils ",
+    "Polyaniline": "Polyaniline",
+    "Sulphur": "Sulphur",
+    "WhiteMushroom": "Champi des profondeurs",
+    "FabricatorMenu_BasicMaterials": "Mat\u00e9riaux de base",
+    "FabricatorMenu_AdvancedMaterials": "Mat\u00e9riaux avanc\u00e9s",
+    "Tooltip_Aerogel": "L\u00e9ger, poreux, gel s\u00e9ch\u00e9. Haute isolation thermique.",
+    "Tooltip_AluminumOxide": "Al\u00b2O\u00b3. Thermo-conductivit\u00e9 et \u00e9lectro-conductance notables.",
+    "Tooltip_AminoAcids": "Prot\u00e9ines et bloc de construction de neurotransmetteur.",
+    "Tooltip_AramidFibers": "Fibres synth\u00e9tiques \u00e0 hautement r\u00e9sistantes",
+    "Tooltip_Benzene": "C\u2076H\u2076. P\u00e9trole et applications pour solvants.",
+    "Tooltip_BloodOil": "Substance gluante grasse",
+    "Tooltip_BloodRoot": "Une racine rouge\u00e2tre",
+    "Tooltip_BloodVine": "",
+    "Tooltip_Graphene": "C. Carbone de la taille d'un atome. Plus fort que l'acier.",
+    "Tooltip_HydrochloricAcid": "HCl. Puissant compos\u00e9 acide. A employer prudemment.",
+    "Tooltip_Magnetite": "Ma. M\u00e9tal \u00e0 propri\u00e9t\u00e9s magn\u00e9tiques.",
+    "Tooltip_MercuryOre": "HgS. Cinabre. A chauffer dans de l'O\u00b2 pour acqu\u00e9rir du mercure raffin\u00e9.",
+    "Tooltip_Nanowires": "Fils pour dispositifs quantiques \u00e0 \u00e9chelle nanom\u00e9trique.",
+    "Tooltip_Polyaniline": "Polym\u00e8re hautement conductible.",
+    "Tooltip_Sulphur": "S. Oxydant et agent r\u00e9ducteur.",
+    "Tooltip_WhiteMushroom": "Chair tr\u00e8s acide.",
+    "Cutefish": "Cutefish",
+    "Tooltip_Cutefish": "Edition sp\u00e9ciale animal domestique ",
+    "BaseBulkhead": "Cloison",
+    "Tooltip_BaseBulkhead": "Soutien structurel pouvant \u00e9galement stopper le d\u00e9bit d'eau (+2HP)",
+    "OpenLocker": "Ouvrir l'armoire ",
+    "Lubricant": "Lubrifiant",
+    "CreepvineSeedCluster": "Graines de Vigne d'Orin",
+    "Tooltip_CreepvineSeedCluster": "Semences indig\u00e8nes \u00e0 forte teneur en huile.",
+    "Tooltip_Lubricant": "Lubrifiant \u00e0 base d'huile d'origine naturelle. A utilisations industrielles.",
+    "SeamothReinforcementModule": "Balance de pression pour Seamoth",
+    "Tooltip_SeamothReinforcementModule": "Renforce le ch\u00e2ssis du Seamoth sous pression extr\u00eame, augmentant la profondeur de s\u00e9curit\u00e9 de 200m par module.",
+    "SeamothPowerUpgradeModule": "Module de rendement \u00e9nerg\u00e9tique pour Seamoth",
+    "Tooltip_SeamothPowerUpgradeModule": "Recycle la chaleur d\u00e9riv\u00e9e pour minimiser les d\u00e9fauts d'alimentation. Chaque module r\u00e9duit la consommation d'\u00e9nergie de 15%.",
+    "SeamothSolarCharge": "Chargeur solaire pour Seamoth",
+    "Tooltip_SeamothSolarCharge": "Recharge la batterie du Seamoth gr\u00e2ce \u00e0 la lumi\u00e8re du soleil.",
+    "Bench": "Banc ",
+    "Tooltip_Bench": "Appareil m\u00e9tallique simple. Conserve l'\u00e9nergie au repos.",
+    "BaseCorridorGlassI": "Couloir I en verre",
+    "BaseCorridorGlassL": "Couloir L en verre ",
+    "BaseObservatory": "Observatoire",
+    "Tooltip_BaseCorridorGlassI": "Couloir de verre basique (-2HP)",
+    "Tooltip_BaseCorridorGlassL": "Virage \u00e0 90 degr\u00e9s (-2HP)",
+    "Tooltip_BaseObservatory": "Admirez la vie oc\u00e9anique qui vous entoure (-3HP)",
+    "BaseConnector": "Connecteur vertical ",
+    "Tooltip_BaseConnector": "Connecteur vertical pour base (-0.5HP)",
+    "BioreactorFragment": "Fragment de bior\u00e9acteur",
+    "NuclearReactorFragment": "Fragment de r\u00e9acteur nucl\u00e9aire ",
+    "ThermalPlantFragment": "Fragment de Centrale thermique",
+    "Tooltip_BioreactorFragment": "Un composant de bior\u00e9acteur",
+    "Tooltip_ThermalPlantFragment": "Un composant de centrale thermique",
+    "Tooltip_BioreactorBlueprint": "Plans de construction d'un Bior\u00e9acteur",
+    "Tooltip_NuclearReactorBlueprint": "Plans de construction d'un R\u00e9acteur nucl\u00e9aire",
+    "Tooltip_ThermalPlantBlueprint": "Plans de construction d'une Centrale thermique",
+    "BaseMoonpool": "Chambre d'immersion",
+    "Tooltip_BaseMoonpool": "Quai d'amarrage (-5HP)",
+    "AquariumStorageLabel": "AQUARIUM",
+    "UseAquarium": "Utiliser Aquarium",
+    "SitDown": "S'assoir",
+    "StandUp": "Se lever",
+    "MoonpoolFragment": "Fragment de chambre d'immersion",
+    "BioreactorBlueprint": "Sch\u00e9ma de bior\u00e9acteur",
+    "MoonpoolBlueprint": "Sch\u00e9ma de chambre d'immersion",
+    "NuclearReactorBlueprint": "Sch\u00e9ma de r\u00e9acteur nucl\u00e9aire",
+    "ThermalPlantBlueprint": "Sch\u00e9ma de centrale thermique",
+    "Tooltip_MoonpoolFragment": "Un fragment de chambre d'immersion",
+    "Tooltip_NuclearReactorFragment": "Un fragment de r\u00e9acteur nucl\u00e9aire",
+    "FloatingIsland": "Masse terrestre d\u00e9tect\u00e9e",
+    "CoralArch": "Grande masse organique",
+    "BalancingRock": "Formation g\u00e9ologique",
+    "HugePillar": "Formation g\u00e9ologique",
+    "InventoryCantDropHere": "Impossible de placer un objet ici. Utilisez les conteneurs de stockage \u00e0 la place.",
+    "BaseCorridorGlass": "couloir vitr\u00e9",
+    "Tooltip_BaseCorridorGlass": "Couloir de verre (-2HP)",
+    "SeamothDefaultName": "SEAMOTH",
+    "ExosuitDefaultName": "EXOSQUELETTE",
+    "SubmersibleNotDocked": "AUCUN V\u00c9HICULE AMARR\u00c9",
+    "SubmersibleDocked": "AMARR\u00c9",
+    "SubmersibleFullyCharged": "CHARG\u00c9",
+    "SubmersibleCharging": "EN CHARGE",
+    "BaseUpgradeConsole": "Station de modification de Seamoth",
+    "Tooltip_BaseUpgradeConsole": "Construisez ceci dans la chambre d'immersion pour am\u00e9liorer le Seamoth",
+    "NotEnoughSpaceToSit": "Pas assez d'espace pour s'asseoir sur ce banc",
+    "Creative": "Cr\u00e9atif",
+    "CreativeDescription": "Construisez ce que vous voulez sans contraintes. Seront ainsi d\u00e9sactiv\u00e9s l'oxyg\u00e8ne, la nourriture, la pression, l'histoire et la mort.",
+    "unpowered": "Hors tension",
+    "SeamothStorageModule": "Module de stockage pour Seamoth",
+    "Tooltip_SeamothStorageModule": "Un espace de stockage 4x4.",
+    "SeamothStorageNotEmpty": "Le stockage doit d'abord \u00eatre vide",
+    "SeamothElectricalDefense": "Syst\u00e8me de d\u00e9fense pour Seamoth",
+    "Tooltip_SeamothElectricalDefense": "G\u00e9n\u00e8re un champ \u00e9lectrique localis\u00e9 con\u00e7u pour faire face \u00e0 la faune agressive.",
+    "Skyray": "Skyray",
+    "SeamothTorpedoModule": "Syst\u00e8me \u00e0 torpilles pour Seamoth",
+    "Tooltip_SeamothTorpedoModule": "Un syst\u00e8me standard de tir sous-marin pour torpilles \u00e0 vortex non-l\u00e9thales.",
+    "Goal_Lifepod1": "Initialisation du PDA en mode urgence. Donn\u00e9es biom\u00e9triques connect\u00e9es. Syst\u00e8mes de la capsule de survie connect\u00e9s. Analyse situationnelle en cours.",
+    "Goal_Lifepod2": "Le vaisseau minier Aurora a subi une br\u00e8che catastrophique de la coque. Cause : inconnue. Aucun signe de vie d'origine humaine d\u00e9tect\u00e9 dans un rayon de 100m.",
+    "Goal_Lifepod3": " Dur\u00e9e : 3 heures depuis le crash sur la plan\u00e8te. \u00c9tat de la capsule de survie : coque s\u00e9curis\u00e9e. Communications : hors-lignes.",
+    "Goal_Lifepod4": "Environnement : plan\u00e8te oc\u00e9anique inexplor\u00e9e. Atmosph\u00e8re compos\u00e9e d'azote et d'oxyg\u00e8ne. Pollution de l'eau : \u00e9lev\u00e9e.",
+    "Goal_Intro1": "Diffusion du signal de d\u00e9tresse automatis\u00e9 de courte-port\u00e9e \u00e9chou\u00e9e. Relais de communications de la capsule de survie hors-lignes.",
+    "Goal_Intro2": "Les capsules de survie sont \u00e9quip\u00e9es d'un fabricateur programm\u00e9 pour construire des outils et rendre comestibles des substances organiques.",
+    "Goal_CookedPeeper": "Le fabricateur cuit les petits organismes, tout en supprimant leur structure squelettique, fluides corporels et organes internes, les rendant ainsi sans danger pour la consommation humaine.",
+    "Goal_LocationAuroraEntry": "Attention, int\u00e9grit\u00e9 structurelle inconnue. Exploration d\u00e9conseill\u00e9e.",
+    "Goal_LocationAuroraFurtherIn": "Trace de restes humains d\u00e9tect\u00e9s dans les syst\u00e8mes digestifs organiques \u00e0 proximit\u00e9. Exploration plus approfondie d\u00e9conseill\u00e9e.",
+    "Goal_BiomeCrashedShip": "D\u00e9tection d'un champ de d\u00e9bris prolong\u00e9.",
+    "Goal_LocationAuroraInterior": "87% des sections habitables du vaisseau ont \u00e9t\u00e9 rendues inhabitables pendant la d\u00e9tonation.",
+    "Goal_LocationAuroraHallway": "\u00c9valuation des dommages internes. Motif des dommages incompatible avec le dysfonctionnement interne. Boite noire de l'Aurora introuvable.",
+    "Goal_LocationAuroraDriveEntry": "V\u00e9rification de l'int\u00e9grit\u00e9 du moteur principal en raison de la vitesse d'impact de l'Aurora. Les calculs indiquent que la collision fut de magnitude insuffisante pour provoquer une br\u00e8che du moteur.",
+    "Goal_Location AuroraDriveInterior": "Boite noire de l'Aurora trouv\u00e9e. Tentative de t\u00e9l\u00e9chargement. Pr\u00e9sence d'interf\u00e9rences. Attention, niveau de radiations maximum atteint.",
+    "SeamothStorageOpen": "Solution de stockage ouvert",
+    "SeamothSonarModule": "Sonar pour Seamoth",
+    "Tooltip_SeamothSonarModule": "Un syst\u00e8me consacr\u00e9 \u00e0 la d\u00e9tection et l'affichage de donn\u00e9es topographiques sur le HUD.",
+    "LootSensorMetal": "D\u00e9tecteur de m\u00e9tal pour Seamoth",
+    "Tooltip_LootSensorMetal": "",
+    "LootSensorLithium": "D\u00e9tecteur de lithium pour Seamoth",
+    "Tooltip_LootSensorLithium": "",
+    "LootSensorFragment": "D\u00e9tecteur de fragment pour Seamoth",
+    "Tooltip_LootSensorFragment": "",
+    "SeamothTorpedoStorage": "Baie \u00e0 torpilles de Seamoth",
+    "SeamothTorpedoNoAmmo": "Munitions \u00e9puis\u00e9es. Sortez du v\u00e9hicule et r\u00e9approvisionnez la baie \u00e0 torpilles.",
+    "WhirlpoolTorpedo": "Torpille \u00e0 vortex de Seamoth",
+    "Tooltip_WhirlpoolTorpedo": "Chargez ceci sur la baie \u00e0 torpilles \u00e0 l'avant de votre Seamoth.",
+    "SeamothArmorPlating": "Renforcement de coque pour Seamoth",
+    "Tooltip_SeamothArmorPlating": "Durcit pr\u00e9ventivement le ch\u00e2ssis avant le choc, \u00e9liminant les dommages dans des conditions normales.",
+    "SeamothUpgradesMenu_ModuleMenu": "Modules d'am\u00e9lioration de Seamoth",
+    "SeamothUpgradesMenu_ItemMenu": "Torpilles pour Seamoth",
+    "ContainerOverflow": "Les changements de la derni\u00e8re mise \u00e0 jour ont provoqu\u00e9 un d\u00e9bordement de l'inventaire. Lib\u00e9rez de l'espace pour voir son contenu complet.",
+    "DURABILITY": "R\u00c9SISTANCE ",
+    "TabLog": "Journal Vocal",
+    "Day": "Jour",
+    "MasterVolume": "Volume principal",
+    "MusicVolume": "Volume musique ",
+    "ExchangeBattery": "Remplacer pile (R)",
+    "Health": "Sant\u00e9",
+    "PlanterStorageLabel": "POT DE FLEURS",
+    "FiltrationMachineStorageLabel": "APPAREIL DE FILTRATION",
+    "TabGallery": "Album photo",
+    "SortByDateDescending": "Trier par date (d\u00e9croissant)",
+    "SortByDateAscending": "Trier par date (croissant)",
+    "SortByTopic": "Trier par th\u00e8me",
+    "SortByName": "Trier par nom",
+    "ScreenshotUpload": "Transf\u00e9rer",
+    "ScreenshotAddToSteamLibrary": "Ajouter \u00e0 Steam",
+    "ScreenshotDelete": "Supprimer",
+    "PDAGalleryTabInstructions": "Appuyez sur {0} pour prendre une capture d'\u00e9cran",
+    "PDAGalleryThumbnailSize": "Taille",
+    "PDAGalleryUpload": "Transf\u00e9rer l'image vers le cadre photo",
+    "PDAGalleryAddToSteam": "Ajouter l'image \u00e0 votre biblioth\u00e8que Steam",
+    "PDAGalleryDelete": "Supprimer l'image (double clic)",
+    "UsePlanter": "Utiliser pot de fleurs ",
+    "UseFiltrationMachine": "Utiliser appareil de filtration de l'eau",
+    "PictureFrameEditLabel": "Placer une image",
+    "BreakPurplePinecone": "Briser pomme de pin violette",
+    "PlanterPot": "Pot de fleur ",
+    "PlanterBox": "Bac \u00e0 culture d'int\u00e9rieur ",
+    "PlanterShelf": "\u00c9tag\u00e8re pour plantes",
+    "FarmingTray": "Bac \u00e0 culture d'ext\u00e9rieur",
+    "FiltrationMachine": "Appareil de filtration de l'eau",
+    "FullyCharged": "Pleinement charg\u00e9 ",
+    "ReinforcedDiveSuit": "Combinaison de plong\u00e9e renforc\u00e9e",
+    "PictureFrame": "Cadre photo",
+    "Tooltip_PictureFrame": "",
+    "Tooltip_PlanterPot": "Pot en titane contenant de la terre synth\u00e9tique.",
+    "Tooltip_PlanterBox": "Bac \u00e0 culture artificiel, uniquement adapt\u00e9 en int\u00e9rieur.",
+    "Tooltip_PlanterShelf": "Pot de fleur mural",
+    "Tooltip_FarmingTray": "Bac \u00e0 culture artificiel, convient \u00e0 une utilisation sur terre ou sous l'eau.",
+    "Tooltip_FiltrationMachine": "Appareil de filtration de l'eau",
+    "Tooltip_ReinforcedDiveSuit": "Combinaison de plong\u00e9e en aramide renforc\u00e9 fournissant 50% de protection physique.",
+    "FiltrationComplete": "Filtration termin\u00e9e",
+    "FiltrationProgress": "Filtration en cours : eau {0:P0}, sel {1:P0}",
+    "BasePlanter": "Mur vivant ",
+    "BaseFiltrationMachine": "Appareil de filtration de l'eau",
+    "Tooltip_BasePlanter": "Feuillage mural. Purement d\u00e9coratif.",
+    "Tooltip_BaseFiltrationMachine": "S\u00e9pare l'eau et le sel",
+    "Story_AuroraWarning3": "Avertissement. L'examen des radiations locales indique des caract\u00e9ristiques similaires \u00e0 la d\u00e9t\u00e9rioration totale de la mati\u00e8re noire du noyau principal de l'Aurora. Une d\u00e9tonation quantique risque de se produire avec une probabilit\u00e9 de 85.5%. Nous vous conseillons de maintenir un seuil de s\u00e9curit\u00e9 de 1km.",
+    "Story_AuroraWarning2": "Attention. La d\u00e9t\u00e9rioration continue du noyau principal de l'Aurora risque de provoquer une d\u00e9tonation quantique. En cas de br\u00e8che du noyau principal, les risques de mort par exposition \u00e0 des mat\u00e9riaux radioactifs du site du crash augmenteront de 37%.",
+    "Story_AuroraWarning1": "D\u00e9tection des niveaux de radiations locales mise \u00e0 jour. Constatation d'une \u00e9volution coh\u00e9rente en lien avec la d\u00e9t\u00e9rioration continue de la mati\u00e8re noire du noyau principal du Vaisseau Minier Aurora, en raison des dommages subis durant l'impact. Reprise de la surveillance.",
+    "TabEncyclopedia": "Banque de donn\u00e9es",
+    "Ency_CuteFish": "Cute Fish",
+    "EncyDesc_CuteFish": "Description Cute Fish",
+    "Ency_Gasopod": "Gasopod",
+    "EncyDesc_Gasopod": "Forme de vie lente capable de remplir l'eau d'un compos\u00e9 toxique et corrosif pouvant m\u00eame dissoudre les fibres synth\u00e9tiques.   
+
+1. Glande Algue - Poss\u00e8de un appendice bulbeux en forme de sac \u00e0 son extr\u00e9mit\u00e9 post\u00e9rieure. Une esp\u00e8ce d'algues jaune luminescente se d\u00e9veloppe \u00e0 l'int\u00e9rieur du sac et produit le compos\u00e9 toxique.   
+
+2. Muscles abdominaux : se contractent lorsque la cr\u00e9ature est effray\u00e9e, entra\u00eenant l'\u00e9mission par la glande du compos\u00e9 nocif dans les eaux environnantes.   
+
+3. Syst\u00e8me de filtration : de multiples couches de branchies semblent immuniser la cr\u00e9ature aux nuages nocifs qu'elle produit.   
+
+Conseil : \u00e0 \u00e9viter.",
+    "Ency_Biter": "Mordeur",
+    "EncyDesc_Biter": "Sp\u00e9cimen petit et agressif. 94% de muscles, 4% de tissus conjonctifs et 2% de cervelle.   
+
+- Ses nageoires caudales sur-d\u00e9velopp\u00e9es favorisent la maniabilit\u00e9 individuelle face \u00e0 des proies en sup\u00e9riorit\u00e9 num\u00e9rique.  
+- Le p\u00e9doncule olfactif sur sa t\u00eate lui offre la capacit\u00e9 de d\u00e9tecter les fluides corporels dans l'eau.  
+- Chasse n'importe quelle proie sans distinction : tout ce qui est bless\u00e9 en vaut la chandelle.  
+- Une secondaire paire d'yeux le rapproche du Requin des sables, a probablement pour utilit\u00e9 de d\u00e9tecter les mouvements p\u00e9riph\u00e9riques de plus gros pr\u00e9dateurs.   
+
+Proies : Petits herbivores; mais selon les estimations, les cr\u00e9atures faisant jusqu'\u00e0 100x la masse corporelle des Mordeurs pourraient succomber \u00e0 un pack concentr\u00e9.   
+
+Conseil : L\u00e9tal sans les pr\u00e9cautions n\u00e9cessaires - Evitez les groupes - Essayez de ne pas saigner \u00e0 proximit\u00e9",
+    "Ency_Stalker": "R\u00f4deur",
+    "EncyDesc_Stalker": "Un pr\u00e9dateur hydrodynamique poss\u00e9dant une force et une intelligence d\u00e9velopp\u00e9es.   
+
+- Se tapit dans les For\u00eats d'Algues dans l'attente qu'une proie quitte la s\u00e9curit\u00e9 des eaux des Bancs Calmes.  
+- Sa stratification r\u00e9tinienne semble indiquer une tendance \u00e0 la chasse de nuit.  
+- L'architecture de son syst\u00e8me nerveux r\u00e9v\u00e8le une capacit\u00e9 d'apprentissage inn\u00e9e bas\u00e9e sur le principe de r\u00e9compense, processus \u00e9volutif incertain \u00e0 l'heure actuelle.  
+- Attir\u00e9 par les m\u00e9taux. Combattra f\u00e9rocement pour son bien. Aucune information disponible quant \u00e0 ce comportement. Recherches compl\u00e9mentaires requises.   
+
+Proies : profil \u00e9volutif autoadaptatif, pr\u00e9dateur naturel du Peeper.   
+
+Conseil : \u00e0 \u00e9viter \u00e0 moins d'absolue n\u00e9cessit\u00e9 ",
+    "Ency_SandShark": "Requin des sables",
+    "EncyDesc_SandShark": "Son exosquelette segment\u00e9 en fait un pr\u00e9dateur lent mais puissant. Les nombreuses pattes sur la partie inf\u00e9rieure de la cr\u00e9ature sont mal adapt\u00e9es pour lui permettre de d\u00e9ambuler sur le sol. Au contraire, elles sont utilis\u00e9es pour remuer le sable du sol afin de s'y enfouir et d'y ressortir pour tendre une embuscade \u00e0 sa proie. 
+
+Proies : Herbivores pouvant faire le double de sa taille. 
+
+Conseil : Evitez les nuages de sable suspects",
+    "Locked_Door": "Porte verrouill\u00e9e",
+    "Sealed_Door": "Porte scell\u00e9e",
+    "DoorInstructions_Powercell": "Actionner l'ouverture de la porte \u00e0 proximit\u00e9",
+    "DoorInstructions_Keycard": "Trouver la carte magn\u00e9tique d'acc\u00e8s correspondante",
+    "GenericLocked": "La porte a \u00e9t\u00e9 d\u00e9verrouill\u00e9e ailleurs",
+    "FiltrationMachineFragment": "Fragment de machine \u00e0 filtration ",
+    "FiltrationMachineBlueprint": "Sch\u00e9ma de machine \u00e0 filtration ",
+    "Tooltip_FiltrationMachineFragment": "Un \u00e9l\u00e9ment de technologie de machine \u00e0 filtration",
+    "ScannerInstanceScanned": "{0} num\u00e9ris\u00e9. Progression : {1}% ({2}\/{3})",
+    "ScannerRedundantScanned": "Fragment redondant num\u00e9ris\u00e9.",
+    "ScannerInstanceKnown": "Cette instance d'entit\u00e9 a d\u00e9j\u00e0 \u00e9t\u00e9 num\u00e9ris\u00e9e. Trouvez-en une autre pour terminer la recherche.",
+    "ScannerEntityKnown": "Entit\u00e9 '{0} d\u00e9j\u00e0 connue. Num\u00e9risation inutile.",
+    "EncyclopediaEntryUnlocked": "{0} entr\u00e9e(s) ajout\u00e9e(s) dans l'encyclop\u00e9die",
+    "Scanner": "Scanner",
+    "PropulsionCannonBlueprint": "Sch\u00e9ma de canon \u00e0 propulsion",
+    "Tooltip_Scanner": "Un spectroscope de poche permettant de scanner et d'enregistrer tout type d'information au niveau atomique sur les entit\u00e9s cibl\u00e9es",
+    "Tooltip_MoonpoolBlueprint": "Sh\u00e9ma de construction d'une chambre d'immersion",
+    "WaterParkPlanterStorageLabel": "PLANTES D'AQUARIUM",
+    "UnknownEgg1": "\u0152uf de cr\u00e9ature",
+    "UnknownEgg2": "\u0152uf de cr\u00e9ature",
+    "UnknownEgg3": "\u0152uf de cr\u00e9ature",
+    "UnknownEgg4": "\u0152uf de cr\u00e9ature",
+    "UnknownEgg5": "\u0152uf de cr\u00e9ature",
+    "UnknownEgg6": "\u0152uf de cr\u00e9ature",
+    "UnknownEgg7": "\u0152uf de cr\u00e9ature",
+    "UnknownEgg8": "\u0152uf de cr\u00e9ature",
+    "UnknownEgg9": "\u0152uf de cr\u00e9ature",
+    "UnknownEgg10": "\u0152uf de cr\u00e9ature",
+    "Tooltip_UnknownEgg1": "Un \u0153uf non identifi\u00e9",
+    "Tooltip_UnknownEgg2": "Un \u0153uf non identifi\u00e9",
+    "Tooltip_UnknownEgg3": "Un \u0153uf non identifi\u00e9",
+    "Tooltip_UnknownEgg4": "Un \u0153uf non identifi\u00e9",
+    "Tooltip_UnknownEgg5": "Un \u0153uf non identifi\u00e9",
+    "Tooltip_UnknownEgg6": "Un \u0153uf non identifi\u00e9",
+    "Tooltip_UnknownEgg7": "Un \u0153uf non identifi\u00e9",
+    "Tooltip_UnknownEgg8": "Un \u0153uf non identifi\u00e9",
+    "Tooltip_UnknownEgg9": "Un \u0153uf non identifi\u00e9",
+    "Tooltip_UnknownEgg10": "Un \u0153uf non identifi\u00e9",
+    "BonesharkEgg": "\u0152uf de Requin Charognard ",
+    "CrabsnakeEgg": "\u0152uf de Serpent-Crabe ",
+    "GasopodEgg": "\u0152uf de Gasacoche",
+    "JellyrayEgg": "\u0152uf de Raie m\u00e9duse",
+    "JumperEgg": "\u0152uf de Jumper",
+    "MesmerEgg": "\u0152uf d'Envo\u00fbteur",
+    "RabbitrayEgg": "\u0152uf de Raie lapin ",
+    "ShockerEgg": "\u0152uf d'Anguille \u00e9lectrique",
+    "SpadefishEgg": "\u0152uf de Spadefish",
+    "StalkerEgg": "\u0152uf de R\u00f4deur ",
+    "SandsharkEgg": "\u0152uf de Requin des sables",
+    "Tooltip_BonesharkEgg": "Les Requins Charognards \u00e9closent de ceci",
+    "Tooltip_CrabsnakeEgg": "Les Serpents-Crabes \u00e9closent de ceci",
+    "Tooltip_GasopodEgg": "Les Gasacoches \u00e9closent de ceci",
+    "Tooltip_JellyrayEgg": "Les Raies m\u00e9duses \u00e9closent de ceci",
+    "Tooltip_JumperEgg": "Les Jumpers \u00e9closent de ceci",
+    "Tooltip_MesmerEgg": "Les Envo\u00fbteurs \u00e9closent de ceci",
+    "Tooltip_RabbitrayEgg": "Les Raies lapins \u00e9closent de ceci",
+    "Tooltip_ShockerEgg": "Les Anguilles \u00e9lectriques \u00e9closent de ceci",
+    "Tooltip_SpadefishEgg": "Les Spadefishs \u00e9closent de ceci",
+    "Tooltip_StalkerEgg": "Les R\u00f4deurs \u00e9closent de ceci",
+    "Tooltip_SandsharkEgg": "Les Requins des sables \u00e9closent de ceci",
+    "EggDiscovered": "{0} d\u00e9couvert",
+    "BaseWaterPark": "Grand aquarium",
+    "Tooltip_BaseWaterPark": "Offre des conditions optimales pour la flore et la faune. Ajoutez une trappe pour entrer.",
+    "EnterWaterPark": "Entrer grand aquarium ",
+    "ExitWaterPark": "Quitter grand aquarium",
+    "LimestoneChunk": "Morceau de Calcaire",
+    "ScannerScreenDefault": "RECHERCHE...",
+    "ScannerScreenReady": "PR\u00caT A SCANNER",
+    "ScannerScreenScanning": "NUM\u00c9RISATION...",
+    "CookedSpinefish": "Spinefish cuit ",
+    "CuredSpinefish": "Spinefish ass\u00e9ch\u00e9 ",
+    "Spinefish": "Spinefish",
+    "Shuttlebug": "Shuttlebug",
+    "Blighter": "Blighter",
+    "Tooltip_CookedSpinefish": "Ne mangez jamais les antennes.",
+    "Tooltip_CuredSpinefish": "Ce poisson a en fait un go\u00fbt de poisson.",
+    "Tooltip_Spinefish": "Parent du Hoopfish vivant dans les eaux profondes, il se caract\u00e9rise par ses marques blanches semblables \u00e0 une cage thoracique qu'il utilise pour se faire passer pour mort \u00e0 l'approche de pr\u00e9dateurs dans les profondeurs oc\u00e9aniques.",
+    "Story_AuroraWarning4": "Urgence : l'analyse sismique indique qu'une d\u00e9tonation quantique s'est produite \u00e0 l'int\u00e9rieur du noyau principal de l'Aurora. Le r\u00e9acteur va atteindre un \u00e9tat supercritique dans T- 10, 9, 8, 7, 6, 5, 4, 3, 2, 1-",
+    "Goal_Lifepod6": "Des informations de r\u00e9f\u00e9rence ont \u00e9t\u00e9 ajout\u00e9es \u00e0 la Banque de Donn\u00e9es de votre PDA. Des conseils seront \u00e9mis si n\u00e9cessaire. Bonne chance.",
+    "Goal_Airsack": "L'analyse spectroscopique des organismes est fortement conseill\u00e9e avant tout contact.",
+    "Goal_Titanium": "Titane : d\u00e9couvert. Le titane est un mat\u00e9riau de construction indispensable et polyvalent.",
+    "Goal_Quartz": "Quartz : d\u00e9couvert. Le quartz est utilis\u00e9 dans la fabrication d'\u00e9quipements de survie de base, et dans les habitats \u00e0 long terme.",
+    "Goal_Copper": "Minerai de cuivre : d\u00e9couvert. Le cuivre est un composant indispensable \u00e0 tout \u00e9quipement aliment\u00e9 par \u00e9nergie. Vos chances de survie ont augment\u00e9 de 7.6%.",
+    "Goal_FilteredWater": "Ces formes de vie indig\u00e8nes semblent avoir acquises des m\u00e9thodes concr\u00e8tes pour filtrer les contaminants de l'eau.",
+    "Goal_Scanner": " Le scanner spectroscope de poche peut \u00eatre utilis\u00e9 pour synth\u00e9tiser des sch\u00e9mas \u00e0 partir de technologies r\u00e9cup\u00e9r\u00e9es et enregistrer des donn\u00e9es biologiques aliens.",
+    "Goal_Fins": "Le fabricateur fonctionne \u00e0 partir des donn\u00e9es disponibles, afin de fournir du mat\u00e9riel contextuellement appropri\u00e9, en utilisant des mat\u00e9riaux disponibles localement. Pour votre s\u00e9curit\u00e9 cette configuration ne peut \u00eatre annul\u00e9e.",
+    "Goal_Knife": "Le couteau a \u00e9t\u00e9 l'un des outils les plus indispensables \u00e0 la race humaine pendant approximativement 2.5... millions d'ann\u00e9es. Nous vous recommandons d'en prendre soin.",
+    "Goal_Tank": "Transporter plusieurs r\u00e9servoirs d'oxyg\u00e8ne vous permettra d'accro\u00eetre votre temps d'exposition et vos chances de survie dans des environnements hostiles.",
+    "Goal_Battery": "Le fabricateur a substitu\u00e9 l'acide pour batterie g\u00e9n\u00e9ralement utilis\u00e9 pour un compos\u00e9 acide synth\u00e9tis\u00e9 \u00e0 partir de la flore locale.",
+    "Goal_Bleach": "La javel est un produit chimique indispensable pour nettoyer les blessures et purifier l'eau.",
+    "Goal_CookedGarryfish": "S'il est normal d'\u00eatre repouss\u00e9 par la pens\u00e9e de manger un animal mort, il est aussi pr\u00e9f\u00e9rable de se rappeler que les hommes ont surv\u00e9cu de mani\u00e8re ad\u00e9quate sans aliments synth\u00e9tiques pendant de nombreuses ann\u00e9es. Vous pouvez r\u00e9ussir vous aussi.",
+    "Goal_CookedHoverfish": "Si vous \u00eates habitu\u00e9s \u00e0 des aliments plut\u00f4t conventionnels, vous devriez envisager de d\u00e9guiser la saveur des viandes indig\u00e8nes, gr\u00e2ce \u00e0 des herbes ou \u00e9pices d'origine locale.",
+    "Goal_PurifiedWater": "Pr\u00e9parer votre ration d'eau de la journ\u00e9e, en avance, vous aidera \u00e0 faire face \u00e0 la d\u00e9shydratation et \u00e0 une mort \u00e9ventuelle.",
+    "Goal_Silver": "
+Minerai d'argent : d\u00e9couvert. Les circuits int\u00e9gr\u00e9s \u00e0 base d'argent sont des composants indispensables \u00e0 la fabrication de combinaisons anti-radiation et de constructeurs d'habitat.",
+    "Goal_Lubricant": "
+Le lubrifiant est essentiel \u00e0 la construction de v\u00e9hicules et de centrales \u00e9lectriques. Utiliser des mat\u00e9riaux de substitution aliens de cette mani\u00e8re est une strat\u00e9gie de survie \u00e9prouv\u00e9e.",
+    "Goal_Beacon": "L'exploration et la cartographie de l'environnement ne doivent pas \u00eatre entreprises sans l'\u00e9quipement et le mat\u00e9riel n\u00e9cessaires. Nous vous conseillons de rester suffisamment proche d'une capsule de survie ou d'un quelconque habitat \u00e0 tout moment.",
+    "Goal_Seaglide": "Le SeaGlide augmente la vitesse maximale sous l'eau jusqu'\u00e0 9.5m\/s, et affiche les donn\u00e9es topographiques des alentours. ",
+    "Goal_Builder": "Le constructeur est con\u00e7u pour construire divers habitats capables de r\u00e9sister \u00e0 des conditions environnementales extr\u00eames. ",
+    "Goal_EnameledGlass": "
+Substrat naturel pour la production de verre \u00e9maill\u00e9 : d\u00e9couvert. Construction de submersibles avanc\u00e9s et de modules d'habitat d\u00e9sormais possible.",
+    "EncyPath_Aurora": "Aurora",
+    "EncyPath_Tech": "Technique ",
+    "EncyPath_Welcome": "Bienvenue",
+    "EncyPath_Tech\/Habitats": "Habitats",
+    "EncyPath_Tech\/Equipment": "\u00c9quipement",
+    "EncyPath_Lifeforms": "Formes de vie aliens ",
+    "EncyPath_Lifeforms\/Coral": "Corail",
+    "EncyPath_Lifeforms\/Fauna": "Faune",
+    "EncyPath_Lifeforms\/Flora": "Flore",
+    "EncyPath_Lifeforms\/Fauna\/Herbivores": "Herbivores",
+    "EncyPath_Lifeforms\/Fauna\/Carnivores": "Carnivores",
+    "EncyPath_Lifeforms\/Fauna\/Scavengers": "Charognards & Parasites",
+    "EncyPath_PlanetaryGeology": "G\u00e9ologie plan\u00e9taire",
+    "EncyPath_Advanced": "Th\u00e9ories avanc\u00e9es",
+    "Ency_Lifepod": "Capsule de survie d'Urgence Standard 2-Berth",
+    "EncyDesc_Lifepod": "Masse : 576 kg
+Dimensions : 3m x 3m
+
+Caract\u00e9ristiques standards :
+- Faible densit\u00e9, construction hautement r\u00e9sistante 
+- Air-break int\u00e9gr\u00e9, dispositifs de flottaison et de propulsion, pour redressement sur terre, mer ou espace
+- Relais de communication \u00e0 courte port\u00e9e (250km de port\u00e9e sans interruption) 
+- \u00c9nergie solaire
+- Fabricateur mural 
+- Sorties multiples 
+
+Provisions standards :
+2x Combinaison de Protection Multi-Environnements
+1x Scanner spectroscope de poche
+3x Rations pr\u00eates \u00e0 manger
+3x 1L d'approvisonnement en eau potable
+1x Kit m\u00e9dical de secours 
+1x Lampe de poche 
+1x Fus\u00e9e \u00e9clairante d'urgence 
+1x Assortiment de pi\u00e8ces de rechange ",
+    "Ency_Readme": "Lisez-moi",
+    "EncyDesc_Readme": "Si vous lisez ceci, alors vous avez surv\u00e9cu \u00e0 une \u00e9vacuation d'urgence d'un vaisseau  lourd dot\u00e9 de la technologie Alterra. 
+F\u00e9licitations : le plus dur est pass\u00e9. 
+
+Votre PDA a automatiquement red\u00e9marr\u00e9 en Mode Urgence. Ce syst\u00e8me d'exploitation vise un seul objectif : vous maintenir en vie. Il comporte : 
+
+- Une int\u00e9gration compl\u00e8te incluant les donn\u00e9es biom\u00e9triques de l'utilisateur afin de d\u00e9livrer des conseils opportuns. 
+- Des sch\u00e9mas permettant de fabriquer un \u00e9ventail de mat\u00e9riels de survie essentiels.
+- Un microphone de bord, ainsi qu'une cam\u00e9ra, et une technologie ROC pour une analyse situationnelle \u00e0 courte port\u00e9e (20m).
+- Une compatibilit\u00e9 multi-platformes avec le scanner spectroscope de poche Alterra. Suivez ses directives et nous vous ram\u00e8rons \u00e0 la maison vivant. 
+
+NB : vos fichiers personnels et professionels ont \u00e9t\u00e9 crypt\u00e9s et pourront \u00eatre r\u00e9cup\u00e9r\u00e9s \u00e0 une date ult\u00e9rieure par un ing\u00e9nieur agr\u00e9\u00e9. ",
+    "Ency_SurvivalChecklist": "Check-list de survie ",
+    "EncyDesc_SurvivalChecklist": "1. S'administrer les premiers soins si n\u00e9cessaire
+2. \u00c9tudier l'environnement
+3. Localiser d'autres survivants 
+4. Estimer la quantit\u00e9 d'eau et nourriture disponibles et fixer des rations 
+5. Contr\u00f4ler l'\u00e9tat de la capsule de survie, et la r\u00e9parer le cas \u00e9ch\u00e9ant 
+6. Diffuser un signal de d\u00e9tresse dans les environs proches en utilisant les relais de communication courte port\u00e9e de la capsule de survie
+7. Collecter et faire l'inventaire des mat\u00e9riaux disponibles 
+8. Utiliser l'\u00e9quipement de survie pour rendre l'environnement local habitable 
+9. Maintenir une sant\u00e9 physique et psychologie stable jusqu'\u00e0 l'arriv\u00e9e de secours 
+
+NB : ces informations prennent la forme d'un guide g\u00e9n\u00e9ral. Il est recommand\u00e9 dans un premier temps de suivre les conseils de votre PDA  lesquels prennent les circonstances particuli\u00e8res de votre situation en compte.",
+    "Ency_AuroraOverview": "Pr\u00e9sentation du Vaisseau Minier Aurora ",
+    "EncyDesc_AuroraOverview": "Mission : activit\u00e9s mini\u00e8res de prospection pour une dur\u00e9e de 3 ans
+
+\u00c9quipage : \u00c9quipe de Commandement (11), \u00c9quipe sp\u00e9cialis\u00e9e du G\u00e9nie (57), \u00c9quipe de Soutien (30), Passagers (3)
+
+\u00c9quipements :
+- Propulseurs ioniques \u00e0 mati\u00e8re noire V8
+- Section du g\u00e9nie avec installations industrielles de niveau A (incluant un craqueleur de m\u00e9t\u00e9ores primaire, un syst\u00e8me robotique complexe et une gamme compl\u00e8te de scanners)
+- 0.25 kilom\u00e8tres cubes de stockage d\u00e9di\u00e9s aux ressources exploit\u00e9es
+- Zone d'habitation avec espaces de loisirs de niveau C+",
+    "Ency_AEPSuit": "Combinaison de Protection Multi-Environnements",
+    "EncyDesc_AEPSuit": "La Combinaison PME Alterra : Une solution unique dans un univers d'infinis dangers
+
+Vous \u00eates actuellement en train de porter la combinaison PME, un environnement personnel herm\u00e9tique con\u00e7u pour r\u00e9sister aux conditions les plus extr\u00eames de l'univers connu.
+
+- Temp\u00e9rature interne et r\u00e9gulation de l'hydratation 
+- Compatible avec toute une panoplie de modifications pour environnements particuliers
+- Conception fine permettant une libert\u00e9 de mouvement maximale
+- Capteurs biom\u00e9triques
+- Affichage Heads-Up (HUD) contextuel 
+
+Les combinaisons PME doivent toujours \u00eatre \u00e9quip\u00e9es AVANT chaque lancement de capsule de survie en cas de br\u00e8che dans la coque.",
+    "Ency_MetalSalvage": "Analyse Structurelle : D\u00e9bris \u00c9pars ",
+    "EncyDesc_MetalSalvage": "L'analyse confirme que ces d\u00e9bris proviennent de l'Aurora.
+
+Les couches ext\u00e9rieures du mat\u00e9riau ont oxyd\u00e9, ce qui sugg\u00e8re qu'il a \u00e9t\u00e9 chauff\u00e9 \u00e0 plus de 1200 degr\u00e9s Celsius. Cette r\u00e9action semble coh\u00e9rente avec la d\u00e9sint\u00e9gration de la coque lors de l'entr\u00e9e dans l'atmosph\u00e8re. Les couches int\u00e9rieures contiennent suffisamment de titane r\u00e9siduel pour \u00eatre r\u00e9cup\u00e9r\u00e9es par le Fabricateur.",
+    "Ency_Airsack": "Airsack",
+    "EncyDesc_Airsack": "1. Membrane semi-perm\u00e9able : le corps se caract\u00e9rise par une semi-membrane constitu\u00e9e d'oxyg\u00e8ne et remplie d'eau. Aucune cavit\u00e9 buccale d\u00e9tect\u00e9e. La membrane peut filtrer la mati\u00e8re v\u00e9g\u00e9tale de l'eau. 
+
+2. Tube vasculaire ouvert : peut s'incliner et se contracter pour pomper l'eau afin de se propulser et se diriger \u00e0 faible vitesse. Aucune nageoire identifi\u00e9e. 
+
+3. La plupart du temps insconcient des menaces, ne poss\u00e8de qu'un seul m\u00e9canisme de d\u00e9fense identifi\u00e9 \u00e0 ce jour : compos\u00e9 \u00e0 95% de cartilage. 
+
+Conseil : sa membrane peut \u00eatre utilis\u00e9e comme filtre d'eau naturel",
+    "Ency_RabbitRay": "Raie lapin",
+    "EncyDesc_RabbitRay": "Forme de vie aquatique herbivore dont la chair est hautement toxique.
+
+1. Ailes ondulantes : principal mode de transport.
+
+2. Chair toxique : grande et sans autre m\u00e9canisme de d\u00e9fense, la Raie lapin semble avoir d\u00e9velopp\u00e9e une chair empoisonn\u00e9e pour \u00e9loigner les pr\u00e9dateurs. 
+
+3. R\u00e9gime alimentaire : gramin\u00e9es et laminaires.
+
+Conseil : non comestible mais amical",
+    "Ency_AcidMushroom": "Champignon acide",
+    "EncyDesc_AcidMushroom": "Une esp\u00e8ce commune de champignons sporif\u00e8res, poss\u00e9dant un m\u00e9canisme de d\u00e9fense d\u00e9velopp\u00e9. La chair contient un compos\u00e9 hautement acide qui s'infiltre dans l'eau si l'ext\u00e9rieur de la peau est perc\u00e9e. Les fluctuations dans les eaux environnantes peuvent \u00e9galement les pousser \u00e0 se contracter. 
+
+On ne sait pas quelles esp\u00e8ces de pr\u00e9dateurs ont rendu n\u00e9cessaire des contre-mesures aussi extr\u00eames, mais le nombre actuel de champignons acides laisse \u00e0 penser que de nombreux pr\u00e9dateurs ont \u00e9t\u00e9 dissuad\u00e9s avec succ\u00e8s.
+
+Conseil : non comestibles, mais exploitables pour la fabrication de piles si pr\u00e9lev\u00e9s avec pr\u00e9caution",
+    "Ency_LimestoneOutcrops": "Affleurements de Calcaire ",
+    "EncyDesc_LimestoneOutcrops": "Ces structures g\u00e9ologiques inhabituelles se forment souvent autour de d\u00e9p\u00f4ts de titane et de cuivre, mais sont caract\u00e9ristiques de cette plan\u00e8te. Une analyse plus approfondie r\u00e9v\u00e8le que la pierre entourant le m\u00e9tal s'est endurcie contre l'\u00e9rosion, mais le m\u00e9canisme reste inconnu. 
+
+Conseil : source de titane et de cuivre",
+    "Ency_SandstoneOutcrops": "Affleurements de Gr\u00e8s",
+    "EncyDesc_SandstoneOutcrops": "Ces affleurements quoi qu'ordinaires et poreux semblent se former autour de petites quantit\u00e9s de m\u00e9taux pr\u00e9cieux, \u00e0 moins que ces m\u00e9taux ne fassent parties d'une accumulation de s\u00e9diments au fil du temps.
+
+Conseil : source d'argent et d'or",
+    "Ency_ShaleOutcrops": "Affleurements de Schiste ",
+    "EncyDesc_ShaleOutcrops": "Cette roche s\u00e9dimentaire est form\u00e9e \u00e0 partir de flocons de min\u00e9raux argileux, \u00e0 l'int\u00e9rieur desquels des m\u00e9taux rares tels que le lithium peuvent \u00eatre trouv\u00e9s. Les conditions g\u00e9ologiques de cette plan\u00e8te laissent supposer que cette roche peut \u00eatre trouv\u00e9e dans des biomes plus profonds. 
+
+Conseil : source d'or et de lithium",
+    "Ency_BasaltOutcrops": "Affleurements de Basalte",
+    "EncyDesc_BasaltOutcrops": "Roche \u00e0 la fois ign\u00e9e et dure, elle se forme \u00e0 la suite d'une activit\u00e9 volcanique. Susceptible de contenir des min\u00e9raux tr\u00e8s rares, tels que le diamand ou l'uranium, qui ne se retrouvent nulle part ailleurs.
+
+Conseil : source de diamand, d'or et d'uranium",
+    "Ency_BrainCoral": "Corail C\u00e9r\u00e9bral violet ",
+    "EncyDesc_BrainCoral": "Une colonie d'organismes microscopiques en croissance permanente. Cette esp\u00e8ce de corail a acquis une capacit\u00e9 permettant de filtrer le dioxyde de carbone de l'environnement, en utilisant le carbone pour constuire la colonie et expulsant l'oxyg\u00e8ne \u00e0 partir d'entonnoirs d'\u00e9vacuation sp\u00e9cialis\u00e9s. 
+
+Conseil : exploitable",
+    "Ency_Peeper": "Peeper",
+    "EncyDesc_Peeper": "1. Yeux surd\u00e9velopp\u00e9s lat\u00e9raux : parfaitement adapt\u00e9s pour reconnaitre et fuir ses nombreux pr\u00e9dateurs. \u00c9galement riche en prot\u00e9ines.
+
+2. Puissante nageoire caudale : permet une acc\u00e9l\u00e9ration rapide, et la capacit\u00e9 de sauter de quelques m\u00e8tres hors de l'eau. 
+
+3. Nageoires dorsales \u00e9troites : am\u00e9liore la manoeuvrabilit\u00e9.
+
+Sa d\u00e9pendance \u00e0 l'identification visuelle des pr\u00e9dateurs le laisse vuln\u00e9rable dans les environnements \u00e0 faible luminosit\u00e9. 
+
+Conseil : comestible et nutritif, si vous parvenez \u00e0 l'attraper",
+    "Ency_Boomerang": "Boomerang",
+    "EncyDesc_Boomerang": "1. Nageoires jumelles : fait inhabituel, cette esp\u00e8ce poss\u00e8de deux nageoires constituant une extension cartilagineuse de son squelette. Moins susceptibles d'\u00eatre endommag\u00e9es, mais plus difficile \u00e0 reg\u00e9n\u00e9rer.   
+
+2. Dents cr\u00e9nel\u00e9es : semblent s'adapter pour le broyage de corail.   
+
+3. Plus actif pendant la journ\u00e9e, mais sujet \u00e0 fuir \u00e0 l'approche.   
+
+Conseil : comestible, peu nutritif mais sans danger ",
+    "Ency_Garryfish": "Garryfish",
+    "EncyDesc_Garryfish": "Herbivore \u00e0 la fois lent et curieux.
+
+1. Son camouflage semble \u00eatre la cons\u00e9quence \u00e9volutive d'un comportement fuyant dans les fonds oc\u00e9aniques. 
+
+2. Ses p\u00e9doncules oculaires sont utiles pour rep\u00e9rer des pr\u00e9dateurs \u00e0 partir de cachettes dans les coraux. 
+
+3. Grande cavit\u00e9 d'estomac : se nourrit tous les jours pendant la journ\u00e9e, laissant tr\u00e8s peu de viance comestible.
+
+Conseil : pas aussi comestible qu'on pourrait le croire",
+    "Ency_Shuttlebug": "Shuttlebug",
+    "EncyDesc_Shuttlebug": "1. Trois jambes : muscles tr\u00e8s puissants pouvant propulser la cr\u00e9ature sur de grandes distances dans l'eau, ainsi que la faire d\u00e9ambuler sur le sol marin.
+
+2. Trois mandibules : utilis\u00e9es pour s'orienter tout en d\u00e9rivant et pour s'insinuer \u00e0 travers les r\u00e9sidus sur les sols caverneux. Sa pr\u00e9sence peut indiquer un r\u00e9seau de grottes \u00e0 proximit\u00e9. 
+
+Conseil : recycleur indispensable dans la cha\u00eene alimentaire",
+    "Ency_Floater": "Flotteur",
+    "EncyDesc_Floater": "Anomalie \u00e9volutive. Recherches compl\u00e9mentaires requises. 
+
+1. Forme de vie dominante : l'analyse structurelle r\u00e9v\u00e8le que cette entit\u00e9 est compos\u00e9e de deux esp\u00e8ces distinctes. Le corps principal rose et les m\u00e2choires int\u00e9rieures constituent la cr\u00e9ature dominante. 
+
+2. Membrane micro-organique : la substance externe, semblable \u00e0 un gel est un maillage de micro-organismes capables de former un vide \u00e9tanche autour des m\u00e2choires de la cr\u00e9ature. 
+
+3. Tampon d'air : une fine couche d'h\u00e9lium est stock\u00e9e dans la membrane externe, permettant \u00e0 la cr\u00e9ature de flotter. 
+
+Les observations montrent la cr\u00e9ature la plupart du temps attach\u00e9e \u00e0 de gros rochers. Elle ne semble \u00e0 priori pas r\u00e9agir \u00e0 un d\u00e9tachement artificiel, et s'accroche sans discernement \u00e0 tout nouvel objet. 
+
+Conseil : davantage d'informations n\u00e9cessaires",
+    "Ency_Holefish": "Holefish",
+    "EncyDesc_Holefish": "1. La teinte de la cr\u00e9ature semble s'\u00eatre adapt\u00e9e aux environnements de grottes. 
+
+2. Nageoire caudale al\u00e9s\u00e9e : peut effectuer des manoeuvres impr\u00e9visibles en manipulant la taille et la forme du trou de sa queue.
+
+3. Plus petit que la plupart des autres herbivores, vraisemblablement en raison de l'absence apparente de v\u00e9g\u00e9tation dans les environnements \u00e0 faible luminosit\u00e9. Manifeste peu de crainte \u00e0 l'\u00e9gard de pr\u00e9dateurs. 
+
+Conseil : comestible, nourriture fiable aux alentours de grottes",
+    "Ency_CaveCrawler": "Rampant des cavernes",
+    "EncyDesc_CaveCrawler": "Mangeur de charognes territorial et agile.
+
+1. Quatre jambes : a pour habitude de traverser les fonds marins et de se cramponner aux murs. S'adapte tout aussi bien sur terre. 
+
+2. Membrane \u00e9changeuse de gaz : absorbe les gaz essentiels \u00e0 partir de l'eau ou de l'air.
+
+Cette esp\u00e8ce affectionne les cadavres en nombre, et va tenter de d\u00e9fendre son bien pendant que le corps est d\u00e9vor\u00e9. 
+
+Conseil : inopportun, en particulier lors de fun\u00e9railles ",
+    "Ency_TableCoral": "Platine de Corail ",
+    "EncyDesc_TableCoral": "Chaque disque repr\u00e9sente une colonie individuelle compos\u00e9e de micro-organismes, qui filtre les nutriments \u00e0 partir de l'eau qui circule.
+
+Les sch\u00e9mas de croissance indiquent que les colonies sont en concurence directe pour les emplacements avec la plus forte quantit\u00e9 de lumi\u00e8re ou le plus fort courant. Contrairement \u00e0 d'autres esp\u00e8ces de coraux, sa structure est mall\u00e9able avec de l\u00e9g\u00e8res palpitations car elle pompe les nutriments \u00e0 ses extr\u00e9mit\u00e9s, et ne devient rigide que lorsqu'une agression physique est d\u00e9tect\u00e9e.
+
+Les imperfections semblables \u00e0 des bijoux sur la face sup\u00e9rieure sont des accumulations concentr\u00e9es des rares m\u00e9taux que le corail est incapable de traiter.
+
+Conseil : exploitable dans la fabrication de circuits int\u00e9gr\u00e9s",
+    "Ency_HangingStinger": "Drooping Stinger",
+    "EncyDesc_HangingStinger": "1. Aucune cellule photosynth\u00e9tique d\u00e9tect\u00e9e. Cela sous-entend que l'esp\u00e8ce a d\u00fb s'adapter pour devenir carnivore dans des environnements \u00e0 faible luminosit\u00e9.
+
+2. Les follicules le long des tentacules sont capables de d\u00e9tecter tout contact avec des corps \u00e9trangers, produisant une charge \u00e9lectromagn\u00e9tique jusqu'\u00e0 600 watts de puissance. Il est probable que la proie soit alors paralys\u00e9e et consomm\u00e9e pendant plusieurs semaines.
+
+Proies : petits poissons
+
+Conseil : \u00e0 \u00e9viter",
+    "Ency_Hoopfish": "Hoopfish",
+    "EncyDesc_Hoopfish": "1. De petite taille, mentalit\u00e9 d'\u00e9colier, poisson-proie.
+
+2. Antennes : au lieu de nager, cette forme de vie utilise les fines antennes vertes qui entourent son corps pour alt\u00e9rer la composition de l'eau devant elle, lui permettant de \"voguer\" dans cet espace de faible densit\u00e9 tout juste cr\u00e9\u00e9.
+
+Conseil : comestible mais peu nutritif ",
+    "Ency_CoralSample": "Coraux ordinaires",
+    "EncyDesc_CoralSample": "Les tubes de corail g\u00e9ants et les plaques de carapace inclin\u00e9es semblent avoir diff\u00e9rentes solutions pour un m\u00eame probl\u00e8me : maximiser les flux d'eau et de nutriments dans toute la colonie. Malgr\u00e9 des dissemblances externes, ces structures sont construites par des organismes et sur des principes tr\u00e8s similaires. Les \u00e9chantillons sont riches en calcium. 
+
+Conseil : exploitables pour la production de javel",
+    "Ency_Crash": "Poisson Explosif ",
+    "EncyDesc_Crash": "1. Pointes sensibles au choc : la cr\u00e9ature d\u00e9clenche une r\u00e9action chimique interne d\u00e8s lors qu'elle entre en collision avec un objet quelconque et ce \u00e0 une vitesse suffisante pour affecter ses pointes. 
+
+2. Museau aspirant : probablement utilis\u00e9 pour aspirer de petits insectes et larves pr\u00e9sents dans les cavernes. 
+
+3. Organe de stockage chimique : pr\u00e9sence de concentrations de soufre accumul\u00e9es dans cet organe au fil du temps pouvant \u00eatre d\u00e9ploy\u00e9es comme derni\u00e8re ligne de d\u00e9fense explosive durant la phase de nidification. 
+
+Les donn\u00e9es indiquent une symbiose \u00e9volu\u00e9e avec la plante \u00e0 Poisson Explosif. Hypoth\u00e8se : la plante a \u00e9volu\u00e9 pour se nourrir des compos\u00e9s sulfuriques s\u00e9cr\u00e9t\u00e9s par le Poisson Explosif. Plus puissantes, des plantes plus protectrices fournissent des lieux de reproduction de qualit\u00e9 sup\u00e9rieure, ce qui va en retour b\u00e9n\u00e9ficier \u00e0 celles-ci qui vont recevoir davantage de nutriments, le cycle de coop\u00e9ration va alors continuer. 
+
+Conseil : \u00e0 \u00e9viter ou \u00e0 neutraliser
+",
+    "Ency_CrashLair": "Plante \u00e0 Poisson Explosif ",
+    "EncyDesc_CrashLair": "Cette esp\u00e8ce de plante semble partager une relation symbiotique avec la forme de vie aquatique qui y niche \u00e0 l'int\u00e9rieur. Les structures semblables \u00e0 des p\u00e9tales paraissent intactes lorsque la cr\u00e9ature en \u00e9merge et demeurent ouvertes jusqu'\u00e0 ce que le nid soit r\u00e9cup\u00e9r\u00e9 par le propri\u00e9taire d'origine, ou par un autre.
+
+De plus amples informations sur cette relation sont impossibles par l'\u00e9tude de la plante en isolement. 
+
+Des traces de r\u00e9sidus sulfuriques ont \u00e9t\u00e9 d\u00e9tect\u00e9es sur les feuilles int\u00e9rieures. 
+
+Conseil : exploitables",
+    "Ency_Creepvine": "Vigne d'Orin",
+    "EncyDesc_Creepvine": "Une esp\u00e8ce d'algue que l'on retrouve principalement dans les grandes for\u00eats et dans les eaux sabl\u00e9es peu profondes. D'amples racines font office d'ancre sur les fonds marins, \u00e0 partir desquels la plante se d\u00e9veloppe de fa\u00e7on constante vers la surface \u00e0 la poursuite des rayons du soleil.
+
+La tige est riche en fibres et en fer, en faisant ainsi \u00e0 la fois un produit alimentaire viable mais aussi un mat\u00e9riel de base pour la fabrication de textiles tels que des cordes et des bandages.
+
+Pr\u00e9dateurs : Hoverfish, Poisson \u0153il, Raie lapin, Peeper
+
+Conseil : ressource alien fondamentale - comestible - utile \u00e0 la fois en mati\u00e8re m\u00e9dicinale et de construction",
+    "Ency_CreepvineSeeds": "Graines de Vigne d'Orin",
+    "EncyDesc_CreepvineSeeds": "Les plantes adultes de Vignes d'Orin qui ont surv\u00e9cu aux petits pr\u00e9dateurs herbivores produisent ces grappes de graines bioluminescentes susceptibles d'\u00eatre arrach\u00e9es par les courants ou pour \u00eatre consomm\u00e9es puis abandonn\u00e9es par la suite par des pr\u00e9dateurs.
+
+L'embryon est entour\u00e9 par une \u00e9paisse couche d'huile qui se disperse dans le sol une fois la peau ext\u00e9rieure d\u00e9grad\u00e9e. Ceci fournit aux jeunes plants tous les nutriments dont ils ont besoin pour survivre dans des conditions de faible luminosit\u00e9 dans les fonds marins.
+
+Conseil : huiles exploitables",
+    "Ency_Eyeye": "Poisson \u0153il ",
+    "EncyDesc_Eyeye": "Adaptation \u00e9volutive extr\u00eame dont 90% de la masse corporelle de la cr\u00e9ature est consacr\u00e9e \u00e0 sa cavit\u00e9 oculaire. 
+
+- Sp\u00e9cialis\u00e9e dans l'identification de ses pr\u00e9dateurs dans les environnements \u00e0 faible luminosit\u00e9 longtemps avant qu'ils ne soient \u00e0 port\u00e9e.
+- Aucun cerveau, poss\u00e8de uniquement un syst\u00e8me nerveux.
+- Trop stupide pour \u00e9viter les pr\u00e9dateurs \u00e0 une distance trop proche.
+- Sa vuln\u00e9rabilit\u00e9 aux attaques surprises en fait la proie naturelle des Requins des sables.
+
+Conseil : comestible et facile \u00e0 attraper une fois rep\u00e9r\u00e9
+",
+    "Ency_Hoverfish": "Hoverfish",
+    "EncyDesc_Hoverfish": "Compos\u00e9e de six appendices uniques, cette forme de vie dispose d'esp\u00e8ces de coussinets capables d'ioniser l'eau environnante. Le Hoverfish semble utiliser cette capacit\u00e9 pour maintenir sa position fermement contre les courants marins lorsqu'il se nourrit d'algues et de lichens.
+
+Conseil : comestible, garantie d'une alimentation saine",
+    "Ency_Bleeder": "Aqua-Tique",
+    "EncyDesc_Bleeder": "Un simple organisme parasite, gu\u00e8re plus \u00e9volu\u00e9 qu'une tique ordinaire.
+
+Se caract\u00e9rise par un sac ductile sur son extr\u00eamit\u00e9 arri\u00e8re pour la collecte et la digestion du sang et par une m\u00e2choire compos\u00e9e de plusieurs rang\u00e9es de dents et de mandibules utilis\u00e9es pour s'accrocher \u00e0 la peau de ses victimes. 
+
+Proies : connue pour cibler les organismes vivants, la faible vitesse et la pauvre d\u00e9fense de l'Aqua-Tique sugg\u00e8rent qu'elle a \u00e9volu\u00e9 principalement comme charognard.
+
+Conseil :  inopportun et antihygi\u00e9nique",
+    "Ency_StalkerTooth": "Comportement & Physiologie de R\u00f4deur ",
+    "EncyDesc_StalkerTooth": "L'analyse approfondie de l'\u00e9chantillon de dent de R\u00f4deur a \u00e9t\u00e9 effectu\u00e9e.
+
+La composition d'autres dents de formes de vie locales suit un processus biologique semblable par lequel une structure calcifi\u00e9e se d\u00e9veloppe dans la gencive. 
+
+Les dents de R\u00f4deur sont uniques car pr\u00e9sentent une l\u00e9g\u00e8ret\u00e9 et une force extraordinaires et contiennent seulement des traces de calcium. Elles acqui\u00e8rent leur int\u00e9grit\u00e9 structurelle \u00e0 partir d'un compos\u00e9 de titane et de fer en quelque sorte produit dans le corps du R\u00f4deur. 
+
+Tout ceci semble apporter quelques \u00e9ventuelles explications quant au comportement de la cr\u00e9ature toujours en qu\u00eate de rassembler des m\u00e9taux. Cela soul\u00e8ve n\u00e9anmoins davantage de questions : 
+
+- Quel processus permet au R\u00f4deur de convertir des m\u00e9taux bruts en une structure dentaire ?
+- Qu'est-ce qui explique cette adaptation \u00e9volutive apparemment co\u00fbteuse ? Un adversaire blind\u00e9 ? Une p\u00e9nurie de calcium ?
+
+Conseil : de plus amples recherches sont n\u00e9cessaires",
+    "Ency_Spadefish": "Spadefish",
+    "EncyDesc_Spadefish": "Un herbivore tout ce qu'il a de plus commun qui semble \u00e9viter les eaux peu profondes au profit des fonds marins \u00e0 partir desquels il peut garder un \u0153il sur ses pr\u00e9dateurs potentiels dans les eaux au-dessus de lui. Les sp\u00e9cimens r\u00e9cemment observ\u00e9s poss\u00e8dent de fortes concentrations d'enzyme toxique, cela peut \u00eatre d\u00fb \u00e0 une \u00e9tape saisonni\u00e8re de leur cycle de vie. Continuez \u00e0 observer.
+
+Conseil : comestible et nutritif",
+    "Ency_Reginald": "Reginald",
+    "EncyDesc_Reginald": "Un poisson proie somme toute ordinaire. Poss\u00e8de une coloration verte terne afin de se camoufler dans les eaux profondes. La coloration de sa queue semble faire partie d'un comportement d'accouplement. Filtre les algues arrach\u00e9es de l'eau en d'autres mati\u00e8res v\u00e9g\u00e9tales par l'interm\u00e9diaire de quatre orifices frontaux semblables \u00e0 des branchies.
+
+Conseil : comestible et nutritif",
+    "Ency_TigerPlant": "Plante Tigre",
+    "EncyDesc_TigerPlant": "Cette plante a acquis une capacit\u00e9 permettant de d\u00e9tecter les fluctuations dans l'eau jusqu'\u00e0 15m. Ses tubes peuvent quant \u00e0 eux \u00e0 la fois effectuer des mouvements de pr\u00e9hension ainsi que propulser des \u00e9pines \u00e0 une vitesse pouvant atteindre 10m\/s.
+
+Bien qu'elle puisse incapaciter de petits herbivores, cette plante ne poss\u00e8de pas d'organes digestifs carnivores. Les \u00e9ventuels pr\u00e9dateurs attrap\u00e9s dans ce p\u00e9rim\u00e8tre de d\u00e9fense servent alors d'avertissement aux autres herbivores de ne pas approcher, et puis une fois d\u00e9compos\u00e9s, serviront d'engrais pour la Plante Tigre.
+
+Conseil : \u00e0 \u00e9viter ou \u00e0 neutraliser ",
+    "Ency_BloodGrass": "Herbe sanguine",
+    "EncyDesc_BloodGrass": "Une vari\u00e9t\u00e9 d'algue de mer assez commune, adapt\u00e9e aux environnements sableux peu profonds.
+
+- Susceptible de se d\u00e9velopper l\u00e0 o\u00f9 le sol est trop meuble ou \u00e9ventuellement l\u00e0 o\u00f9 la surface de l'oc\u00e9an est trop \u00e9loign\u00e9e des Vignes d'Orin pour prendre racine.
+- Commun\u00e9ment aper\u00e7ue se d\u00e9veloppant sur les cr\u00eates de dunes et au sommet de plateaux sur\u00e9lev\u00e9s pour un meilleur acc\u00e8s \u00e0 la lumi\u00e8re du soleil. 
+- Se distingue par sa coloration rouge qui semble \u00eatre apparue en raison de la lumi\u00e8re de courte longueur d'onde des fonds marins, un moyen de dissuasion contre les pr\u00e9dateurs, ou bien les deux. 
+- Calories insuffisantes pour la consommation humaine.
+
+Pr\u00e9dateurs : Reginald, Spadefish, Boomerang
+
+Conseil : sa pr\u00e9sence suppose une biodiversit\u00e9 saine",
+    "Ency_TreeLeech": "Sangsue V\u00e9g\u00e9tale ",
+    "EncyDesc_TreeLeech": "Excroissance parasite semblable \u00e0 un champignon que l'on trouve attach\u00e9e \u00e0 d'autres esp\u00e8ces animales. L'organisme lib\u00e9re une enzyme pouvant dissoudre la peau de l'h\u00f4te et former un trou \u00e0 partir duquel l'organisme absorbe directement les nutriments. 
+
+Sa m\u00e2choire externe compos\u00e9e d'un alignement de dents ne sert a priori aucun objectif. Pourrait \u00e9ventuellement \u00eatre utilis\u00e9e \u00e0 une diff\u00e9rente \u00e9tape du cycle de vie de l'organisme ?
+
+Conseil : enzymes fongiques exploitables",
+    "Ency_TreeMushroom": "Champignons des Arbres",
+    "EncyDesc_TreeMushroom": "L'analyse de ces grandes structures organiques r\u00e9v\u00e8le une microsoci\u00e9t\u00e9 suivant un principe de collaboration, de cohabitation mais opposant une certaine rivalit\u00e9 entre les diff\u00e9rentes formes de vie.
+
+Le tronc principal est une esp\u00e8ce de corail abritant certaines colonies \u00e2g\u00e9es de plus de 50.000 ans. Les sortes de capuchons qui le d\u00e9limitent partagent davantage en commun avec les champignons de terre. D'autres organismes se d\u00e9veloppent sur la structure d\u00e8s lors qu'il y a suffisamment d'espace et de lumi\u00e8re.
+
+Les eaux environnantes sont assez denses avec de nombreuses cr\u00e9atures herbivores dans un rayon proche de 1mm \u00e0 10mm de sorte que les plus grands herbivores ont pour la plupart abandonn\u00e9 la r\u00e9gion. 
+
+Conseil : exploitable",
+    "Ency_Jellyray": "Raie m\u00e9duse",
+    "EncyDesc_Jellyray": "Partage certaines caract\u00e9ristiques \u00e9volutives avec la Raie lapin, notamment sa chair hautement toxique. Cette esp\u00e8ce s'est adapt\u00e9e aux environnements \u00e0 faible luminosit\u00e9 avec son corps luminescent et translucide. Utile pour :
+
+- \u00c9clairer les alentours pour rechercher de la nourriture
+- \u00c9loigner les pr\u00e9dateurs
+- Identifier les organismes de ses homologues
+
+De plus petites cr\u00e9atures ont \u00e9t\u00e9 aper\u00e7ues nageant dans le sillage de la Raie m\u00e9duse pour tirer avantage de la source de lumi\u00e8re qu'elle produit et ce \u00e0 leur propre fin.
+
+Conseil : non comestible",
+    "Ency_Mesmer": "Envo\u00fbteur",
+    "EncyDesc_Mesmer": "Petite forme de vie carnivore dot\u00e9e d'un m\u00e9canisme de chasse unique lui permettant d'attraper des proies faisant deux fois sa taille.
+
+L'envo\u00fbteur patiente jusqu'\u00e0 l'approche d'un plus grand carnivore avant d'ouvrir ses ailes ext\u00e9rieures. Les pr\u00e9dateurs deviennent obnubil\u00e9s par ces motifs scintillants jusqu'au moment o\u00f9 l'envo\u00fbteur ouvre une cavit\u00e9 semblable \u00e0 une m\u00e2choire dans sa carapace protectrice et tente de d\u00e9vorer sa victime encore vivante, ou la neutraliser suffisamment longtemps pour s'\u00e9chapper. 
+
+Conseil : \u00e0 \u00e9viter",
+    "Ency_Reefback": "Reefback ",
+    "EncyDesc_Reefback": "La carapace de ces \u00e9normes cr\u00e9atures est suffisamment \u00e9paisse pour interf\u00e9rer avec le scanner spectroscope. Donn\u00e9es disponibles limit\u00e9es.
+
+Sa taille peut atteindre jusqu'\u00e0 20m. Ses tentacules quant \u00e0 eux lui permettent de se propulser \u00e0 faible vitesse. Social et semble voyager en petits groupes. Le profil de cet herbivore le place quasiment au sommet de la cha\u00eene alimentaire.
+
+Pr\u00e9dateurs : inconnu
+
+Conseil : aucun \u00e0 l'heure actuelle",
+    "Ency_ModificationStation": "Station de modification",
+    "EncyDesc_ModificationStation": "Contrairement au fabricateur standard qui r\u00e9arrange atomiquement les mat\u00e9riaux bruts pour cr\u00e9er des dispositifs plus complexes, la station de modification offre la possibilit\u00e9 de combiner certains de ces dispositifs pour en am\u00e9liorer leur fonction.
+
+La plupart des vaisseaux industriels sont \u00e9galement \u00e9quip\u00e9s d'un \u00e9ventail de stations de modification, permettant aux ing\u00e9nieurs de rapidement adapter leurs outils en cas de situation d'urgence. 
+
+Afin de garantir suffisamment d'espace disponible, la station de modification est exclue par d\u00e9faut de la plupart des biblioth\u00e8ques \u00e0 sch\u00e9mas d'urgence personnelles. N\u00e9anmoins, certains environnements extr\u00eames pr\u00e9sents sur des plan\u00e8tes oc\u00e9aniques ou d\u00e9sertiques par exemple peuvent n\u00e9cessiter une adaptation de l'\u00e9quipement de survie de base (tels que le couteau ou les r\u00e9servoirs d'oxyg\u00e8ne) pour toute situation impr\u00e9vue. Pour cette raison, l'acc\u00e8s \u00e0 une station de modification est toujours recommand\u00e9. ",
+    "Ency_StasisRifle": "Fusil \u00e0 stase",
+    "EncyDesc_StasisRifle": "Le fusil \u00e0 stase utilise une technologie brevet\u00e9e pour ralentir le temps dans une zone sp\u00e9cifique de mani\u00e8re quasi-totale dans les limites qu'autorisent les lois de la physique. Il s'agit d'un outil avanc\u00e9 et portable con\u00e7u pour faciliter les op\u00e9rations scientifiques et d'ing\u00e9nierie en \u00e9largissant la fen\u00eatre d'opportunit\u00e9s pour toute action en cas de sc\u00e9narios dont le facteur temps est primordial.
+
+Couramment utilis\u00e9 pour : 
+
+- Ralentir des m\u00e9canismes en mouvement rapide, tels que des courroies de ventilateurs afin de faciliter les op\u00e9rations de maintenance. 
+- Interrompre les processus biologiques d'organismes pour permettre une \u00e9tude plus approfondie. Utile \u00e9galement pour enrayer la progression d'incendies ou d'inondations. 
+- Naviguer dans des zones dangereuses en gelant les menaces potentielles. 
+
+Le fusil \u00e0 stase dispose d'une batterie haute capacit\u00e9 ind\u00e9pendante et rempla\u00e7able. Le d\u00e9clencheur peut \u00eatre maintenu enfonc\u00e9 pour augmenter la zone d'effet et sa dur\u00e9e. 
+
+En raison de sa haute consommation en \u00e9nergie et de son aspect non l\u00e9tal, des armes plus conventionnelles sont recommand\u00e9es pour votre d\u00e9fense personnelle.",
+    "Ency_PropulsionCannon": "Canon \u00e0 propulsion",
+    "EncyDesc_PropulsionCannon": "Le Canon \u00e0 propulsion permet aux techniciens de manipuler les forces gravitationnelles \u00e0 des distances pouvant atteindre jusqu'\u00e0 20m. Il est couramment utilis\u00e9 dans la construction et l'exploitation mini\u00e8re pour d\u00e9placer des mat\u00e9riaux.
+
+Mode d'emploi : 
+
+- Appuyez sur la g\u00e2chette une premi\u00e8re fois pour verrouiller, cibler et attirer un objet d'une masse inf\u00e9rieure \u00e0 25kg.
+- L'objet peut maintenant \u00eatre r\u00e9cup\u00e9r\u00e9 en toute s\u00e9curit\u00e9 gr\u00e2ce au rayon gravitationnel.
+- A contrario, appuyez sur la g\u00e2chette une seconde fois pour propulser l'objet rapidement loin du canon.
+- Utilisation non recommand\u00e9e sur des sujets organiques.",
+    "Ency_Seamoth": "Seamoth",
+    "EncyDesc_Seamoth": "Le Seamoth est un submersible con\u00e7u pour une personne poss\u00e8dant un design enti\u00e8rement personnalisable et aliment\u00e9 ind\u00e9pendamment par une batterie haute capacit\u00e9 rempla\u00e7able si n\u00e9cessaire. La plupart des vaisseaux miniers de longue distance comporte au moins deux submersibles de cette classe pour faciliter l'exploration et l'exploitation de plan\u00e9to\u00efdes aquif\u00e8res. 
+
+Notes : 
+- Vitesse maximale : 13m\/s
+- Acc\u00e9r\u00e9ration : 5m\/s\/s
+- Distance par batterie haute capacit\u00e9 : 10km
+- Profondeur maximale : 225m sous le niveau de la mer
+- Emplacements pour modules d'am\u00e9lioration : 4
+- Dimensions : 3m x 1.5m x 1m
+- Personnes : 1
+
+Le Seamoth peut \u00eatre modifi\u00e9 en installant des modules d'am\u00e9lioration au point d'acc\u00e8s mont\u00e9 par d\u00e9faut sur l'aile sup\u00e9rieure gauche. Ceux-ci comprennent : 
+
+- Capacit\u00e9 de stockage de cargaison augment\u00e9e
+- Puissance sup\u00e9rieure 
+- Compensation de pression et de collisions
+- Sonar am\u00e9lior\u00e9 
+- Capacit\u00e9s d\u00e9fensives 
+
+NB : Ces modules peuvent uniquement \u00eatre fabriqu\u00e9s dans une chambre d'immersion \u00e9quip\u00e9e ad\u00e9quatement ou dans une baie submersible.",
+    "Ency_SeamothConfigs": "Catalogue des Configurations de Seamoth",
+    "EncyDesc_SeamothConfigs": "Transport lourd : stockage x3, chargeur solaire x1
+\u00c9claireur : balance de pression x1, rendement \u00e9nerg\u00e9tique x1, syst\u00e8me de d\u00e9fense x1, sonar x1 ;
+R\u00e9servoir : syst\u00e8me de d\u00e9fense x1, syst\u00e8me \u00e0 torpilles x1, renforcement de coque x2",
+    "Ency_Builder": "Construction Rapide Tout Terrain pour Habitats",
+    "EncyDesc_Builder": "Le constructeur d'habitat Alterra de poche a \u00e9t\u00e9 l'un des outils les plus essentiels des x\u00e9noscientifiques, colons et des \u00e9quipes de secours d'urgence \u00e0 travers sept empires diff\u00e9rents depuis plus de 50 ans. 
+
+Les modules d'habitat sont herm\u00e9tiquement scell\u00e9s de l'environnement ext\u00e9rieur et peuvent \u00eatre construits sur terre, sous l'eau, ou bien dans le vide. Les syst\u00e8mes d'alimentation et d'oxyg\u00e8ne ne sont pas install\u00e9s de base, et doivent \u00eatre construits s\u00e9paremment. La plupart des vaisseaux lourds dispose d'un \u00e9ventail complet de modules avanc\u00e9s et de r\u00e9acteurs pour un d\u00e9ploiement rapide sur le terrain.
+
+Les habitats peuvent \u00eatre am\u00e9lior\u00e9s pour devenir \u00e0 long-terme de v\u00e9ritables foyers, des stations de recherches \u00e9loign\u00e9es, des avant-postes d\u00e9fensifs et bien plus.",
+    "Ency_Moonpool": "Chambre d'immersion",
+    "EncyDesc_Moonpool": "La chambre d'immersion est un module d'habitation indispensable pour l'exploration \u00e0 long terme des milieux oc\u00e9aniques. Sa principale fonction consiste en une cale s\u00e8che d\u00e9di\u00e9e au submersible Seamoth (non inclus).
+
+La large chambre centrale contient une piscine pressuris\u00e9e fournissant un acc\u00e8s facile aux eaux environnantes, et fait partie du programme de livraison standard en compl\u00e9ment de plusieurs \u00e9quipements permettant de soulever et recharger le Seamoth.
+
+L'utilisation de l'outil Constructeur est recommand\u00e9e pour \u00e9quiper la chambre d'immersion d'une station de modification de Seamoth le plus t\u00f4t possible. Cela permettra de fabriquer des modules d'am\u00e9lioration de Seamoth, entre autres.
+
+Notes :
+- Dimensions : 16m x 10m x 5m
+- Points de connexion : 6
+- Impact sur la r\u00e9sistance de la coque au niveau de la mer : -5 (l'\u00e9quivalent de 4 salles)
+- Capacit\u00e9 : 1 Seamoth
+- Forte consommation d'\u00e9nergie",
+    "NoKeyExchangeBattery": "Remplacer pile",
+    "NoKeyExchangePowerCell": "Remplacer batterie haute capacit\u00e9 ",
+    "CyclopsWelcomeAboard": "Cyclops : Bienvenue \u00e0 bord capitaine.",
+    "CyclopsHullBreach": "Cyclops : Br\u00e8che(s) dans la coque d\u00e9tect\u00e9e(s)",
+    "CyclopsHullRestored": "Cyclops : Int\u00e9grit\u00e9 de la coque restaur\u00e9e. Syst\u00e8mes de drainage initi\u00e9s.",
+    "SeamothWelcomeAboard": "Seamoth : Bienvenue \u00e0 bord capitaine.",
+    "BaseWelcomeAboard": "Base : Bienvenue \u00e0 bord capitaine.",
+    "BasePowerUp": "Base : Alimentation restaur\u00e9e. Tous les syst\u00e8mes primaires en ligne.",
+    "BasePowerDown": "Base : Attention, alimentation d'urgence fonctionnelle uniquement. ",
+    "BaseHullBreach": "Base : Br\u00e8che(s) dans la coque d\u00e9tect\u00e9e(s)",
+    "BaseHullRestored": "Base : Int\u00e9grit\u00e9 de la coque restaur\u00e9e. Syst\u00e8mes de drainage initi\u00e9s.",
+    "AcidMushroomSpore": "Spores de champignons acides ",
+    "BulboTree": "Arbre Bulbe ",
+    "BulboTreePiece": "\u00c9chantillon d'Arbre Bulbe ",
+    "HangingFruitTree": "Arbre de fruits suspendus",
+    "HangingFruit": "Fruit suspendu",
+    "OrangeMushroom": "Champignon orange",
+    "OrangeMushroomSpore": "Spores de champignon orange",
+    "PinkMushroom": "Champignon rose ",
+    "PinkMushroomSpore": "Spores de champignon rose ",
+    "PurpleRattle": "Hochet violet ",
+    "PurpleRattleSpore": "Spores de Hochet violet ",
+    "PurpleVasePlant": "Plante Vase violette ",
+    "PurpleVasePlantSeed": "Semence de Plante Vase violette ",
+    "WhiteMushroomSpore": "Spores de Champi Profond ",
+    "Tooltip_AcidMushroomSpore": "",
+    "Tooltip_BulboTreePiece": "",
+    "Tooltip_HangingFruit": "",
+    "Tooltip_KooshChunk": "",
+    "Tooltip_OrangeMushroomSpore": "",
+    "Tooltip_PinkMushroom": "",
+    "Tooltip_PinkMushroomSpore": "",
+    "Tooltip_PurpleRattle": "",
+    "Tooltip_PurpleRattleSpore": "",
+    "Tooltip_PurpleVasePlantSeed": "",
+    "Tooltip_WhiteMushroomSpore": "",
+    "LEDLight": "B\u00e2ton lumineux ",
+    "LEDLightBlueprint": "Sch\u00e9ma de B\u00e2ton lumineux",
+    "Tooltip_LEDLightBlueprint": " Sch\u00e9ma de construction d'un B\u00e2ton lumineux ",
+    "Tooltip_LEDLight": "\u00c9clairage d\u00e9ployable aliment\u00e9 par des piles ",
+    "Ency_LEDLight": "B\u00e2ton Lumineux ",
+    "EncyDesc_LEDLight": "Lumi\u00e8re LED mobile et aliment\u00e9e par batteries fournissant un faible \u00e9clairage dans une zone \u00e0 360 degr\u00e9s. Peut \u00eatre fix\u00e9 \u00e0 la plupart des surfaces.",
+    "LoadingMessage": "Chargement en cours...
+
+NOTE : Cet \u00e9cran peut prendre plusieurs minutes pour charger et peut sembler avoir crash pendant cette p\u00e9riode. Soyez patient s'il vous plait.",
+    "Dead": "Mort",
+    "CyclopsHullFragment": "Fragment de coque de Cyclops",
+    "CyclopsBridgeFragment": "Fragment de pont de Cyclops",
+    "CyclopsEngineFragment": "Fragment de moteur de Cyclops",
+    "CyclopsDockingBayFragment": "Fragment de baie d'amarrage de Cyclops",
+    "CyclopsHullBlueprint": "Sch\u00e9ma de coque de Cyclops",
+    "CyclopsBridgeBlueprint": "Sch\u00e9ma de pont de Cyclops",
+    "CyclopsEngineBlueprint": "Sch\u00e9ma de moteur de Cyclops",
+    "CyclopsDockingBayBlueprint": "Sch\u00e9ma de baie d'amarrage de Cyclops",
+    "Tooltip_CyclopsHullBlueprint": "Sch\u00e9ma de construction d'un Cyclops",
+    "Tooltip_CyclopsBridgeBlueprint": "Sch\u00e9ma de construction d'un Cyclops",
+    "Tooltip_CyclopsEngineBlueprint": "Sch\u00e9ma de construction d'un Cyclops",
+    "Tooltip_CyclopsDockingBayBlueprint": "Sch\u00e9ma de construction d'un Cyclops",
+    "FiberMesh": "Maille de fibre ",
+    "Tooltip_FiberMesh": "Fibre naturelle forte. Moelleuse.",
+    "PlanterPot2": "Pot de fleur 2",
+    "PlanterPot3": "Pot de fleur 3",
+    "Tooltip_PlanterPot2": "Pot en titane contenant de la terre synth\u00e9tique.",
+    "Tooltip_PlanterPot3": " Pot en titane contenant de la terre synth\u00e9tique.",
+    "Tooltip_Radio": "Re\u00e7oit les communications courte port\u00e9e de l\u2019outre-monde.",
+    "Radio": "Relais de communication ",
+    "Radio_Play": "Lire Message",
+    "EncyPath_DownloadedData": "Donn\u00e9es t\u00e9l\u00e9charg\u00e9es ",
+    "Ency_BasePlanter": "Planteurs & Pots ",
+    "EncyDesc_BasePlanter": "Les pots de fleur int\u00e9rieurs se caract\u00e9risent par une diversit\u00e9 de configurations, et permettent de cultiver en petits nombres la plupart des esp\u00e8ces de plantes. \u00c0 des fins d\u00e9coratives ou botaniques.",
+    "Ency_FarmingTray": "Bac \u00e0 culture d'ext\u00e9rieur",
+    "EncyDesc_FarmingTray": "Ces sols synth\u00e9tiques avanc\u00e9s permettent \u00e0 ce bac \u00e0 culture de contenir une importante vari\u00e9t\u00e9 et quantit\u00e9 de flores aliens, et peut \u00eatre install\u00e9 de partout sur terre ou sous l'eau d\u00e8s lors qu'il y a suffisamment d'espace disponible.",
+    "Ency_PlanterBox": "Bac \u00e0 culture d'int\u00e9rieur",
+    "EncyDesc_PlanterBox": "Con\u00e7u pour \u00eatre exclusivement utilis\u00e9 \u00e0 l'int\u00e9rieur des modules d'habitat r\u00e9glement\u00e9s,  le bac \u00e0 culture d'int\u00e9rieur est plus compact que la version d'ext\u00e9rieur.",
+    "Ency_WaterFilter": "Appareil de filtration de l'eau",
+    "EncyDesc_WaterFilter": "Le syst\u00e8me de filtration puise l'eau impropre \u00e0 la consommation humaine provenant d'une source externe quelconque, fractionne atomiquement ses parties constitutives afin de produire une eau liquide consommable et sal\u00e9e tout en se d\u00e9barrassant de possibles sous-produits nocifs. Il peut \u00eatre construit dans n'importe quel module d'habitat compatible, mais n\u00e9cessite d'\u00eatre aliment\u00e9 pr\u00e9alablement.",
+    "BluePalm": "Palmier bleu",
+    "BluePalmSeed": "Graines de Palmier bleu",
+    "EyesPlant": "Plante oculaire ",
+    "EyesPlantSeed": "Graines de Plante oculaire",
+    "FernPalm": "Palmier foug\u00e8re",
+    "FernPalmSeed": "Graines de Palmier foug\u00e8re",
+    "GabeSFeather": "Plume de Gabe",
+    "GabeSFeatherSeed": "Graine de Plume de Gabe",
+    "JellyPlantSeed": "Graines de Plante m\u00e9duse ",
+    "MelonPlant": "Plant de melons marbr\u00e9s",
+    "Melon": "Melon marbr\u00e9",
+    "MembrainTreeSeed": "Membrain tree seed",
+    "SeaCrown": "Couronne de mer",
+    "SeaCrownSeed": "Graines de couronne de mer",
+    "SmallMelon": "Petit melon marbr\u00e9",
+    "OrangePetalsPlant": "Plante \u00e0 p\u00e9tales oranges",
+    "OrangePetalsPlantSeed": "Graine de plante \u00e0 p\u00e9tales orange",
+    "PinkFlower": "Fleur rose",
+    "PinkFlowerSeed": "Graine de fleur rose",
+    "PurpleBrainCoral": "Purple brain coral",
+    "PurpleBrainCoralPiece": "Purple brain coral sample",
+    "PurpleBranches": "Branches violettes",
+    "PurpleBranchesSeed": "Graine de branches violette",
+    "PurpleFanSeed": "Purple fan seed",
+    "PurpleStalk": "Purple stalk",
+    "PurpleStalkSeed": "Purple stalk seed",
+    "PurpleTentacleSeed": "Graine de mauvaise herbe",
+    "PurpleVegetable": "L\u00e9gume violet",
+    "PurpleVegetablePlant": "Vegetable plant",
+    "RedBasketPlant": "Red basket plant",
+    "RedBasketPlantSeed": "Red basket plant seed",
+    "RedBush": "Buisson rouge",
+    "RedBushSeed": "Graine de buisson rouge",
+    "RedConePlant": "Red cone plant",
+    "RedConePlantSeed": "Red cone plant seed",
+    "RedGreenTentacle": "Tentacule rouge verd\u00e2tre",
+    "RedGreenTentacleSeed": "Graine de tentacule rouge verd\u00e2tre",
+    "RedRollPlant": "Red roll plant",
+    "RedRollPlantSeed": "Red roll plant seed",
+    "ShellGrass": "Shell grass",
+    "ShellGrassSeed": "Shell grass seed",
+    "SpikePlantSeed": "Tiger plant seed",
+    "SmallFanSeed": "Pygmy fan seed",
+    "SnakeMushroom": "Champignon serpent",
+    "SnakeMushroomSpore": "Spore de champignon serpent",
+    "SpottedLeavesPlant": "Spotted leaves plant",
+    "SpottedLeavesPlantSeed": "Spotted leaves plant seed",
+    "Tooltip_BluePalmSeed": "Graines de Palmier bleu",
+    "Tooltip_EyesPlantSeed": "Graines de Plante oculaire",
+    "Tooltip_FernPalmSeed": "Graines de Plante foug\u00e8re ",
+    "Tooltip_GabeSFeatherSeed": "Graine de Plume de Gabe",
+    "Tooltip_JellyPlant": "Plante m\u00e9duse ",
+    "Tooltip_JellyPlantSeed": "Graines de Plante m\u00e9duse ",
+    "Tooltip_Melon": "",
+    "Tooltip_MembrainTreeSeed": "Membrain tree seed",
+    "Tooltip_SmallMelon": "",
+    "Tooltip_OrangePetalsPlantSeed": "Orange petals plant seed",
+    "Tooltip_PinkFlowerSeed": "Pink flower seed",
+    "Tooltip_PurpleBrainCoralPiece": "Purple brain coral sample",
+    "Tooltip_PurpleBranchesSeed": "Purple branches seed",
+    "Tooltip_PurpleFanSeed": "Purple fan seed",
+    "Tooltip_PurpleStalkSeed": "Purple stalk seed",
+    "Tooltip_PurpleTentacleSeed": "Graine de mauvaise herbe",
+    "Tooltip_PurpleVegetable": "",
+    "Tooltip_RedBasketPlantSeed": "Red basket plant seed",
+    "Tooltip_RedBushSeed": "Red bush seed",
+    "Tooltip_RedConePlantSeed": "Red cone plant seed",
+    "Tooltip_RedGreenTentacleSeed": "Red green tentacle seed",
+    "Tooltip_RedRollPlantSeed": "Red roll plant seed",
+    "Tooltip_SeaCrownSeed": "Sea crown seed",
+    "Tooltip_ShellGrassSeed": "Shell grass seed",
+    "Tooltip_SnakeMushroomSpore": "Snake mushroom spore",
+    "Tooltip_SpikePlantSeed": "",
+    "Tooltip_SpottedLeavesPlantSeed": "Spotted leaves plant seed",
+    "Tooltip_SmallFan": "Pygmy fan",
+    "Tooltip_SmallFanSeed": "Pygmy fan seed",
+    "Ency_HangingFruitTree": "Hanging Fruit Tree",
+    "EncyDesc_HangingFruitTree": "Un arbre donnant de gros fruits oranges",
+    "Ency_BulboTree": "Arbre bulbe",
+    "EncyDesc_BulboTree": "On dirait un arbre ",
+    "Ency_WhiteMushroom": "Deep Shroom",
+    "EncyDesc_WhiteMushroom": "",
+    "Ency_PinkMushroom": "Champignon rose",
+    "EncyDesc_PinkMushroom": "C'est sans aucun doute un champignon",
+    "Ency_PurpleRattle": "Hochet violet",
+    "EncyDesc_PurpleRattle": "",
+    "Ency_PurpleVasePlant": "Plante Vase violette",
+    "EncyDesc_PurpleVasePlant": "",
+    "Ency_OrangeMushroom": "Champignon orange",
+    "EncyDesc_OrangeMushroom": "Gros champignon orange",
+    "Ency_VegetablePlant": "Plante v\u00e9g\u00e9tale ",
+    "EncyDesc_VegetablePlant": "",
+    "Ency_MelonPlant": "Plant de Melons marbr\u00e9s",
+    "EncyDesc_MelonPlant": "",
+    "Ency_KooshBush": "Koosh Bush",
+    "EncyDesc_KooshBush": "",
+    "Ency_BluePalm": "Palmier bleu",
+    "EncyDesc_BluePalm": "",
+    "Ency_SmallFan": "Pygmy Fan",
+    "EncyDesc_SmallFan": "",
+    "Ency_PurpleFan": "\u00c9ventail violet",
+    "EncyDesc_PurpleFan": "",
+    "Ency_WrithingWeed": "Mauvaise herbe putride",
+    "EncyDesc_WrithingWeed": "",
+    "Ency_GabeSFeather": "Plume de Gabe",
+    "EncyDesc_GabeSFeather": "",
+    "Ency_SeaCrown": "Couronne de mer",
+    "EncyDesc_SeaCrown": "",
+    "Ency_MembrainTree": "Membrain Tree",
+    "EncyDesc_MembrainTree": "",
+    "Ency_PinkFlower": "Fleur rose",
+    "EncyDesc_PinkFlower": "",
+    "Ency_FernPalm": "Palmier foug\u00e8re ",
+    "EncyDesc_FernPalm": "",
+    "Ency_OrangePetalsPlant": "Plante \u00e0 p\u00e9tales oranges",
+    "EncyDesc_OrangePetalsPlant": "",
+    "Ency_EyesPlant": "Plante oculaire ",
+    "EncyDesc_EyesPlant": "",
+    "Ency_RedGreenTentacle": "Tentacule rouge verd\u00e2tre",
+    "EncyDesc_RedGreenTentacle": "",
+    "Ency_PurpleStalk": "Purple Stalk",
+    "EncyDesc_PurpleStalk": "",
+    "Ency_RedBasketPlant": "Red Basket Plant",
+    "EncyDesc_RedBasketPlant": "",
+    "Ency_RedBush": "Red Bush",
+    "EncyDesc_RedBush": "",
+    "Ency_RedConePlant": "Red Cone Plant",
+    "EncyDesc_RedConePlant": "",
+    "Ency_ShellGrass": "Shell Grass",
+    "EncyDesc_ShellGrass": "",
+    "Ency_SpottedLeavesPlant": "Spotted Leaves Plant",
+    "EncyDesc_SpottedLeavesPlant": "",
+    "Ency_RedRollPlant": "Red Roll Plant",
+    "EncyDesc_RedRollPlant": "",
+    "Ency_PurpleBranches": "Branches violettes",
+    "EncyDesc_PurpleBranches": "",
+    "Ency_SnakeMushroom": "Champignon serpent",
+    "EncyDesc_SnakeMushroom": "",
+    "Ency_BloodVine": "BloodVine",
+    "EncyDesc_BloodVine": "",
+    "FeedbackNewReply": "Vous avez re\u00e7u une nouvelle r\u00e9ponse de d\u00e9veloppeur.
+Appuyez sur F8 pour le lire.",
+    "SurvivorPDA": "PDA abandonn\u00e9 ",
+    "Tooltip_SurvivorPDA": "T\u00e9l\u00e9charger des donn\u00e9es ",
+    "StarshipCargoCrate": "Caisse de cargaison",
+    "StarshipCircuitBox": "Boitier de circuits ",
+    "StarshipDesk": "Bureau",
+    "StarshipChair": "Chaise ",
+    "StarshipMonitor": "Moniteur ",
+    "Tooltip_StarshipCargoCrate": "Mais o\u00f9 est la cargaison ?!",
+    "Tooltip_StarshipCircuitBox": "Regardez, un jeu de fils complexe !",
+    "Tooltip_StarshipDesk": "Pour les employ\u00e9s de bureau. ",
+    "Tooltip_StarshipChair": "\u00c9tonnamment moelleuse. ",
+    "Tooltip_StarshipMonitor": "Aucun signal.",
+    "Techlight": "Projecteur ",
+    "Seaglide": "Seaglide",
+    "BaseBulkheadFragment": "Fragment de cloison",
+    "BaseFiltrationMachineFragment": "Fragment de machine \u00e0 filtration",
+    "BaseObservatoryFragment": "Fragment d'observatoire ",
+    "BaseUpgradeConsoleFragment": "Fragment de console d'am\u00e9lioration pour Seamoth",
+    "ConstructorFragment": "Fragment de baie \u00e0 v\u00e9hicules mobiles ",
+    "PowerTransmitterFragment": "Fragment de transmetteur de puissance",
+    "RadioFragment": "Fragment de radio",
+    "ScannerRoomFragment": "Fragment de salle de scanner",
+    "SeaglideFragment": "Fragment de Seaglide ",
+    "SolarPanelFragment": "Fragment de panneau solaire ",
+    "SpecimenAnalyzerFragment": "Fragment d'analyseur de sp\u00e9cimens ",
+    "TechlightBlueprint": "Sch\u00e9ma de Projecteur ",
+    "Tooltip_Seaglide": "Transforme un mouvement de torsion en pouss\u00e9e sous-marine via un propulseur.",
+    "Tooltip_TechlightBlueprint": "Sch\u00e9ma de construction d'un Projecteur",
+    "Tooltip_Techlight": "\u00c9clairage industriel aliment\u00e9 par batterie, con\u00e7u pour tous types d'environnements.",
+    "Ency_Techlight": "Projecteur ",
+    "EncyDesc_Techlight": "Un projecteur de lumi\u00e8re standard, aliment\u00e9 par batterie, et con\u00e7u pour \u00e9mettre une forte lumi\u00e8re dans une direction. Utile dans tous types d'op\u00e9rations industrielles ou d'urgence. Fonctionne dans tous les environnements connus. Batterie rempla\u00e7able.",
+    "Ency_Spotlight": "Spot de lumi\u00e8re",
+    "EncyDesc_Spotlight": "",
+    "OxygenWarning10": "Urgence : 10 secondes d'oxyg\u00e8ne restantes.",
+    "OxygenWarning30": "Attention : 30 secondes d'oxyg\u00e8ne restantes.",
+    "GrowingProgress": "Croissance : {0:P0}",
+    "GrowingPlant": "{0} croissant ",
+    "MelonSeed": "Marblemelon seed",
+    "Tooltip_SmallKoosh": "",
+    "Tooltip_MediumKoosh": "",
+    "Tooltip_LargeKoosh": "",
+    "Tooltip_HugeKoosh": "",
+    "Tooltip_BulboTree": "",
+    "Tooltip_OrangeMushroom": "",
+    "Tooltip_PurpleVasePlant": "",
+    "Tooltip_MelonPlant": "",
+    "Tooltip_PurpleBrainCoral": "",
+    "Tooltip_SpikePlant": "",
+    "Tooltip_BluePalm": "",
+    "Tooltip_PurpleFan": "",
+    "Tooltip_SmallFanCluster": "",
+    "Tooltip_PurpleTentacle": "",
+    "Tooltip_GabeSFeather": "",
+    "Tooltip_SeaCrown": "",
+    "Tooltip_MembrainTree": "",
+    "Tooltip_PinkFlower": "",
+    "Tooltip_FernPalm": "",
+    "Tooltip_OrangePetalsPlant": "",
+    "Tooltip_EyesPlant": "",
+    "Tooltip_RedGreenTentacle": "",
+    "Tooltip_PurpleStalk": "",
+    "Tooltip_RedBasketPlant": "",
+    "Tooltip_RedBush": "",
+    "Tooltip_RedConePlant": "",
+    "Tooltip_ShellGrass": "",
+    "Tooltip_SpottedLeavesPlant": "",
+    "Tooltip_RedRollPlant": "",
+    "Tooltip_PurpleBranches": "",
+    "Tooltip_SnakeMushroom": "",
+    "Tooltip_MelonSeed": "",
+    "Tooltip_BlueJeweledDisk": "",
+    "Tooltip_GreenJeweledDisk": "",
+    "Tooltip_PurpleJeweledDisk": "",
+    "Tooltip_RedJeweledDisk": "",
+    "Tooltip_TreeMushroom": "",
+    "Tooltip_BigCoralTubes": "",
+    "Tooltip_CoralShellPlate": "",
+    "Goal_HolyDiver": "Vous \u00eates rest\u00e9 trop longtemps dans l'oc\u00e9an de nuit. Oh, vous ne voyez pas ce que je veux dire ?",
+    "RadioBounceBack": "Ceci est une r\u00e9ponse automatis\u00e9e du Vaisseau Minier Aurora. Votre signal de d\u00e9tresse a bien \u00e9t\u00e9 re\u00e7u. Une \u00e9quipe de secours d'urgence sera envoy\u00e9e \u00e0 votre position. *Bruit radio* Arriv\u00e9e estim\u00e9e dans : 9...9...9...9...9 heures.",
+    "RadioLifepod17": "Ceci est un message de d\u00e9tresse automatis\u00e9 envoy\u00e9 par la Capsule de survie 17 de l'Aurora. Coordonn\u00e9es jointes. Envoyez imm\u00e9diatement une \u00e9quipe de secours.",
+    "RadioSecondOfficer": "Ici le Second capitaine Keen, diffusant \u00e0 tous les survivants de l'\u00e9quipage Aurora ! Le Capitaine Hollister est port\u00e9 disparu. J'ai repris le commandement. L'ordinateur a identifi\u00e9 une terre ferme \u00e0 environ 750m au sud du site de crash. Vous avez pour ordres de rester ensemble, de veiller \u00e0 votre s\u00e9curit\u00e9 imm\u00e9diate puis de vous regrouper aux coordonn\u00e9es de rendez-vous fix\u00e9es. Bonne chance. Termin\u00e9. ",
+    "RadioWarper1": "Neuf nouveaux sujet biologiques d\u00e9tect\u00e9s. Changement de mode : chasse \/ analyse. Partage des positions des sujets avec les autres agents.",
+    "RadioLifepod7": "Ici le Chef Ing\u00e9nieur LaFette, depuis la Capsule de survie 7 ! Nous avons surv\u00e9cu \u00e0 l'impact, mais les flotteurs ne se sont pas d\u00e9ploy\u00e9s et nous coulons ! Coordonn\u00e9es jointes ! Je vais essayer de r\u00e9parer ! Mais il faut s'attendre \u00e0 une coupure radio \u00e0 tout- *bruit radio*",
+    "RadioWarper2": "Sujet 11783 d\u00e9truit. Changement de mode : patrouille. Nouvelles cibles non rep\u00e9r\u00e9es : 1.",
+    "RadioPrecursor1": "Karflaget gertrupop flayra. Troflagot e aitrart. Trankeboop. Askrinol forlaget yarma aquit e flyra e aitrart escimay.",
+    "RadioPassingShip": "Ici le vaisseau commercial Sunbeam. Aurora, nous avons re\u00e7u votre appel \u00e0 l'aide et enregistr\u00e9 vos coordonn\u00e9es. Nous aurions aim\u00e9 apporter de meilleures nouvelles, mais nous ne sommes pas \u00e9quip\u00e9s pour vous assister. Nous pr\u00e9voyons d'arriver \u00e0 la station spatiale la plus proche dans environ 461 jours. Nous transmettrons alors votre messages aux autorit\u00e9s comp\u00e9tentes. Tenez bon en attendant, d'accord ? Sunbeam, termin\u00e9.",
+    "HintMouseLook": "Utilisez votre souris pour regarder autour de vous",
+    "HintWSADToMove": "ZQSD pour vous d\u00e9placer ",
+    "HintLMBToPickupFireExtinguisher": "Clic gauche pour ramasser l'extincteur ",
+    "HintRMBToUseFireExtinguisher": "Clic droit pour utiliser l'extincteur ",
+    "HintTabToOpenClosePDA": "Appuyez sur TAB pour ouvrir ou refermer le PDA",
+    "HintSuccess": "Excellent !",
+    "PDABootingEmergency": "D\u00c9MARRAGE EN MODE URGENCE",
+    "PDABootingLoading": "CHARGEMENT
+[ {0}% ]",
+    "EscapePodStorageOpen": "Ouvrir conteneur de stockage",
+    "EscapePodMedKitOpen": "Ouvrir cabinet m\u00e9dical ",
+    "EscapePodMedKitClose": "Fermer cabinet m\u00e9dical",
+    "EnergyPercent": "\u00c9nergie : {0:P0}",
+    "FuelPercent": "Fuel : {0:P0}",
+    "Weld": "Souder ",
+    "Tooltip_MedicalCabinet": "Produit un kit m\u00e9dical toutes les 30 minutes.",
+    "Tooltip_FireExtinguisher": "Maintient les incendies en \u00e9chec.",
+    "Damaged": "Endommag\u00e9 ",
+    "Pickup_FireExtinguisher": "Ramasser Extincteur  ",
+    "FireExtinguisher_Douse": "\u00c9teindre l'incendie ",
+    "MedicalCabinet": "Fabricateur de Kits m\u00e9dicaux ",
+    "MedicalCabinet_DoorClose": "Fermer",
+    "MedicalCabinet_DoorOpen": "Ouvrir ",
+    "MedicalCabinet_PickupMedKit": "Ramasser Kit de soin ",
+    "DamagedWires": "Syst\u00e8mes de la capsule de survie endommag\u00e9s ",
+    "WeldToFix": "Utiliser la soudeuse pour r\u00e9parer ",
+    "IntroEscapePod1Header": "S\u00c9QUENCE DE LANCEMENT ACTIVE !",
+    "IntroEscapePod1Content": "D\u00e9tachement en provenance de l'Aurora : OK.
+Harnais de s\u00e9curit\u00e9 de l'\u00e9quipage : s\u00e9curis\u00e9.
+Entr\u00e9e dans atmosph\u00e8re plan\u00e9taire. 
+G-force approchant niveaux dangereux. 
+Accrochez-vous pour impact. ",
+    "IntroEscapePod1Power": "BATTERIES HAUTE CAPACIT\u00c9 1-3 CONNECT\u00c9ES",
+    "IntroEscapePod2Header": "URGENCE !",
+    "IntroEscapePod2Content": "Collision d\u00e9tect\u00e9e.
+Dispositifs de flottaison d\u00e9ploy\u00e9s. 
+Incendie d\u00e9tect\u00e9 \u00e0 l'int\u00e9rieur de la capsule de survie. 
+CO2 approchant niveaux dangereux. 
+Syst\u00e8mes secondaires : hors-ligne. 
+\u00c9coutilles : d\u00e9faillantes. ",
+    "IntroEscapePod2Power": "ALIMENTATION PRINCIPALE D\u00c9CONNECT\u00c9E",
+    "IntroEscapePod3Header": "ATTENTION ! ",
+    "IntroEscapePod3Content": "Multiples erreurs d\u00e9tect\u00e9es dans syst\u00e8mes d'alimentation de la capsule.
+Test des circuits de commande : \u00e9chec.
+Syst\u00e8mes secondaires : hors-ligne.
+Ancrage par gravit\u00e9 : hors-ligne. 
+Int\u00e9grit\u00e9 de la coque de la capsule de survie : OK.",
+    "IntroEscapePod3Power": "BATTERIES HAUTE CAPACIT\u00c9 1-3 CONNECT\u00c9ES",
+    "IntroEscapePod4Header": "STATUT : OK",
+    "IntroEscapePod4Content": "Int\u00e9grit\u00e9 de la coque : OK.
+Syst\u00e8mes secondaires : en ligne.
+Ancrage par gravit\u00e9 : en ligne.
+Int\u00e9grit\u00e9 de la coque de la capsule de survie : OK.
+Analyse de toutes les fr\u00e9quences d'urgence. ",
+    "IntroEscapePod4Power": "ALIMENTATION PRINCIPALE EN LIGNE CONNECT\u00c9E",
+    "EncyPath_DownloadedData\/Degasi": "Survivants du Degasi",
+    "Ency_WreckAuxOrders": "Ordres de Mission Auxiliaires Aurora",
+    "EncyDesc_WreckAuxOrders": "CADRES SUP\u00c9RIEURS UNIQUEMENT
+
+Type de mission : Recherche & Sauvetage 
+Cible de mission : \u00c9quipage du vaisseau de l'Empire Mongol \"Degasi\"
+Lieu de mission : Ariadne Arm, \u00e0 3 ann\u00e9es-lumi\u00e8re au-del\u00e0 de la phasegate la plus \u00e9loign\u00e9e. 
+Contact de mission : \u00c9missaire Jochi Khasar, Locaux R\u00e9serv\u00e9s aux Voyageurs de l'Aurora, Chambre 4.
+
+Lette de mission : L'Aurora aurait d\u00fb emprunt\u00e9 le Syst\u00e8me 2001 approximativement 13 mois apr\u00e8s son lancement. Celui-ci devait effectuer un appui gravitationnel aux alentours de la plan\u00e8te 4546B. Ceci vous m\u00e8nera \u00e0 port\u00e9e de la derni\u00e8re position connue du Degasi.
+
+L'Empire Mongol a perdu contact avec le vaisseau priv\u00e9 \"Degasi\" 18 mois apr\u00e8s son d\u00e9part de l'espace colonis\u00e9. L'Empire a monnay\u00e9 la mont\u00e9e de l'\u00c9missaire Khasar \u00e0 bord de l'Aurora. Vos ordres sont de lui fournir tous les moyens appropri\u00e9s pour localiser, et le cas \u00e9ch\u00e9ant, extraire les membres d'\u00e9quipage du Degasi, sans compromettre la mission principale. 
+
+Le manifeste de l'\u00e9quipage du Degasi a \u00e9t\u00e9 distribu\u00e9 aux cadres sup\u00e9rieurs dans un paquet de donn\u00e9es s\u00e9par\u00e9. 
+
+Classification de mission : 
+L'\u00e9quipage de l'Aurora ne doit en aucun cas \u00eatre inform\u00e9 de cette mission tant que leur coop\u00e9ration pour localiser et extraire l'\u00e9quipage du Degasi n'est pas requise. Il convient de souligner que les missions humanitaires auxiliaires tombent en-dehors des structures de r\u00e9mun\u00e9ration conventionnelles.
+",
+    "Ency_PaalTorgalBio": "Recherche & Sauvetage : Paal Torgal",
+    "EncyDesc_PaalTorgalBio": "CADRES SUP\u00c9RIEURS UNIQUEMENT
+
+Cible auxiliaire de Recherche & Sauvetage : Paal Torgal 
+Position : Directeur G\u00e9n\u00e9ral de la Corporation Torgaljin, Capitaine du \"Degasi\".
+Statut : Perdu dans l'espace, Ariadne Arm 
+\u00c2ge au moment de la disparition : 79
+
+Paal Torgal et son \u00e9quipage ont perdu contact avec les autorit\u00e9s mongoles il y a dix ans lors d'un voyage \u00e0 travers le Syst\u00e8me 2001. Le Degasi \u00e9tait assur\u00e9 en cas de perte, et plusieurs vaisseaux ont depuis tent\u00e9 de le retrouver alors qu'ils traversaient le syst\u00e8me, mais sans succ\u00e8s.
+
+- Devenu actionnaire majoritaire de la Torgaljin Corporation par l'interm\u00e9diaire de sa m\u00e8re partie \u00e0 la retraite
+- Interaction avec Alterra limit\u00e9e \u00e0 la livraison occasionelle de munitions 
+- B\u00e9n\u00e9ficiaire des technologies de prolongement de dur\u00e9e de vie
+- Accompagn\u00e9 de son unique enfant, Baat Torgal (19), h\u00e9ritier de la Torgaljin Corporation
+- L'\u00e9missaire mongol Khasar a signal\u00e9 dans son rapport que Torgal voyageait fr\u00e9quemment avec un \u00e9quipage en effectif r\u00e9duit
+- Une maintenance insuffisante des syst\u00e8mes peut expliquer la disparition du vaisseau",
+    "Ency_BaatTorgalBio": "Recherche & Sauvetage : Baal Torgal",
+    "EncyDesc_BaatTorgalBio": "CADRES SUP\u00c9RIEURS UNIQUEMENT
+
+Cible auxiliaire de Recherche & Sauvetage : Baat Torgal 
+Position : Vice-pr\u00e9sident de la Corporation Torgaljin
+Statut : Perdu dans l'espace, Ariadne Arm 
+\u00c2ge au moment de la disparition : 19
+
+- Unique enfant de Paal Torgal 
+- B\u00e9n\u00e9ficiaire de techniques d'apprentissage am\u00e9lior\u00e9es et d'implants c\u00e9r\u00e9braux
+- Digi-form\u00e9 en biochimie avanc\u00e9e et en sciences \u00e9conomiques stellaires
+- L'\u00e9missaire mongol Khasar a signal\u00e9 dans son rapport que Baat accompagnait son p\u00e8re, Paal, jusqu'\u00e0 une station spatiale nouvellement construite pour remplir un mandat de cinq ans en tant que Directeur des op\u00e9rations
+",
+    "Ency_MargueritMaidaBio": "Recherche & Sauvetage : Paal Torgal",
+    "EncyDesc_MargueritMaidaBio": "CADRES SUP\u00c9RIEURS UNIQUEMENT
+
+Cible auxiliaire de Recherche & Sauvetage : Marguerit Maida 
+Position : Personnel de s\u00e9curit\u00e9 
+Statut : Perdu dans l'espace, Ariadne Arm 
+\u00c2ge au moment de la disparition : 42
+
+- Mercenaire ind\u00e9pendante, n\u00e9e dans l'Empire Mongol
+- Ma\u00eetrise de techniques de navire \u00e0 navire et de combats rapproch\u00e9s
+- P\u00e9riodes d'affectation au sein des Forces de D\u00e9fense Mongoles et de la Police Militaire Trans-F\u00e9d\u00e9ration
+- Exclue des TSA 15 ans plus t\u00f4t pour conduite d\u00e9shonorante pour prise d'initiatives hors-mission (d\u00e9tails classifi\u00e9s)
+- L'\u00e9missaire mongol Khasar a signal\u00e9 dans son rapport que Maida fut embauch\u00e9e pour accompagner Paal Torgal \u00e0 bord du Degasi se dirigeant vers l'espace inexplor\u00e9 et d\u00e9fendre le vaisseau en cas d'agressions pirates ",
+    "Ency_AuroraLaunchNews": "Alterra Lance l'Aurora",
+    "EncyDesc_AuroraLaunchNews": "PHATEGATE ANNONC\u00c9E A DESTINATION DE L'ARIADNE ARM : ALTERRA LANCE L'AURORA 
+
+Tandis que les coins les plus recul\u00e9s de l'espace habit\u00e9 sont vou\u00e9s \u00e0 se d\u00e9velopper, Alterra Technologies lance l'Aurora, un vaisseau lourd nouvellement construit \u00e9quip\u00e9 d'une technologie phategate de pointe, \u00e0 destination de l'Ariadne Arm. 
+
+L'Aurora se rendra de spacedock jusqu'aux bordures de l'espace Alterra, faisant 324 sauts de warpgate cons\u00e9cutifs traversant pas moins de neuf autorit\u00e9s trans-gouv, et parviendra \u00e0 l'autre bout des syt\u00e8mes solaires d'Ariadne Arm dans environ trois mois. 
+A partir de l\u00e0, l'\u00e9quipage fort de 100 membres pilotera le vaisseau au-del\u00e0 de la warpgate la plus \u00e9loign\u00e9e, pour atteindre le Syst\u00e8me Solaire 84763 approximativement 12 mois plus tard.
+
+De l\u00e0, une \u00e9quipe compos\u00e9e de l'\u00e9lite de nos ing\u00e9nieurs commencera un chantier long de 6 mois rendant pleinement op\u00e9rationnelle la nouvelle phasegate dans moins de deux ans \u00e0 compter de l'heure o\u00f9 nous parlons. L'\u00e9quipage sera plus qu'impatient d'achever les travaux dans les temps, puisque la phasegate repr\u00e9sente leur itin\u00e9raire de retour le plus rapide. 
+
+Alterra Technologies exploite actuellement 9% de toutes les phasegates dans la galaxie. Si la mission de l'Aurora est un succ\u00e8s, Alterra aura d\u00e9jou\u00e9 plusieurs int\u00e9r\u00eats priv\u00e9s dans l'Empire Mongol, qui ont \u00e0 ce jour \u00e9tablis un nombre \u00e9lev\u00e9 d'avant-postes et op\u00e9rations mini\u00e8res dans la r\u00e9gion.
+
+La c\u00e9r\u00e9monie de lancement s'est vue entour\u00e9e de la fanfare habituelle...",
+    "Ency_IslandsPDABase1Interior": "Journal de Paal Torgal #1",
+    "EncyDesc_IslandsPDABase1Interior": "Je suis Paal Torgal, Directeur G\u00e9n\u00e9ral de la Corporation Torgaljin. Mon \u00e9quipage et moi-m\u00eame avons \u00e9t\u00e9 pris au pi\u00e8ge ici il y a maintenant 5 semaines alors que notre vaisseau fut frapp\u00e9 par une sorte d'arme. Nous sommes parvenus \u00e0 construire un habitat en utilisant des mat\u00e9riaux r\u00e9cup\u00e9r\u00e9s \u00e0 partir de notre vaisseau. 
+
+Nous avons surv\u00e9cu gr\u00e2ce \u00e0 la culture de la flore indig\u00e8ne pr\u00e9sente sur cette plan\u00e8te.  L'empreinte biochimique que j'avais command\u00e9e pour mon fils a d\u00e9j\u00e0 port\u00e9 ses fruits. Elle s'est suffisamment d\u00e9velopp\u00e9e pour nous garantir de la nourriture pour un mois. 
+
+Mais je crains maintenant pour notre s\u00e9curit\u00e9. Une mercenaire que j'avais embauch\u00e9e pour notre p\u00e9riple, Marguerit Maida, semble de plus en plus perturb\u00e9e. Elle insiste pour que nous abandonnions ce site et pour que nous \u00e9tablissions un nouvel habitat mais cette fois, sous l'eau. Je crains qu'elle ne prenne des mesures pour saboter notre habitat ici afin de poursuivre ses propres motivations. N\u00e9anmoins, et malgr\u00e9 ce que me dicte mon bon sens, j'ai consenti \u00e0 sa demande de reconnaissance pour un site aquatique convenable. J'ai espoir qu'elle se rende  rapidement compte \u00e0 quel point l'oc\u00e9an est impitoyable pour qu'elle puisse enfin renoncer \u00e0 cette folle ambition. ",
+    "Ency_IslandsPDABase1a": "Journal de Baal Torgal #6 ?",
+    "EncyDesc_IslandsPDABase1a": "J'ai foir\u00e9. Et pas qu'un peu cette fois. Cela fait maintenant deux jours depuis que c'est arriv\u00e9. Nous n'aurions pas d\u00fb quitter cette \u00eele. Je n'aurais jamais d\u00fb les \u00e9couter. Nous n'aurions pas d\u00fb nous aventurer si profond\u00e9ment. Ils ne veulent pas nous ici. Ils ne nous font pas confiance. Je le savais et pourtant je n'ai rien dit. Je pouvais le voir, mais pas eux, et maintenant ils sont coinc\u00e9s l\u00e0-bas, et moi, je me retrouve ici, tout seul. Je le m\u00e9rite. ",
+    "Ency_IslandsPDABase1bDesk": "Journal Audio du Degasi #1",
+    "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT: It won't work, Chief. We salvaged enough scrap from the Degasi for, what, a couple of observatories?
+PAAL: It'll be enough.
+MARGUERIT: For now. And then we'll run out. Ain't no building materials on this island. We're gonna have to get our feet wet. No other way. 
+PAAL: This island is safe. There's fertile land. No predators. Shelter from the elements.
+MARGUERIT: All we'd need is a water filtration system, some hull reinforcements, maybe a thermal plant or two...
+PAAL: I've made my decision. You want to forfeit your commision just to take a swim?
+MARGUERIT: Believe me, I'm thinking on it.
+BAAT: Those mountains look like they get the most of the sun. If we built observatories up there I think I could grow enough food to keep us all alive. I think this could work.
+PAAL: You hear that? You think you know better than 10 million credits of biochem training?
+MARGUERIT: It's not the kid I doubt. All I'm sayin' is, ocean's got us surrounded. No use hiding.
+PAAL: No. This is where we build. This is how we survive.",
+    "Ency_IslandsPDABase1Desk": "Journal Audio du Degasi #2",
+    "EncyDesc_IslandsPDABase1Desk": "PAAL: Your life is worth more. I forbid you go out there.
+BAAT: I stopped needing your permission when the ship you were captaining sunk.
+PAAL: You will stop needing my permission the day I cease to be your father!
+MAIDA: Say, Chief. Chief! 
+PAAL: What?
+MAIDA: Do you know how to drain those grow beds out there of 40 tons of storm water? Or where we'll find food for three people for the next two weeks?
+PAAL: You know I don't.
+MAIDA: So what's your boy's life worth to you today, if next week you're gonna be so hungry you start wondering what he tastes like? Let him go cover the plants.
+PAAL: Son, go cover the plants.
+CPU: Baat Torgal is no longer aboard the habitat.
+PAAL: Interfere with my family again and when the rescue team arrives I will leave you here. You understand me?
+MAIDA: No rescue coming, Chief. Not in time. And no stayin' here, neither. This rain keeps falling, and sooner or later this place'll be buried. Only choice we've got is whether we get buried with it.
+PAAL: Stay away from my boy.",
+    "Ency_IslandsPDAExterior": "Journal Audio du Degasi #3",
+    "EncyDesc_IslandsPDAExterior": "MARGUERIT: You see, Chief? You brought us to this fracking planet. You told us we'd see a lush payday. Now what do we got? Half of us dead. A pile of fracking dirt in our front room. Rain coming in the through the windows.
+PAAL: And you would have avoided this how?
+MARGEURIT: I woulda started by not taking an unscheduled detour. You NEVER go off course. That's something you gotta learn the hard way. Now you know.
+PAAL: What exactly do you propose?
+MARGEURIT: You want to waste what time you have left lugging titanium up from the seabed? Or you want to hit this thing head on?
+PAAL: If we build underwater, what will we do for food? Drinking water? Power?
+MARGEURIT: We'll go fishing. Build water filters. We go deep enough we gotta find thermal vents - we'll have more power than we could ever use. Chief, we'll eat fracking seaweed salad if that's what it takes. Or you got something better?
+BAAT: I think I could make a good seaweed salad.
+PAAL: Son, the adults are talking.
+BAAT: I'm serious, father. If I can grow fruit on the land, I can grow seaweed underwater. We can farm fish. Father, I kept us alive this long. I can keep on doing it.",
+    "Ency_JellyPDABrokenCorridor": "Journal Audio du Degasi #4 - Arriv\u00e9e aux cavernes de Jellyshroom",
+    "EncyDesc_JellyPDABrokenCorridor": "BAAT: This place is rad.
+PAAL: It's not what I expected. Have you factored in the pressure on the hull construction?
+MARGUERIT: I reinforced the hull, installed bulkhead doors.
+PAAL: Of course.
+BAAT: We could build an observatory deck. We could learn a lot here.
+MARGUERIT: Now, the foundations... they're not in the best of shape. But I guarantee you, if this place comes loose it won't be the fall that kills us.",
+    "Ency_JellyPDARoom2Desk": "Journal Audio du Degasi #5 - Plus profond\u00e9ment ?!",
+    "EncyDesc_JellyPDARoom2Desk": "PAAL: We're already 300m below sea level! You want to go DEEPER?!
+MARGUERIT: Look around us, Chief. You know what I see? Water. Water leaking through the hull. Water outside the hatch. Water above me, water below me. It's all freaking water, Chief. We're drowning. Real slow. You want to live out your few remaining days eating fruit on the beach afraid to get your toes wet? 
+PAAL: What is it YOU want?
+MARGUERIT: I want to know how to get off this freaking planet.",
+    "Ency_JellyPDAObservatory": "Journal de Baal Torgal #1",
+    "EncyDesc_JellyPDAObservatory": "OK, \u00e9coutez-\u00e7a. Nous sommes tomb\u00e9s \u00e0 court de verre \u00e9maill\u00e9 que nous avions r\u00e9cup\u00e9r\u00e9 de l'\u00e9pave ce qui nous a amen\u00e9 \u00e0 penser que nous ne serions pas capable de construire l'obervatoire. Et Marguerit, voil\u00e0 ce qu'elle fait, elle emprunte le Seamoth pour rejoindre les for\u00eats d'algues, et ce, uniquement arm\u00e9e d'une lame chauff\u00e9e, et commence \u00e0 se d\u00e9batttre dangeureusement avec un r\u00f4deur dans les fonds marins avec pour objectif de nous ramener ses dents.
+
+Elle s'est engag\u00e9e en combat rapproch\u00e9 avec un requin alien et nous a ramen\u00e9 ses DENTS. Nous pouvons maintenant produire autant d'\u00e9mail que n\u00e9cessaire.
+
+D'un c\u00f4t\u00e9, c'est la chose la plus badass que j'ai jamais entendu, et je suis maintenant assis \u00e0 l'int\u00e9rieur de cet observatoire \u00e0 regarder les mordeurs se cogner contre la vitre sans danger.
+
+Mais d'un autre c\u00f4t\u00e9, est-ce que tout ceci valait le coup ? Est-ce que cette cr\u00e9ature a surv\u00e9cu ? A quelle vitesse leurs dents repoussent-elles ? Y a-t-il un moyen de produire des mat\u00e9riaux tout en \u00e9vitant de nuire \u00e0 l'\u00e9cosyst\u00e8me ?
+
+Si nous avions un aquarium grandeur nature, nous pourrions \u00e9tudier ces formes de vie de plus pr\u00e8s. Trouver les r\u00e9ponses.",
+    "Ency_JellyPDARoom1Desk": "Journal de Baal Torgal #2",
+    "EncyDesc_JellyPDARoom1Desk": "Cela fait d\u00e9sormais un mois que nous vivons dans cet habitat. C'\u00e9tait assez excitant au d\u00e9but, mais c'est plus claustrophobique que ce que je pensais au final. Il y a tellement de pr\u00e9dateurs dans ces grottes que Marguerit est \u00e0 peu pr\u00e8s la seule personne qui parvient \u00e0 en sortir. 
+
+Malgr\u00e9 tout, la vie qu'on y trouve est INCROYABLE. Marguerit nous a ramen\u00e9 des sp\u00e9cimens tellement fous que vous n'avez pas id\u00e9e. OK, la flore n'est pas comestible. Je l'ai appris \u00e0 mes d\u00e9pens. Mais les poissons... l\u00e0-bas ils LUISENT. Il y en a m\u00eame un qui a son globe oculaire repr\u00e9sentant 90% de son corps. Des serpents  longs comme deux sections de couloir en verre.
+
+Ce n'est pas facile sans un laboratoire et un \u00e9quipement appropri\u00e9s, mais parfois la bonne vieille m\u00e9thode ; observer, prendre des notes, tester des th\u00e9ories ; r\u00e9v\u00e8le des choses qu'une analyse spectroscopique ne pourrait pas d\u00e9voiler. 
+
+Par exemple, j'ai surveill\u00e9 les serpents de mer qui s'installent dans les champignons pourpres qui se d\u00e9veloppent ici. Ils attendent leur proie, et frappent quand de petits herbivores s'approchent trop pr\u00e8s. Ce qu'ils ne consomment pas se d\u00e9pose sur le fond marin ce qui fertilise les champignons qui vont eux-m\u00eames vont nourrir les herbivores, et la cha\u00eene continue. La co-\u00e9volution m'\u00e9pate vraiment.",
+    "Ency_JellyPDARoom1Locker": "Journal de Paal Torgal #2",
+    "EncyDesc_JellyPDARoom1Locker": "Savez-vous ce que Maida m'a demand\u00e9 aujourd'hui ? \"Avez-vous entendu parler du sous-marin Cyclops ?\" me demande-t-elle. A MOI. J'ai transport\u00e9 des baleines vedettes jusqu'\u00e0 Neptune, du plastacier \u00e0 la F\u00e9d\u00e9ration... cette famille exploite neuf colonies mini\u00e8res diff\u00e9rentes \u00e0 travers l'Ariadne Arm. Elle pense vraiment que j'ignore ce qu'est un Cyclops ?! Elle pense \u00eatre la personne en charge ? Son contrat continue pourtant d'affirmer le contraire. 
+
+Elle souhaite construire un habitat \u00e0 700m au-dessous du niveau de la mer, \u00e0 un kilom\u00e8tre \u00e0 l'est d'ici. Et elle a besoin de Baat et de moi-m\u00eame pour y parvenir. Elle s'est mise dans la t\u00eate qu'il n'y a aucune aide en route. Qu'elle peut nous sauver si elle agit avec suffisamment de t\u00e9m\u00e9rit\u00e9.
+
+Et sans d\u00e9conner, je ne peux pas dire s'il s'agit de l'id\u00e9e la plus stupide que j'ai jamais entendue, ou mon seul espoir. Je viens de c\u00e9l\u00e9brer mes 80 ans la semaine derni\u00e8re. Et pourtant, j'ai comme l'impression d'avoir vieilli de 80 ann\u00e9es suppl\u00e9mentaires. Mais coinc\u00e9 ici, il n'y aura aucun moyen de remplacer mon foie lorsque l'ancien me fera d\u00e9faut. Je ne suis qu'un mortel ici. Et je commence \u00e0 \u00eatre \u00e0 court de temps. 
+
+Il est donc de ma responsabilit\u00e9 de prendre une d\u00e9cision. Soit retourner sur l'\u00eele et esp\u00e9rer que ce qui a frapp\u00e9 le Degasi dans le ciel ne fera pas la m\u00eame chose au vaisseau de sauvetage, soit nous emmener plus loin \u00e0 la recherche de r\u00e9ponses. Et ce, tout en esp\u00e9rant que mon vieil \u00e2ge me rattrape avant que les monstres marins ne le fassent. 
+
+Je ne reconnaitrai \u00e0 Maida qu'une seule chose. Elle avait raison \u00e0 propos de ces cavernes. Il y a assez de lithium ici pour produire une centaine de tonnes de plastacier. Suffisamment pour une fichue flotte de sous-marins. Personne n'aurait rien pu faire pour nous \u00e9viter de s'\u00e9craser ici, mais j'ai eu raison d'ordonner le d\u00e9tour. Une fois que nous aurons quitt\u00e9 cette plan\u00e8te, ils ne feront que parler du prix des actions de la Corporation Torgaljin de l'autre c\u00f4t\u00e9 de la F\u00e9d\u00e9ration.",
+    "Ency_JellyPDAExterior": "Journal de Marguerit Maida #1",
+    "EncyDesc_JellyPDAExterior": "Ces fichus CONNARDS corporatistes, bourgeois, consanguins, incomp\u00e9tents, \u00e9gocentriques n'en ont foutrement pas la moindre id\u00e9e. Je jure que tout ce qui sort du visage de cet abruti est un mensonge narcissique. S'il veut rester ici, c'est son probl\u00e8me. C'est moi qui fait le sale boulot. Au diable le contrat. Au diable la prime. Au diable les charges. Je vais moi-m\u00eame construire ce sous-marin et je descendrai plus profond. 
+
+J'ai commenc\u00e9 \u00e0 me pr\u00e9parer pour l'op\u00e9ration. La mini-ferme du gamin valait le coup de participer. Pas besoin de visiter la surface pour trouver des dents de r\u00f4deurs quand il en poss\u00e8de une pleine animalerie, tous dress\u00e9s pour lui manger le poisson dans la paume de la main. J'ai commenc\u00e9 \u00e0 leur \u00f4ter les dents d\u00e8s que les Torgal sont endormis, et \u00e0 faire des r\u00e9serves d'\u00e9mail et de minerais m\u00e9talliques pour la construction du sous-marin.
+ 
+Quand de satan\u00e9s monstres marins te chassent, tu ne fuis pas et tu ne te caches pas. Tu chasses ces saloperies en retour. Ensuite, tu construis un plus gros navire \u00e0 partir des os des cr\u00e9atures vaincues et tu pars chasser de plus gros monstres. Et puis tu recommences jusqu'\u00e0 ce qu'il n'y ait plus aucun monstre pour te chasser.",
+    "Ency_JellyPDARoom2Locker": "Journal Audio du Degasi #6 - Curieuse D\u00e9couverte",
+    "EncyDesc_JellyPDARoom2Locker": "PAAL : Qu'est-ce que c'est que \u00e7a ?
+MARGUERIT : Je ne sais pas.
+PAAL : Un morceau d'un autre vaisseau ?
+MARGUERIT : Ca ne ressemble \u00e0 aucun vaisseau que je connaisse.
+BAAT : Il est en parfait \u00e9tat. Pas une seule rayure. Peut-\u00eatre qu'il vient de cette plan\u00e8te ?
+PAAL : N'y touche pas, il a peut-\u00eatre beaucoup de valeur. Je t'ai dit de ne pas y toucher !
+MARGUERIT : Calmez-vous, Chef. Je fais que le regarder. S'il allait s'ecrouler en morceaux il l'aurait fait quand je l'ai ramass\u00e9.
+BAAT : \u00c7a emet de la lumi\u00e8re !
+PAAL : Il est encore aliment\u00e9 ? Il devait y avoir quelqu'un ici r\u00e9cemment.
+BAAT : R\u00e9cemment, ou le monde a oubli\u00e9 cette chose depuis trop longtemps.",
+    "Ency_DeepPDABase3": "Journal Audio du Degasi #7",
+    "EncyDesc_DeepPDABase3": "BAAT : \u00c7a suffit, vous deux ! Nous sommes malades.
+MARGUERIT : Hein ?
+PAAL : De quoi ?
+BAAT : Vous n'avez pas commenc\u00e9 \u00e0 tousser ? Sentir des d\u00e9mangeaisons ?
+MARGUERIT : Ouais.
+BAAT : Nous sommes malades depuis que nous respirons cet air.
+PAAL : La biom\u00e9trique des combinaisons nous auraient pr\u00e9venus.
+BAAT : C'est quelque chose qu'elles ne connaissent pas. Une infection bact\u00e9riologique.
+MARGUERIT : Qu'est-ce que \u00e7a fait ?
+BAAT : Pas grand chose, pour l'instant. Mais c'est malin. Au bout d'un certain temps \u00e7a va commencer \u00e0 modifier nos structure g\u00e9n\u00e9tiques. Et c'est l\u00e0 que \u00e7a devient malsain.
+PAAL : Qu'est-ce qu'on peut faire ?
+BAAT : Je pense que je peux ralentir sa progression.
+PAAL : Et comment l'as-tu trouv\u00e9 ?
+BAAT : La bact\u00e9rie est partout, je n'avait juste pas les moyens de la voir. Toute la plan\u00e8te est infect\u00e9e. Elle fait partie de l'\u00e9cosyst\u00e8me.
+MARGUERIT : Donc si elle est partout elle ne doit pas \u00eatre si m\u00e9chante ?
+BAAT : Les formes de vie locales ont probablement d\u00e9velopp\u00e9 des m\u00e9canismes de d\u00e9fense. Que nous n'avons pas.
+PAAL : Pas encore. J'ai foi en toi, fils. Tu vas nous trouver ce rem\u00e8de.
+MARGUERIT : Dis moi si tu as besoin de quelque chose, petit.",
+    "BaseMapRoomFragment": "Sch\u00e9ma de salle de scanner",
+    "BaseMapRoom": "Salle de scanner",
+    "Tooltip_BaseMapRoom": "Salle de scanner",
+    "RecipeUnlocked": "{0} formule(s) d\u00e9verrouill\u00e9e(s)",
+    "TechTypeUnlocked": "{0} d\u00e9verrouill\u00e9(s)",
+    "MapRoomCameraInfo": "Cam\u00e9ra {0}",
+    "MapRoomCameraControls": "Appuyez sur les boutons de la souris pour passer d'une cam\u00e9ra \u00e0 une autre",
+    "MapRoomCameraDistance": "DISTANCE : {0}",
+    "MapRoomCameraDepth": "PROFONDEUR : {0}",
+    "EncyPath_DownloadedData\/Lifepods": "Capsules de survie ",
+    "EncyPath_DownloadedData\/AuroraSurvivors": "Survivants de l'Aurora",
+    "Ency_Lifepod1": "Enregistreur de bord de Danby",
+    "EncyDesc_Lifepod1": "This is medical officer Danby, I'm breaking atmosphere at high velocity, planetfall in 20 seconds! *Explosion* Taking fire! Going into a spin! Attempting- *Static*",
+    "Ency_Lifepod2": "Enregistreur de bord de la capsule de survie #1",
+    "EncyDesc_Lifepod2": "PASSENGER: We're sinking!
+CREW: Ma'am, I'm doing everything that I can!
+PASSENGER: Where are the support teams?!
+CREW: They're on their way, Ma'am!
+PASSENGER: That's not what he said on the radio!
+CREW: Ma'am, I have to ask you to stay where you are! The computer hasn't completed situational analysis, we've no idea what's out there!
+PASSENGER: I will not drown in here!
+CREW: Ma'am, come back, it's not safe!
+*Reaper sounds*",
+    "Ency_Lifepod3": "Enregistreur de bord d'Ing\u00e9nieurs",
+    "EncyDesc_Lifepod3": "PDA: Situational analysis complete. Communications relay offline.
+ENGINEER 1: Frack it! How are we going to make the rendezvous without a radio signal?
+ENGINEER 2: We have a compass bearing. We'll have to do it the old fashioned way.
+ENGINEER 1: You want to fabricate a compass?
+ENGINEER 2: Why stop there? If we find the others, we can build stillsuits. Construct habitats. Maybe even make it to the Aurora and reactivate the interstellar communications. You have a welder?
+ENGINEER 1: Yeah I- Damn it, I left it in the exo bay.
+ENGINEER 2: Don't sweat.
+ENGINEER 1: No, I fracked up.
+ENGINEER 2: No, we can do this. All we need is some basic materials. This planet can't be barren. Let's get out there and find out.",
+    "Ency_Lifepod4": "Enregistreur de bord de l'\u00c9missaire Khasar",
+    "EncyDesc_Lifepod4": "Blackbox Data #345
+00:00 Lifepod systems online.
+00:03 Passenger 07 'Emissary Jochi Khasar' has boarded the lifepod.
+00:07 Lifepod launch sequence initiated.
+00:15 Lifepod detached from Aurora OK.
+00:17 Onboard microphones detecting voice communications, recording:
+'Our creators, who art gracious and merciful, hallowed be thy names. Praise be to you, the glorious one, the cherisher and sustainer of worlds. Give us this day our daily goods, and allow us our pleasures, as we allow those who seek pleasure from us.'
+
+00:33 Entering planetary atmosphere.
+00:35 External temperature approaching critical levels.
+
+00:37 'Show us the straight path, the path of those you favor. In Life, Truth, Love, the wholeness of reality. In Substance, Principle and Mind, man is its image and likeness. For ours is the power, we are the one. For ever and ever. Athem.'
+
+01:02 Exterior hull damage sustained.
+01:05 Life support systems failed.
+01:06 Impact imminent.",
+    "Ency_LifepodSeaglide": "Journal Audio de la capsule de survie #1",
+    "EncyDesc_LifepodSeaglide": "This may be my last report. The lifepod made planetfall intact, but now it's surrounded by some kind of aquatic alien predator. They're encased in a carapace armour, and attack the moment I open the hatches. The first one that came at me I attacked with the survival knife, but it got lodged in the armor layers. Tried distracting them with flares - no effect. No propulsion cannon available. No stasis rifle. No chance. 
+
+I've stripped some of the lifepod electrics to manufacture a seaglide. My only hope is I can outrun them. Wish me luck.",
+    "Ency_LifepodKeenDialog": "Enregistreur de bord du Capitaine Keen",
+    "EncyDesc_LifepodKeenDialog": "CAPTAIN: Keen! This is Aurora, come in!
+KEEN: I hear you, Captain!
+CAPTAIN: The computer has identified a landmass at the attached coordinates! I want you to regroup the crew there!
+KEEN: Understood, but-
+CAPTAIN: They're your responsibility now, don't let me down!
+KEEN: Captain, you need to evacuate!
+*Explosion aboard the Aurora*
+KEEN: Captain?!",
+    "Ency_LifepodKeenLog": "Journal du Capitaine Keen #1",
+    "EncyDesc_LifepodKeenLog": "To all crew - If you are reading this then you have followed the automatic distress signal broadcast by this lifepod's onboard computer, contrary to protocol. My lifepod was damaged on impact and I am forced to evacuate. Your orders are to disregard my safety and attempt to reach the designated regroup co-ordinates at the nearest landmass. I hope to see you there.
+
+- Second Officer Keen",
+    "Ency_LifepodCrashZone1": "Journal Audio de la capsule de survie #2",
+    "EncyDesc_LifepodCrashZone1": "CREW: I need you to stay calm. The hull's secure. We're not in immediate danger.
+PASSENGER: Where are the rescue teams?!
+CREW: The Aurora didn't make it, Ma'am.
+PASSENGER: What do you mean?
+CREW: They're dead, ma'am. They're all dead.
+PASSENGER: What do you intend to do about it?
+CREW: We can't wait here for rescue. We're going to have to fabricate radiation suits and make for the crash site.
+PDA: Detecting local metal deposits.
+CREW: The PDA's interfacing with the fabricator okay. We'll have to go outside for the materials.
+PASSENGER: We?! It's your job, isn't it? To look after the passengers!
+CREW: Within reasonable parameters.
+PASSENGER: I beg your pardon?
+CREW: Forget it, I'll go. Just don't assume I'll find enough materials for the both of us.",
+    "Ency_LifepodCrashZone2": "Journal Audio de la capsule de survie #3",
+    "EncyDesc_LifepodCrashZone2": "*Hatch closes*
+CREW: *Coughing* Here, take this.
+PASSENGER: What do I do?!
+CREW: I pre-programmed the fabricator, just plug in the materials!
+FABRICATOR: Radiation suit fabricated.
+PASSENGER: It says there's only enough materials for one.
+CREW: It's all I could find. You'll have to take it.
+PASSENGER: To be clear, you want me to leave you here?
+CREW: Frack me, no! Find Officer Keen at the rendezvous, and send someone back for me with anti-rad meds, you incompetent, ungrateful-
+PASSENGER: Well if that's going to be your attitude-
+CREW: *Violent coughing*
+PASSENGER: OK, OK, I'm going!
+*Hatch opens*
+CREW: And stay clear of the crash zone in case the drive core goes up!",
+    "Ency_LifepodCTODialog1": "Journal Audio du CTO #1",
+    "EncyDesc_LifepodCTODialog1": "CTO: We're sinking! The flotation devices must have failed!
+TECHNICIAN: Should we evacuate?!
+CTO: No! The seafloor shouldn't be more than a couple hundred meters down. We're safer in here than out there.
+TECHNICIAN: There's water coming in!
+CTO: Wait, I can reconfigure the O2 system to act as a bilge!
+TECHNICIAN: It's working!
+*Crash*
+CTO: You okay?!
+TECHNICIAN: I think so...
+CTO: OK, good news or bad?
+TECHNICIAN: Good.
+CTO: We're alive, and we've stopped sinking.
+TECHNICIAN: Bad?
+CTO: The O2's going to run out in 30 minutes!
+TECHNICIAN: Frack! What do we do?
+CTO: Let me think.",
+    "Ency_LifepodCTODialog2": "Journal Audio du CTO #2",
+    "EncyDesc_LifepodCTODialog2": "*Sound of water inside the lifepod*
+CTO: According to these pressure readings we've sunk more than 400m.
+TECHNICIAN: So let's just build a flotation device, or a seaglide, and make for the surface.
+CTO: We'll never make it without air tanks. It's too far.
+TECHNICIAN: *Spluttering* I don't want to pressure you, but my feet aren't touching the floor anymore.
+CTO: I've got it! There's another lifepod nearby, a hundred meters from here. If we can make it there, we can resupply our O2 tanks then head for the surface!
+TECHNICIAN: What if that pod's screwed too?!
+CTO: Then we're screwed too, but no more than we are already!
+TECHNICIAN: I'm ready.",
+    "Ency_LifepodCTOLog1": "Journal du CTO #1",
+    "EncyDesc_LifepodCTOLog1": "Entry 1
+Screw this planet! Technician Berkeley and I were forced to abandon our lifepod when it hit the ocean floor. We swam for this pod, but Berkeley ran out of air on the way here. And I don't know how, but we're not in open water. There's no natural light here. There's a roof overhead, and no obvious way out. Lifepod must have rolled down into a cave system of some kind. Might be I can use a dive reel and compass to chart a way out. Might be I'm going to breathe my last down here.
+
+Entry 2
+Two hours since the first pod sunk. I've tried exploring the area. There's no air pockets. No overhead exit. If I had plasteel I could build an air tank, a submersible, anything! But as it is I can only explore so far before I'm forced back to this lifepod. I have to find another way.
+
+Entry 3
+I've managed to cobble together a rebreather and explore a bit further. I've found an incline heading up. Not clear whether it's part of the cave wall, or the way out. One way to know for sure.
+
+Entry 4
+Daylight! It was definitely daylight, I'm sure of it. I swam as far as I could. Next time I have to go past the point of no return and take my chances. If any rescue party finds this, please retrieve Berkeley's body, if the fish don't get to it first. I will now attempt to make it to the surface and regroup with Keen and anyone else that made it. 
+
+- Chief Technical Officer Yu",
+    "Ency_LifepodCTOLog2": "Journal du CTO #2",
+    "EncyDesc_LifepodCTOLog2": "Cette balise marque le commencement d'un r\u00e9seau de grottes important. De forts courants ont attir\u00e9 notre capsule de survie. Ne franchissez pas ce point si vous tenez \u00e0 votre vie.
+
+- Directeur Technique Yu",
+    "MapRoomCameraNoSignal": "AUCUN SIGNAL",
+    "MapRoomCamera": "Drone cam\u00e9ra ",
+    "Tooltip_MapRoomCamera": "Une cam\u00e9ra mobile. ",
+    "Presentation": "Pr\u00e9sentation ",
+    "Quality": "Qualit\u00e9 ",
+    "VRRenderScale": "\u00c9chelle de rendu RV",
+    "Apply": "Appliquer ",
+    "HorizontalSensitivity": "Sensibilit\u00e9 horizontale",
+    "VerticalSensitivity": "Sensibilit\u00e9 verticale",
+    "InvertLook": "Vision invers\u00e9e ",
+    "EnableController": "Activer le contr\u00f4leur",
+    "ResetToDefault": "R\u00e9initialiser les param\u00e8tres par d\u00e9faut",
+    "Deconstruct": "D\u00e9monter ",
+    "Construct": "Construire ",
+    "CyclopsWelcomeNoPower": "Cyclops : Attention, alimentation d'urgence fonctionnelle uniquement. Production d'oxyg\u00e8ne hors-ligne.",
+    "AssignQuickSlot": "assigner un emplacement rapide",
+    "Eat": "manger ",
+    "Use": "utiliser ",
+    "Place": "placer ",
+    "Drop": "d\u00e9poser ",
+    "SwitchContainer": "switch container",
+    "SeamothWelcomeNoPower": "Seamoth : Attention, alimentation d'urgence fonctionnelle uniquement. Production d'oxyg\u00e8ne hors-ligne.",
+    "BaseWelcomeNoPower": "Base : Attention, alimentation d'urgence fonctionnelle uniquement. Production d'oxyg\u00e8ne hors-ligne.",
+    "MapRoomCameraConnecting": "CONNEXION EN COURS",
+    "StarshipChair2": "Chaise 2",
+    "StarshipChair3": "Chaise 3",
+    "Tooltip_StarshipChair2": "\u00c9tonnamment confortable",
+    "Tooltip_StarshipChair3": "\u00c9tonnamment confortable",
+    "1": "2"
+}

@@ -1,0 +1,2201 @@
+{
+    "NewGame": "\u65b0\u6e38\u620f",
+    "New Game Tooltip": "\u8fdb\u5165\u7f8e\u4e3d\u6c34\u4e16\u754c",
+    "ContinueGame": "\u7ee7\u7eed\u6e38\u620f",
+    "Exit Tooltip": "\u6d6e\u4e0a\u6c34\u9762",
+    "Survival": "\u751f\u5b58\u6a21\u5f0f",
+    "Freedom": "\u81ea\u7531\u6a21\u5f0f",
+    "Hardcore": "\u6781\u9650\u6a21\u5f0f",
+    "Back": "\u8fd4\u56de",
+    "LatestNews": "\u6700\u65b0\u6d88\u606f",
+    "NewsLoading": "\u6b63\u5728\u52a0\u8f7d...",
+    "Language": "Language",
+    "Resolution": "Resolution",
+    "FieldOfView": "Field of view",
+    "Vsync": "Vsync",
+    "Options": "\u9009\u9879",
+    "OptionsTooltip": "\u767b\u8247\u524d",
+    "DevelopmentVersion": "\u5f00\u53d1\u8005\u7248\u672c",
+    "InventoryFull": "\u7269\u54c1\u680f\u5df2\u6ee1",
+    "RadiationDetected": "\u68c0\u6d4b\u5230\u8f90\u5c04",
+    "Quartz": "\u77f3\u82f1",
+    "ScrapMetal": "\u91d1\u5c5e\u788e\u7247",
+    "Limestone": "\u77f3\u7070\u77f3",
+    "Copper": "\u94dc\u77ff",
+    "CopperWire": "\u94dc\u7ebf",
+    "Salt": "\u76d0\u5757",
+    "Placeholder": "\u534a\u6210\u54c1",
+    "Glass": "\u73bb\u7483",
+    "EnameledGlass": "\u91c9\u74f7\u73bb\u7483",
+    "Titanium": "\u949b",
+    "TitaniumIngot": "\u949b\u952d",
+    "PlasteelIngot": "\u5851\u94a2\u952d",
+    "Silver": "\u94f6\u77ff\u77f3",
+    "Gold": "\u91d1\u5757",
+    "Lodestone": "\u78c1\u77f3",
+    "WiringKit": "\u63a5\u7ebf\u76d2",
+    "AdvancedWiringKit": "\u9ad8\u7ea7\u63a5\u7ebf\u76d2",
+    "ComputerChip": "\u7535\u8111\u82af\u7247",
+    "Diamond": "\u94bb\u77f3",
+    "MODULES": "\u6a21\u5757",
+    "Energy": "\u80fd\u91cf",
+    "AddedToInventory": "\u52a0\u5165\u7269\u54c1\u680f",
+    "BreakLimestone": "\u6572\u788e\u77f3\u7070\u77f3",
+    "BreakSandstone": "\u6572\u788e\u7802\u77f3",
+    "BreakShale": "\u6572\u788e\u9875\u5ca9",
+    "BreakBasalt": "\u6572\u788e\u7384\u6b66\u5ca9",
+    "BreakObsidian": "\u6572\u788e\u9ed1\u8000\u77f3",
+    "Fabricator": "\u5236\u9020\u673a",
+    "UseFabricator": "\u4f7f\u7528\u5236\u9020\u673a",
+    "Locker": "\u50a8\u7269\u67dc",
+    "Spotlight": "\u63a2\u7167\u706f",
+    "Reinforce hull": "\u52a0\u56fa\u5916\u58f3",
+    "Aquarium": "\u9694\u79bb\u8231",
+    "EnterSeamoth": "\u8fdb\u5165\u6d77\u86fe\u53f7",
+    "NoSeamothDocked": "\u65e0\u6d77\u86fe\u53f7\u505c\u6cca",
+    "DiveSuit": "\u6f5c\u6c34\u670d",
+    "ShipComputer": "\u8239\u8f7d\u8ba1\u7b97\u673a",
+    "Fins": "\u811a\u8e7c",
+    "RadiationSuit": "\u9632\u8f90\u5c04\u670d",
+    "Tank": "\u6c27\u6c14\u74f6",
+    "Battery": "\u7535\u6c60",
+    "Builder": "\u5c45\u7559\u8231\u5efa\u9020\u5668",
+    "Knife": "\u6c42\u751f\u5315\u9996",
+    "Drill": "\u7535\u94bb",
+    "Flashlight": "\u624b\u7535\u7b52",
+    "Beacon": "\u4fe1\u6807",
+    "Bleach": "\u6f02\u767d\u5242",
+    "CurrentGenerator": "\u7535\u6d41\u53d1\u751f\u5668",
+    "PowerCell": "\u52a8\u529b\u7535\u6c60",
+    "DiveReel": "\u6f5c\u6c34\u7ebf\u5377",
+    "Rebreather": "\u6362\u6c14\u5668",
+    "Welder": "\u7535\u710a\u67aa",
+    "Constructor": "\u4fbf\u643a\u8f7d\u5177\u5382",
+    "UseConstructor": "\u4f7f\u7528\u4fbf\u643a\u8f7d\u5177\u5382",
+    "Transfuser": "\u8f93\u8840\u5668",
+    "Flare": "\u7167\u660e\u5f39",
+    "StasisRifle": "\u9759\u6b62\u67aa",
+    "Observatory": "\u89c2\u666f\u53f0",
+    "Audiolog": "\u8bdd\u97f3\u8bb0\u5f55",
+    "SafeShallowsEgg": "\u6d45\u6ee9\u86cb",
+    "KelpForestEgg": "\u7eff\u6797\u86cb",
+    "GrassyPlateausEgg": "\u8349\u5c71\u9ad8\u539f\u86cb",
+    "GrandReefsEgg": "\u5e73\u539f\u86cb",
+    "MushroomForestEgg": "\u8611\u83c7\u6797\u86cb",
+    "KooshZoneEgg": "\u5e93\u4ec0\u86cb",
+    "TwistyBridgesEgg": "\u66f2\u6865\u86cb",
+    "LavaZoneEgg": "\u5ca9\u6d46\u86cb",
+    "Workbench": "\u57fa\u7ad9 ",
+    "Tooltip_Workbench": "\u53ef\u4ee5\u5236\u4f5c\u66f4\u5148\u8fdb\u7684\u8bbe\u5907",
+    "SpecialHullPlate": "\u8239\u4f53\u677f",
+    "Tooltip_SpecialHullPlate": "\u9650\u91cf\u7f16\u53f7\u8239\u4f53\u94a2\u677f",
+    "Seamoth": "\u6d77\u86fe\u53f7",
+    "Exosuit": "EXOSUIT\u673a\u7532",
+    "PropulsionCannon": "\u63a8\u529b\u8bbe\u5907",
+    "SandLoot": "\u6c99",
+    "Signal": "\u4fe1\u53f7",
+    "BallClusters": "\u6811\u5375",
+    "BarnacleSuckers": "\u6811\u8682\u8757",
+    "BlueBarnacle": "\u84dd\u8272\u85e4\u58f6",
+    "BlueBarnacleCluster": "\u84dd\u8272\u85e4\u58f6\u7c07",
+    "BlueCoralTubes": "\u84dd\u8272\u73ca\u745a\u7ba1",
+    "RedGrass": "\u7ea2\u8349",
+    "GreenGrass": "\u7eff\u8349",
+    "CreepvinePiece": "\u6d77\u85fb\u5757",
+    "Mohawk": "\u83ab\u970d\u514b",
+    "GreenReeds": "\u6591\u70b9\u82a6\u82c7",
+    "JellyPlant": "\u679c\u51bb\u690d\u7269",
+    "BlueJeweledDisk": "\u84dd\u5b9d\u77f3\u76d8",
+    "GreenJeweledDisk": "\u7eff\u5b9d\u77f3\u76d8",
+    "PurpleJeweledDisk": "\u7d2b\u5b9d\u77f3\u76d8",
+    "RedJeweledDisk": "\u7ea2\u5b9d\u77f3\u76d8",
+    "SmallKoosh": "\u5c0f\u578b\u5e93\u68d5",
+    "MediumKoosh": "\u4e2d\u578b\u5e93\u68d5",
+    "LargeKoosh": "\u5927\u578b\u5e93\u68d5",
+    "HugeKoosh": "\u5de8\u5927\u5e93\u68d5",
+    "MembrainTree": "\u819c\u6811",
+    "PurpleFan": "\u7d2b\u8272\u98ce\u6247",
+    "AcidMushroom": "\u9178\u8611\u83c7",
+    "PurpleTentacle": "\u6c34\u8349",
+    "RedSeaweed": "\u7ea2\u6d77\u85fb",
+    "CoralShellPlate": "\u73ca\u745a\u677f",
+    "SmallFan": "\u5c0f\u98ce\u6247",
+    "SmallFanCluster": "\u5c0f\u98ce\u6247\u7fa4",
+    "BigCoralTubes": "\u73ca\u745a\u7ba1",
+    "TreeMushroom": "\u6811\u72b6\u8611\u83c7",
+    "BlueCluster": "\u84dd\u8272\u96c6\u7fa4",
+    "BrownTubes": "\u68d5\u8272\u73ca\u745a\u7ba1",
+    "BloodGrass": "\u8840\u7ea2\u8349",
+    "JeweledDiskPiece": "\u5b9d\u77f3\u788e\u7247",
+    "CoralChunk": "\u73ca\u745a\u5757",
+    "KooshChunk": "\u5e93\u68d5\u5757",
+    "StalkerTooth": "\u6f5c\u884c\u8005\u7684\u7259",
+    "SmallStorage": "\u9632\u6c34\u50a8\u7269\u67dc",
+    "SeamothFragment": "\u6d77\u86fe\u53f7\u788e\u7247",
+    "StasisRifleFragment": "\u9759\u6001\u6b65\u67aa\u788e\u7247",
+    "ExosuitFragment": "EXOSUIT\u673a\u7532\u788e\u7247",
+    "TransfuserFragment": "\u6ce8\u5165\u5668\u788e\u7247",
+    "TerraformerFragment": "\u5730\u5f62\u6539\u9020\u5668\u788e\u7247",
+    "ReinforceHullFragment": "\u8239\u4f53\u52a0\u56fa\u6a21\u5757\u788e\u7247",
+    "WorkbenchFragment": "\u9ad8\u7ea7\u5de5\u4f5c\u53f0\u788e\u7247",
+    "FabricatorBlueprint": "\u52a0\u5de5\u53f0\u84dd\u56fe",
+    "ConstructorBlueprint": "\u79fb\u52a8\u8f66\u8f86\u7ad9\u84dd\u56fe",
+    "CyclopsBlueprint": "\u72ec\u773c\u5de8\u4eba\u53f7\u84dd\u56fe",
+    "SeamothBlueprint": "\u6d77\u86fe\u53f7\u84dd\u56fe",
+    "StasisRifleBlueprint": "\u9759\u6b62\u67aa\u84dd\u56fe",
+    "ExosuitBlueprint": "\u52a8\u529b\u670d\u84dd\u56fe",
+    "TransfuserBlueprint": "\u6ce8\u5165\u5668\u84dd\u56fe",
+    "TerraformerBlueprint": "\u5730\u5f62\u6539\u9020\u5668\u84dd\u56fe",
+    "ReinforceHullBlueprint": "\u72ec\u773c\u5de8\u4eba\u53f7\u538b\u529b\u8865\u507f\u5668\u84dd\u56fe",
+    "WorkbenchBlueprint": "\u9ad8\u7ea7\u5de5\u4f5c\u53f0\u84dd\u56fe",
+    "Boulder": "\u9e45\u5375\u77f3",
+    "HangingStinger": "\u6bd2\u523a",
+    "SpikePlant": "\u864e\u76ae\u690d\u7269",
+    "FilteredWater": "\u8fc7\u6ee4\u51c0\u6c34",
+    "DisinfectedWater": "\u7eaf\u51c0\u6c34",
+    "CookedPeeper": "\u719f\u5077\u7aa5\u9c7c",
+    "CookedHoleFish": "\u719f\u5b54\u9c7c",
+    "CookedHoopfish": "\u719f\u5708\u9c7c",
+    "CookedGarryFish": "\u719f\u52a0\u91cc\u9c7c",
+    "CookedReginald": "\u719f\u96f7\u91d1\u7eb3\u5fb7\u9c7c",
+    "CookedBladderfish": "\u719f\u6ce1\u6ce1\u9c7c",
+    "CookedHoverfish": "\u719f\u65cb\u8f6c\u9c7c",
+    "CookedSpadefish": "\u719f\u767d\u9cb3\u9c7c",
+    "CookedBoomerang": "\u719f\u98de\u9556\u9c7c",
+    "CookedEyeye": "\u719f\u773c\u9c7c",
+    "CookedOculus": "\u719f\u9b3c\u773c\u9c7c",
+    "Unobtanium": "\u8d85\u5bfc\u77ff\u77f3",
+    "Creepvine": "\u6d77\u85fb",
+    "HoleFish": "\u5b54\u9c7c",
+    "Jumper": "\u8df3\u9c7c",
+    "Peeper": "\u5077\u7aa5\u9c7c",
+    "Oculus": "\u9b3c\u773c\u9c7c",
+    "Hoopfish": "\u5708\u9c7c",
+    "RabbitRay": "\u5154\u5b50\u9c7c",
+    "GarryFish": "\u52a0\u91cc\u9c7c",
+    "Slime": "\u53f2\u83b1\u59c6",
+    "Crash": "\u649e\u51fb",
+    "Boomerang": "\u98de\u9556\u9c7c",
+    "LavaLarva": "\u7194\u5ca9\u866b",
+    "Stalker": "\u6f5c\u884c\u8005",
+    "Eyeye": "\u773c\u9c7c",
+    "Bloom": "\u5e03\u9c81\u59c6\u9c7c",
+    "Bladderfish": "\u6ce1\u6ce1\u9c7c",
+    "Hoverfish": "\u65cb\u8f6c\u9c7c",
+    "Jellyray": "\u51dd\u80f6\u9cd0\u9c7c",
+    "Reefback": "\u6697\u7901\u9c7c",
+    "Reginald": "\u96f7\u91d1\u7eb3\u5fb7\u9c7c",
+    "Spadefish": "\u767d\u9cb3\u9c7c",
+    "Grabcrab": "\u63a0\u593a\u87f9",
+    "Floater": "\u6f02\u6d6e\u8005",
+    "Gasopod": "\u6bd2\u6c14\u9c7c",
+    "Sandshark": "\u864e\u9ca8",
+    "Player": "\u73a9\u5bb6",
+    "AirBladder": "\u6c14\u56ca\u7403",
+    "DEPTH": "\u6df1\u5ea6",
+    "NITROGEN": "\u6c2e\u6c14",
+    "MeterSuffix": "\u7c73",
+    "SUB DEPTH": "\u6f5c\u8247\u6df1\u5ea6",
+    "ECOSYSTEM": "\u751f\u6001\u7cfb\u7edf",
+    "BATHSPHERE": "\u6d17\u6d74\u7403",
+    "BLOOD SUGAR": "\u8840\u7cd6",
+    "FOOD": "\u98df\u7269",
+    "H20": "\u6c34",
+    "Initializing dive suit HUD...": "\u6f5c\u6c34\u670d\u663e\u793a\u754c\u9762-\u6b63\u5728\u521d\u59cb\u5316......",
+    "Initializing objectives...": "\u76ee\u6807\u987e\u95ee-\u6b63\u5728\u521d\u59cb\u5316......",
+    "|": "|",
+    "Demo time": "\u6f14\u793a\u65f6\u95f4",
+    "InventorySecured": "\u7269\u54c1\u5df2\u4fdd\u5b58",
+    "THANK YOU FOR PLAYING": "\u5b8c\u7ed3\u611f\u8c22",
+    "PRIMARY": "\u4e3b\u8981",
+    "SECONDARY": "\u6b21\u8981",
+    "ControlSubInstructions": "\u7528 W A S D \u79fb\u52a8,\u6309 SPACE \u4e0a\u6d6e,\u6309 C \u4e0b\u6f5c",
+    "Drop loot onto Constructor": "\u6218\u5229\u54c1\u653e\u5728\u8230\u8239\u5efa\u9020\u53f0",
+    "PressUseToExit": "\u6309 E \u79bb\u5f00",
+    "DeployConstructor": "\u5728\u6c34\u4e2d\u91ca\u653e\u8230\u8239\u5efa\u9020\u53f0",
+    "DeployConstructorInWater": "\u5728\u6c34\u4e2d\u91ca\u653e\u8230\u8239\u5efa\u9020\u53f0",
+    "Total: ": "\u603b\u8ba1\uff1a",
+    "<UnImplemented>": "(\u8fd8\u6ca1\u6709\u5b9e\u73b0)",
+    "<Bullet>": "\u2022 ",
+    "DontHaveNeededIngredients": "\u6ca1\u6709\u6240\u9700\u7684\u6750\u6599!",
+    "YouDied": "\u4f60\u6302\u5566\u3002",
+    "YouDiedLostStuff": "\u4f60\u6b7b\u4ea1\u4e86\uff0c\u5c06\u5931\u53bb\u4e00\u90e8\u5206\u7269\u54c1",
+    "OXYGEN": "\u7a7a\u6c14",
+    "0": "2",
+    "How likely are you to recommend this game to a friend?": "\u4f60\u662f\u5426\u4f1a\u628a\u8fd9\u4e2a\u6e38\u620f\u63a8\u8350\u7ed9\u670b\u53cb?",
+    "Submit": "\u63d0\u4ea4",
+    "WASD to pilot, SPACE\/C for vertical, E to exit": "W\/A\/S\/D\u952e\u79fb\u52a8\uff0c \u7a7a\u683c\/C\u952e\u4e0a\u6d6e\/\u4e0b\u6f5c\uff0cE\u952e\u9000\u51fa",
+    "I": "\u6211",
+    "TRANSFUSER SERUM": "\u8840\u6e05\u6ce8\u5165\u5668",
+    "PLAYER EFFECTS": "\u73a9\u5bb6\u7279\u6548",
+    "CREATURE DEBUG": "\u751f\u7269\u8c03\u8bd5",
+    "PickUp": "\u6361\u8d77",
+    "PickedUp": "\u6361\u8d77 {0}",
+    "Needs": "\u9700\u8981",
+    "Tooltip_AcidMushroom": "\u7d2b\u8272\u7684\u83cc\u7c7b\u3002\u8868\u5c42\u6709\u5f3a\u9178\u4f5c\u4e3a\u81ea\u6211\u9632\u5fa1\u3002",
+    "Tooltip_AdvancedWiringKit": "\u6709\u91d1\u94f6\u5f15\u811a\u7684\u5904\u7406\u5668\u3002\u53ef\u4ee5\u7528\u6765\u9020\u9ad8\u7ea7\u7684\u673a\u5668\u3002",
+    "Tooltip_AirBladder": "\u901a\u8fc7\u5316\u5b66\u53cd\u5e94\u6765\u4ea7\u751f\u8f7b\u4e8e\u7a7a\u6c14\u7684\u6c14\u4f53\u6765\u4ea7\u751f\u6d6e\u529b\u3002",
+    "Tooltip_Battery": "\u4fbf\u643a\u80fd\u6e90\u3002",
+    "Tooltip_Beacon": "\u8f85\u52a9\u5bfc\u822a\u3002\u81ea\u52a8\u4fdd\u6301\u81ea\u8eab\u4f4d\u7f6e\u5e76\u53d1\u5c04\u4fe1\u53f7\u3002",
+    "Tooltip_Bleach": "NaClO\u3002\u6b21\u6c2f\u9178\u94a0\u6f02\u767d\u5242\u3002\u7528\u4e8e\u5bf9\u6db2\u4f53\u8fdb\u884c\u6d88\u6bd2\u3002",
+    "Tooltip_Builder": "\u53ef\u7528\u4e8e\u5efa\u8bbe\u57fa\u5730\u548c\u57fa\u5730\u8bbe\u65bd\u7684\u5de5\u5177",
+    "Tooltip_Compass": "\u6307\u5357\u9488\u53c8\u79f0\u6307\u5317\u9488\uff0c\u4e3b\u8981\u7ec4\u6210\u90e8\u5206\u662f\u4e00\u6839\u88c5\u5728\u8f74\u4e0a\u7684\u78c1\u9488\uff0c\u78c1\u9488\u5728\u5929\u7136\u5730\u78c1\u573a\u7684\u4f5c\u7528\u4e0b\u53ef\u4ee5\u81ea\u7531\u8f6c\u52a8\u5e76\u4fdd\u6301\u5728\u78c1\u5b50\u5348\u7ebf\u7684\u5207\u7ebf\u65b9\u5411\u4e0a\uff0c\u78c1\u9488\u7684\u5317\u6781\u6307\u5411\u5730\u7406\u7684\u5317\u6781\uff0c\u5229\u7528\u8fd9\u4e00\u6027\u80fd\u53ef\u4ee5\u8fa8\u522b\u65b9\u5411",
+    "Tooltip_ComputerChip": "\u591a\u529f\u80fdCPU",
+    "Tooltip_Constructor": "\u53ef\u7528\u6765\u5236\u9020\u8f7d\u5177",
+    "Tooltip_CookedBladderfish": "\u6d77\u7ef5\u72b6,\u8f6f\u9aa8,\u503c\u5f97\u5e86\u5e78\u7684\u662f\u719f\u7684\u53ef\u4ee5\u5403,\u6d3b\u7684\u8fd8\u53ef\u4ee5\u5236\u4f5c\u996e\u7528\u6c34",
+    "Tooltip_CookedBoomerang": "\u6709\u8f6f\u9aa8\u9ccd\u7684\u4f18\u826f\u98df\u7269",
+    "Tooltip_CookedEyeye": "\u9ad8\u86cb\u767d,\u4f53\u578b\u8f83\u5c0f,\u4e14\u5f88\u96be\u4fdd\u5b58",
+    "Tooltip_CookedGarryFish": "\u5403\u8d77\u6765\u6709\u5c11\u8bb8\u82b1\u9999\u5473",
+    "Tooltip_CookedHoleFish": "\u51dd\u80f6\u72b6\u7684\u8089\u5177\u6709\u5f88\u597d\u7684\u8425\u517b\u4ef7\u503c",
+    "Tooltip_CookedHoopfish": "\u53ef\u4ee5\u98df\u7528,\u6837\u5b50\u50cf\u73af\u5f62\u7684\u53ef\u53e3\u5c0f\u96f6\u98df\uff0c\u4f60\u77e5\u9053\uff0c\u90a3\u53eb\u751c\u751c\u5708",
+    "Tooltip_CookedHoverfish": "\u7ed3\u5b9e\u7684,\u4f4e\u8102\u80aa\u7684\u8089\uff0c\u610f\u5473\u7740\u86cb\u767d\u8d28\u5f88\u9ad8",
+    "Tooltip_CookedOculus": "\u6697\u8272\u4e14\u8089\u8d28\u7d27\u5bc6,\u662f\u4e00\u987f\u4ee4\u4eba\u56de\u5473\u7684\u7f8e\u9910",
+    "Tooltip_CookedPeeper": "\u5bcc\u542b\u86cb\u767d\u8d28\u7684\u773c\u7403,\u5c0f\u9aa8\u5934\u4e0a\u6709\u7eb9\u7406\u8d28\u611f",
+    "Tooltip_CookedReginald": "\u6709\u70e7\u70e4\u5473\u7684\u7f8e\u98df",
+    "Tooltip_CookedSpadefish": " \u4f53\u79ef\u5927\u4f46\u54b8",
+    "Tooltip_Copper": "\u63a5\u7ebf\u5fc5\u5907\u6750\u6599",
+    "Tooltip_CopperWire": "\u7528\u94dc\u77ff\u5236\u6210\u7684\u57fa\u672c\u7535\u7ebf",
+    "Tooltip_CoralChunk": "\u542b\u6709\u4e30\u5bcc\u78b3\u9178\u9499.\u5236\u4f5c\u57fa\u672c\u6750\u6599\u4e4b\u4e00",
+    "Tooltip_Creepvine": "\u6709\u673a\u6750\u6599",
+    "Tooltip_CreepvinePiece": "\u6709\u673a\u6750\u6599\u6837\u672c",
+    "Tooltip_CurrentGenerator": "\u4f7f\u7528",
+    "Tooltip_Cyclops": "\u5927\u578b\u5de5\u4e1a\u7ea7\u6f5c\u6c34\u8247",
+    "Tooltip_Diamond": "\u5b83\u662f\u4e00\u79cd\u7531\u78b3\u5143\u7d20\u7ec4\u6210\u7684\u77ff\u7269\uff0c\u662f\u78b3\u5143\u7d20\u7684\u540c\u7d20\u5f02\u5f62\u4f53\u3002\u91d1\u521a\u77f3\u662f\u76ee\u524d\u5728\u5730\u7403\u4e0a\u53d1\u73b0\u7684\u4f17\u591a\u5929\u7136\u5b58\u5728\u4e2d\u6700\u575a\u786c\u7684\u7269\u8d28",
+    "Tooltip_DisinfectedWater": "+40\u6c34",
+    "Tooltip_DiveReel": "\u5b9a\u4f4d\u5728\u4e00\u70b9\u4e0a,\u4fdd\u969c\u4f60\u7684\u63a2\u7d22\u5b89\u5168",
+    "Tooltip_EnameledGlass": "\u91c9\u9762\u73bb\u7483\u662f\u6307\u5728\u4e00\u5b9a\u5c3a\u5bf8\u5207\u88c1\u597d\u7684\u73bb\u7483\u8868\u9762\u4e0a\u6d82\u6577\u4e00\u5c42\u5f69\u8272\u7684\u6613\u7194\u91c9\u6599\uff0c\u7ecf\u70e7\u7ed3\u3001\u9000\u706b\u6216\u94a2\u5316\u7b49\u5904\u7406\u5de5\u827a\uff0c\u4f7f\u91c9\u5c42\u4e0e\u73bb\u7483\u7262\u56fa\u7ed3\u5408\uff0c\u5236\u6210\u7684\u5177\u6709\u7f8e\u4e3d\u7684\u8272\u5f69\u6216\u56fe\u6848\u7684\u73bb\u7483",
+    "Tooltip_Exosuit": "\u4e00\u5957\u6f5c\u6c34\u88c5\u7532\uff0c\u53ef\u4ee5\u5728\u6d77\u5e95\u884c\u8d70",
+    "Tooltip_Fabricator": "\u57fa\u672c\u751f\u5b58\u52a0\u5de5\u8bbe\u5907,\u8ba9\u8d44\u6e90\u539f\u5b50\u53ef\u4ee5\u91cd\u65b0\u6392\u5217",
+    "Tooltip_FilteredWater": "\u7eaf\u51c0\u7684\u534a\u78c5\u6c34",
+    "Tooltip_Fins": "\u811a\u8e7c\uff0c\u4e3a\u6e38\u6cf3\u3001\u6f5c\u6c34\u63d0\u4f9b\u5f3a\u5927\u7684\u524d\u8fdb\u52a8\u529b\uff0c\u811a\u8e7c\u5bbd\u5927\u7684\u9762\u79ef\u80fd\u63d0\u4f9b\u5f3a\u5927\u7684\u52a8\u529b\uff0c\u4e0d\u5fc5\u9760\u5212\u52a8\u53cc\u624b\u4ee5\u4ea7\u751f\u52a8\u529b\uff0c\u4f7f\u5f97\u53cc\u624b\u80fd\u89e3\u653e\u51fa\u6765\u4ece\u4e8b\u5176\u4ed6\u5de5\u4f5c\u3002",
+    "Tooltip_Flare": "\u6c34\u4e0b\u7167\u660e\u5149\u6e90",
+    "Tooltip_Flashlight": "\u4f7f\u7528\u7535\u6c60\u4f9b\u7535\u7684\u624b\u6301\u5f0f\u7167\u660e\u8bbe\u5907",
+    "Tooltip_Floater": "\u751f\u547d\u5468\u671f\u672a\u77e5,\u7531\u591a\u79cd\u5fae\u751f\u7269\u7ec4\u6210\u7684\u5171\u751f\u4f53",
+    "Tooltip_Gaspod": "\u4f1a\u91ca\u653e\u74e6\u65af\u9178\u6027\u6bd2\u6db2\u7684\u751f\u7269",
+    "Tooltip_Glass": "\u73bb\u7483\u7531\u4e8c\u6c27\u5316\u7845\u548c\u5176\u4ed6\u5316\u5b66\u7269\u8d28\u7194\u878d\u5728\u4e00\u8d77\u5f62\u6210\u7684\uff08\u4e3b\u8981\u751f\u4ea7\u539f\u6599\u4e3a\uff1a\u7eaf\u78b1\u3001\u77f3\u7070\u77f3\u3001\u77f3\u82f1\uff09\u3002\u5728\u7194\u878d\u65f6\u5f62\u6210\u8fde\u7eed\u7f51\u7edc\u7ed3\u6784\uff0c\u51b7\u5374\u8fc7\u7a0b\u4e2d\u7c98\u5ea6\u9010\u6e10\u589e\u5927\u5e76\u786c\u5316\u81f4\u4f7f\u5176\u7ed3\u6676\u7684\u7845\u9178\u76d0\u7c7b\u975e\u91d1\u5c5e\u6750\u6599",
+    "Tooltip_Gold": "\u6602\u8d35\u7684\u9ad8\u5bfc\u7535\u6027\u7269\u8d28\uff0c\u5316\u5b66\u5143\u7d20\u91d1\uff08\u5316\u5b66\u5143\u7d20\u7b26\u53f7Au\uff09\u7684\u5355\u8d28\u5f62\u5f0f\uff0c\u662f\u4e00\u79cd\u8f6f\u7684\uff0c\u91d1\u9ec4\u8272\u7684\uff0c\u6297\u8150\u8680\u7684\u8d35\u91d1\u5c5e\u3002\u91d1\u662f\u6700\u7a00\u6709\u3001\u6700\u73cd\u8d35\u548c\u6700\u88ab\u4eba\u770b\u91cd\u7684\u91d1\u5c5e\u4e4b\u4e00",
+    "Tooltip_GrandReefsEgg": "\u795e\u79d8\u86cb",
+    "Tooltip_GrassyPlateausEgg": "\u795e\u79d8\u86cb",
+    "Tooltip_Gravsphere": "\u5229\u7528\u4eba\u9020\u91cd\u529b\u5438\u5f15\u8f83\u8f7b\u7684\u7269\u4f53",
+    "Tooltip_Hoopfish": "\u91c7\u7528\u73af\u7ed5\u5929\u7ebf\u6765\u5b9e\u73b0\u6c34\u4e0b\u6e38\u52a8",
+    "Tooltip_JeweledDiskPiece": "\u542b\u6709\u5c11\u91cf\u7528\u4e8e\u5236\u9020\u7535\u8111\u7684\u73cd\u8d35\u91d1\u5c5e",
+    "Tooltip_KelpForestEgg": "\u795e\u79d8\u86cb",
+    "Tooltip_Knife": "\u591a\u529f\u80fd\u7684\u6807\u51c6\u751f\u5b58\u5de5\u5177",
+    "Tooltip_KooshZoneEgg": "\u795e\u79d8\u7684\u86cb",
+    "Tooltip_LavaZoneEgg": "\u672a\u9274\u5b9a\u7684\u5375\u3002",
+    "Tooltip_Lithium": "\u9502\uff08Li\uff09\u662f\u4e00\u79cd\u94f6\u767d\u8272\u7684\u91d1\u5c5e\u5143\u7d20\uff0c\u8d28\u8f6f\uff0c\u662f\u5bc6\u5ea6\u6700\u5c0f\u7684\u91d1\u5c5e\u3002\u7528\u4e8e\u539f\u5b50\u53cd\u5e94\u5806\u3001\u5236\u8f7b\u5408\u91d1\u53ca\u7535\u6c60\u7b49\u3002\u9502\u548c\u5b83\u7684\u5316\u5408\u7269\u5e76\u4e0d\u50cf\u5176\u4ed6\u7684\u78b1\u91d1\u5c5e\u90a3\u4e48\u5178\u578b\uff0c\u56e0\u4e3a\u9502\u7684\u7535\u8377\u5bc6\u5ea6\u5f88\u5927\u5e76\u4e14\u6709\u7a33\u5b9a\u7684\u6c26\u578b\u53cc\u7535\u5b50\u5c42\uff0c\u4f7f\u5f97\u9502\u5bb9\u6613\u6781\u5316\u5176\u4ed6\u7684\u5206\u5b50\u6216\u79bb\u5b50\uff0c\u81ea\u5df1\u672c\u8eab\u5374\u4e0d\u5bb9\u6613\u53d7\u5230\u6781\u5316\u3002\u8fd9\u4e00\u70b9\u5c31\u5f71\u54cd\u5230\u5b83\u548c\u5b83\u7684\u5316\u5408\u7269\u7684\u7a33\u5b9a\u6027",
+    "Tooltip_Locker": "\u63d0\u4f9b6\u00d78\u7684\u5b58\u50a8\u7a7a\u95f4",
+    "Tooltip_Magnesium": "\u4e00\u79cd\u94f6\u767d\u8272\u7684\u8f7b\u8d28\u78b1\u571f\u91d1\u5c5e\uff0c\u5316\u5b66\u6027\u8d28\u6d3b\u6cfc\uff0c\u80fd\u4e0e\u9178\u53cd\u5e94\u751f\u6210\u6c22\u6c14\uff0c\u5177\u6709\u4e00\u5b9a\u7684\u5ef6\u5c55\u6027\u548c\u70ed\u6d88\u6563\u6027\u3002\u9541\u5143\u7d20\u5728\u81ea\u7136\u754c\u5e7f\u6cdb\u5206\u5e03\uff0c\u662f\u4eba\u4f53\u7684\u5fc5\u9700\u5143\u7d20\u4e4b\u4e00",
+    "Tooltip_MushroomForestEgg": "\u4e00\u4e2a\u795e\u79d8\u7684\u5375",
+    "Tooltip_Pipe": "\u4ece\u6c34\u9762\u8f93\u9001\u6c27\u6c14.",
+    "Tooltip_PlasteelIngot": "\u8d85\u575a\u56fa\u7684\u6750\u6599",
+    "Tooltip_PowerCell": "\u5927\u5bb9\u91cf\u4fbf\u643a\u80fd\u91cf\u6e90",
+    "Tooltip_Quartz": "\u6676\u4f53\u5f62\u6001\u7684\u4e8c\u6c27\u5316\u7845\uff0c\u7531\u4e8c\u6c27\u5316\u7845\u7ec4\u6210\u7684\u77ff\u7269\uff0c\u5316\u5b66\u5f0fSiO2\u3002\u7eaf\u51c0\u7684\u77f3\u82f1\u65e0\u8272\u900f\u660e\uff0c\u56e0\u542b\u5fae\u91cf\u8272\u7d20\u79bb\u5b50\u6216\u7ec6\u5206\u6563\u5305\u88f9\u4f53\uff0c\u6216\u5b58\u5728\u8272\u5fc3\u800c\u5448\u5404\u79cd\u989c\u8272\uff0c\u5e76\u4f7f\u900f\u660e\u5ea6\u964d\u4f4e\uff1b\u73bb\u7483\u5149\u6cfd\uff0c\u65ad\u53e3\u5448\u6cb9\u8102\u5149\u6cfd",
+    "Tooltip_RadiationSuit": "\u886c\u91cc\u542b\u94c5\uff08\u94c5\u662f\u67d4\u8f6f\u548c\u5ef6\u5c55\u6027\u5f3a\u7684\u5f31\u91d1\u5c5e\uff0c\u6709\u6bd2\uff0c\u4e5f\u662f\u91cd\u91d1\u5c5e\u3002\u94c5\u539f\u672c\u7684\u989c\u8272\u4e3a\u9752\u767d\u8272\uff0c\u5728\u7a7a\u6c14\u4e2d\u8868\u9762\u5f88\u5feb\u88ab\u4e00\u5c42\u6697\u7070\u8272\u7684\u6c27\u5316\u7269\u8986\u76d6\uff09\u7684\u9632\u8f90\u5c04\u6f5c\u6c34\u670d",
+    "Tooltip_Rebreather": "\u5728\u6df1\u6d77\u53ef\u4ee5\u6709\u6548\u7684\u51cf\u5c11\u6c27\u6c14\u7684\u6d88\u8017",
+    "Tooltip_SafeShallowsEgg": "\u4e00\u4e2a\u795e\u79d8\u7684\u86cb",
+    "Tooltip_Salt": "NaCl\u3002\u7528\u4e8e\u70f9\u996a\u548c\u536b\u751f\u3002",
+    "Tooltip_ScrapMetal": "\u949b\u542b\u91cf87%",
+    "Tooltip_Seamoth": "\u5355\u4eba\u6f5c\u6c34\u5668",
+    "Tooltip_Signal": "\u5750\u6807",
+    "Tooltip_Silicone": "\u4e00\u79cd\u5316\u5b66\u5143\u7d20\uff0c\u5b83\u7684\u5316\u5b66\u7b26\u53f7\u662fSi\uff0c\u65e7\u79f0\u77fd\u3002\u539f\u5b50\u5e8f\u657014\uff0c\u76f8\u5bf9\u539f\u5b50\u8d28\u91cf28.0855\uff0c\u6709\u65e0\u5b9a\u5f62\u7845\u548c\u6676\u4f53\u7845\u4e24\u79cd\u540c\u7d20\u5f02\u5f62\u4f53\uff0c\u5c5e\u4e8e\u5143\u7d20\u5468\u671f\u8868\u4e0a\u7b2c\u4e09\u5468\u671f\uff0cIVA\u65cf\u7684\u7c7b\u91d1\u5c5e\u5143\u7d20",
+    "Tooltip_Silver": "\u7eaf\u94f6\u4e3a\u94f6\u767d\u8272\uff0c\u6545\u53c8\u79f0\u767d\u94f6\u3002\u5728\u6240\u6709\u91d1\u5c5e\u4e2d\uff0c\u94f6\u7684\u5bfc\u7535\u6027\u3001\u5bfc\u70ed\u6027\u6700\u9ad8\uff0c\u5ef6\u5c55\u6027\u548c\u53ef\u5851\u6027\u4e5f\u597d\uff0c\u6613\u4e8e\u629b\u5149\u548c\u9020\u578b\uff0c\u8fd8\u80fd\u4e0e\u8bb8\u591a\u91d1\u5c5e\u7ec4\u6210\u5408\u91d1\u6216\u5047\u5408\u91d1",
+    "Tooltip_SmallStorage": "4x4\u7684\u5b58\u50a8\u7a7a\u95f4,\u53ef\u4ee5\u653e\u7f6e\u6f02\u6d6e\u5728\u6c34\u4e2d\u800c\u4e14\u4e0d\u4f1a\u8fdb\u6c34",
+    "Tooltip_StalkerTooth": "\u4e00\u4e2a\u9510\u5229\u7684\uff0c\u786c\u5316\u7684\u9499\u8d28\u6784\u9020\u3002",
+    "Tooltip_StasisRifle": "\u901a\u8fc7\u6539\u53d8\u78c1\u573a\u4f7f\u7269\u4f53\u5728\u4e00\u6bb5\u65f6\u95f4\u5185\u5904\u4e8e\u505c\u6ede\u72b6\u6001",
+    "Tooltip_Tank": "\u6df7\u5408\u6c27\u6c14\u3002\u53ef\u4f9b\u547c\u5438 30\u79d2 \u7684\u6c14\u4f53\u3002",
+    "Tooltip_Terraformer": "\u6539\u9020\u5730\u5f62\u7ed3\u6784,\u8ba9\u5b83\u66f4\u9002\u5408\u4f60\u7684\u8981\u6c42",
+    "Tooltip_Thermometer": "\u6e29\u5ea6\u663e\u793a\u5668",
+    "Tooltip_Titanium": "\u949b\uff0c\u6700\u5e38\u7528\u7684\u5efa\u7b51\u6750\u6599",
+    "Tooltip_TitaniumIngot": "\u9ad8\u5bc6\u5ea6\u7684\u949b\u91d1\u5c5e\u5757",
+    "Tooltip_Transfuser": "\u53ef\u4ee5\u63d0\u53d6DNA\uff08\u4e3b\u8981\u529f\u80fd\u662f\u957f\u671f\u6027\u7684\u8d44\u8baf\u50a8\u5b58\uff0c\u53ef\u6bd4\u55bb\u4e3a\u201c\u84dd\u56fe\u201d\u6216\u201c\u98df\u8c31\u201d\u3002\u5176\u4e2d\u5305\u542b\u7684\u6307\u4ee4\uff0c\u662f\u5efa\u6784\u7ec6\u80de\u5185\u5176\u4ed6\u7684\u5316\u5408\u7269\uff09\u6837\u672c",
+    "Tooltip_TwistyBridgesEgg": "\u4e00\u4e2a\u795e\u79d8\u7684\u86cb",
+    "Tooltip_Welder": "\u591a\u529f\u80fd\u4fee\u7406\u5de5\u5177\uff0c\u9002\u7528\u4e8e\u4e00\u5207\u73af\u5883",
+    "Tooltip_WiringKit": "\u7528\u94f6\u5236\u4f5c\u800c\u6210\u7684\u7edd\u7f18\u7ebf,\u57fa\u672c\u7684\u7535\u5b50\u5143\u4ef6",
+    "Tooltip_SeamothFragment": "\u6d77\u86fe\u53f7\u6f5c\u6c34\u8247\u84dd\u56fe\u788e\u7247",
+    "Tooltip_StasisRifleFragment": "\u505c\u6ede\u6b66\u5668\u84dd\u56fe\u788e\u7247",
+    "Tooltip_ExosuitFragment": "EXOSUIT\u673a\u7532\u84dd\u56fe\u788e\u7247",
+    "Tooltip_TransfuserFragment": "DNA\u63d0\u53d6\u8bbe\u5907\u84dd\u56fe\u788e\u7247",
+    "Tooltip_TerraformerFragment": "\u5730\u5f62\u6539\u9020\u5668\u84dd\u56fe\u788e\u7247",
+    "Tooltip_WorkbenchFragment": "\u9ad8\u7ea7\u5de5\u4f5c\u53f0\u84dd\u56fe\u788e\u7247",
+    "Tooltip_FabricatorBlueprint": "\u5141\u8bb8\u5236\u9020\u52a0\u5de5\u53f0",
+    "Tooltip_ConstructorBlueprint": "\u5141\u8bb8\u5236\u9020\u8230\u8239\u5efa\u9020\u53f0",
+    "Tooltip_CyclopsBlueprint": "\u5141\u8bb8\u5efa\u9020\u72ec\u773c\u5de8\u4eba\u53f7",
+    "Tooltip_SeamothBlueprint": "\u5141\u8bb8\u5efa\u9020\u6d77\u86fe\u53f7",
+    "Tooltip_StasisRifleBlueprint": "\u5141\u8bb8\u5236\u9020\u505c\u6ede\u6b66\u5668",
+    "Tooltip_ExosuitBlueprint": "\u5141\u8bb8\u5236\u9020EXOSUIT\u673a\u7532",
+    "Tooltip_TransfuserBlueprint": "\u5141\u8bb8\u5236\u9020\u6025\u6551\u5305",
+    "Tooltip_TerraformerBlueprint": "\u5141\u8bb8\u5236\u9020\u5730\u5f62\u6539\u9020\u5668",
+    "Tooltip_ReinforceHullBlueprint": "\u5141\u8bb8\u5236\u9020\u8239\u4f53\u52a0\u56fa\u6a21\u5757",
+    "Tooltip_WorkbenchBlueprint": "\u5141\u8bb8\u5236\u9020\u9ad8\u7ea7\u5de5\u4f5c\u53f0",
+    "WorldArrow_EquipFlashlight": "\u5e26\u4e0a\u63a2\u7167\u706f",
+    "WorldArrow_EquipKnife": "\u5e26\u4e0a\u5c0f\u5200",
+    "WorldArrow_CutCreepvine": "\u7528\u5315\u9996\u5207\u4e0b",
+    "WorldArrow_EquipSeaglide": "\u88c5\u5907\u6c34\u4e0b\u63a8\u8fdb\u5668",
+    "WorldArrow_TurnOnFlashlight": "\u6253\u5f00\u624b\u7535\u7b52",
+    "WorldArrow_EquipConstructor": "\u88c5\u5907\u8230\u8239\u5efa\u9020\u53f0",
+    "WorldArrow_ReleaseConstructor": "\u91ca\u653e\u8230\u8239\u5efa\u9020\u53f0",
+    "WorldArrow_EatSomething": "\u5904\u4e8e\u9965\u997f\u72b6\u6001",
+    "WorldArrow_DrinkSomething": "\u5904\u4e8e\u53e3\u6e34\u72b6\u6001",
+    "WorldArrow_PickupMetal": "\u83b7\u5f97\u788e\u91d1\u5c5e",
+    "WorldArrow_PickupQuartz": "\u83b7\u5f97\u77f3\u82f1",
+    "WorldArrow_BreakLimestone": "\u77f3\u7070\u5ca9",
+    "WorldArrow_BoardEscapePod": "\u8fdb\u5165\u9003\u751f\u8231",
+    "WorldArrow_UseFabricator": "\u4f7f\u7528",
+    "WorldArrow_OpenPDA": "Open PDA",
+    "WorldArrow_CatchPeeper": "\u6293\u4f4f\u5077\u7aa5\u9c7c",
+    "WorldArrow_SwimToSurface": "\u6e38\u5230\u6c34\u9762\u547c\u5438\u6c27\u6c14",
+    "WorldArrow_EnterSeamoth": "\u767b\u5165\u6d77\u86fe\u53f7",
+    "WorldArrow_BoardCyclops": "\u767b\u5165\u72ec\u773c\u5de8\u4eba\u53f7",
+    "WorldArrow_DockSeamoth": "\u6d77\u86fe\u53f7\u8239\u575e",
+    "FragmentAnalyzer": "\u788e\u7247\u5206\u6790\u4eea",
+    "Tooltip_FragmentAnalyzer": "\u5206\u6790\u788e\u7247\u751f\u6210\u84dd\u56fe",
+    "FragmentAnalysisComplete": "\u788e\u7247\u5206\u6790\uff0c\u89e3\u9501 {0}",
+    "Terraformer_Ammo": "\u6750\u6599",
+    "BaseFoundation": "\u5730\u57fa",
+    "BaseCorridor": "\u8d70\u5eca",
+    "BaseCorridorI": "I\u578b\u8d70\u5eca",
+    "BaseCorridorT": "T\u578b\u8d70\u5eca",
+    "BaseCorridorL": "L\u578b\u8d70\u5eca",
+    "BaseCorridorX": "X\u578b\u8d70\u5eca",
+    "BaseDoor": "\u5927\u95e8",
+    "BaseHatch": "\u8231\u53e3",
+    "BaseLadder": "\u68af\u5b50",
+    "BaseReinforcement": "\u57fa\u5730\u52a0\u56fa\u677f",
+    "BaseRoom": "\u623f\u95f4",
+    "BaseWall": "\u5899\u58c1",
+    "BaseWindow": "\u7a97\u6237",
+    "PowerGenerator": "\u53d1\u7535\u88c5\u7f6e",
+    "Tooltip_BaseFoundation": "\u57fa\u7840\u57fa\u677f,\u589e\u5f3a\u57fa\u5730\u7262\u56fa\u7ed3\u6784 (+2HP)",
+    "Tooltip_BaseCorridor": "\u8d70\u5eca (-1HP)",
+    "Tooltip_BaseCorridorI": "I\u578b\u7684\u8d70\u5eca (-1HP)",
+    "Tooltip_BaseCorridorT": "T\u578b\u7684\u8d70\u5eca,\u53ef\u4ee5\u5de6\u8f6c,\u53f3\u8f6c (-1HP)",
+    "Tooltip_BaseCorridorL": "L\u578b\u7684\u8d70\u5eca,\u53ef\u4ee590\u5ea6\u8f6c\u5411 (-1HP)",
+    "Tooltip_BaseCorridorX": "X\u578b\u7684\u8d70\u5eca\uff0c\u53ef\u4ee5\u8fde\u901a4\u4e2a\u65b9\u5411 (-1HP)",
+    "Tooltip_BaseDoor": "\u652f\u6491\u7ed3\u6784\u548c\u963b\u65ad\u6c34\u6d41",
+    "Tooltip_BaseHatch": "\u8fdb\u5165\u57fa\u5730\u7684\u8231\u95e8 (-1HP)",
+    "Tooltip_BaseLadder": "\u7528\u4e8e\u8fde\u63a5\u4e0a\u4e0b\u5c42",
+    "Tooltip_BaseReinforcement": "\u53ef\u4ee5\u589e\u5f3a\u57fa\u5730\u7684\u5f3a\u5ea6,\u8ba9\u4f60\u7684\u6c34\u4e0b\u57fa\u5730\u4e0d\u5bb9\u6613\u6f0f\u6c34 (+7HP)",
+    "Tooltip_BaseRoom": "\u57fa\u672c\u623f\u95f4 (-1.25HP)",
+    "Tooltip_BaseWall": "\u53ef\u4ee5\u5206\u9694\u4e00\u4e2a\u623f\u95f4",
+    "Tooltip_BaseWindow": "\u73bb\u7483\u7a97\u6237,\u4e5f\u8ba9\u4f60\u7684\u57fa\u5730\u66f4\u5177\u89c2\u8d4f\u6027 (-1HP)",
+    "Tooltip_PowerGenerator": "\u5efa\u7acb\u5728\u5730\u57fa\u4e0a",
+    "GhostModelRotateInput": "\u9f20\u6807\u6ed1\u8f6e\u65cb\u8f6c",
+    "WarningUnsafeDepth": "\u8b66\u544a\uff1a\u8fbe\u5230\u5b89\u5168\u6df1\u5ea6{0}\u7c73 \u51fa\u73b0\u78b0\u649e\u5c06\u4f1a\u9020\u6210\u8239\u4f53\u53d7\u635f",
+    "WarningCrushDepth": "\u8b66\u544a\uff1a\u63a5\u8fd1\u6324\u538b\u635f\u574f\u6df1\u5ea6{0}\u7c73 \u8239\u4f53\u5c06\u4f1a\u635f\u574f \u63d0\u5347",
+    "SafeDepthNow": "\u5b89\u5168\u6df1\u5ea6 {0} \u7c73",
+    "CrushDepthNow": "\u53ef\u627f\u53d7\u6324\u538b\u6df1\u5ea6 {0} \u7c73",
+    "NewLeakDetected": "\u8239\u4f53\u53d7\u635f\u68c0\u6d4b {0} \u91cd\u8981\u7834\u635f, {1} \u6b21\u8981\u7834\u635f",
+    "LeakWelded": "\u8231\u4f53\u710a\u63a5 {0} \u7834\u635f\u548c {1} \u6b21\u8981\u5269\u4f59",
+    "HullRestored": "\u8231\u4f53\u5b8c\u7834\u635f\u4fee\u590d \u6392\u6c34\u7cfb\u7edf\u542f\u52a8",
+    "AimCloserToGround": "\u63a5\u8fd1\u76ee\u6807 \u7784\u51c6",
+    "DiveReelUsage": "\u53f3\u952e\u8bbe\u7f6e\u629b\u951a\u4f4d\u7f6e",
+    "DiveReelAfterAnchor": "\u53f3\u952e\u70b9\u51fb\u5730\u9762 \u5b9a\u4f4d\u6f5c\u6c34\u7ebf\u5708",
+    "PickUpDiveReelAnchor": "\u62ff\u8d77",
+    "WrongAnchorForReel": "\u88c5\u5907\u6f5c\u6c34\u7ebf\u5708",
+    "BaseHullStrChanged": "{0} \u57fa\u5730\u8231\u4f53\u5f3a\u5ea6, \u73b0\u5728\u603b\u8ba1 {1}",
+    "BaseHullStrDamageDetected": "\u56e0\u8231\u4f53\u5f3a\u5ea6\u4e0d\u591f\u800c\u53d7\u635f {0}  \u8bf7\u589e\u52a0\u8231\u4f53\u5f3a\u5ea6\u6216\u5206\u89e3\u5f71\u54cd\u57fa\u5730\u5f3a\u5ea6\u7684\u7ec4\u4ef6",
+    "GiantMushroomTree": "\u5de8\u5927\u8611\u83c7\u68ee\u6797",
+    "SecretCave": "\u79d8\u5bc6\u5730\u4e0b\u6d1e\u7a74",
+    "CaveEntrance": "\u53ef\u80fd\u5b58\u5728\u7684\u5730\u4e0b\u6d1e\u7a74",
+    "HeatSignature": "\u70ed\u80fd\u4fe1\u53f7",
+    "HatchExitBlocked": "\u8231\u95e8\u53d7\u963b",
+    "RotateCorridorHint": "Rotate",
+    "Lead": "\u94c5\u5757",
+    "Magnesium": "\u9541",
+    "NutrientBlock": "\u901f\u98df\u997c\u5e72",
+    "OpalGem": "\u86cb\u767d\u77f3",
+    "SupplyCrate": "\u8865\u7ed9\u7bb1",
+    "SmallSupplyCrate": "\u5c0f\u578b\u8865\u7ed9\u7bb1",
+    "HoldShiftToPreventMenuClose": "\u5728\u5efa\u9020\u65f6\u6309\u4f4fShitt\uff0c\u9632\u6b62\u5efa\u9020\u83dc\u5355\u5173\u95ed",
+    "RadiationHelmet": "\u9632\u8f90\u5c04\u5934\u76d4",
+    "RadiationGloves": "\u9632\u8f90\u5c04\u624b\u5957",
+    "HullReinforcementModule": "\u72ec\u773c\u5de8\u4eba\u53f7\u8239\u4f53\u52a0\u56fa\u6a21\u5757",
+    "Tooltip_HullReinforcementModule": "\u589e\u5f3a\u8239\u4f53\u7684\u539f\u5b50\u7ed3\u6784,\u4ece\u800c\u589e\u52a0\u5b89\u5168\u6f5c\u6c34\u6df1\u5ea6",
+    "PowerUpgradeModule": "\u7535\u6e90\u6548\u7387\u63d0\u5347\u6a21\u5757",
+    "Tooltip_PowerUpgradeModule": "\u53ef\u4ee5\u56de\u6536\u591a\u4f59\u80fd\u8017\u6765\u63d0\u9ad8\u53d1\u52a8\u673a\u6548\u738715%",
+    "SpecimenAnalyzerBlueprint": "\u6807\u672c\u5206\u6790\u4eea\u84dd\u56fe",
+    "FirstAidKit": "\u6025\u6551\u7bb1",
+    "Tooltip_FirstAidKit": "\u5904\u7406\u8fc7\u7684\u7ef7\u5e26,\u53ef\u7528\u4e8e\u6b62\u8840\u548c\u4e3a\u4f24\u53e3\u6d88\u6bd2,\u4f7f\u7528\u540e\u53ef\u6062\u590d50\u7684\u5065\u5eb7\u503c",
+    "Tooltip_Lead": "\u9632\u8f90\u5c04\u94c5\u9694\u79bb",
+    "Tooltip_NutrientBlock": "\u6781\u5149\u53f7\u9057\u7559\u7684\u52a0\u5de5\u98df\u54c1",
+    "Tooltip_OpalGem": "\u86cb\u767d\u77f3\u662f\u5929\u7136\u7684\u786c\u5316\u7684\u4e8c\u6c27\u5316\u7845\u80f6\u51dd\u4f53\uff0c\u542b5-10%\u7684\u6c34\u5206\u3002\u86cb\u767d\u77f3\u4e0e\u591a\u6570\u5b9d\u77f3\u4e0d\u540c\uff0c\u5c5e\u4e8e\u975e\u6676\u8d28\uff0c\u7531\u4e8e\u5b9d\u77f3\u4e2d\u7684\u6c34\u5206\u6d41\u5931\uff0c\u9010\u6e10\u53d8\u5e72\u5e76\u51fa\u73b0\u88c2\u7f1d\u3002\u86cb\u767d\u77f3\u5728\u77ff\u7269\u5b66\u4e2d\u5c5e\u86cb\u767d\u77f3\u7c7b\uff0c\u662f\u5177\u6709\u53d8\u5f69\u6548\u5e94\u7684\u5b9d\u77f3\uff0c\u662f\u4e00\u79cd\u542b\u6c34\u7684\u975e\u6676\u8d28\u7684\u4e8c\u6c27\u5316\u7845",
+    "Tooltip_RadiationGloves": "\u94c5\u5236\u9632\u8f90\u5c04\u88c5\u5907",
+    "Tooltip_RadiationHelmet": "\u94c5\u5236\u9632\u8f90\u5c04\u5934\u76d4",
+    "Tooltip_SupplyCrate": "\u6781\u5149\u53f7\u6b8b\u7559\u7684\u5de5\u5177\u4e0e\u7269\u8d44",
+    "Tooltip_SmallSupplyCrate": "\u6781\u5149\u53f7\u6b8b\u7559\u7684\u7269\u8d44",
+    "Open_SupplyCrate": "\u6253\u5f00",
+    "Close_SupplyCrate": "\u5173\u95ed",
+    "Tooltip_SpecimenAnalyzerBlueprint": "\u53ef\u4ee5\u5bf9\u6807\u672c\u8fdb\u884c\u5206\u6790",
+    "Tooltip_HoleFish": "\u8eab\u4f53\u5305\u542b80%\u8f6f\u9aa8,\u70e4\u7684\u5403\u5473\u9053\u66f4\u597d",
+    "Tooltip_Peeper": "\u5728\u767d\u5929\u6d3b\u52a8\u975e\u5e38\u654f\u6377\u7684\u8349\u98df\u9c7c\u7c7b",
+    "Tooltip_Oculus": "\u8fdb\u5316\u540e\u7684\u5077\u7aa5\u9c7c\u5206\u652f,\u66f4\u9002\u5e94\u751f\u5b58\u4e8e\u5149\u7ebf\u8f83\u6697\u7684\u73af\u5883",
+    "Tooltip_GarryFish": "\u53ef\u53e3\u7684\u5c0f\u5403",
+    "Tooltip_Boomerang": "\u5168\u5929\u5019\u7684\u6d3b\u8dc3,\u4f7f\u5176\u62e5\u6709\u4e86\u72ec\u7279\u7684\u53cc\u9ccd\u63a8\u8fdb\u673a\u5236",
+    "Tooltip_LavaLarva": "\u9010\u6e10\u8fdb\u5316\u800c\u6210\u7684\u8010\u70ed\u7269\u79cd",
+    "Tooltip_Eyeye": "\u5b83\u5df2\u7ecf\u8fdb\u5316\u5230\u6355\u98df\u8005\u8fd8\u6ca1\u770b\u5230\u5b83\u4e4b\u524d\u5c31\u80fd\u53d1\u73b0\u5371\u9669",
+    "Tooltip_Bladderfish": "\u91c7\u7528\u6e17\u900f\u819c\u4ece\u6c34\u4e2d\u8fc7\u6ee4\u6c27\u6c14,\u53ef\u4ee5\u7528\u6765\u5236\u4f5c\u6c34\u559d",
+    "Tooltip_Hoverfish": "\u53ef\u4ee5\u632f\u52a8\u5b83\u7684\u811a\u4f7f\u5176\u5728\u7535\u6d41\u4e2d\u4fdd\u6301\u8fd0\u52a8",
+    "Tooltip_Reginald": "\u6e29\u987a\u7684\u672c\u571f\u9c7c,\u975e\u5e38\u53ef\u53e3",
+    "Tooltip_Spadefish": "\u6709\u7740\u4e00\u4e2a\u975e\u5e38\u53d1\u8fbe\u7684\u5927\u773c\u775b",
+    "SpecimenAnalyzer": "\u6807\u672c\u5206\u6790\u4eea",
+    "AccessSpecimenAnalyzer": "\u4f7f\u7528",
+    "Tooltip_SpecimenAnalyzer": "\u5206\u6790\u6807\u672c\u5236\u4f5c\u84dd\u56fe",
+    "SpecimenAnalyzerEmpty": "\u6807\u672c\u5206\u6790\u4eea \u7a7a",
+    "SpecimenAnalyzerIdle": "\u6807\u672c\u5206\u6790\u4eea \u95f2\u7f6e",
+    "SpecimenAnalyzing": "\u5206\u6790\u4e2d {0}{1}{2}%...",
+    "SpecimenAnalysisCommencing": "\u5206\u6790 {0} \u5f00\u59cb",
+    "SpecimenAnalysisComplete": "\u6807\u672c\u5206\u6790, \u89e3\u9501 {0}.",
+    "ReefbackTissue": "\u8f6f\u9aa8\u7ec4\u7ec7",
+    "Tooltip_ReefbackTissue": "\u8fd9\u79cd\u5f3a\u5927\u7684\u7ec4\u7ec7\u7ed3\u6784\u53ef\u80fd\u4f1a\u88ab\u7528\u4e8e\u65b0\u7248\u52a0\u5f3a\u6f5c\u6c34\u670d\u5236\u4f5c\u4e2d",
+    "ReefbackShell": "\u8f6f\u9aa8\u5916\u58f3",
+    "Tooltip_ReefbackShell": "\u8fd9\u79cd\u9ad8\u5f39\u6027\u7684\u8f6f\u9aa8\u5916\u58f3\u53ef\u4ee5\u7528\u6765\u5efa\u9020\u66f4\u7262\u56fa\u7684\u5f3a\u5316\u7ed3\u6784",
+    "ReefbackAdvancedStructure": "\u9f9f\u7c7b\u7ed3\u6784",
+    "Tooltip_ReefbackAdvancedStructure": "\u8be6\u7ec6\u5206\u6790\u5185\u90e8\u8fd0\u4f5c\u7ed3\u6784\u540e\u53d1\u73b0\u8fd9\u79cd\u5148\u8fdb\u7684\u9f9f\u7c7b\u7ed3\u6784\u53ef\u4ee5\u8fdb\u4e00\u6b65\u52a0\u5f3a\u8239\u4f53\u5f3a\u5ea6",
+    "HullReinforcementModule2": "\u72ec\u773c\u5de8\u4eba\u53f7\u8239\u4f53\u5916\u58f3\u5f3a\u5316\u6a21\u5757",
+    "Tooltip_HullReinforcementModule2": "\u8239\u4f53\u5916\u58f3\u5f3a\u5316\u6a21\u5757\u91c7\u7528\u6697\u7901\u9c7c\u5148\u8fdb\u7684\u8f6f\u9aa8\u5916\u58f3\u7ed3\u6784",
+    "HullReinforcementModule3": "\u72ec\u773c\u5de8\u4eba\u53f7\u9f9f\u7ed3\u6784\u8239\u4f53\u5f3a\u5316\u6a21\u5757",
+    "Tooltip_HullReinforcementModule3": "\u9f9f\u7c7b\u7ed3\u6784\u8239\u4f53\u5f3a\u5316\u6a21\u5757\u91c7\u7528\u4e86\u6697\u7901\u9c7c\u5148\u8fdb\u7684\u9f9f\u7c7b\u7ed3\u6784",
+    "ReefbackEgg": "\u6697\u7901\u9c7c\u7684\u5375",
+    "Tooltip_ReefbackEgg": "\u4ee4\u4eba\u96be\u4ee5\u7f6e\u4fe1,\u5b83\u5b75\u5316\u51fa\u7684\u662f\u6697\u7901\u9c7c",
+    "ReefbackDNA": "\u6697\u7901\u9c7cDNA\u6837\u672c",
+    "UpgradeConsole": "\u8bbf\u95ee\u5347\u7ea7\u63a7\u5236\u53f0",
+    "PowerRatingNow": "\u7535\u6e90\u6548\u7387 {0}",
+    "RadiationFixed": "\u6240\u6709\u7684\u6cc4\u6f0f\u8f90\u5c04\u5df2\u6d88\u6563 \u4f30\u8ba1\u65f6\u95f4\uff1a3\u5929\u540e\u6d88\u5931 \u91cd\u65b0\u5c1d\u8bd5\u4e0b\u8f7d\u6781\u5149\u53f7\u9ed1\u5323\u5b50\u6570\u636e \u9047\u5230\u5e72\u6270 \u4fee\u6b63\u4e2d...\u4e0b\u8f7d...\u5b8c\u6210...",
+    "RemainingRadiationLeaks": "{0} \u5269\u4f59\u6cc4\u6f0f\u7684\u8f90\u5c04",
+    "HardcoreGameOver": "\u4f60\u6302\u4e86\uff0c\u6e38\u620f\u7ed3\u675f\uff01",
+    "WorldArrow_AttackBleeder": "Attack",
+    "EscToSkip": "Hold ESC to skip",
+    "InventoryLabel": "\u7269\u54c1\u680f",
+    "StorageLabel": "\u4ed3\u5e93",
+    "EquipmentLabel": "\u5df2\u88c5\u5907\u7684",
+    "CraftingLabel": "\u5efa\u8bbe",
+    "KeyRange15": "1-5",
+    "ShiftLMB": "\u6309\u4f4fShift\u5355\u51fb\u9f20\u6807\u5de6\u952e",
+    "KeyE": "E",
+    "BeaconLabelEdit": "\u7f16\u8f91\u4fe1\u6807\u6807\u7b7e",
+    "BeaconLabel": "\u4fe1\u6807\u6807\u7b7e",
+    "BeaconSubmit": "\u786e\u8ba4",
+    "BeaconDefaultPrefix": "\u6d6e\u6807",
+    "EscapePodStorageLabel": "\u4ed3\u5e93",
+    "CyclopsUpgradesStorageLabel": "\u5347\u7ea7\u6a21\u5757",
+    "SpecimenAnalyzerStorageLabel": "\u6807\u672c\u5206\u6790\u4eea",
+    "CalciumChunk": "\u78b3\u9178\u9499\u5757",
+    "CuredPeeper": "\u814c\u5236\u5077\u7aa5\u9c7c",
+    "CuredHoleFish": "\u814c\u5236\u5b54\u9c7c",
+    "CuredHoopfish": "\u814c\u5236\u5708\u9c7c",
+    "CuredGarryFish": "\u814c\u5236\u52a0\u91cc\u9c7c",
+    "CuredReginald": "\u814c\u5236\u96f7\u91d1\u7eb3\u5fb7\u9c7c",
+    "CuredBladderfish": "\u814c\u5236\u6ce1\u6ce1\u9c7c",
+    "CuredHoverfish": "\u814c\u5236\u65cb\u8f6c\u9c7c",
+    "CuredSpadefish": "\u814c\u5236\u767d\u9cb3\u9c7c",
+    "CuredBoomerang": "\u814c\u5236\u98de\u9556\u9c7c",
+    "CuredEyeye": "\u814c\u5236\u773c\u9c7c",
+    "CuredOculus": "\u814c\u5236\u9b3c\u773c\u9c7c",
+    "Decomposing": "\u9648\u65e7",
+    "Ripe": "\u5206\u89e3",
+    "Rotting": "\u8150\u70c2\u7684",
+    "CookedFood": "\u70f9\u716e\u8fc7\u7684\u98df\u7269",
+    "CuredFood": "\u814c\u5236\u8fc7\u7684\u98df\u7269",
+    "Tooltip_CuredBladderfish": "\u5473\u9053\u50cf\u725b\u6d3e",
+    "Tooltip_CuredBoomerang": "\u7f8e\u5473\u4f46\u592a\u786c",
+    "Tooltip_CuredEyeye": "\u5e72\u762a,\u575a\u786c,\u4f46\u8fd8\u4e0d\u9519",
+    "Tooltip_CuredGarryFish": "\u552f\u4e00\u7684\u5473\u9053\u662f...\u54b8\u7684",
+    "Tooltip_CuredHoleFish": "\u814c\u5236\u540e\u8089\u53d8\u6210\u4e1d",
+    "Tooltip_CuredHoopfish": "\u814c\u5236\u540e\u5403\u8d77\u6765\uff0c\u8fd9\u624d\u50cf\u9c7c",
+    "Tooltip_CuredHoverfish": "\u9999\u8106",
+    "Tooltip_CuredOculus": "\u5403\u8d77\u6765\u5f88\u6709\u56bc\u52b2",
+    "Tooltip_CuredPeeper": "\u4fdd\u7559\u4e86\u76d0\u7684\u5473\u9053",
+    "Tooltip_CuredReginald": "\u592a\u54b8\u4e86",
+    "Tooltip_CuredSpadefish": "\u4f60\u6bcf\u5929\u6240\u9700\u7684\u76d0\u5206\u5403\u5b83\u5c31\u53ef\u4ee5\u8865\u5145\u4e86",
+    "NoBattery": "\u80cc\u5305\u91cc\u6ca1\u6709\u7535\u6c60",
+    "UseWorkbench": "\u4f7f\u7528",
+    "DiamondBlade": "\u91d1\u521a\u77f3\u5315\u9996",
+    "HeatBlade": "\u70ed\u80fd\u5315\u9996",
+    "LithiumIonBattery": "\u9502\u7535\u6c60",
+    "PlasteelTank": "\u5851\u94a2\u6c27\u6c14\u74f6",
+    "HighCapacityTank": "X\u6c27\u6c14\u74f6",
+    "UltraGlideFins": "\u52a8\u529b\u811a\u8e7c",
+    "SwimChargeFins": "\u5145\u80fd\u811a\u8e7c",
+    "RepulsionCannon": "\u51b2\u51fb\u70ae",
+    "Stillsuit": "\u73af\u4fdd\u6f5c\u6c34\u670d",
+    "PowerGlide": "\u52a8\u529b\u63a8\u8fdb\u5668",
+    "Tooltip_DiveSuit": "\u57fa\u672c\u6f5c\u6c34\u670d",
+    "Tooltip_DiamondBlade": "\u91d1\u521a\u77f3\u6750\u6599\u4f7f\u5f97\u5b83\u975e\u5e38\u950b\u5229",
+    "Tooltip_HeatBlade": "\u80fd\u4ea7\u751f\u70ed\u80fd,\u53ef\u4ee5\u76f4\u63a5\u628a\u9c7c\u70e7\u719f",
+    "Tooltip_LithiumIonBattery": "\u50a8\u5907\u666e\u901a\u7535\u6c60\u7684\u4e24\u500d\u80fd\u91cf",
+    "Tooltip_PlasteelTank": "\u8f7b\u91cf\u7ea7\u6750\u6599\u7684\u6c27\u6c14\u74f6",
+    "Tooltip_HighCapacityTank": "\u63d0\u4f9b\u66f4\u591a\u7684\u6c27\u6c14\u542b\u91cf\u5b58\u50a8",
+    "Tooltip_UltraGlideFins": "\u589e\u52a0\u6e38\u6cf3\u901f\u5ea6",
+    "Tooltip_SwimChargeFins": "\u6e38\u52a8\u65f6\u7ed9\u4f60\u7684\u5de5\u5177\u5145\u80fd",
+    "Tooltip_RepulsionCannon": "\u53ef\u4ee5\u5bf9\u7269\u4f53\u65bd\u52a0\u51b2\u51fb\u529b",
+    "Tooltip_Stillsuit": "\u56de\u6536\u8eab\u4f53\u6c34\u5206\u8f6c\u6362\u4e3a\u996e\u7528\u6c34",
+    "Tooltip_PowerGlide": "\u53f3\u952e \u6fc0\u6d3b\u66f4\u5f3a\u7684\u52a8\u529b",
+    "SecsO2": "{0}\u79d2",
+    "Empty": "\u7a7a\u7684",
+    "Tooltip_PropulsionCannon": "\u626d\u66f2\u91cd\u529b\u6765\u62c9\u52a8\u548c\u63a8\u52a8\u7269\u4f53,\u9ed1\u79d1\u6280",
+    "Tooltip_PropulsionCannonBlueprint": "\u5141\u8bb8\u5236\u9020\u63a8\u529b\u8bbe\u5907",
+    "InventoryOverflow": "\u7269\u54c1\u680f\u5df2\u6ee1\u3002\u817e\u51fa\u4e00\u4e9b\u7a7a\u4f4d\u6765\u62fe\u53d6 {0}\u3002",
+    "CrashPowder": "\u81ea\u7206\u7c89",
+    "Tooltip_CrashPowder": "\u542b\u786b\u7c89,\u5728\u6c34\u4e0b\u4e5f\u53ef\u71c3",
+    "LoadGame": "\u8f7d\u5165\u5b58\u6863",
+    "Quit": "\u9000\u51fa",
+    "SurvivalDescription": "\u9700\u8981\u6ce8\u610f\u6c27\u6c14\u542b\u91cf,\u98df\u7269\u4e0e\u6c34,\u800c\u4e14\u8981\u8eb2\u907f\u5371\u9669\u7684\u751f\u7269",
+    "FreedomDescription": "\u9700\u8981\u6ce8\u610f\u6c27\u6c14\u542b\u91cf\u548c\u8eb2\u907f\u5371\u9669\u7684\u751f\u7269,\u4f46\u4e0d\u9700\u8981\u4e3a\u98df\u7269\u4e0e\u6c34\u64cd\u5fc3",
+    "HardcoreDescription": "\u53ea\u6709\u4e00\u6761\u547d\u7684\u751f\u5b58\u6a21\u5f0f,\u800c\u4e14\u6c27\u6c14\u542b\u91cf\u4f4e\u4e0d\u4f1a\u63d0\u9192",
+    "GetDevelopmentUpdates": "\u83b7\u53d6\u65b0\u7684\u6d4b\u8bd5\u5f00\u53d1\u7248",
+    "ViewOnSteam": "\u5728Steam\u4e0a\u67e5\u770b",
+    "RedeemaKey": "\u5151\u6362 Key",
+    "GetDevUpdates": "\u83b7\u53d6\u5f00\u53d1\u8005\u66f4\u65b0",
+    "GetDevUpdatesDescription": "\u8f93\u5165\u4f60\u7684\u90ae\u7bb1\u6765\u83b7\u53d6\u4e0b\u4e00\u4e2aSubnautica\u66f4\u65b0\u7684\u6700\u65b0\u6d88\u606f\uff01",
+    "EnterEmailPlaceholder": "\u8f93\u5165\u90ae\u7bb1...",
+    "ViewPastUpdates": "\u67e5\u770b\u65e7\u7684\u66f4\u65b0",
+    "Subscribe": "\u8ba2\u9605",
+    "RedeemanItemKey": "\u5bf9\u6362\u5bc6\u94a5",
+    "EnterKeyPlaceholder": "\u8f93\u5165 key...",
+    "RedemptionDescription": "\u5982\u679c\u4f60\u62e5\u6709\u4e00\u679a'Subnautica'\u5bc6\u94a5?\u5728\u8fd9\u91cc\u5151\u6362,\u628a\u5b83\u6dfb\u52a0\u5230Steam\u5185,\u7136\u540e\u7528Steam\u6765\u542f\u52a8\u6e38\u620f!",
+    "Redeem": "\u5151\u6362",
+    "StillsuitEquipped": "\u88c5\u5907\u73af\u4fdd\u6f5c\u6c34\u670d\u56de\u6536\u996e\u7528\u6c34",
+    "StillsuitCreatedWater": "\u73af\u4fdd\u6f5c\u6c34\u670d\u5df2\u56de\u6536\u996e\u7528\u6c34",
+    "StillsuitWater": "\u518d\u751f\u6c34",
+    "Tooltip_StillsuitWater": "\u901a\u8fc7\u73af\u4fdd\u6f5c\u6c34\u670d\u56de\u6536\u7684\u996e\u7528\u6c34",
+    "PropulsionCannonEToRelease": "\u6309 E \u4ee5\u653e\u4e0b\u7269\u54c1",
+    "Help": "\u5e2e\u52a9",
+    "Inventory": "\u7269\u54c1\u680f",
+    "OpenSteamInventory": "\u5f00\u542f Steam \u5e93\u5b58",
+    "BackToDevNews": "\u8fd4\u56de\u5f00\u53d1\u65b0\u95fb",
+    "EconomyWarning": "\u8fd9\u9879\u529f\u80fd\u76ee\u524d\u6b63\u5904\u4e8e\u5185\u6d4b\u4e2d\u3002\u6682\u65f6\u8bf7\u5ffd\u7565\u5b83\u5427\uff01",
+    "DevTestItem": "\u6b63\u5728\u5f00\u53d1\u4e2d\u7684\u6d4b\u8bd5\u7248\u672c",
+    "Tooltip_DevTestItem": "\u771f\u7684.\u771f\u7684.",
+    "BikemanHullPlate": "Bikeman\u8239\u4f53\u94a2\u677f",
+    "EatMyDictionHullPlate": "\u4e00\u79cd\u8239\u4f53\u94a2\u677f",
+    "POWER": "\u7535\u529b",
+    "DevelopmentNews": "\u5f00\u53d1\u4fe1\u606f",
+    "SavedGames": "\u5df2\u4fdd\u5b58\u7684\u6e38\u620f",
+    "ClimbLadder": "\u722c\u68af\u5b50",
+    "ExitEscapePod": "\u79bb\u5f00\u9003\u751f\u8231",
+    "EnterEscapePod": "\u8fdb\u5165\u9003\u751f\u8231",
+    "BoardEscapePod": "\u767b\u9646\u9003\u751f\u8231",
+    "UseLadder": "\u4f7f\u7528\u68af\u5b50",
+    "Open": "\u6253\u5f00",
+    "Close": "\u5173\u95ed",
+    "OpenStorage": "\u6253\u5f00\u67dc\u5b50",
+    "SavingGame": "\u4fdd\u5b58\u6e38\u620f\u4e2d...",
+    "GameSaved": "\u6e38\u620f\u5df2\u4fdd\u5b58",
+    "PressButton": "\u6309\u4e0b\u6309\u94ae",
+    "Climb": "\u722c",
+    "Dig": "\u6316",
+    "DriveVehicle": "\u9a7e\u9a76\u8f7d\u5177",
+    "CloseDoor": "\u5173\u4e0a\u95e8",
+    "OpenDoor": "\u6253\u5f00\u95e8",
+    "ClimbUp": "\u722c\u4e0a",
+    "ClimbDown": "\u722c\u4e0b",
+    "GrabOn": "\u6293\u53d6",
+    "PowerCableInstructions": "\u8fde\u63a5 (\u5de6\u952e) \u5206\u79bb (\u53f3\u952e)",
+    "PickupCable": "\u62fe\u53d6\u7535\u7f06",
+    "InsertPowerCell": "\u63d2\u5165\u65b0\u7684\u52a8\u529b\u7535\u6c60",
+    "PilotSub": "\u9a7e\u9a76",
+    "SetAutopilot": "\u8bbe\u7f6e\u81ea\u52a8\u9a7e\u9a76\u4eea",
+    "SignInstructions": "\u62ff\u8d77 (\u53f3\u952e\u5355\u51fb)",
+    "TerraformerInstructions": "\u53f3\u952e \u6dfb\u52a0. Shift+\u53f3\u952e \u6316\u6398",
+    "TerraformerOutOfMaterial": "\u6750\u6599\u8017\u5c3d",
+    "TerraformerTooClose": "\u592a\u9760\u8fd1\u4e86\uff01\u79bb\u8fdc\u4e00\u4e9b",
+    "TerraformerTooFar": "\u8ddd\u79bb\u592a\u8fdc",
+    "PipeInstructions": "\u53f3\u952e\u5355\u51fb\u653e\u7f6e,\u653e\u7f6e\u5728\u6c34\u9762\u4e0a\u7684\u7a7a\u6c14\u4e2d,\u7136\u540e\u8fde\u63a5\u5176\u4ed6\u7ba1\u9053",
+    "PipeCantReconnect": "\u8ddd\u79bb\u592a\u8fdc",
+    "PipeNotConnected": "\u7ba1\u9053\u6ca1\u6709\u8fde\u63a5\u5230\u6c34\u9762\u4e0a\u7684\u7a7a\u6c14\u4e2d,\u4e0d\u80fd\u83b7\u53d6\u6c27\u6c14",
+    "FeedbackInstructions": "\u6309 F8 \u4ee5\u62a5\u544a\u9519\u8bef\u548c\u63d0\u4f9b\u53cd\u9988",
+    "NightTime": "\u9ed1\u591c\u5c06\u81f3\u3002",
+    "SpawnNearbyFailed": "\u65e0\u6cd5\u6267\u884c",
+    "Compass": "\u6307\u5357\u9488",
+    "Pipe": "\u6f5c\u6c34\u5bfc\u6c14\u7ba1",
+    "Terraformer": "\u5730\u5f62\u6539\u9020\u5668",
+    "Thermometer": "\u6e29\u5ea6\u8ba1",
+    "BatteryDepleted": "\u7535\u6c60\u8017\u5c3d",
+    "Gravsphere": "\u91cd\u529b\u7403",
+    "Cyclops": "\u72ec\u773c\u5de8\u4eba\u53f7",
+    "EscapePod": "\u9003\u751f\u8231",
+    "Silicone": "\u7845",
+    "Tooltip_Aquarium": "\u81ea\u7ed9\u81ea\u8db3\u7684\u9c7c\u7f38",
+    "Tooltip_Spotlight": "\u53ef\u4ee5\u5efa\u8bbe\u5728\u4f60\u57fa\u5730\u7684\u53ef\u65cb\u8f6c\u805a\u5149\u7167\u660e\u8bbe\u5907",
+    "DeconstructAttachedError": "\u5148\u62c6\u9664\u8fde\u63a5\u7ec4\u4ef6",
+    "Pause": "\u6682\u505c",
+    "BackToGame": "Back to Game",
+    "GiveFeedback": "Give Feedback",
+    "Save": "\u4fdd\u5b58",
+    "QuitToDesktop": "\u9000\u56de\u81f3\u684c\u9762",
+    "AreYouSure": "\u786e\u5b9a\u5417\uff1f",
+    "Yes": "\u662f",
+    "No": "\u5426",
+    "InvertMouse": "\u53cd\u8f6c\u9f20\u6807",
+    "MouseSensitivity": "\u9f20\u6807\u7075\u654f\u5ea6",
+    "OculusRift": "Oculus Rift",
+    "OculusRecenter": "\u91cd\u65b0\u5b9a\u4f4d (F2)",
+    "DisableMousePitch": "\u7981\u7528\u9f20\u6807",
+    "ArmFollowsGaze": "\u624b\u81c2\u4ee5\u4e0b\u89c6\u7ebf",
+    "capacity": "\u5bb9\u91cf",
+    "ClimbUpLadder": "\u722c\u4e0a",
+    "ClimbDownLadder": "\u722c\u4e0b",
+    "sand": "\u6c99",
+    "FabricatorMenu_Resources": "\u8d44\u6e90",
+    "FabricatorMenu_Electronics": "\u7535\u5b50\u914d\u4ef6",
+    "FabricatorMenu_Survival": "\u751f\u5b58",
+    "FabricatorMenu_Water": "\u6c34",
+    "FabricatorMenu_CookedFood": "\u5df2\u70f9\u996a\u7684\u98df\u7269",
+    "FabricatorMenu_CuredFood": "\u814c\u5236\u8fc7\u7684\u98df\u7269",
+    "FabricatorMenu_Personal": "\u4e2a\u4eba\u88c5\u5907",
+    "FabricatorMenu_Equipment": "\u88c5\u5907",
+    "FabricatorMenu_Tools": "\u5de5\u5177",
+    "FabricatorMenu_Machines": "\u53ef\u90e8\u7f72\u7684\u7269\u54c1",
+    "FabricatorMenu_Submarine": "\u6f5c\u8247",
+    "ConstructorMenu_Vehicles": "\u8f7d\u5177",
+    "WorkbenchMenu_KnifeMenu": "\u6c42\u751f\u5c0f\u5200",
+    "WorkbenchMenu_TankMenu": "\u8d2e\u6c14\u7f50",
+    "WorkbenchMenu_FinsMenu": "\u811a\u8e7c",
+    "PropulsionCannonFragment": "\u63a8\u529b\u8bbe\u5907\u788e\u7247",
+    "Tooltip_PropulsionCannonFragment": "\u63a8\u529b\u8bbe\u5907\u84dd\u56fe\u788e\u7247",
+    "Tooltip_ReinforceHullFragment": "\u8239\u4f53\u52a0\u56fa\u6a21\u5757\u84dd\u56fe\u788e\u7247",
+    "TabInventory": "\u7269\u54c1\u680f",
+    "TabJournal": "\u84dd\u56fe",
+    "SignDefaultLabel": "\u6807\u7b7e",
+    "SignEditLabel": "\u7f16\u8f91\u6807\u7b7e",
+    "CategoryMisc": "\u6742\u9879",
+    "CategoryBase": "\u5efa\u7b51",
+    "CategoryPower": "\u80fd\u6e90",
+    "CategoryModule": "\u7ec4\u4ef6",
+    "Sign": "\u6807\u7b7e\u724c",
+    "Tooltip_Sign": "\u53ef\u4ee5\u5b89\u88c5\u57fa\u5730\u4e2d\u7528\u4e8e\u6807\u8bb0\u7684\u7535\u5b50\u6807\u7b7e",
+    "SolarPanel": "\u592a\u9633\u80fd\u7535\u6c60\u677f",
+    "SolarPanelStatus": "\u592a\u9633\u80fd\u7535\u6c60\u677f (\u9633\u5149: {0}% \u5145\u7535: {1}\/{2})",
+    "Tooltip_SolarPanel": "\u901a\u8fc7\u592a\u9633\u80fd\u6765\u4e3a\u5176\u5b83\u8bbe\u65bd\u4f9b\u7535\u7684\u8bbe\u5907 (25 \u529f\u7387\/\u5206\u949f)",
+    "WorkbenchMenu_PropulsionCannonMenu": "\u51b2\u51fb\u70ae",
+    "Uranium": "\u94c0",
+    "RegenPowerCell": "\u81ea\u5145\u7535\u7535\u6c60",
+    "CompostCreepvine": "\u5408\u6210\u6d77\u85fb",
+    "Tooltip_CompostCreepvine": "\u5206\u89e3\u6d77\u85fb\u7684\u80fd\u6e90",
+    "ProcessUranium": "\u94c0\u6838\u88c2\u53d8",
+    "Tooltip_ProcessUranium": "\u9ad8\u5ea6\u53ef\u63a7\u7684\u88c2\u53d8\u53cd\u5e94",
+    "TreeMushroomPiece": "\u6811\u8611\u83c7\u5757",
+    "Tooltip_TreeMushroomPiece": "\u672c\u571f\u690d\u7269,\u5305\u542b\u771f\u83cc\u9176",
+    "Tooltip_Uranium": "\u80fd\u4ea7\u751f\u6838\u88c2\u53d8\u7684\u7a00\u6709\u77ff\u77f3\uff0c\u6307\u94c0\u6838\u6216\u949a\u6838\uff0c\u5206\u88c2\u6210\u4e24\u4e2a\u6216\u591a\u4e2a\u8d28\u91cf\u8f83\u5c0f\u7684\u539f\u5b50\u7684\u4e00\u79cd\u6838\u53cd\u5e94\u5f62\u5f0f",
+    "PowerTransmitter": "\u80fd\u6e90\u5ef6\u4f38\u5668",
+    "Accumulator": "\u84c4\u7535\u6c60",
+    "Bioreactor": "\u751f\u7269\u53d1\u7535\u673a",
+    "ThermalPlant": "\u70ed\u80fd\u53d1\u7535\u673a",
+    "NuclearReactor": "\u6838\u53cd\u5e94\u5806",
+    "PowerCellStatus": "\u80fd\u6e90: {0}\/{1}",
+    "HUDPowerStatus": "\u80fd\u6e90: {0}\/{1}",
+    "AccumulatorStatus": "\u84c4\u7535\u6c60 (\u5145\u7535: {0}\/{1})",
+    "BioreactorStatus": "\u751f\u7269\u53d1\u7535\u673a (\u5145\u7535: {0}\/{1})",
+    "BioreactorProcessingStatus": "\u751f\u7269\u53d1\u7535\u673a (\u5904\u7406: {0} \u5145\u7535: {1}\/{2})",
+    "ThermalPlantStatus": "\u70ed\u80fd\u53d1\u7535\u673a (\u5145\u7535: {0}\/{1})",
+    "NuclearReactorStatus": "\u6838\u80fd\u53d1\u7535\u673a (\u5145\u7535: {0}\/{1})",
+    "NuclearReactorProcessingStatus": "\u6838\u80fd\u53d1\u7535\u673a (\u5904\u7406: {0} \u5145\u7535: {1}\/{2})",
+    "Tooltip_PowerTransmitter": "\u53ef\u4ee5\u5ef6\u4f38\u7535\u6e90\u4f9b\u7535\u8ddd\u79bb\u548c\u8303\u56f4",
+    "Tooltip_Accumulator": "\u50a8\u5b58\u80fd\u6e90",
+    "Tooltip_Bioreactor": "\u5408\u6210\u690d\u7269\u788e\u7247\u6765\u4ea7\u751f\u7535\u80fd (40 \u529f\u7387\/\u5206\u949f)",
+    "Tooltip_ThermalPlant": "\u5c06\u70ed\u91cf\u8f6c\u6362\u6210\u7535\u80fd (\u6c34\u6e29>15\u5ea6) (50 \u529f\u7387\/\u5206\u949f)",
+    "Tooltip_NuclearReactor": "\u94c0\u77ff\u77f3\u6838\u805a\u53d8\u6765\u4ea7\u751f\u7535\u80fd (150 \u529f\u7387\/\u5206\u949f)",
+    "SmallLockerDefaultLabel": "\u50a8\u7269\u67dc",
+    "SmallLockerEditLabel": "\u4fee\u6539\u6807\u7b7e",
+    "SmallLocker": "\u58c1\u6302\u5f0f\u50a8\u7269\u67dc",
+    "Tooltip_SmallLocker": "\u63d0\u4f9b5X6\u5b58\u50a8\u7a7a\u95f4,\u53ef\u4ee5\u5b89\u88c5\u5728\u5899\u4f53\u4e0a\u7684\u50a8\u7269\u67dc",
+    "Lithium": "\u9502",
+    "DioramaHullPlate": "\u7acb\u4f53\u8239\u4f53\u94a2\u677f",
+    "Tooltip_DioramaHullPlate": "\u7528\u4e00\u4e2a\u7279\u6b8a\u7684\u8239\u4f53\u94a2\u677f\u6765\u7eaa\u5ff5\u4e00\u4e2a\u72ec\u7279\u7684\u666f\u7269",
+    "OpenPercent": "\u5207\u5272\u767e\u5206\u6bd4: {0}",
+    "LaserCutter": "\u6fc0\u5149\u5207\u5272\u8bbe\u5907",
+    "Tooltip_LaserCutter": "\u53ef\u4ee5\u5207\u5272\u5bc6\u5c01\u7684\u4e1c\u897f",
+    "Sealed_SupplyCrate": "\u5bc6\u5c01\u7684\u8865\u7ed9\u7bb1",
+    "Sealed": "\u5bc6\u5c01\u7684",
+    "SealedInstructions": "\u5207\u5272\u540e\u4f7f\u7528",
+    "BoardCyclops": "\u767b\u9646\u72ec\u773c\u5de8\u4eba\u53f7",
+    "LeaveCyclops": "\u79bb\u5f00\u72ec\u773c\u5de8\u4eba\u53f7",
+    "EnterBase": "\u8fdb\u5165\u57fa\u5730",
+    "ExitBase": "\u79bb\u5f00\u57fa\u5730",
+    "MarkiplierHullPlate": "markiplier\u8239\u4f53\u94a2\u677f",
+    "Tooltip_MarkiplierHullPlate": "\u6211\u4e00\u70b9\u90fd\u4e0d\u5bb3\u6015",
+    "MuyskermHullPlate": "Muyskerm\u8239\u4f53\u94a2\u677f",
+    "Tooltip_MuyskermHullPlate": "\u91cd\u65b0\u8003\u8651\u4e00\u4e0b\u4f60\u7684\u8ba2\u9605\u6807\u51c6",
+    "LordMinionHullPlate": "LordMinion\u8239\u4f53\u94a2\u677f",
+    "Tooltip_LordMinionHullPlate": "\u6700\u5e05\u7684Subnautica\u8239\u4f53\u94a2\u677f",
+    "JackSepticEyeHullPlate": "JackSepticEye\u8239\u4f53\u94a2\u677f",
+    "Tooltip_JackSepticEyeHullPlate": "\u6770\u514b\u521b\u5efa\u4e86\u5e72\u51c0\u3001\u514d\u8d39\u7684\u89c6\u9891\u9002\u5408\u6240\u6709\u5e74\u9f84\u6bb5\u7684\u4eba\u524d\u6765\u89c2\u770b",
+    "Aerogel": "\u6c14\u51dd\u80f6",
+    "AluminumOxide": "\u6c27\u5316\u94dd\u6676\u4f53",
+    "AminoAcids": "\u6c28\u57fa\u9178",
+    "AramidFibers": "\u4eba\u9020\u7ea4\u7ef4",
+    "Benzene": "\u82ef",
+    "BloodOil": "\u8840\u6cb9",
+    "BloodRoot": "\u8840\u8349",
+    "BloodVine": "\u8840\u85e4",
+    "Graphene": "\u77f3\u58a8\u70ef",
+    "HydrochloricAcid": "\u76d0\u9178",
+    "Magnetite": "\u78c1\u94c1\u77ff",
+    "MercuryOre": "\u6c5e\u77ff\u77f3",
+    "Nanowires": "\u7eb3\u7c73\u7ebf",
+    "Polyaniline": "\u805a\u82ef\u80fa",
+    "Sulphur": "\u786b\u78fa",
+    "WhiteMushroom": "\u767d\u8611\u83c7",
+    "FabricatorMenu_BasicMaterials": "\u57fa\u672c\u6750\u6599",
+    "FabricatorMenu_AdvancedMaterials": "\u9ad8\u7ea7\u6750\u6599",
+    "Tooltip_Aerogel": "\u6eb6\u80f6\u6216\u6eb6\u6db2\u4e2d\u7684\u80f6\u4f53\u7c92\u5b50\u6216\u9ad8\u5206\u5b50\u5728\u4e00\u5b9a\u6761\u4ef6\u4e0b\u4e92\u76f8\u8fde\u63a5\uff0c\u5f62\u6210\u7a7a\u95f4\u7f51\u72b6\u7ed3\u6784\uff0c\u7ed3\u6784\u7a7a\u9699\u4e2d\u5145\u6ee1\u4e86\u4f5c\u4e3a\u5206\u6563\u4ecb\u8d28\u7684\u6db2\u4f53\uff08\u5728\u5e72\u51dd\u80f6\u4e2d\u4e5f\u53ef\u4ee5\u662f\u6c14\u4f53\uff0c\u5e72\u51dd\u80f6\u4e5f\u79f0\u4e3a\u6c14\u51dd\u80f6\uff09\uff0c\u8fd9\u6837\u4e00\u79cd\u7279\u6b8a\u7684\u5206\u6563\u4f53\u7cfb\u79f0\u4f5c\u51dd\u80f6\u3002\u6ca1\u6709\u6d41\u52a8\u6027",
+    "Tooltip_AluminumOxide": "\u6c27\u5316\u94dd\u662f\u5c06\u94dd\u77fe\u571f\u539f\u6599\u7ecf\u8fc7\u5316\u5b66\u5904\u7406\uff0c\u9664\u53bb\u7845\u3001\u94c1\u3001\u949b\u7b49\u7684\u6c27\u5316\u7269\u800c\u5236\u5f97\uff0c\u662f\u7eaf\u5ea6\u5f88\u9ad8\u7684\u6c27\u5316\u94dd\u539f\u6599",
+    "Tooltip_AminoAcids": "\u6c28\u57fa\u9178\uff08amino acid\uff09\uff1a\u542b\u6709\u6c28\u57fa\u548c\u7fa7\u57fa\u7684\u4e00\u7c7b\u6709\u673a\u5316\u5408\u7269\u7684\u901a\u79f0\u3002\u751f\u7269\u529f\u80fd\u5927\u5206\u5b50\u86cb\u767d\u8d28\u7684\u57fa\u672c\u7ec4\u6210\u5355\u4f4d\uff0c\u662f\u6784\u6210\u52a8\u7269\u8425\u517b\u6240\u9700\u86cb\u767d\u8d28\u7684\u57fa\u672c\u7269\u8d28",
+    "Tooltip_AramidFibers": "\u9ad8\u5f3a\u5ea6\u4eba\u9020\u7ea4\u7ef4",
+    "Tooltip_Benzene": "C\u2076H\u2076\u3002\u7528\u4f5c\u6da6\u6ed1\u548c\u6eb6\u5242\u3002",
+    "Tooltip_BloodOil": "\u542b\u6709\u9ad8\u54c1\u8d28\u7684\u6cb9",
+    "Tooltip_BloodRoot": "\u7ea2\u8272\u7684\u6839",
+    "Tooltip_BloodVine": "\u53cc\u5b50\u53f6\u690d\u7269\u7eb2",
+    "Tooltip_Graphene": "\u77f3\u58a8\u70ef\u3002\u5355\u539f\u5b50\u539a\u5ea6\u7684\u78b3\u6392\u5217\u800c\u6210\u3002\u5f3a\u5ea6\u8d85\u8d8a\u94a2\u94c1\u3002",
+    "Tooltip_HydrochloricAcid": "\u6c2f\u5316\u6c22\u3002\u5f3a\u9178\u6027\u5316\u5408\u7269\u3002\u614e\u7528\u3002",
+    "Tooltip_Magnetite": "\u78c1\u94c1\u77ff\u7684\u4e3b\u8981\u6210\u5206\u4e3aFe3O4\uff0c\u6676\u4f53\u5c5e\u7b49\u8f74\u6676\u7cfb\u7684\u6c27\u5316\u7269\u77ff\u7269\uff0c\u6676\u4f53\u5e38\u5448\u516b\u9762\u4f53\u548c\u83f1\u5f62\u5341\u4e8c\u9762\u4f53\u3001\u96c6\u5408\u4f53\u5448\u7c92\u72b6\u6216\u5757\u72b6\u3002\u5b8c\u597d\u5355\u6676\u5f62\u5448\u516b\u9762\u4f53\u6216\u83f1\u5f62\u5341\u4e8c\u9762\u4f53\uff0c\u5448\u83f1\u5f62\u5341\u4e8c\u9762\u4f53\u65f6\uff0c\u83f1\u5f62\u9762\u4e0a\u5e38\u6709\u5e73\u884c\u8be5\u6676\u9762\u957f\u5bf9\u89d2\u7ebf\u65b9\u5411\u7684\u6761\u7eb9",
+    "Tooltip_MercuryOre": "\u6c5e\u662f\u5728\u5e38\u6e29\u4e0b\u552f\u4e00\u5448\u6db2\u6001\u7684\u91d1\u5c5e\uff0c\u53c8\u540d\u79f0\u6c34\u94f6\uff0c\u94f6\u767d\u8272\uff0c\u6bd4\u91cd13.546\uff0c\u7194\u70b9-38.87\u2103\u6cb8\u70b9357\u2103\u3002\u6c5e\u80fd\u4e0e\u8bb8\u591a\u91d1\u5c5e\u5f62\u6210\u5408\u91d1\uff0c\u79f0\u4e3a\u6c5e\u9f50",
+    "Tooltip_Nanowires": "\u4f34\u968f\u7740\u673a\u68b0\u6027\u80fd\u7684\u663e\u8457\u53d8\u5316\uff0c\u7eb3\u7c73\u7ebf\u7684\u7535\u5b66\u6027\u80fd\u4e5f\u76f8\u5bf9\u4e8e\u4f53\u6750\u6599\u6709\u7740\u660e\u663e\u7684\u53d8\u5316\u3002\u7eb3\u7c73\u7ebf\u7684\u5bfc\u7535\u6027\u9884\u671f\u5c06\u8fdc\u8fdc\u5c0f\u4e8e\u4f53\u6750\u6599",
+    "Tooltip_Polyaniline": "\u805a\u82ef\u80fa\uff0c\u9ad8\u5206\u5b50\u5316\u5408\u7269\u7684\u4e00\u79cd\uff0c\u5177\u6709\u7279\u6b8a\u7684\u7535\u5b66\u3001\u5149\u5b66\u6027\u8d28\uff0c\u7ecf\u63ba\u6742\u540e\u53ef\u5177\u6709\u5bfc\u7535\u6027\u53ca\u7535\u5316\u5b66\u6027\u80fd",
+    "Tooltip_Sulphur": "\u786b\u78fa\u522b\u540d\u786b,\u80f6\u4f53\u786b,\u4e3b\u8981\u7528\u4e8e\u5236\u9020\u67d3\u6599,\u519c\u836f,\u706b\u836f,\u6a61\u80f6,\u4eba\u9020\u4e1d\u7b49",
+    "Tooltip_WhiteMushroom": "\u5177\u6709\u5f3a\u9178\u6027\u7684\u7279\u5f81",
+    "Cutefish": "\u840c\u840c\u9c7c",
+    "Tooltip_Cutefish": "\u7279\u522b\u7248\u7684\u5ba0\u7269",
+    "BaseBulkhead": "\u8231\u58c1",
+    "Tooltip_BaseBulkhead": "\u52a0\u56fa\u57fa\u5730,\u800c\u4e14\u53ef\u4ee5\u963b\u65ad\u6c34\u6d41 (+2HP)",
+    "OpenLocker": "\u6253\u5f00\u50a8\u7269\u67dc",
+    "Lubricant": "\u6da6\u6ed1\u5242",
+    "CreepvineSeedCluster": "\u6d77\u85fb\u79cd\u5b50",
+    "Tooltip_CreepvineSeedCluster": "\u6cb9\u8102\u542b\u91cf\u9ad8\u7684\u672c\u571f\u690d\u7269\u79cd\u5b50",
+    "Tooltip_Lubricant": "\u6da6\u6ed1\u5242\u7528\u4ee5\u964d\u4f4e\u6469\u64e6\u526f\u7684\u6469\u64e6\u963b\u529b\u3001\u51cf\u7f13\u5176\u78e8\u635f\u7684\u6da6\u6ed1\u4ecb\u8d28\u3002\u6da6\u6ed1\u5242\u5bf9\u6469\u64e6\u526f\u8fd8\u80fd\u8d77\u51b7\u5374\u3001\u6e05\u6d17\u548c\u9632\u6b62\u6c61\u67d3\u7b49\u4f5c\u7528",
+    "SeamothReinforcementModule": "\u4e0b\u6f5c\u6df1\u5ea6\u5347\u7ea7\u6a21\u5757",
+    "Tooltip_SeamothReinforcementModule": "\u4f7f\u6d77\u86fe\u53f7\u5e95\u76d8\u589e\u52a0\u6781\u5f3a\u7684\u6297\u538b\u80fd\u529b,\u589e\u52a0\u5b89\u5168\u6df1\u5ea6200\u7c73",
+    "SeamothPowerUpgradeModule": "\u6d77\u86fe\u53f7\u52a8\u529b\u6548\u7387\u6a21\u5757",
+    "Tooltip_SeamothPowerUpgradeModule": "\u51cf\u5c11\u6d77\u86fe\u53f7\u80fd\u6e90\u6d88\u8017,\u6bcf\u4e2a\u6a21\u5757\u53ef\u4ee5\u51cf\u5c1115%\u7684\u80fd\u6e90\u6d88\u8017\uff0c\u4ee5\u6700\u597d\u7684\u7ba1\u7406\uff0c\u6765\u5b9e\u73b0\u8282\u80fd\u6548\u76ca\u7684\u6700\u5927\u5316",
+    "SeamothSolarCharge": "\u6d77\u86fe\u53f7\u592a\u9633\u80fd\u5145\u7535\u5668",
+    "Tooltip_SeamothSolarCharge": "\u53ef\u4ee5\u5728\u9633\u5149\u4e0b\u4e3a\u6d77\u86fe\u53f7\u5145\u80fd\uff0c\u5149\u4f0f\u53d1\u7535\u662f\u6839\u636e\u5149\u751f\u4f0f\u7279\u6548\u5e94\u539f\u7406\uff0c\u5229\u7528\u592a\u9633\u7535\u6c60\u5c06\u592a\u9633\u5149\u80fd\u76f4\u63a5\u8f6c\u5316\u4e3a\u7535\u80fd\u3002\u4e0d\u8bba\u662f\u72ec\u7acb\u4f7f\u7528\u8fd8\u662f\u5e76\u7f51\u53d1\u7535\uff0c\u5149\u4f0f\u53d1\u7535\u7cfb\u7edf\u4e3b\u8981\u7531\u592a\u9633\u7535\u6c60\u677f\uff08\u7ec4\u4ef6\uff09\u3001\u63a7\u5236\u5668\u548c\u9006\u53d8\u5668\u4e09\u5927\u90e8\u5206\u7ec4\u6210\uff0c\u5b83\u4eec\u4e3b\u8981\u7531\u7535\u5b50\u5143\u5668\u4ef6\u6784\u6210\uff0c\u4e0d\u6d89\u53ca\u673a\u68b0\u90e8\u4ef6\uff0c\u6240\u4ee5\uff0c\u5149\u4f0f\u53d1\u7535\u8bbe\u5907\u6781\u4e3a\u7cbe\u70bc\uff0c\u53ef\u9760\u7a33\u5b9a\u5bff\u547d\u957f\u3001\u5b89\u88c5\u7ef4\u62a4\u7b80\u4fbf",
+    "Bench": "\u957f\u51f3",
+    "Tooltip_Bench": "\u7b80\u5355\u7684\u91d1\u5c5e\u5668\u5177\uff0c\u4f11\u606f\u65f6\u53ef\u4ee5\u8282\u7ea6\u4f53\u80fd",
+    "BaseCorridorGlassI": "I\u5f62\u73bb\u7483\u8d70\u5eca",
+    "BaseCorridorGlassL": "L\u5f62\u73bb\u7483\u8d70\u5eca",
+    "BaseObservatory": "\u77ad\u671b\u53f0",
+    "Tooltip_BaseCorridorGlassI": "\u57fa\u672c\u7684\u73bb\u7483\u8d70\u5eca (-2HP)",
+    "Tooltip_BaseCorridorGlassL": "90\u5ea6\u8f6c\u5f2f\u7684\u73bb\u7483\u8d70\u5eca (-2HP)",
+    "Tooltip_BaseObservatory": "\u53ef\u4ee5\u5728\u8fd9\u91cc\u6b23\u8d4f\u5468\u56f4\u7684\u6d77\u6d0b\u751f\u7269\u548c\u666f\u7269 (-3HP)",
+    "BaseConnector": "\u5782\u76f4\u8fde\u63a5\u7ba1\u9053",
+    "Tooltip_BaseConnector": "\u5782\u76f4\u7684\u57fa\u5730\u8fde\u63a5\u7ec4\u4ef6 (-0.5HP)",
+    "BioreactorFragment": "\u751f\u7269\u53d1\u7535\u673a\u788e\u7247",
+    "NuclearReactorFragment": "\u6838\u80fd\u53d1\u7535\u673a\u788e\u7247",
+    "ThermalPlantFragment": "\u70ed\u80fd\u53d1\u7535\u673a\u788e\u7247",
+    "Tooltip_BioreactorFragment": "\u751f\u7269\u53d1\u7535\u673a\u84dd\u56fe\u788e\u7247",
+    "Tooltip_ThermalPlantFragment": "\u70ed\u80fd\u53d1\u7535\u673a\u84dd\u56fe\u788e\u7247",
+    "Tooltip_BioreactorBlueprint": "\u5141\u8bb8\u5236\u9020\u751f\u7269\u53d1\u7535\u673a",
+    "Tooltip_NuclearReactorBlueprint": "\u5141\u8bb8\u5236\u9020\u6838\u80fd\u53d1\u7535\u673a",
+    "Tooltip_ThermalPlantBlueprint": "\u5141\u8bb8\u5236\u9020\u70ed\u80fd\u53d1\u7535\u673a",
+    "BaseMoonpool": "\u6708\u4eae\u6c60",
+    "Tooltip_BaseMoonpool": "\u505c\u9760\u5c0f\u578b\u8f7d\u5177\u7684\u5efa\u7b51 (-5HP)",
+    "AquariumStorageLabel": "\u6c34\u65cf\u9986",
+    "UseAquarium": "\u4f7f\u7528\u6c34\u65cf\u9986",
+    "SitDown": "\u5750\u4e0b",
+    "StandUp": "\u7ad9\u8d77",
+    "MoonpoolFragment": "\u6708\u4eae\u6c60\u788e\u7247",
+    "BioreactorBlueprint": "\u751f\u7269\u53d1\u7535\u673a\u84dd\u56fe",
+    "MoonpoolBlueprint": "\u6708\u4eae\u6c60\u84dd\u56fe",
+    "NuclearReactorBlueprint": "\u6838\u53cd\u5e94\u5806\u84dd\u56fe",
+    "ThermalPlantBlueprint": "\u70ed\u80fd\u53d1\u7535\u673a\u84dd\u56fe",
+    "Tooltip_MoonpoolFragment": "\u6708\u4eae\u6c60\u84dd\u56fe\u788e\u7247",
+    "Tooltip_NuclearReactorFragment": "\u6838\u80fd\u53d1\u7535\u673a\u84dd\u56fe\u788e\u7247",
+    "FloatingIsland": "\u6d6e\u5c9b",
+    "CoralArch": "\u5de8\u5927\u6709\u673a\u7269",
+    "BalancingRock": "\u5730\u8d28\u6784\u9020",
+    "HugePillar": "\u5de8\u5927\u67f1\u5b50",
+    "InventoryCantDropHere": "\u7269\u54c1\u8bf7\u653e\u5165\u50a8\u7269\u67dc",
+    "BaseCorridorGlass": "\u73bb\u7483\u8d70\u5eca",
+    "Tooltip_BaseCorridorGlass": "\u73bb\u7483\u8d70\u5eca (-2HP)",
+    "SeamothDefaultName": "\u6d77\u86fe\u53f7",
+    "ExosuitDefaultName": "EXOSUIT\u673a\u7532",
+    "SubmersibleNotDocked": "\u65e0\u505c\u9760",
+    "SubmersibleDocked": "\u5df2\u5bf9\u63a5",
+    "SubmersibleFullyCharged": "\u5145\u80fd\u5b8c\u6210",
+    "SubmersibleCharging": "\u5145\u80fd",
+    "BaseUpgradeConsole": "\u6d77\u86fe\u53f7\u5347\u7ea7\u63a7\u5236\u53f0",
+    "Tooltip_BaseUpgradeConsole": "\u5fc5\u987b\u5728\u6708\u4eae\u6c60\u91cc\u5efa\u9020,\u7528\u4e8e\u6d77\u86fe\u53f7\u6a21\u5757\u5236\u9020\u4e0e\u5347\u7ea7",
+    "NotEnoughSpaceToSit": "\u5ea7\u4f4d\u5df2\u6ee1",
+    "Creative": "\u521b\u9020\u6a21\u5f0f",
+    "CreativeDescription": "\u5efa\u9020\u548c\u751f\u5b58\u4e0d\u9700\u8981\u4efb\u4f55\u8d44\u6e90,\u6c27\u6c14,\u98df\u7269,\u4f46\u6545\u4e8b\u5267\u60c5\u548c\u6b7b\u4ea1\u88ab\u7981\u7528",
+    "unpowered": "\u672a\u4f9b\u80fd",
+    "SeamothStorageModule": "\u6d77\u86fe\u53f7\u5b58\u50a8\u6a21\u5757",
+    "Tooltip_SeamothStorageModule": "\u4e00\u4e2a4x4\u7684\u50a8\u7269\u67dc",
+    "SeamothStorageNotEmpty": "\u5b58\u50a8\u5bb9\u5668\u6ca1\u6709\u7a7a\u95f4\u4e86",
+    "SeamothElectricalDefense": "\u7535\u5b50\u9632\u5fa1\u6a21\u5757",
+    "Tooltip_SeamothElectricalDefense": "\u4ea7\u751f\u4e00\u4e2a\u5c40\u90e8\u7535\u573a,\u4ee5\u62b5\u5fa1\u653b\u51fb\u6027\u751f\u7269\uff0c\u5728\u654c\u65b9\u5b9e\u65bd\u7535\u5b50\u5bf9\u6297\u7684\u60c5\u51b5\u4e0b\uff0c\u4e3a\u4fdd\u969c\u5df1\u65b9\u7535\u5b50\u8bbe\u5907\u548c\u7cfb\u7edf\u53d1\u6325\u6548\u80fd\u800c\u91c7\u53d6\u7684\u63aa\u65bd\u548c\u884c\u52a8\u3002\u662f\u7535\u5b50\u5bf9\u6297\u7684\u7ec4\u6210\u90e8\u5206\u3002",
+    "Skyray": "\u5929\u5149",
+    "SeamothTorpedoModule": "\u6d77\u86fe\u53f7\u9c7c\u96f7\u7cfb\u7edf",
+    "Tooltip_SeamothTorpedoModule": "\u6807\u51c6\u7684\u6c34\u4e0b\u53d1\u5c04\u88c5\u5907,\u53ef\u4ee5\u53d1\u5c04\u975e\u81f4\u547d\u7684\u65cb\u6da1\u9c7c\u96f7\uff0c\u4e00\u79cd\u6c34\u4e2d\u5175\u5668\u3002\u5b83\u53ef\u4ece\u8230\u8247\u3001\u98de\u673a\u4e0a\u53d1\u5c04\uff0c\u5b83\u53d1\u5c04\u540e\u53ef\u81ea\u5df1\u63a7\u5236\u822a\u884c\u65b9\u5411\u548c\u6df1\u5ea6\uff0c\u9047\u5230\u8230\u8239\uff0c\u53ea\u8981\u4e00\u63a5\u89e6\u5c31\u53ef\u4ee5\u7206\u70b8\u3002\u7528\u4e8e\u653b\u51fb\u654c\u65b9\u6c34\u9762\u8230\u8239\u548c\u6f5c\u8247\uff0c\u4e5f\u53ef\u4ee5\u7528\u4e8e\u5c01\u9501\u6e2f\u53e3\u548c\u72ed\u7a84\u6c34\u9053",
+    "Goal_Lifepod1": "\u521d\u59cb\u5316\u5728\u7d27\u6025\u6a21\u5f0f\u4e0b\u7684\u4e2a\u4eba\u6570\u5b57\u52a9\u7406 \u8fde\u63a5\u7528\u6237\u751f\u547d\u72b6\u6001\u6570\u636e \u63a5\u5165\u9003\u751f\u8231\u7cfb\u7edf\u8fdb\u884c\u9996\u6b21\u5206\u6790",
+    "Goal_Lifepod2": "\u6781\u5149\u53f7\u91c7\u77ff\u8239\u5728\u5f15\u529b\u5f39\u5c04\u56de\u65cb\u8fc7\u7a0b\u4e2d\u53d1\u751f\u707e\u96be\u6027\u8239\u4f53\u6545\u969c \u539f\u56e0\u4e0d\u660e 100\u7c73\u8303\u56f4\u5185\u6ca1\u6709\u68c0\u6d4b\u5230\u4eba\u5458\u751f\u547d\u8ff9\u8c61",
+    "Goal_Lifepod3": "\u65f6\u95f4\uff1a3\u5c0f\u65f6 \u9003\u751f\u8231\u542f\u52a8 \u9003\u751f\u8231\u6761\u4ef6\uff1a\u8239\u4f53\u5b89\u5168 \u8f85\u52a9\u7cfb\u7edf\u548c\u77ed\u8ddd\u79bb\u901a\u4fe1\u63a5\u5165",
+    "Goal_Lifepod4": "\u73af\u5883:\u672a\u77e5\u7684\u6d77\u6d0b\u661f\u7403 \u6c27\u6c14\u52a0\u6c2e\u6c14\u73af\u5883 \u6c34\u6027\u6c61\u67d3\u6307\u6570\u91cf\u8d85\u8fc7\u5b89\u5168\u6c34\u5e73,\u91c7\u7528\u6807\u51c6\u7684\u8fc7\u6ee4\u65b9\u6cd5",
+    "Goal_Intro1": "\u81ea\u52a8\u77ed\u8ddd\u79bb\u9047\u9669\u4fe1\u53f7\u5e7f\u64ad\u6545\u969c \u751f\u547d\u8f85\u52a9\u7cfb\u7edf\u79bb\u7ebf",
+    "Goal_Intro2": "\u9003\u751f\u8231\u914d\u5907\u53ef\u4ee5\u91cd\u65b0\u6784\u5efa\u7269\u8d28\u7684\u5de5\u5177 \u5e76\u4e14\u53ef\u4ee5\u6539\u53d8\u6709\u673a\u7269\u5206\u5b50\u8ba9\u5176\u53ef\u4ee5\u98df\u7269",
+    "Goal_CookedPeeper": "\u52a0\u5de5\u53f0\u7684\u201c\u53a8\u5e08\u201d\u53ef\u4ee5\u5254\u9664\u9aa8\u9abc\u7ed3\u6784\uff0c\u4f53\u6db2\u548c\u5185\u810f\u5668\u5b98\uff0c\u4ece\u800c\u4f7f\u5b83\u4eec\u53ef\u5b89\u5168\u98df\u7528",
+    "Goal_LocationAuroraEntry": "\u8b66\u544a \u7ed3\u6784\u5b8c\u6574\u6027\u672a\u77e5 \u4e0d\u5efa\u8bae\u63a2\u7d22",
+    "Goal_LocationAuroraFurtherIn": "\u5728\u9644\u8fd1\u7684\u6709\u673a\u7269\u7cfb\u7edf\u4e2d\u68c0\u6d4b\u5230\u4e86\u4eba\u7c7b\u7684\u9057\u9ab8 \u4e0d\u5efa\u8bae\u8fdb\u4e00\u6b65\u63a2\u7d22",
+    "Goal_BiomeCrashedShip": "\u68c0\u6d4b\u5230\u4e00\u4e2a\u5ef6\u4f38\u7684\u6b8b\u9ab8",
+    "Goal_LocationAuroraInterior": "\u7206\u70b8\u540e\u98de\u823987%\u7684\u5c45\u4f4f\u533a\u57df\u53d8\u5f97\u65e0\u6cd5\u5c45\u4f4f",
+    "Goal_LocationAuroraHallway": "\u5185\u90e8\u635f\u4f24\u8bc4\u4f30:\u7834\u574f\u60c5\u51b5\u4e0d\u7b26\u5408\u5185\u90e8\u6545\u969c \u6781\u5149\u53f7\u9ed1\u5323\u5b50\u6ca1\u6709\u627e\u5230",
+    "Goal_LocationAuroraDriveEntry": "\u68c0\u67e5\u9a71\u52a8\u6838\u5fc3\u635f\u574f\u5bf9\u6781\u5149\u53f7\u7684\u5f71\u54cd \u8ba1\u7b97\u8868\u660e\u78b0\u649e\u7684\u5f3a\u5ea6\u4e0d\u8db3\u4ee5\u5bfc\u81f4\u6838\u5fc3\u635f\u574f",
+    "Goal_Location AuroraDriveInterior": "\u6781\u5149\u53f7\u9ed1\u5323\u5b50\u5df2\u627e\u5230 \u5c1d\u8bd5\u4e0b\u8f7d\u6570\u636e\u65f6\u9047\u5230\u5e72\u6270 \u8b66\u544a \u8f90\u5c04\u5df2\u8fbe\u5230\u6700\u5927\u53ef\u5141\u8bb8\u7684\u6c34\u5e73",
+    "SeamothStorageOpen": "\u6253\u5f00\u4fa7\u6302\u8d27\u4ed3",
+    "SeamothSonarModule": "\u6d77\u86fe\u53f7\u58f0\u5450",
+    "Tooltip_SeamothSonarModule": "\u901a\u8fc7\u7535\u58f0\u8f6c\u6362\u548c\u4fe1\u606f\u5904\u7406,\u5728\u5e73\u9762\u663e\u793a\u5668\u4e0a\u663e\u793a\u5730\u5f62\u6570\u636e\uff0c\u8fdb\u884c\u6c34\u4e0b\u76d1\u89c6\u4f7f\u7528\u7684\u4e3b\u8981\u6280\u672f\uff0c\u7528\u4e8e\u5bf9\u6c34\u4e0b\u76ee\u6807\u8fdb\u884c\u63a2\u6d4b\u3001\u5206\u7c7b\u3001\u5b9a\u4f4d\u548c\u8ddf\u8e2a\uff1b\u8fdb\u884c\u6c34\u4e0b\u901a\u4fe1\u548c\u5bfc\u822a",
+    "LootSensorMetal": "\u6d77\u86fe\u53f7\u91d1\u5c5e\u63a2\u6d4b\u5668",
+    "Tooltip_LootSensorMetal": "\u5229\u7528\u63a2\u6d4b\u6280\u672f\u611f\u5e94\u5468\u56f4\u91d1\u5c5e",
+    "LootSensorLithium": "\u6d77\u86fe\u53f7\u9502\u611f\u5e94\u5668",
+    "Tooltip_LootSensorLithium": "\u5229\u7528\u63a2\u6d4b\u6280\u672f\u611f\u5e94\u5468\u56f4\u9502\u77ff\u77f3",
+    "LootSensorFragment": "\u6d77\u86fe\u53f7\u788e\u7247\u611f\u5e94\u5668",
+    "Tooltip_LootSensorFragment": "\u5229\u7528\u63a2\u6d4b\u6280\u672f\u611f\u5e94\u5468\u56f4\u788e\u7247",
+    "SeamothTorpedoStorage": "\u6d77\u86fe\u53f7\u9c7c\u96f7\u8231",
+    "SeamothTorpedoNoAmmo": "\u5f39\u836f\u7528\u5c3d\u3002\u8bf7\u79bb\u5f00\u8f7d\u5177\u5e76\u586b\u5145\u9c7c\u96f7\u3002",
+    "WhirlpoolTorpedo": "\u6d77\u86fe\u53f7\u9ad8\u80fd\u6da1\u6d41\u9c7c\u96f7",
+    "Tooltip_WhirlpoolTorpedo": "\u628a\u8fd9\u4e2a\u88c5\u586b\u8fdb\u4f60\u6d77\u86fe\u53f7\u524d\u90e8\u7684\u9c7c\u96f7\u8231\u5185\u3002",
+    "SeamothArmorPlating": "\u6d77\u86fe\u5916\u58f3\u52a0\u56fa\u6a21\u5757",
+    "Tooltip_SeamothArmorPlating": "\u5728\u8239\u4f53\u78b0\u649e\u524d\u62a2\u5148\u53d8\u786c,\u51cf\u5c11\u5728\u6b63\u5e38\u60c5\u51b5\u4e0b\u7684\u78b0\u649e\u635f\u574f",
+    "SeamothUpgradesMenu_ModuleMenu": "\u6d77\u86fe\u53f7\u5347\u7ea7\u6a21\u5757",
+    "SeamothUpgradesMenu_ItemMenu": "\u6d77\u86fe\u53f7\u9c7c\u96f7",
+    "ContainerOverflow": "\u6700\u65b0\u66f4\u65b0\u7684\u53d8\u5316\u5bfc\u81f4\u5e93\u5b58\u5df2\u6ee1 \u8bf7\u91ca\u653e\u4e00\u4e9b\u7a7a\u95f4\u67e5\u770b\u5168\u90e8\u5185\u5bb9",
+    "DURABILITY": "\u8010\u4e45\u5ea6",
+    "TabLog": "\u65e5\u5fd7",
+    "Day": "\u5929\u6570",
+    "MasterVolume": "\u603b\u4f53\u97f3\u91cf",
+    "MusicVolume": "\u97f3\u4e50\u97f3\u91cf",
+    "ExchangeBattery": "\u66f4\u6362\u7535\u6c60 (R)",
+    "Health": "\u751f\u547d\u4f53\u5f81",
+    "PlanterStorageLabel": "\u79cd\u690d\u673a",
+    "FiltrationMachineStorageLabel": "\u6d77\u6c34\u8fc7\u6ee4\u673a",
+    "TabGallery": "\u76f8\u518c",
+    "SortByDateDescending": "\u6839\u636e\u65e5\u671f\u6392\u5e8f(\u964d\u5e8f)",
+    "SortByDateAscending": "\u6839\u636e\u65e5\u671f\u6392\u5e8f(\u5347\u5e8f)",
+    "SortByTopic": "\u6839\u636e\u4e3b\u9898\u6392\u5e8f",
+    "SortByName": "\u6839\u636e\u540d\u79f0\u6392\u5e8f",
+    "ScreenshotUpload": "\u4e0a\u4f20\u622a\u56fe",
+    "ScreenshotAddToSteamLibrary": "\u6dfb\u52a0\u5230Steam",
+    "ScreenshotDelete": "\u5220\u9664",
+    "PDAGalleryTabInstructions": "Press {0} to take a screenshot",
+    "PDAGalleryThumbnailSize": "\u5c3a\u5bf8",
+    "PDAGalleryUpload": "\u8d34\u5165\u76f8\u6846",
+    "PDAGalleryAddToSteam": "\u4e0a\u4f20\u56fe\u7247\u81f3Steam\u56fe\u7247\u5e93",
+    "PDAGalleryDelete": "\u5220\u9664\u56fe\u7247(\u53cc\u51fb\u9f20\u6807)",
+    "UsePlanter": "\u4f7f\u7528",
+    "UseFiltrationMachine": "\u4f7f\u7528\u8fc7\u6ee4\u5668",
+    "PictureFrameEditLabel": "\u8bbe\u7f6e\u56fe\u7247",
+    "BreakPurplePinecone": "\u7d2b\u677e\u679c",
+    "PlanterPot": "\u82b1\u76c6A",
+    "PlanterBox": "\u5ba4\u5185\u79cd\u690d\u7bb1",
+    "PlanterShelf": "\u58c1\u6302\u82b1\u76c6",
+    "FarmingTray": "\u5ba4\u5916\u79cd\u690d\u7bb1",
+    "FiltrationMachine": "\u6d77\u6c34\u8fc7\u6ee4\u673a",
+    "FullyCharged": "\u5145\u80fd\u5b8c\u6210",
+    "ReinforcedDiveSuit": "\u52a0\u5f3a\u7248\u6f5c\u6c34\u670d",
+    "PictureFrame": "\u76f8\u6846",
+    "Tooltip_PictureFrame": "\u628a\u81ea\u5df1\u62cd\u6444\u7684\u56fe\u7247\u5728\u57fa\u5730\u5c55\u51fa",
+    "Tooltip_PlanterPot": "\u79cd\u690d\u690d\u7269\u7528\u7684\u4e00\u79cd\u5668\u76bf",
+    "Tooltip_PlanterBox": "\u5ba4\u5185\u79cd\u690d\u7269\u7684\u5927\u578b\u79cd\u690d\u7bb1",
+    "Tooltip_PlanterShelf": "\u53ef\u4ee5\u5b89\u88c5\u5728\u5899\u58c1\u4e0a\u7684\u82b1\u76c6",
+    "Tooltip_FarmingTray": "\u53ef\u4ee5\u5728\u6c34\u4e0b\u548c\u9646\u5730\u79cd\u690d\u7269\u7684\u6237\u5916\u5927\u578b\u79cd\u690d\u7bb1",
+    "Tooltip_FiltrationMachine": "\u4ece\u6d77\u6c34\u4e2d\u5206\u79bb\u76d0\u548c\u53ef\u996e\u7528\u7684\u6c34",
+    "Tooltip_ReinforcedDiveSuit": "\u8d85\u5f3a\u7684\u82b3\u7eb6\u7ea4\u7ef4\u5236\u6210\u7684\u6f5c\u6c34\u670d,\u53ef\u4ee5\u589e\u52a050\uff05\u7684\u7269\u7406\u4fdd\u62a4",
+    "FiltrationComplete": "\u8fc7\u6ee4\u5b8c\u6210",
+    "FiltrationProgress": "\u8fc7\u6ee4\u8fdb\u5ea6: \u6c34 {0:P0}, \u76d0 {1:P0}",
+    "BasePlanter": "\u7eff\u5316\u5899",
+    "BaseFiltrationMachine": "\u6d77\u6c34\u8fc7\u6ee4\u673a",
+    "Tooltip_BasePlanter": "\u5b89\u88c5\u5728\u5899\u4e0a\u7684\u6811\u53f6",
+    "Tooltip_BaseFiltrationMachine": "\u4ece\u6d77\u6c34\u4e2d\u5206\u79bb\u76d0\u548c\u53ef\u996e\u7528\u7684\u6c34",
+    "Story_AuroraWarning3": "\u8b66\u544a  \u5c40\u90e8\u8f90\u5c04\u8bfb\u6570\u4e0e\u6781\u5149\u53f7\u6697\u7269\u8d28\u52a8\u529b\u6838\u5fc3\u7279\u70b9\u662f\u4e00\u81f4\u7684,\u518d\u6b21\u7206\u70b8\u6982\u7387\u4e3a85.5%,\u5efa\u8bae\u57281\u516c\u91cc\u5b89\u5168\u8303\u56f4\u4ee5\u5916\u89c2\u5bdf",
+    "Story_AuroraWarning2": "\u8b66\u544a \u6781\u5149\u53f7\u7684\u6697\u7269\u8d28\u52a8\u529b\u6838\u5fc3\u635f\u574f\u6b63\u5728\u6301\u7eed\u6076\u5316 \u5982\u679c\u52a8\u529b\u6838\u5fc3\u5168\u90e8\u53d7\u635f \u90a3\u66b4\u9732\u4e8e\u653e\u5c04\u6027\u73af\u5883\u4e0b\u7684\u6b7b\u4ea1\u6982\u7387\u5c06\u4f1a\u670937%",
+    "Story_AuroraWarning1": "\u589e\u52a0\u5f53\u5730\u7684\u8f90\u5c04\u6c34\u5e73\u68c0\u6d4b \u7531\u4e8e\u6301\u7eed\u7684\u78b0\u649e\u635f\u4f24 \u5bfc\u81f4\u6781\u5149\u53f7\u6697\u7269\u8d28\u52a8\u529b\u6838\u5fc3\u6301\u7eed\u6076\u5316 \u6301\u7eed\u76d1\u6d4b\u4e2d",
+    "TabEncyclopedia": "\u6570\u636e\u5e93",
+    "Ency_CuteFish": "\u53ef\u7231\u9c7c",
+    "EncyDesc_CuteFish": "\u53ef\u7231\u9c7c\u7684\u63cf\u8ff0",
+    "Ency_Gasopod": "\u6bd2\u6c14\u9c7c",
+    "EncyDesc_Gasopod": "\u4e00\u4e2a\u79fb\u52a8\u7f13\u6162\u4f46\u80fd\u91ca\u653e\u6709\u6bd2\u8150\u8680\u6027\u6eb6\u6db2,\u751a\u81f3\u53ef\u4ee5\u8150\u8680\u5408\u6210\u7b26\u5408\u7ea4\u7ef4\u7684\u751f\u547d\u4f53
+ 
+\u85fb\u7c7b\u817a\u4f53\u7403\u6839\u72b6,\u56ca\u72b6\u9644\u5c5e\u5728\u540e\u7aef,\u53d1\u5149\u7684\u9ec4\u8272\u6d77\u85fb\u751f\u957f\u5728\u56ca\u5185,\u4ea7\u751f\u6709\u6bd2\u7684\u8150\u8680\u6027\u5316\u5408\u7269
+
+\u8179\u90e8\u808c\u8089\uff1a\u8be5\u751f\u7269\u53d7\u5230\u60ca\u5413\u65f6\u4f1a\u6536\u7f29\u808c\u8089\u4f7f\u817a\u4f53\u91ca\u653e\u51fa\u6709\u6bd2\u7684\u8150\u8680\u5316\u5408\u7269\u8fdb\u5165\u5468\u56f4\u7684\u6c34\u91cc
+
+\u8fc7\u6ee4\u7cfb\u7edf\uff1a\u591a\u4e2a\u9cc3\u5c42\u7279\u6027\uff0c\u4f7f\u5b83\u81ea\u5df1\u4e0d\u4f1a\u53d7\u5230\u6709\u6bd2\u8150\u8680\u6027\u5316\u5408\u7269\u7684\u4f24\u5bb3
+
+\u8bc4\u4ef7\uff1a\u56de\u907f",
+    "Ency_Biter": "\u98df\u4eba\u9c7c",
+    "EncyDesc_Biter": "\u4f53\u578b\u5c0f, \u5177\u6709\u653b\u51fb\u6027,94%\u808c\u8089,4%\u7ea4\u7ef4\u7ed3\u7f14\u7ec4\u7ec7\uff0c2%\u5927\u8111 
+
+\u8fc7\u5ea6\u53d1\u8fbe\u7684\u5c3e\u9ccd\u80fd\u591f\u66f4\u5feb\u7684\u8d85\u8fc7\u730e\u7269,\u800c\u4e14\u7075\u6d3b\u673a\u52a8\u6027\u8fd8\u5f88\u597d
+
+\u5934\u90e8\u4e13\u7528\u55c5\u89c9\u6746\u80fd\u591f\u68c0\u6d4b\u5230\u6c34\u4e2d\u7684\u4f53\u6db2
+
+\u53ef\u80fd\u4e0d\u5206\u9752\u7ea2\u7682\u767d\u7684\u72e9\u730e:\u4efb\u4f55\u53d7\u4f24\u90fd\u662f\u6b63\u5e38\u7684
+
+\u6709\u4e24\u5bf9\u548c\u864e\u9ca8\u76f8\u4f3c\u7684\u773c\u775b,\u53ef\u4ee5\u66f4\u597d\u7684\u4fa6\u6d4b\u5230\u5468\u8fb9\u7684\u730e\u98df\u8005\u548c\u730e\u7269 
+
+\u730e\u7269\uff1a\u5c0f\u578b\u98df\u8349\u52a8\u7269,\u4f46\u6839\u636e\u5206\u6790\u5982\u679c\u8be5\u751f\u7269\u4f53\u91cd\u8d85\u8fc7\u5b83\u81ea\u8eab\u7684100\u500d\u5c31\u53ef\u80fd\u4f1a\u5c48\u670d
+ 
+\u8bc4\u4ef7\uff1a\u81f4\u547d\u7684,\u6ca1\u6709\u5f88\u597d\u7684\u9884\u9632\u63aa\u65bd,\u907f\u514d\u9760\u8fd1,\u5c3d\u91cf\u4e0d\u8981\u6d41\u8840",
+    "Ency_Stalker": "\u6f5c\u884c\u8005",
+    "EncyDesc_Stalker": "\u4e00\u79cd\u5177\u6709\u667a\u6167\u548c\u529b\u91cf,\u8eab\u4f53\u6d41\u7ebf\u578b\u7684\u6355\u98df\u8005
+
+\u53ef\u4ee5\u5728\u6d77\u85fb\u6797\u627e\u5230, \u800c\u4e14\u4f1a\u7b49\u5f85\u730e\u7269\u79bb\u5f00\u5b89\u5168\u7684\u6d45\u6ee9
+
+\u5206\u5c42\u7684\u89c6\u7f51\u819c\u7279\u6027\u663e\u793a\u66f4\u9002\u5e94\u591c\u95f4\u72e9\u730e
+
+\u795e\u7ecf\u901a\u8def\u8868\u660e\u5176\u4ff1\u5148\u5929\u7684\u5b66\u4e60\u80fd\u529b,\u8fdb\u5316\u72b6\u6001\u4e0d\u6e05\u695a
+
+\u4f1a\u88ab\u91d1\u5c5e\u5438\u5f15,\u800c\u4e14\u559c\u6b22\u56e4\u79ef,\u5bf9\u8fd9\u79cd\u884c\u4e3a\u76ee\u524d\u6ca1\u6709\u4efb\u4f55\u89e3\u91ca,\u9700\u8981\u8fdb\u4e00\u6b65\u7814\u7a76
+ 
+\u730e\u7269: \u5206\u6790\u8fdb\u5316\u7279\u6027\u8868\u660e\u662f\u5077\u7aa5\u9c7c\u7684\u5929\u654c
+ 
+\u8bc4\u4ef7\uff1a\u5371\u9669,\u5c3d\u91cf\u907f\u514d\u63a5\u89e6",
+    "Ency_SandShark": "\u864e\u9ca8",
+    "EncyDesc_SandShark": "\u957f\u7740\u4e00\u4e2a\u5206\u6bb5\u7684\u5916\u9aa8\u9abc\u4f7f\u5176\u6210\u4e3a\u4e00\u4e2a\u884c\u52a8\u7f13\u6162\u4f46\u5f88\u5f3a\u5927\u7684\u6355\u98df\u8005,\u5b83\u5e95\u90e8\u7684\u9ccd\u53ef\u4ee5\u7528\u6765\u722c\u5f00\u8868\u9762\u6c99\u5c42,\u94bb\u5165\u5730\u4e0b,\u4ece\u800c\u627e\u5230\u4f0f\u51fb\u730e\u7269\u7684\u673a\u4f1a,
+
+\u730e\u7269\uff1a\u53ef\u4ee5\u6355\u730e\u6bd4\u5b83\u4e00\u500d\u5927\u7684\u98df\u8349\u52a8\u7269
+
+\u8bc4\u4ef7\uff1a\u5c3d\u91cf\u907f\u514d\u9760\u8fd1\u53ef\u7591\u7684\u6c99\u4e91",
+    "Locked_Door": "\u9501\u4f4f\u7684\u95e8",
+    "Sealed_Door": "\u5bc6\u5c01\u7684\u95e8",
+    "DoorInstructions_Powercell": "\u7ed9\u9644\u8fd1\u7684\u63a7\u5236\u53f0\u901a\u7535\u6765\u6253\u5f00\u5b83",
+    "DoorInstructions_Keycard": "\u9700\u8981\u627e\u5230\u5bf9\u5e94\u7684\u94a5\u5319\u624d\u80fd\u6253\u5f00\u5b83",
+    "GenericLocked": "\u95e8\u8981\u4ece\u5176\u4ed6\u5730\u65b9\u89e3\u9501",
+    "FiltrationMachineFragment": "\u6d77\u6c34\u8fc7\u6ee4\u673a\u788e\u7247",
+    "FiltrationMachineBlueprint": "\u6d77\u6c34\u8fc7\u6ee4\u673a\u84dd\u56fe",
+    "Tooltip_FiltrationMachineFragment": "\u6d77\u6c34\u8fc7\u6ee4\u673a\u84dd\u56fe\u788e\u7247",
+    "ScannerInstanceScanned": "{0} \u5df2\u626b\u63cf, \u626b\u63cf\u5b8c\u6210\u5ea6: {1}% ({2}\/{3})",
+    "ScannerRedundantScanned": "\u591a\u4f59\u7684\u7247\u6bb5\u626b\u63cf",
+    "ScannerInstanceKnown": "\u5b9e\u4f53\u5df2\u7ecf\u626b\u63cf\u8fc7",
+    "ScannerEntityKnown": "\u5b9e\u4f53 '{0}' \u5df2\u7ecf\u626b\u63cf",
+    "EncyclopediaEntryUnlocked": "{0} entry added to encyclopedia",
+    "Scanner": "\u626b\u63cf\u5668",
+    "PropulsionCannonBlueprint": "\u63a8\u529b\u8bbe\u5907\u84dd\u56fe",
+    "Tooltip_Scanner": "\u8bb0\u5f55\u76ee\u6807\u5b9e\u4f53\u539f\u5b50\u4fe1\u606f\u7684\u624b\u6301\u5149\u8c31\u626b\u63cf\u4eea",
+    "Tooltip_MoonpoolBlueprint": "\u5141\u8bb8\u5efa\u9020\u6708\u4eae\u6c60",
+    "WaterParkPlanterStorageLabel": "\u5927\u578b\u6c34\u65cf\u9986\u690d\u7269",
+    "UnknownEgg1": "\u751f\u7269\u86cbA",
+    "UnknownEgg2": "\u751f\u7269\u86cbB",
+    "UnknownEgg3": "\u751f\u7269\u86cbC",
+    "UnknownEgg4": "\u751f\u7269\u86cbD",
+    "UnknownEgg5": "\u751f\u7269\u86cbE",
+    "UnknownEgg6": "\u751f\u7269\u86cbF",
+    "UnknownEgg7": "\u751f\u7269\u86cbG",
+    "UnknownEgg8": "\u751f\u7269\u86cbH",
+    "UnknownEgg9": "\u751f\u7269\u86cbI",
+    "UnknownEgg10": "\u751f\u7269\u86cbJ",
+    "Tooltip_UnknownEgg1": "\u795e\u79d8\u7684\u86cbA",
+    "Tooltip_UnknownEgg2": "\u795e\u79d8\u7684\u86cbB",
+    "Tooltip_UnknownEgg3": "\u795e\u79d8\u7684\u86cbC",
+    "Tooltip_UnknownEgg4": "\u795e\u79d8\u7684\u86cbD",
+    "Tooltip_UnknownEgg5": "\u795e\u79d8\u7684\u86cbE",
+    "Tooltip_UnknownEgg6": "\u795e\u79d8\u7684\u86cbF",
+    "Tooltip_UnknownEgg7": "\u795e\u79d8\u7684\u86cbG",
+    "Tooltip_UnknownEgg8": "\u795e\u79d8\u7684\u86cbH",
+    "Tooltip_UnknownEgg9": "\u795e\u79d8\u7684\u86cbI",
+    "Tooltip_UnknownEgg10": "\u795e\u79d8\u7684\u86cbJ",
+    "BonesharkEgg": "\u9aa8\u9ca8\u86cb",
+    "CrabsnakeEgg": "\u87f9\u86c7\u86cb",
+    "GasopodEgg": "\u6bd2\u6c14\u9c7c\u86cb",
+    "JellyrayEgg": "\u51dd\u80f6\u9cd0\u9c7c\u86cb",
+    "JumperEgg": "\u8df3\u9c7c\u86cb",
+    "MesmerEgg": "\u50ac\u7720\u5e08\u86cb",
+    "RabbitrayEgg": "\u5154\u5b50\u9c7c\u86cb",
+    "ShockerEgg": "\u7535\u9cd7\u86cb",
+    "SpadefishEgg": "\u767d\u9cb3\u9c7c\u86cb",
+    "StalkerEgg": "\u6f5c\u884c\u8005\u86cb",
+    "SandsharkEgg": "\u864e\u9ca8\u86cb",
+    "Tooltip_BonesharkEgg": "\u9aa8\u9ca8\u5c31\u662f\u4ece\u8fd9\u91cc\u5b75\u5316\u51fa\u6765\u7684",
+    "Tooltip_CrabsnakeEgg": "\u5b75\u5316\u87f9\u86c7",
+    "Tooltip_GasopodEgg": "\u5b75\u5316\u6bd2\u6c14\u9c7c",
+    "Tooltip_JellyrayEgg": "\u5b75\u5316\u51dd\u80f6\u9cd0\u9c7c",
+    "Tooltip_JumperEgg": "\u5b75\u5316\u8df3\u9c7c",
+    "Tooltip_MesmerEgg": "\u5b75\u5316\u50ac\u7720\u5e08",
+    "Tooltip_RabbitrayEgg": "\u5b75\u5316\u5154\u5b50\u9c7c",
+    "Tooltip_ShockerEgg": "\u5b75\u5316\u7535\u9cd7",
+    "Tooltip_SpadefishEgg": "\u5b75\u5316\u767d\u9cb3\u9c7c",
+    "Tooltip_StalkerEgg": "\u5b75\u5316\u6f5c\u884c\u8005",
+    "Tooltip_SandsharkEgg": "\u5b75\u5316\u864e\u9ca8",
+    "EggDiscovered": "{0} \u53d1\u73b0",
+    "BaseWaterPark": "\u5927\u578b\u6c34\u65cf\u9986",
+    "Tooltip_BaseWaterPark": "\u5927\u578b\u6c34\u65cf\u9986,\u9664\u4e86\u517b\u9c7c\u4f60\u8fd8\u53ef\u4ee5\u5728\u91cc\u9762\u79cd\u690d\u7269\u548c\u6e38\u6cf3",
+    "EnterWaterPark": "\u8fdb\u5165",
+    "ExitWaterPark": "\u9000\u51fa",
+    "LimestoneChunk": "\u77f3\u7070\u5ca9",
+    "ScannerScreenDefault": "\u641c\u5bfb\u4e2d...",
+    "ScannerScreenReady": "\u51c6\u5907\u626b\u63cf",
+    "ScannerScreenScanning": "\u626b\u63cf\u4e2d...",
+    "CookedSpinefish": "\u719f\u7684\u68d8\u9c7c",
+    "CuredSpinefish": "\u78b1\u6e0d\u68d8\u9c7c",
+    "Spinefish": "\u68d8\u9c7c",
+    "Shuttlebug": "\u7a7f\u68ad\u866b",
+    "Blighter": "\u8ba8\u538c\u8005",
+    "Tooltip_CookedSpinefish": "\u5927\u5bb6\u90fd\u89c9\u5f97\u89e6\u89d2\u4e0d\u80fd\u5403",
+    "Tooltip_CuredSpinefish": "\u5403\u8d77\u6765\u5c31\u662f\u666e\u901a\u9c7c\u7684\u5473\u9053",
+    "Tooltip_Spinefish": "\u4e0e\u5708\u9c7c\u76f8\u6bd4,\u5b83\u80f8\u8154\u5904\u6709\u4e2a\u72ec\u7279\u7684\u767d\u8272\u6807\u8bb0,\u7528\u8fd9\u4e2a\u72ec\u7279\u7684\u767d\u8272\u6807\u8bb0\u53ef\u4ee5\u5728\u6d77\u5e95\u6355\u98df\u8005\u7ecf\u8fc7\u7684\u65f6\u5019\u88c5\u6b7b",
+    "Story_AuroraWarning4": "\u7d27\u6025\u60c5\u51b5\uff1a\u5730\u9707\u6570\u636e\u663e\u793a,\u6781\u5149\u53f7\u7684\u6838\u5fc3\u9a71\u52a8\u53d1\u751f\u4e86\u4e00\u6b21\u91cf\u5b50\u7206\u70b8,\u8be5\u53cd\u5e94\u5806\u5c06\u5728- 10, 9, 8, 7, 6, 5, 4, 3, 2, 1-\u8fbe\u5230\u8d85\u7ea7\u4e34\u754c\u72b6\u6001",
+    "Goal_Lifepod6": "\u53c2\u7167\u4fe1\u606f\u5df2\u88ab\u6dfb\u52a0\u5230PAD\u6570\u636e\u5e93\u4e2d \u5efa\u8bae\u5c06\u6b21\u6570\u636e\u4f5c\u4e3a\u7ee7\u7eed\u76d1\u6d4b\u751f\u7269\u7279\u5f81\u7684\u91cd\u8981\u53c2\u8003 \u795d\u4f60\u597d\u8fd0",
+    "Goal_Airsack": "\u672c\u5730\u751f\u7269 \u53ef\u9002\u5408\u7528\u4e8e\u751f\u5b58\u6d88\u8017\u6216\u5176\u4ed6 \u5f3a\u70c8\u5efa\u8bae\u5728\u63a5\u89e6\u4e4b\u524d\u5148\u7528\u5149\u8c31\u5206\u6790",
+    "Goal_Titanium": "\u949b: \u88ab\u53d1\u73b0 \u949b\u662f\u4e00\u79cd\u4f4e\u5bc6\u5ea6 \u9ad8\u5f3a\u5ea6\u7684\u6750\u6599 \u4e0d\u751f\u9508 \u53ef\u4ee5\u7528\u788e\u91d1\u5c5e\u5206\u89e3\u5f97\u5230\u5728\u6781\u5149\u53f7\u5760\u6bc1\u9644\u8fd1\u5206\u5e03\u6bd4\u8f83\u5bc6\u96c6",
+    "Goal_Quartz": "\u77f3\u82f1: \u88ab\u53d1\u73b0\u77f3\u82f1\u662f\u4e00\u79cd\u50a8\u91cf\u4e30\u5bcc\u7684\u77ff\u7269 \u53ef\u7528\u4e8e\u5236\u9020\u73bb\u7483\u548c\u6a61\u80f6\u7b49 \u5efa\u8bae\u591a\u50a8\u5907\u4e9b\u7528\u6765\u5efa\u8bbe\u57fa\u672c\u6551\u751f\u8bbe\u5907\u548c\u957f\u671f\u7684\u751f\u5b58\u57fa\u5730",
+    "Goal_Copper": "\u94dc\u77ff\u77f3: \u88ab\u53d1\u73b0 \u4f60\u7684\u751f\u5b58\u6982\u7387\u589e\u52a0\u4e867.6%,\u8fd9\u79cd\u91d1\u5c5e\u662f\u5236\u9020\u6240\u6709\u52a8\u529b\u8bbe\u5907\u7684\u91cd\u8981\u6750\u6599",
+    "Goal_FilteredWater": "\u6ce1\u6ce1\u9c7c\u8fd9\u79cd\u751f\u7269\u5df2\u7ecf\u8fdb\u5316\u51fa\u4e00\u4e2a\u5916\u90e8\u819c,\u80fd\u591f\u6709\u6548\u7684\u4ece\u6c34\u4e2d\u8fc7\u6ee4\u571f\u548c\u6c61\u67d3\u7269,\u6240\u4ee5\u901a\u8fc7\u8fd9\u79cd\u9c7c\u5236\u4f5c\u51fa\u6765\u7684\u6c34\u5df2\u88ab\u8bc1\u5b9e\u53ef\u4ee5\u5b89\u5168\u996e\u7528",
+    "Goal_Scanner": " \u624b\u6301\u5149\u8c31\u626b\u63cf\u4eea,\u53ef\u4ee5\u5728\u8fd1\u8ddd\u79bb\u8bb0\u5f55\u5b9e\u4f53\u7684\u539f\u5b50\u7ea7\u6570\u636e, \u5b83\u53ef\u7528\u4e8e\u5408\u6210\u56de\u6536\u88c5\u5907\u84dd\u56fe\u548c\u788e\u7247,\u4ee5\u53ca\u5c06\u5916\u661f\u751f\u7269\u4fe1\u606f\u6dfb\u52a0\u5230\u6570\u636e\u5e93",
+    "Goal_Fins": "\u4e3a\u4e86\u60a8\u7684\u751f\u5b58\u5b89\u5168\u8003\u8651,\u5229\u7528\u672c\u5730\u8d44\u6e90\u548c\u73b0\u6709\u7684\u73af\u5883\u6570\u636e\u8ba9\u52a0\u5de5\u53f0\u5236\u9020\u51fa\u6765\u7684\u80fd\u591f\u63d0\u4f9b\u76f8\u5e94\u529f\u80fd\u8bbe\u5907",
+    "Goal_Knife": "\u5315\u9996\u4e00\u76f4\u662f\u4eba\u7c7b\u751f\u5b58\u7684\u91cd\u8981\u5de5\u5177,\u5b83\u5df2\u7ecf\u6709\u4e86\u7ea6\u4e24\u4e07\u4e94\u5343\u5e74\u7684\u5386\u53f2",
+    "Goal_Tank": "\u5728\u6076\u52a3\u7684\u73af\u5883\u4e2d\u643a\u5e26\u591a\u4e2a\u6c27\u6c14\u7f50\u5c06\u5927\u5927\u589e\u52a0\u4f60\u5b58\u6d3b\u51e0\u7387",
+    "Goal_Battery": "\u7535\u6c60\u9178: \u88ab\u53d1\u73b0 \u52a0\u5de5\u53f0\u5df2\u7ecf\u5728\u5f53\u5730\u690d\u7269\u5408\u6210\u7684\u9178\u6027\u5316\u5408\u7269\u4e2d\u627e\u5230\u4e86\u53ef\u4ee5\u53d6\u4ee3\u6807\u51c6\u7535\u6c60\u9178\u6db2\u7684\u7269\u8d28",
+    "Goal_Bleach": "\u78b3\u9178\u9499\u5236\u9020\u7684\u6f02\u767d\u5242: \u88ab\u53d1\u73b0,\u6f02\u767d\u5242\u662f\u7528\u4e8e\u6e05\u6d01\u4f24\u53e3\u548c\u51c0\u5316\u6c34\u7684\u57fa\u672c\u5316\u5b66\u836f\u54c1",
+    "Goal_CookedGarryfish": "\u6700\u521d\u62d2\u7edd\u5403\u6b7b\u52a8\u7269\u7684\u8089 \u8fd9\u5f88\u6b63\u5e38 \u4f46\u4f60\u8981\u8bb0\u4f4f \u4eba\u7c7b\u5728\u6ca1\u6709\u5408\u6210\u98df\u54c1\u7684\u65f6\u5019\u5df2\u7ecf\u7e41\u884d\u4e86\u5f88\u591a\u4ee3 \u4f60\u4e5f\u53ef\u4ee5",
+    "Goal_CookedHoverfish": "\u5982\u679c\u4f60\u5df2\u7ecf\u4e60\u60ef\u4e86\u98df\u7528\u4f20\u7edf\u706d\u83cc\u98df\u54c1 \u4f60\u53ef\u4ee5\u8003\u8651\u7528\u5f53\u5730\u8349\u836f\u548c\u9999\u6599\u63a9\u76d6\u8089\u7684\u5473\u9053",
+    "Goal_PurifiedWater": "\u63d0\u524d\u51c6\u5907\u597d\u4e00\u5929\u6240\u9700\u7684\u6c34 \u5c06\u6709\u52a9\u4e8e\u4f60\u4e0d\u4f1a\u56e0\u4e3a\u8131\u6c34\u800c\u6b7b\u4ea1",
+    "Goal_Silver": "\u94f6\u77ff\u77f3: \u88ab\u53d1\u73b0 \u94f6\u88ab\u7528\u4e8e\u8ba1\u7b97\u673a\u82af\u7247\u7684\u5236\u9020 \u8fd9\u4e5f\u662f\u9632\u8f90\u5c04\u670d\u7684\u91cd\u8981\u7ec4\u6210\u90e8\u5206\u548c\u57fa\u5730\u5efa\u8bbe\u4e3b\u8981\u6750\u6599",
+    "Goal_Lubricant": "\u6da6\u6ed1\u5242\u6e90\u5242: \u88ab\u53d1\u73b0 \u6da6\u6ed1\u6cb9\u662f\u5efa\u7b51\u673a\u68b0\u548c\u53d1\u7535\u673a\u5efa\u8bbe\u7684\u81f3\u5173\u91cd\u8981\u90e8\u5206 \u5229\u7528\u672c\u5730\u6750\u6599\u66ff\u4ee3\u662f\u4e00\u4e2a\u884c\u4e4b\u6709\u6548\u7684\u751f\u5b58\u7b56\u7565",
+    "Goal_Beacon": "\u63a2\u7d22\u65b0\u73af\u5883\u4e0d\u5e94\u8be5\u5728\u6ca1\u6709\u5408\u9002\u7684\u8bbe\u5907\u548c\u7528\u54c1\u7684\u60c5\u51b5\u4e0b\u8fdb\u884c \u4f60\u5e94\u8be5\u7559\u5728\u9003\u751f\u8231\u6216\u57fa\u57302\u516c\u91cc\u7684\u8303\u56f4\u5185",
+    "Goal_Seaglide": "\u6c34\u4e0b\u63a8\u8fdb\u5668\u5728\u6c34\u4e0b\u6700\u5927\u80fd\u589e\u52a09.5m\/s\u7684\u79fb\u52a8\u901f\u5ea6 \u5e76\u540c\u65f6\u53ef\u4ee5\u663e\u793a\u5f53\u4e0b\u7684\u5730\u5f62\u4fe1\u606f",
+    "Goal_Builder": "\u5efa\u9020\u5668\u8bbe\u8ba1\u5efa\u9020\u7684\u57fa\u5730\u80fd\u591f\u627f\u53d7\u6781\u7aef\u73af\u5883\u6761\u4ef6\u7684\u51b2\u51fb",
+    "Goal_EnameledGlass": "\u73d0\u7405\u73bb\u7483: \u88ab\u53d1\u73b0 \u8fd9\u79cd\u6750\u6599\u7684\u4f9b\u5e94 \u4f7f\u5efa\u9020\u5148\u8fdb\u7684\u6f5c\u6c34\u5668\u548c\u57fa\u5730\u6a21\u5757\u6210\u4e3a\u53ef\u80fd",
+    "EncyPath_Aurora": "\u6781\u5149\u53f7",
+    "EncyPath_Tech": "\u79d1\u6280",
+    "EncyPath_Welcome": "\u6b22\u8fce",
+    "EncyPath_Tech\/Habitats": "\u6816\u606f\u5730",
+    "EncyPath_Tech\/Equipment": "\u8bbe\u5907",
+    "EncyPath_Lifeforms": "\u5916\u661f\u751f\u547d\u5f62\u5f0f",
+    "EncyPath_Lifeforms\/Coral": "\u73ca\u745a",
+    "EncyPath_Lifeforms\/Fauna": "\u52a8\u7269\u7fa4",
+    "EncyPath_Lifeforms\/Flora": "\u690d\u7269\u7fa4",
+    "EncyPath_Lifeforms\/Fauna\/Herbivores": "\u98df\u8349\u52a8\u7269",
+    "EncyPath_Lifeforms\/Fauna\/Carnivores": "\u98df\u8089\u52a8\u7269",
+    "EncyPath_Lifeforms\/Fauna\/Scavengers": "\u98df\u8150\u52a8\u7269 & \u5bc4\u751f\u866b",
+    "EncyPath_PlanetaryGeology": "\u884c\u661f\u5730\u8d28\u5b66",
+    "EncyPath_Advanced": "\u9ad8\u7ea7\u7406\u8bba",
+    "Ency_Lifepod": "\u9003\u751f\u8231",
+    "EncyDesc_Lifepod": "\u91cd\u91cf\uff1a576 \u5343\u514b
+\u5c3a\u5bf8\uff1a3\u7c73 \u00d7 3 \u7c73
+
+\u6807\u51c6\u529f\u80fd\uff1a
+- \u4f4e\u5bc6\u5ea6\uff0c\u9ad8\u5f3a\u5ea6\u7684\u7ed3\u6784 
+- \u81ea\u5e26\u7a7a\u6c14\u5f00\u5173\uff0c\u6f02\u6d6e\u8bbe\u5907\u548c\u63a8\u8fdb\u5668\uff0c \u7528\u4e8e\u6d77\u9646\u7a7a\u56de\u6536\u4f5c\u4e1a
+- \u77ed\u6ce2\u901a\u4fe1\u4e2d\u7ee7\uff08250 \u5343\u7c73 \u4e0d\u53d7\u963b\u6321\u7684\u8303\u56f4\uff09
+- \u592a\u9633\u80fd
+- \u58c1\u6302\u5f0f\u5236\u9020\u673a
+- \u591a\u4e2a\u51fa\u53e3
+
+\u6807\u51c6\u914d\u5907: 
+2x \u5168\u73af\u5883\u9632\u62a4\u670d 
+1x \u624b\u6301\u5f0f\u5149\u8c31\u4eea\u626b\u63cf\u4eea 
+3x \u5373\u98df\u53e3\u7cae
+3x 1\u5347\u88c5\u996e\u7528\u6c34
+1x \u7d27\u6025\u533b\u7597\u5305
+1x \u624b\u7535\u7b52 
+1x \u7d27\u6025\u7167\u660e\u5f39
+1x \u591a\u79cd\u53ef\u66f4\u6362\u96f6\u4ef6",
+    "Ency_Readme": "\u81ea\u8ff0",
+    "EncyDesc_Readme": "\u5982\u679c\u60a8\u6b63\u5728\u9605\u8bfb\u672c\u6587\uff0c\u8bf4\u660e\u60a8\u5df2\u7ecf\u4ece\u4e00\u8258\u914d\u5907\u6709 Alterra \u79d1\u6280\u7684\u5934\u9886\u7ea7\u522b\u8239\u53ea\u7684\u7d27\u6025\u758f\u6563\u4e2d\u5e78\u5b58\u3002\u795d\u8d3a\u60a8\uff1a\u56f0\u96be\u7684\u90e8\u5206\u5df2\u7ecf\u7ed3\u675f\u3002
+
+\u60a8\u7684 PDA \u5df2\u7ecf\u81ea\u52a8\u91cd\u542f\u81f3\u5e94\u6025\u6a21\u5f0f\u3002\u8fd9\u4e2a\u64cd\u4f5c\u7cfb\u7edf\u53ea\u6709\u4e00\u4e2a\u76ee\u7684\uff1a\u4f7f\u60a8\u6d3b\u7740\u3002\u5b83\u63d0\u4f9b\u4ee5\u4e0b\u529f\u80fd\uff1a
+
+- \u5168\u96c6\u6210\u7684\u7528\u6237\u751f\u7269\u8bc6\u522b\u6280\u672f\uff0c\u7528\u4e8e\u53ca\u65f6\u7684\u63d0\u51fa\u751f\u5b58\u5efa\u8bae
+- \u63d0\u4f9b\u5efa\u9020\u4e00\u5957\u57fa\u672c\u751f\u5b58\u8bbe\u5907\u7684\u84dd\u56fe
+- \u5185\u7f6e\u9ea6\u514b\u98ce\uff0c\u6444\u50cf\u5934\u548c OCR \u6280\u672f\uff0c\u7528\u4e8e\u77ed\u8ddd\u79bb\uff0820\u7c73\uff09\u7684\u5f62\u52bf\u5206\u6790
+- \u4e0e Alterra \u624b\u6301\u5f0f\u5206\u5149\u955c\u626b\u63cf\u4eea\u7684\u4ea4\u53c9\u517c\u5bb9\u6027
+",
+    "Ency_SurvivalChecklist": "\u751f\u5b58\u6e05\u5355",
+    "EncyDesc_SurvivalChecklist": "1. \u5982\u679c\u9700\u8981\u5219\u8fdb\u884c\u6025\u6551
+2. \u8c03\u67e5\u5468\u8fb9\u73af\u5883
+3. \u5b9a\u4f4d\u5176\u4ed6\u751f\u8fd8\u8005 
+4. \u8bc4\u4f30\u53ef\u7528\u7684\u98df\u7269\u548c\u6c34\uff0c\u5e76\u51b3\u5b9a\u914d\u7ed9\u91cf
+5. \u68c0\u67e5\u751f\u5b58\u8231\u7684\u635f\u6bc1\u7a0b\u5ea6\uff0c\u5e76\u5728\u5fc5\u8981\u65f6\u4fee\u590d
+6. \u4f7f\u7528\u751f\u5b58\u8231\u7684\u77ed\u8ddd\u79bb\u901a\u4fe1\u4e2d\u7ee7\uff0c\u53d1\u9001\u672c\u5730\u9047\u9669\u5e7f\u64ad\u4fe1\u53f7
+7. \u91c7\u96c6\u53ef\u7528\u7684\u6750\u6599
+8. \u4f7f\u7528\u751f\u5b58\u88c5\u5907\u6539\u9020\u672c\u5730\u73af\u5883\u4ee5\u4f7f\u5176\u9002\u4e8e\u5c45\u4f4f
+9. \u4fdd\u6301\u8eab\u4f53\u548c\u5fc3\u7406\u5065\u5eb7\uff0c\u76f4\u5230\u83b7\u6551  
+
+\u6ce8\u610f\uff1a\u6b64\u4fe1\u606f\u4ec5\u4f5c\u4e3a\u4e00\u4efd\u901a\u7528\u6307\u5357\u3002\u5728\u7b2c\u4e00\u79cd\u60c5\u51b5\u4e0b\uff0c\u4f60\u5e94\u8be5\u59cb\u7ec8\u9075\u5faa\u4f60\u7684PDA\uff0c\u5b83\u6839\u636e\u60a8\u7684\u5177\u4f53\u60c5\u51b5\u8003\u8651\u5f97\u51fa\u5efa\u8bae\u3002",
+    "Ency_AuroraOverview": "\u6781\u5149\u53f7\u91c7\u77ff\u8239\u6982\u8ff0",
+    "EncyDesc_AuroraOverview": "\u4f7f\u547d\uff1a3\u5e74\u7684\u63a2\u7d22\u6027\u91c7\u77ff\u4f5c\u4e1a
+\u8239\u5458\uff1a\u6307\u6325\u7ec4\uff0811\uff09,\u5de5\u7a0b\u7ec4\uff0857\uff09,\u652f\u63f4\u7ec4\uff0830\uff09,\u4e58\u5ba2\uff083\uff09
+
+\u914d\u5957\u8bbe\u65bd\uff1a
+\u6697\u7269\u8d28\u79bb\u5b50\u9a71\u52a8\u7684V8\u5f15\u64ce
+\u4e00\u7ea7\u8bbe\u65bd\u5de5\u7a0b (\u4e3b\u8981\u5305\u62ec\u521d\u7ea7\u6d41\u661f\u7834\u788e\u673a,\u53ef\u4ee5\u8f7d\u4eba\u7684\u673a\u5668\u4eba\u5957\u4ef6\u548c\u5168\u65b9\u4f4d\u626b\u63cf\u88c5\u7f6e)
+0.25\u7acb\u65b9\u7c73\u7684\u8d44\u6e90\u50a8\u5907
+\u5c45\u4f4f\u533a\u91c7\u7528C+\u7ea7\u4f11\u95f2\u914d\u5957\u8bbe\u65bd",
+    "Ency_AEPSuit": "\u5168\u73af\u5883\u4fdd\u62a4\u670d",
+    "EncyDesc_AEPSuit": "\u963f\u5c14\u7279\u62c9AEP\u7684\u5957\u88c5:\u63a2\u7d22\u65e0\u9650\u7684\u5371\u9669\u5b87\u5b99\u552f\u4e00\u89e3\u51b3\u65b9\u6848
+
+\u4f60\u73b0\u5728\u7a7f\u7740\u7684\u963f\u5c14\u7279\u62c9AEP\u5957\u88c5\u662f\u4e00\u4e2a\u5bc6\u5c01\u7684\u4e2a\u4eba\u73af\u5883,\u4e3b\u8981\u662f\u4e3a\u4e86\u62b5\u5fa1\u5df2\u77e5\u5b87\u5b99\u4e2d\u6700\u6781\u7aef\u6761\u4ef6\u800c\u8bbe\u8ba1\u7684
+
+\u98de\u8239\u4e0a\u6709\u8c03\u8282\u6e29\u5ea6\u548c\u6c34\u4efd\u7684\u88c5\u7f6e
+\u517c\u5bb9\u5bf9\u7279\u5b9a\u73af\u5883\u7684\u4fee\u6539
+\u6784\u9020\u8bbe\u8ba1\u53ef\u4ee5\u63d0\u4f9b\u6700\u5927\u9650\u5ea6\u7684\u81ea\u7531\u7a7a\u95f4
+\u751f\u7269\u8bc6\u522b\u4f20\u611f\u5668
+\u60c5\u5883\u5e73\u89c6\u663e\u793a\u5668
+
+\u5728\u6551\u751f\u8231\u53d1\u5c04\u524d\u5c31\u5e94\u8be5\u88c5\u5907\u4e0a\u963f\u5c14\u7279\u62c9AEP\u5957\u88c5",
+    "Ency_MetalSalvage": "\u788e\u91d1\u5c5e",
+    "EncyDesc_MetalSalvage": "\u5206\u6790\u8bc1\u5b9e\u8fd9\u4e00\u6b8b\u9ab8\u662f\u6765\u81ea\u6781\u5149\u53f7\u7684 
+
+\u5916\u5c42\u7684\u6750\u6599\u5df2\u7ecf\u6c27\u5316,\u8fd9\u8868\u660e\u5b83\u5df2\u88ab1200\u6444\u6c0f\u5ea6\u70d8\u70e4\u8fc7,\u8fd9\u79cd\u60c5\u51b5\u548c\u8fdb\u5165\u5927\u6c14\u5c42\u65f6\u8239\u4f53\u89e3\u4f53\u72b6\u51b5\u4e00\u81f4,\u6b8b\u9ab8\u542b\u6709\u9ad8\u7eaf\u5ea6\u7684\u949b,\u53ef\u4ee5\u56de\u6536\u5229\u7528",
+    "Ency_Airsack": "\u6ce1\u6ce1\u9c7c",
+    "EncyDesc_Airsack": "\u534a\u900f\u819c\uff1a\u8eab\u4f53\u586b\u6ee1\u4e86\u6c27\u6c14\u548c\u6c34,\u534a\u6e17\u900f\u819c\u6ca1\u6709\u68c0\u6d4b\u5230\u53e3\u8154,\u819c\u53ef\u4ee5\u4ece\u690d\u7269\u4e2d\u8fc7\u6ee4\u6c34
+
+\u5f00\u653e\u5f0f\u8840\u7ba1: \u53ef\u503e\u659c\u901a\u8fc7\u6536\u7f29\u6cf5\u51fa\u6c34\u6765\u5b9e\u73b0\u5f15\u5bfc\u63a8\u8fdb\u7684\u4f4e\u901f\u8fd0\u52a8,\u6ca1\u6709\u9ccd
+
+\u5927\u591a\u65f6\u5019\u65e0\u89c6\u5a01\u80c1,\u5176\u552f\u4e00\u786e\u5b9a\u7684\u9632\u5fa1\u673a\u5236\uff1a\u5c31\u662f\u5b83\u768495%\u8f6f\u9aa8
+
+\u8bc4\u4ef7:\u819c\u53ef\u4ee5\u4f5c\u4e3a\u4e00\u79cd\u5929\u7136\u7684\u6c34\u8fc7\u6ee4\u5668",
+    "Ency_RabbitRay": "\u5154\u5b50\u9c7c",
+    "EncyDesc_RabbitRay": "\u8089\u6709\u5267\u6bd2\u7684\u8349\u98df\u6027\u6c34\u751f\u751f\u7269
+
+\u50cf\u7fc5\u8180\u7684\u53cc\u9ccd: \u4e3b\u8981\u7684\u8fd0\u52a8\u65b9\u5f0f
+
+\u6709\u6bd2\u7684\u8089:\u9664\u4e86\u5927\u6ca1\u6709\u5176\u5b83\u7684\u9632\u5fa1\u673a\u5236,\u4f46\u8fdb\u5316\u51fa\u6765\u7684\u6709\u6bd2\u8089\u53ef\u4ee5\u5f88\u597d\u7684\u62b5\u5fa1\u6355\u98df\u8005
+
+\u996e\u98df\u4e60\u60ef: \u6c34\u85fb\u548c\u6d77\u5e26
+
+\u8bc4\u4ef7: \u4e0d\u80fd\u5403\u7684\u4f46\u5f88\u53cb\u597d",
+    "Ency_AcidMushroom": "\u9178\u6027\u8611\u83c7",
+    "EncyDesc_AcidMushroom": "\u4e00\u79cd\u5e38\u89c1\u7684\u771f\u83cc\u7c7b,\u6709\u5f88\u5f3a\u7684\u9632\u5fa1\u673a\u5236,\u8089\u542b\u6709\u9ad8\u9178\u6027\u5316\u5408\u7269,\u53ef\u4ee5\u6eb6\u89e3\u5728\u6c34\u91cc\u5e76\u80fd\u7a7f\u900f\u76ae\u80a4,\u4e00\u70b9\u6c34\u538b\u6ce2\u52a8\u5c31\u4f1a\u4f7f\u5176\u6536\u7f29 
+
+\u76ee\u524d\u5c1a\u4e0d\u6e05\u695a\u5b83\u5982\u4f55\u9632\u5fa1\u8089\u98df\u751f\u7269,\u4f46\u9178\u6027\u7279\u6027\u8868\u660e\u5b83\u5df2\u7ecf\u6210\u529f\u7684\u963b\u6b62\u4e86\u5b83\u4eec\u4e2d\u7684\u5927\u591a\u6570
+
+\u8bc4\u4ef7: \u4e0d\u53ef\u98df\u7528\u7684,\u4f46\u53ef\u5229\u7528\u5236\u4f5c\u7535\u6c60\u7b49\u5236\u5907",
+    "Ency_LimestoneOutcrops": "\u77f3\u7070\u5ca9\u5c42",
+    "EncyDesc_LimestoneOutcrops": "\u8fd9\u4e9b\u4e0d\u5bfb\u5e38\u7684\u5730\u8d28\u6784\u9020\u901a\u5e38\u5468\u56f4\u6709\u5f88\u591a\u949b\u77ff\u77f3\u548c\u94dc\u77ff\u77f3\u5f62\u6210,\u662f\u8fd9\u4e2a\u661f\u7403\u4e0a\u72ec\u7279\u7684\u5730\u8d28\u7ed3\u6784,\u8fdb\u4e00\u6b65\u5206\u6790\u53d1\u73b0\u8fd9\u4e9b\u91d1\u5c5e\u5468\u56f4\u77f3\u5934\u5df2\u7ecf\u786c\u5316\u4e14\u4e0d\u53d7\u4fb5\u8680,\u4f46\u673a\u7406\u4e0d\u660e
+
+\u8bc4\u4ef7: \u949b\u548c\u94dc\u7684\u6765\u6e90",
+    "Ency_SandstoneOutcrops": "\u7802\u5ca9\u5c42",
+    "EncyDesc_SandstoneOutcrops": "\u8fd9\u4e9b\u5e38\u89c1\u7684,\u591a\u5b54\u5ca9\u5c42\u5468\u56f4\u4f1a\u5f62\u6210\u5c11\u91cf\u7684\u8d35\u91d1\u5c5e, \u8fd9\u4e9b\u91d1\u5c5e\u90fd\u662f\u968f\u7740\u65f6\u95f4\u7684\u63a8\u79fb\u6c89\u79ef\u800c\u6210\u8bc4\u4ef7: \u91d1\u548c\u94f6\u7684\u6765\u6e90",
+    "Ency_ShaleOutcrops": "\u9875\u5ca9\u5c42",
+    "EncyDesc_ShaleOutcrops": "\u8fd9\u79cd\u6c89\u79ef\u5ca9\u662f\u7531\u7c98\u571f\u77ff\u7269\u8584\u7247\u6784\u6210,\u91cc\u9762\u7684\u53ef\u4ee5\u53d1\u73b0\u7a00\u6709\u91d1\u5c5e\u6bd4\u5982\u9502,\u5730\u8d28\u6761\u4ef6\u5728\u8fd9\u4e2a\u661f\u7403\u4e0a\u610f\u5473\u7740\u5b83\u4f1a\u53d1\u73b0\u66f4\u6df1\u5c42\u6b21\u7684\u751f\u7269\u7fa4\u843d
+
+\u8bc4\u4ef7: \u91d1\u548c\u9502\u7684\u6765\u6e90",
+    "Ency_BasaltOutcrops": "\u7384\u6b66\u5ca9\u5c42",
+    "EncyDesc_BasaltOutcrops": "\u575a\u786c,\u706b\u5c71\u5ca9,\u706b\u5c71\u6d3b\u52a8\u5f62\u6210\u7684,\u53ef\u80fd\u542b\u6709\u7a00\u6709\u77ff\u7269,\u5982\u91d1\u521a\u77f3\u548c\u94c0\u77ff\u77f3,\u65e0\u6cd5\u5728\u5176\u4ed6\u5730\u65b9\u627e\u5230\u7684
+
+\u8bc4\u4ef7: \u91d1,\u91d1\u521a\u77f3\u548c\u94c0\u7684\u6765\u6e90",
+    "Ency_BrainCoral": "\u7d2b\u8111\u73ca\u745a",
+    "EncyDesc_BrainCoral": "\u4e00\u79cd\u6c38\u4e45\u6027\u7684\u5fae\u751f\u7269\u751f\u957f\u83cc,\u8fd9\u79cd\u73ca\u745a\u7269\u79cd\u5df2\u7ecf\u4ece\u73af\u5883\u9002\u5e94\u4e86\u8fc7\u6ee4\u4e8c\u6c27\u5316\u78b3,\u518d\u7528\u78b3\u6765\u6784\u5efa\u83cc\u843d,\u5e76\u4ece\u4e13\u95e8\u7684\u6392\u6c14\u6f0f\u6597\u5b54\u4e2d\u6392\u51fa\u6c27\u6c14
+
+\u8bc4\u4ef7: \u53ef\u4ee5\u5229\u7528\u5b83\u5728\u6c34\u5e95\u77ed\u6682\u5438\u6c27",
+    "Ency_Peeper": "\u5077\u7aa5\u9c7c",
+    "EncyDesc_Peeper": "\u9ad8\u5ea6\u53d1\u8fbe\u7684\u4fa7\u773c:\u9002\u5408\u8bc6\u522b\u548c\u8eb2\u907f\u6355\u98df\u8005,\u8fd8\u5bcc\u542b\u86cb\u767d\u8d28
+
+\u5f3a\u6709\u529b\u7684\u5c3e\u9ccd:\u80fd\u591f\u5feb\u901f\u52a0\u901f,\u5e76\u4e14\u80fd\u591f\u98de\u8d8a\u51fa\u7684\u6c34\u9762 
+
+\u72ed\u7a84\u7684\u80cc\u9ccd:\u63d0\u9ad8\u7075\u6d3b\u6027
+
+\u4f9d\u8d56\u4e8e\u89c6\u89c9\u8bc6\u522b\u6355\u98df\u8005,\u8fd9\u5c31\u5bfc\u81f4\u53ef\u80fd\u4f1a\u5728\u5149\u7ebf\u6bd4\u8f83\u6697\u7684\u73af\u5883\u4e0b\u5bb9\u6613\u53d7\u5230\u653b\u51fb
+
+\u8bc4\u4ef7: \u5982\u679c\u4f60\u80fd\u6293\u4f4f\u5b83\u53ef\u4ee5\u63d0\u4f9b\u5927\u91cf\u9971\u98df\u5ea6",
+    "Ency_Boomerang": "\u98de\u9556\u9c7c",
+    "EncyDesc_Boomerang": "\u53cc\u9ccd:\u4e0d\u5bfb\u5e38\u7684\u4e24\u9ccd\u7247\u662f\u5176\u9aa8\u67b6\u7684\u8f6f\u9aa8\u5ef6\u4f38,\u4e0d\u5bb9\u6613\u635f\u574f\u4f46\u96be\u4ee5\u751f\u957f
+
+\u952f\u9f7f\u72b6\u7259\u9f7f:\u53ef\u4ee5\u770b\u51fa\u5b83\u7ecf\u5e38\u78e8\u524a\u73ca\u745a 
+
+\u5728\u767d\u5929\u66f4\u6d3b\u8dc3,\u503e\u5411\u4e8e\u7528\u9003\u8dd1\u7684\u65b9\u5f0f\u6765\u9632\u5fa1\u6355\u98df\u8005
+
+\u8bc4\u4ef7: \u5c11\u91cf\u589e\u52a0\u9971\u98df\u5ea6,\u4f46\u5b89\u5168\u53ef\u9760",
+    "Ency_Garryfish": "\u52a0\u91cc\u9c7c",
+    "EncyDesc_Garryfish": "\u7f13\u6162\u7684\u79fb\u52a8\u548c\u800c\u4e14\u5f88\u597d\u5947\u7684\u8349\u98df\u52a8\u7269
+
+\u4f2a\u88c5\u5728\u6d77\u5e95\u6765\u56de\u907f\u6355\u98df\u8005
+
+\u6746\u72b6\u773c\u66f4\u5bb9\u6613\u770b\u5230\u9690\u85cf\u5728\u73ca\u745a\u91cc\u7684\u6355\u98df\u8005
+
+\u5927\u7684\u80c3\u8154: \u767d\u5929\u5403\u4e00\u987f\u53ef\u4ee5\u575a\u6301\u4e00\u6574\u5929
+
+\u8bc4\u4ef7: \u4e0d\u50cf\u770b\u4e0a\u53bb\u6709\u90a3\u4e48\u8089\u98df\u7528",
+    "Ency_Shuttlebug": "\u8df3\u9c7c",
+    "EncyDesc_Shuttlebug": "\u4e09\u53ea\u811a: \u53d1\u8fbe\u7684\u808c\u8089\u53ef\u4ee5\u901a\u8fc7\u6c34\u8fdc\u8ddd\u79bb\u63a8\u52a8\u751f\u7269,\u4e09\u53ea\u811a\u8fd8\u53ef\u4ee5\u5e2e\u52a9\u5b83\u4eec\u5728\u6d77\u5e95\u884c\u8d70
+
+\u4e09\u4e2a\u4e0b\u988c: \u6f02\u6d41\u65f6\u7528\u6765\u5b9a\u4f4d\u81ea\u5df1,\u800c\u4e14\u53ef\u4ee5\u5bf9\u6d1e\u7a74\u5c42\u788e\u5c51\u7b5b\u9009,\u5b83\u4eec\u7684\u5b58\u5728\u53ef\u80fd\u8868\u660e\u9644\u8fd1\u6709\u6d1e\u7a74
+
+\u8bc4\u4ef7: \u5728\u98df\u7269\u94fe\u4e2d\u5fc5\u4e0d\u53ef\u5c11",
+    "Ency_Floater": "\u6f02\u6d6e\u7269",
+    "EncyDesc_Floater": "\u8fdb\u5316\u5f02\u5e38,\u9700\u8981\u8fdb\u4e00\u6b65\u7814\u7a76
+\u5360\u4e3b\u5bfc\u5730\u4f4d\u7684\u751f\u547d\u4f53\uff1a\u7ed3\u6784\u5206\u6790\u8868\u660e,\u8be5\u5b9e\u4f53\u662f\u75312\u4e2a\u72ec\u7acb\u7684\u7269\u79cd\u7ec4\u6210,\u7c89\u7ea2\u8272\u7684\u4e3b\u4f53\u548c\u5360\u4e3b\u5bfc\u5730\u4f4d\u7684\u5185\u90e8\u7684\u988c
+
+\u5fae\u751f\u7269\u819c: \u5728\u5916\u90e8\u7531\u51dd\u80f6\u72b6\u7269\u8d28\u5f62\u6210\u4e00\u4e2a\u5bc6\u5c01\u7684\u771f\u7a7a\u7684\u988c\u9aa8\u7f51\u683c
+
+\u7a7a\u6c14\u7f13\u51b2\u533a\uff1a\u4e00\u5c42\u8584\u8584\u7684\u6c26\u88ab\u50a8\u5b58\u5728\u5916\u819c\u4e2d\u7528\u6765\u63d0\u4f9b\u6d6e\u529b
+
+\u89c2\u5bdf\u5230\u6539\u751f\u7269\u51e0\u4e4e\u5b8c\u5168\u4f9d\u9644\u4e8e\u5927\u77f3\u5934,\u5f88\u5bb9\u6613\u4eba\u4e3a\u5206\u79bb,\u5e76\u628a\u5b83\u4f9d\u9644\u5230\u5176\u5b83\u7269\u4f53\u4e0a
+
+\u8bc4\u4ef7: \u9700\u8981\u66f4\u591a\u4fe1\u606f",
+    "Ency_Holefish": "\u5b54\u9c7c",
+    "EncyDesc_Holefish": "\u5916\u8868\u989c\u8272\u8868\u660e\u66f4\u9002\u5408\u6d1e\u7a74\u73af\u5883
+
+\u901a\u8fc7\u64cd\u7eb5\u5176\u5c3e\u90e8\u5b54\u7684\u5927\u5c0f\u548c\u5f62\u72b6\u6765\u8fdb\u884c\u968f\u673a\u7684\u6e38\u52a8
+
+\u5c0f\u4e8e\u5927\u591a\u6570\u5176\u4ed6\u98df\u8349\u52a8\u7269,\u53ef\u80fd\u662f\u56e0\u4e3a\u751f\u6d3b\u5728\u690d\u88ab\u7f3a\u5c11\u7684\u4f4e\u5149\u7167\u73af\u5883\u91cc,\u4ece\u4e0d\u5bb3\u6015\u6355\u98df\u8005
+
+\u8bc4\u4ef7: \u53ef\u98df\u7528,\u53ef\u9760\u7684\u6d1e\u7a74\u98df\u54c1",
+    "Ency_CaveCrawler": "\u6d1e\u7a74\u87f9",
+    "EncyDesc_CaveCrawler": "\u654f\u6377,\u5403\u9886\u5730\u5185\u7684\u8150\u8089. 
+
+\u56db\u6761\u817f: \u7528\u4e8e\u6cbf\u7740\u6d77\u5e8a\u8d70\u548c\u7d27\u8d34\u5899\u58c1,\u5728\u9646\u5730\u4e5f\u662f\u4e00\u6837 
+
+\u6c14\u4f53\u4ea4\u6362\u819c:\u4ece\u7a7a\u6c14\u6216\u6c34\u4e2d\u5438\u6536\u81ea\u5df1\u6240\u9700\u7684\u6c14\u4f53
+
+\u8fd9\u79cd\u7269\u79cd\u4f1a\u5bfb\u627e\u8150\u5c38,\u6bd4\u5728\u541e\u566c\u5b8c\u524d\u4e00\u76f4\u5b88\u536b\u7740
+
+\u8bc4\u4ef7: \u5728\u846c\u793c\u7684\u65f6\u5019\u5f88\u9ebb\u70e6",
+    "Ency_TableCoral": "\u684c\u9762\u73ca\u745a",
+    "EncyDesc_TableCoral": "\u6bcf\u4e00\u4e2a\u76d8\u7247\u90fd\u662f\u4e00\u4e2a\u4e2a\u4f53\u7684\u5fae\u751f\u7269\u83cc\u843d,\u4ece\u6c34\u6d41\u8fc7\u53bb\u4e2d\u8fc7\u6ee4\u8425\u517b\u7269\u8d28 
+
+\u5206\u6790\u8868\u660e\u83cc\u843d\u559c\u6b22\u751f\u957f\u5728\u6709\u8d85\u5f3a\u7535\u6d41\u548c\u5149\u7684\u5730\u65b9,\u4e0e\u5176\u4ed6\u73ca\u745a\u7269\u79cd\u4e0d\u540c\u7684\u662f\u5176\u7ed3\u6784\u5177\u6709\u53ef\u5851\u6027,\u8f7b\u8f7b\u800c\u6709\u8282\u594f\u5730\u8212\u5f20\u53ef\u4ee5\u7ed9\u5b83\u7684\u672b\u7aef\u8f93\u9001\u8425\u517b,\u53ea\u6709\u5728\u53d7\u5230\u653b\u51fb\u65f6,\u624d\u4f1a\u53d8\u786c
+
+\u7a00\u6709\u77ff\u7269\u4f1a\u5728\u8868\u9762\u8282\u70b9\u5904\u96c6\u4e2d,\u662f\u73ca\u745a\u5f88\u96be\u5904\u7406
+
+\u8bc4\u4ef7: \u53ef\u4ee5\u5229\u7528\u5230\u7535\u8111\u82af\u7247\u7684\u5236\u4f5c\u4e2d",
+    "Ency_HangingStinger": "\u6bd2\u523a",
+    "EncyDesc_HangingStinger": "\u5149\u5408\u7ec6\u80de\u68c0\u6d4b\u4e3a\u96f6,\u610f\u5473\u7740\u8fd9\u79cd\u8089\u98df\u751f\u7269\u53ea\u80fd\u5728\u5149\u7ebf\u6697\u7684\u73af\u5883\u751f\u5b58
+
+\u89e6\u987b\u6709\u80fd\u591f\u68c0\u6d4b\u5f02\u7269\u63a5\u89e6\u7684\u6bdb\u56ca,\u4f1a\u5df2\u53d1600\u74e6\u7684\u53d1\u7535,\u762b\u75ea\u730e\u7269\u6765\u7ed9\u81ea\u5df1\u8865\u5145\u6570\u5468\u7684\u98df\u7269
+
+\u730e\u7269\uff1a\u5c0f\u9c7c
+
+\u8bc4\u4ef7: \u5c3d\u91cf\u907f\u514d\u4e0e\u5176\u63a5\u89e6",
+    "Ency_Hoopfish": "\u5708\u9c7c",
+    "EncyDesc_Hoopfish": "\u4f53\u79ef\u5c0f,\u4f1a\u5b66\u4e60\u730e\u7269\u7684\u9c7c
+
+\u89e6\u89d2: \u8fd9\u4e2a\u751f\u7269\u80fd\u591f\u7528\u7ea4\u7ec6\u7684\u7eff\u8272\u89e6\u89d2\u5305\u56f4\u5b83\u8eab\u4f53\u6539\u53d8\u6765\u5b83\u524d\u9762\u6c34\u7684\u6210\u5206\u6765\u79fb\u52a8,\u8fd9\u6837\u53ef\u4ee5\u8ba9\u5b83\u822a\u884c\u5728\u4f4e\u5bc6\u5ea6\u7a7a\u95f4,\u800c\u4e0d\u662f\u6e38\u6cf3
+ 
+\u8bc4\u4ef7: \u53ef\u98df\u7528\u91cf\u5c11\u5f97\u53ef\u601c",
+    "Ency_CoralSample": "\u5e38\u89c1\u7684\u73ca\u745a",
+    "EncyDesc_CoralSample": "\u5de8\u578b\u73ca\u745a\u7ba1\u548c\u503e\u659c\u7684\u5916\u58f3\u4f3c\u4e4e\u662f\u6574\u4e2a\u7fa4\u4f53\u6700\u5927\u9650\u5ea6\u5730\u63d0\u9ad8\u83b7\u53d6\u6c34\u5206\u548c\u517b\u4efd\u7684\u65b9\u6cd5,\u5c3d\u7ba1\u5916\u90e8\u6709\u5dee\u5f02\u4f46\u8fd9\u4e9b\u7ed3\u6784\u90fd\u662f\u7531\u975e\u5e38\u76f8\u4f3c\u7684\u751f\u7269\u7ec4\u6210,\u6837\u672c\u4e2d\u542b\u6709\u4e30\u5bcc\u7684\u9499
+
+\u8bc4\u4ef7: \u53ef\u4ee5\u7528\u6765\u52a0\u5de5\u6d88\u6bd2\u5242",
+    "Ency_Crash": "\u81ea\u7206\u9c7c",
+    "EncyDesc_Crash": "1. Impact-sensitive spikes: If the lifeform collides with something at sufficient speed these spikes are impacted, triggering an internal chemical reaction.
+
+2. Suction snout: Likely adapted to vacuum up small insects and grubs in cave systems.
+
+3. Chemical storage organ: concentrations of sulfur build up in this organ over time, and can be deployed as an explosive last line of defense during the nesting phase.
+
+Data points to an evolved symbiosis with the crash plant. Hypothesis: the plant evolved to feed on sulphuric compounds secreted by the crash. Stronger, more protective plants provided superior nesting grounds, which in turn benefited the plant with more nutrients, and the co-operative cycle continued.
+
+Assessment: Avoid or incapacitate",
+    "Ency_CrashLair": "\u81ea\u7206\u9c7c\u5de2\u7a74",
+    "EncyDesc_CrashLair": "\u4e0e\u540c\u5de2\u91cc\u9762\u7684\u6c34\u751f\u751f\u7269\u7684\u5171\u751f\u5173\u7cfb,\u82b1\u74e3\u72b6\u7ed3\u6784\u6253\u5f00\u65f6\u751f\u7269\u51fa\u73b0,\u53ef\u80fd\u4fdd\u6301\u6253\u5f00\u76f4\u5230\u5de2\u7531\u539f\u6765\u7684\u751f\u7269\u56de\u6765\u6216\u518d\u751f\u4e00\u4e2a
+
+\u60f3\u8fdb\u4e00\u6b65\u4e86\u89e3\u4fe1\u606f\u4e0d\u80fd\u53ea\u5355\u72ec\u7684\u5206\u6790\u690d\u7269
+
+\u5728\u5185\u90e8\u53f6\u7247\u4e0a\u68c0\u6d4b\u5230\u6b8b\u7559\u7684\u786b\u9178
+
+\u8bc4\u4ef7: \u53ef\u5229\u7528",
+    "Ency_Creepvine": "\u6d77\u85fb",
+    "EncyDesc_Creepvine": "\u4e00\u79cd\u6bd4\u8f83\u96c6\u4e2d\u7684\u85fb\u7c7b\u690d\u7269,\u5728\u6d45\u6c34\u4e2d\u677e\u6563\u7684\u6839\u56fa\u5b9a\u5230\u6d77\u5e95,\u671d\u7740\u6709\u9633\u5149\u7684\u65b9\u5411\u751f\u957f
+
+\u7ea4\u7ef4\u72b6\u7684\u830e\u5bcc\u542b\u94c1,\u4f7f\u5176\u53ef\u4ee5\u98df\u7528,\u53ef\u4ee5\u5236\u4f5c\u7ef3\u7d22\u548c\u7ef7\u5e26\u7b49\u57fa\u7840\u751f\u5b58\u7269\u54c1
+
+\u5929\u654c:\u65cb\u8f6c\u9c7c,\u773c\u9c7c,\u5154\u5b50\u9c7c,\u5077\u7aa5\u9c7c
+
+\u8bc4\u4ef7:\u91cd\u8981\u7684\u7269\u8d28,\u53ef\u5e94\u7528\u5230\u98df\u54c1,\u836f\u54c1,\u5efa\u7b51\u7b49\u9886\u57df",
+    "Ency_CreepvineSeeds": "\u6d77\u85fb\u79cd\u5b50",
+    "EncyDesc_CreepvineSeeds": "\u90a3\u4e9b\u751f\u6d3b\u5728\u91cc\u9762\u7684\u5c0f\u8349\u98df\u751f\u7269\u4f1a\u53d6\u98df\u6210\u719f\u7684\u53d1\u5149\u6d77\u85fb\u79cd\u5b50,\u8fd9\u53ef\u80fd\u662f\u628a\u677e\u6563\u7684\u7535\u6d41\u6536\u96c6\u540e\u6c89\u79ef\u800c\u6765 
+
+\u80da\u80ce\u88ab\u4e00\u5c42\u539a\u539a\u7684\u6cb9\u5305\u56f4,\u5b83\u4f1a\u968f\u7740\u5916\u76ae\u80a4\u53d8\u8d28\u800c\u6389\u5230\u5730\u9762\u4e0a,\u8fd9\u53ef\u4ee5\u4e3a\u5e7c\u82d7\u63d0\u4f9b\u5728\u4f4e\u5149\u7167\u5ea6\u73af\u5883\u4e0b\u6240\u9700\u8981\u7684\u8425\u517b\u7269\u8d28
+
+\u8bc4\u4ef7: \u53ef\u5f00\u91c7\u6cb9",
+    "Ency_Eyeye": "\u773c\u9c7c",
+    "EncyDesc_Eyeye": "\u4e00\u79cd\u4e3a\u9002\u5e94\u73af\u5883\u800c\u51fa\u73b0\u7684\u6781\u7aef\u8fdb\u5316\uff0c\u5176\u4e2d90%\u7684\u8eab\u4f53\u91cd\u91cf\u4e3a\u773c\u8154 
+
+\u4ed6\u4eec\u5f88\u65e9\u5c31\u5f62\u6210\u4e86\u8fd9\u79cd\u4e13\u95e8\u4e3a\u5728\u4f4e\u5149\u73af\u5883\u4e2d\u8bc6\u522b\u63a0\u98df\u8005\u7684\u8fdb\u5316\u7279\u6027
+
+\u6ca1\u6709\u5927\u8111,\u53ea\u662f\u4e2a\u795e\u7ecf\u7cfb\u7edf
+
+\u592a\u50bb\uff0c\u53ea\u80fd\u8fd1\u8ddd\u79bb\u8eb2\u907f\u6355\u98df\u8005
+
+\u5bb9\u6613\u53d7\u5230\u7a81\u7136\u88ad\u51fb,\u610f\u5473\u7740\u662f\u864e\u9ca8\u7684\u5929\u7136\u730e\u7269
+
+\u8bc4\u4ef7:\u53ef\u98df\u7528\u800c\u4e14\u5bb9\u6613\u6293\u4f4f",
+    "Ency_Hoverfish": "\u65cb\u8f6c\u9c7c",
+    "EncyDesc_Hoverfish": "\u516d\u4e2a\u72ec\u7279\u7684\u80a2\u4f53\u9644\u4ef6\u5176\u529f\u80fd\u662f\u5145\u7535\u6765\u7535\u79bb\u5468\u56f4\u6c34,\u65cb\u8f6c\u9c7c\u4f7f\u7528\u8fd9\u79cd\u80fd\u529b\u6765\u5b9a\u4f4d\u65b9\u5411\u5e76\u80fd\u4ece\u6d77\u85fb\u548c\u82d4\u85d3\u5904\u83b7\u5f97\u98df\u7269
+
+\u8bc4\u4ef7: \u53ef\u4ee5\u98df\u7528,\u4e00\u79cd\u5065\u5eb7\u7684\u4e3b\u98df",
+    "Ency_Bleeder": "\u5438\u8840\u866b",
+    "EncyDesc_Bleeder": "\u4e00\u4e2a\u7b80\u5355\u7684\u5bc4\u751f\u751f\u7269,\u6bd4\u5e38\u89c1\u7684\u4e00\u79cd\u58c1\u8671 
+
+\u5206\u6790\u663e\u793a\u6536\u96c6\u548c\u6d88\u5316\u8840\u6db2\u662f\u9760\u5176\u5c3e\u90e8\u97e7\u6027\u888b\u6765\u5b8c\u6210,\u7528\u4e0b\u988c\u7259\u9f7f\u548c\u4e0b\u988c\u9aa8\u6765\u9644\u7740\u5230\u53d7\u5bb3\u8005\u7684\u76ae\u80a4\u4e0a
+
+\u730e\u7269: \u653b\u51fb\u76ee\u524d\u6240\u6709\u6d3b\u7740\u7684\u6709\u673a\u4f53,\u901a\u8fc7\u653e\u6c14\u6765\u5b9e\u73b0\u4f4e\u8f6c\u901f\u7684\u9632\u5fa1,\u4f1a\u8fdb\u5316\u6210\u4e3b\u8981\u7684\u8150\u98df\u8005
+
+\u8bc4\u4ef7: \u4e0d\u5b89\u5168\u4e14\u4e0d\u536b\u751f",
+    "Ency_StalkerTooth": "\u6f5c\u884c\u8005\u7684\u4e60\u6027\u4e0e\u751f\u7406 ",
+    "EncyDesc_StalkerTooth": "\u6f5c\u884c\u8005\u7259\u9f7f\u6837\u672c\u7684\u6269\u5c55\u5206\u6790\u5df2\u7ecf\u5b8c\u6210\u3002
+
+\u5176\u4ed6\u672c\u5730\u751f\u547d\u5f62\u5f0f\u7684\u7259\u9f7f\u7ec4\u6210\u9075\u4ece\u4e00\u4e2a\u719f\u6089\u7684\u751f\u7269\u8fc7\u7a0b\uff0c\u5373\u4e00\u4e2a\u9499\u5316\u7ed3\u6784\u4ece\u7259\u5e8a\u4e0a\u751f\u957f\u51fa\u6765\u3002
+
+\u6f5c\u884c\u8005\u7259\u9f7f\u7684\u72ec\u7279\u4e4b\u5904\u5728\u4e8e\u5176\u5f02\u4e4e\u5bfb\u5e38\u7684\u5149\u6cfd\u5ea6\u548c\u5f3a\u5ea6\uff0c\u5e76\u4e14\u9499\u5143\u7d20\u542b\u91cf\u5fae\u4e4e\u5176\u5fae\u3002\u5b83\u4eec\u4ece\u83ab\u540d\u5176\u5999\u7684\u4ea7\u751f\u4e8e\u6f5c\u884c\u8005\u4f53\u5185\u7684\u4e00\u79cd\u949b\/\u94c1\u5316\u5408\u7269\u83b7\u5f97\u5176\u7ed3\u6784\u7684\u5b8c\u6574\u6027\u3002
+
+\u8fd9\u5bf9\u4e8e\u751f\u7269\u7684\u6536\u96c6\u91d1\u5c5e\u7684\u884c\u4e3a\u8868\u793a\u4e86\u4e00\u4e9b\u53ef\u80fd\u7684\u89e3\u91ca\uff0c\u4f46\u63d0\u51fa\u4e86\u66f4\u591a\u7684\u95ee\u9898\uff1a
+
+- \u6f5c\u884c\u8005\u5c06\u91d1\u5c5e\u5143\u7d20\u8f6c\u6362\u6210\u7259\u9f7f\u7ed3\u6784\u7684\u8fc7\u7a0b\u662f\u600e\u6837\u7684\uff1f
+- \u5982\u4f55\u89e3\u91ca\u8fd9\u79cd\u770b\u4f3c\u6602\u8d35\u7684\u8fdb\u5316\u9002\u5e94\uff1f\u4e00\u4e2a\u5177\u5907\u88c5\u7532\u7684\u7ade\u4e89\u8005\uff1f\u9499\u5143\u7d20\u7684\u77ed\u7f3a\uff1f
+
+\u8bc4\u4f30\uff1a\u9700\u8981\u66f4\u591a\u8c03\u67e5\u3002",
+    "Ency_Spadefish": "\u767d\u9cb3\u9c7c",
+    "EncyDesc_Spadefish": "\u5e38\u89c1\u7684\u98df\u8349\u751f\u7269,\u4f1a\u907f\u5f00\u9644\u8fd1\u6d45\u6c34\u533a\u57df\u5e76\u5728\u6d77\u5e95\u6e38\u6cf3,\u5b83\u53ef\u4ee5\u89c2\u5bdf\u5728\u6c34\u4e2d\u6f5c\u5728\u7684\u6355\u98df\u8005, \u6700\u8fd1\u89c2\u5bdf\u5230\u7684\u6807\u672c\u663e\u793a\u6709\u9ad8\u6d53\u5ea6\u6709\u6bd2\u7684\u9176,\u53ef\u80fd\u662f\u4ed6\u4eec\u7684\u751f\u547d\u5468\u671f\u4e2d\u4e00\u4e2a\u5b63\u8282\u6027\u9636\u6bb5\u7684\u4ea7\u7269,\u9700\u8981\u6301\u7eed\u89c2\u5bdf
+
+\u8bc4\u4ef7: \u53ef\u98df\u7528,\u575a\u786c\u7684\u8089",
+    "Ency_Reginald": "\u96f7\u91d1\u7eb3\u5fb7\u9c7c",
+    "EncyDesc_Reginald": "\u4e00\u4e2a\u5e38\u89c1\u7684\u9c7c,\u6df1\u7eff\u8272\u5916\u8868\u4f2a\u88c5,\u53d1\u5149\u7684\u5c3e\u5df4\u53ef\u80fd\u662f\u4ea4\u914d\u884c\u4e3a\u7684\u8868\u73b0,\u901a\u8fc7\u56db\u4e2a\u9cc3\u8fc7\u6ee4\u6c34\u4e2d\u677e\u85fb\u7b49\u690d\u7269\u539f\u6599,\u524d\u7f6e\u53e3\u8154
+
+\u8bc4\u4ef7: \u53ef\u98df\u7528,\u5927\u91cf\u589e\u52a0\u9971\u98df\u5ea6",
+    "Ency_TigerPlant": "\u864e\u76ae\u690d\u7269",
+    "EncyDesc_TigerPlant": "\u8be5\u690d\u7269\u9002\u5e94\u4e86\u5728\u6c34\u4e2d\u9ad8\u8fbe15\u7c73\u7684\u6ce2\u52a8,\u5e76\u80fd\u7528\u6293\u63e1\u4e24\u7ba1\u7684\u8fd0\u52a8\u6765\u63a8\u52a8\u8346\u68d8\u4ee5\u8fbe10m \/ s\u7684\u901f\u5ea6\u653b\u51fb\u76ee\u6807
+
+\u867d\u7136\u662f\u80fd\u4f7f\u4eba\u4e27\u5931\u80fd\u529b\u7684\u5c0f\u690d\u7269,\u4f46\u8fd9\u79cd\u690d\u7269\u7f3a\u5c11\u6d88\u5316\u8089\u98df\u7684\u5668\u5b98,\u603b\u4f1a\u6709\u6355\u98df\u8005\u5728\u5176\u5468\u56f4\u6d3b\u52a8,\u8fd9\u6837\u53ef\u4ee5\u8b66\u544a\u5176\u5b83\u98df\u8349\u52a8\u7269,\u7136\u540e\u518d\u628a\u5b83\u4eec\u5206\u89e3\u6210\u4e3a\u8001\u864e\u690d\u7269\u7684\u80a5\u6599
+
+\u8bc4\u4ef7: \u5c3d\u91cf\u907f\u5f00\u6216\u5148\u4f7f\u5176\u4e27\u5931\u6d3b\u52a8\u80fd\u529b",
+    "Ency_BloodGrass": "\u8840\u6db2\u8349",
+    "EncyDesc_BloodGrass": "\u4e00\u4e2a\u5e38\u89c1\u7684\u6d77\u8349\u751f\u5b58\u4e8e\u6d45\u6c99\u5730\u73af\u5883 
+
+\u751f\u957f\u5728\u677e\u6563\u7684\u6d77\u5e8a\u6216\u79bb\u6d77\u5e73\u9762\u592a\u8fdc\u7684\u5730\u65b9,\u9644\u7740\u5728\u6d77\u85fb\u4e0a
+
+\u5e38\u751f\u957f\u4e8e\u6c99\u4e18\u7684\u9876\u5cf0\u6765\u66f4\u591a\u7684\u83b7\u5f97\u9633\u5149
+
+\u9c9c\u660e\u7684\u7ea2\u8272\u53ef\u4ee5\u5728\u6d77\u5e95\u9002\u5e94\u4f4e\u6ce2\u957f\u7684\u5149\u4e5f\u53ef\u4ee5\u7528\u5b83\u6765\u5a01\u80c1\u6355\u98df\u8005,\u4e24\u8005\u517c\u800c\u6709\u4e4b
+
+\u63d0\u4f9b\u7684\u70ed\u91cf\u4e0d\u8db3\u4ee5\u4f9b\u4eba\u98df\u7528
+
+\u5929\u654c:\u96f7\u91d1\u7eb3\u5fb7\u9c7c,\u767d\u9cb3\u9c7c,\u98de\u9556\u9c7c
+
+\u8bc4\u4ef7:\u5b58\u5728\u7ef4\u6301\u5065\u5eb7\u7684\u751f\u6001\u591a\u6837\u6027",
+    "Ency_TreeLeech": "\u6811\u8682\u8757",
+    "EncyDesc_TreeLeech": "\u5bc4\u751f\u866b,\u751f\u957f\u5728\u5176\u5b83\u751f\u7269\u4f53\u4e0a\u7684\u771f\u83cc,\u8fd9\u79cd\u751f\u7269\u4f53\u4f1a\u91ca\u653e\u51fa\u6765\u4e00\u79cd\u9176,\u7528\u5b83\u5728\u5bbf\u4e3b\u76ae\u80a4\u4e0a\u6eb6\u89e3\u4e00\u4e2a\u5b54,\u4ee5\u4fbf\u5438\u6536\u517b\u5206
+
+\u7259\u9f7f\u65e0\u5b9e\u9645\u4f5c\u7528,\u53ef\u80fd\u662f\u5176\u5728\u4e0d\u540c\u7684\u751f\u547d\u5468\u671f\u4e2d\u4f1a\u4f7f\u7528\u5230?
+
+\u8bc4\u4ef7:\u53ef\u5229\u7528\u7684\u771f\u83cc\u9176",
+    "Ency_TreeMushroom": "\u6811\u8611\u83c7",
+    "EncyDesc_TreeMushroom": "\u5bf9\u8fd9\u4e9b\u5927\u578b\u6709\u673a\u7ed3\u6784\u7684\u5206\u6790\u5c55\u793a\u4e86\u5171\u751f\u5173\u7cfb\u7684\u4e00\u4e2a\u7f29\u5f71,\u5171\u751f\u5e76\u4e14\u4e92\u76f8\u7ade\u4e89
+
+\u4e3b\u5e72\u662f\u4e00\u79cd\u73ca\u745a,\u6709\u7684\u83cc\u843d\u751f\u5b58\u65f6\u95f4\u9ad8\u8fbe50000\u5e74,\u679d\u5e72\u4e0a\u5171\u751f\u65b9\u5f0f\u548c\u5730\u7403\u7684\u771f\u83cc\u5341\u5206\u76f8\u4f3c,\u5176\u5b83\u751f\u7269\u53ef\u4ee5\u751f\u957f\u5728\u5176\u5468\u56f4\u6709\u5149\u7684\u73af\u5883\u91cc.
+
+\u9644\u8fd1\u6d77\u57df\u7684\u98df\u8349\u751f\u7269\u7684\u5927\u5c0f\u53ea\u67091\u6beb\u7c73~10\u6beb\u7c73,\u770b\u6765\u5927\u578b\u98df\u8349\u52a8\u7269\u4f3c\u4e4e\u65e9\u5c31\u629b\u5f03\u4e86\u8fd9\u91cc
+
+\u8bc4\u4ef7: \u53ef\u5229\u7528",
+    "Ency_Jellyray": "\u51dd\u80f6\u9cd0\u9c7c",
+    "EncyDesc_Jellyray": "\u4e0e\u5154\u5b50\u9c7c\u6709\u4e00\u4e9b\u76f8\u540c\u7684\u8fdb\u5316\u7279\u5f81,\u770b\u8fc7\u53bb\u8089\u6709\u5267\u6bd2,\u8fd9\u4e2a\u7269\u79cd\u5df2\u7ecf\u9002\u5e94\u4e86\u751f\u5b58\u5728\u5149\u7ebf\u660f\u6697\u7684\u73af\u5883\u4e0b,\u62e5\u6709\u534a\u900f\u660e,\u53d1\u5149\u7684\u8eab\u4f53
+\u8fd9\u4e5f\u8bb8\u6709\u52a9\u4e8e:
+\u7167\u4eae\u89c5\u98df\u7684\u5468\u56f4\u73af\u5883
+\u9a71\u8d76\u6355\u98df\u8005
+\u8bc6\u522b\u540c\u7c7b
+\u8f83\u5c0f\u7684\u52a8\u7269\u770b\u5230\u6e38\u6cf3\u7684\u51dd\u80f6\u9cd0\u9c7c\u540e\u4f1a\u5229\u7528\u5b83\u4eec\u7684\u5149\u6e90\u8fbe\u5230\u7167\u4eae\u81ea\u5df1\u7684\u76ee\u7684
+
+\u8bc4\u4ef7: \u4e0d\u53ef\u98df\u7528",
+    "Ency_Mesmer": "\u50ac\u7720\u5e08",
+    "EncyDesc_Mesmer": "\u5c0f\u578b,\u8089\u98df\u7c7b\u751f\u547d\u4f53,\u53ef\u4ee5\u6355\u6349\u6bd4\u81ea\u5df1\u59272\u500d\u7684\u730e\u7269
+
+\u50ac\u7720\u5e08\u4f1a\u7b49\u5230\u66f4\u5927\u7684\u98df\u8089\u52a8\u7269\u9760\u8fd1\u65f6\u624d\u5f20\u5f00\u5916\u90e8\u7684\u7fc5\u8180,\u95ea\u70c1\u56fe\u6848\u4f1a\u4f7f\u98df\u8089\u52a8\u7269\u53d8\u5f97\u5446\u82e5\u6728\u9e21,\u6b64\u65f6\u50ac\u7720\u5e08\u4f1a\u6253\u5f00\u50cf\u4e0b\u5df4\u6837\u4fdd\u62a4\u58f3\u5e76\u5c1d\u8bd5\u5403\u6d3b\u7740\u7684\u730e\u7269,\u6216\u7740\u762b\u75ea\u76ee\u6807\u8db3\u591f\u957f\u7684\u65f6\u95f4\u6765\u9003\u8dd1
+
+\u8bc4\u4ef7: \u5c3d\u91cf\u56de\u907f",
+    "Ency_Reefback": "\u6697\u7901\u9c7c",
+    "EncyDesc_Reefback": "\u8fd9\u4e9b\u5de8\u5927\u7684\u751f\u7269\u88c5\u7532\u539a\u5230\u8db3\u4ee5\u5e72\u6270\u5149\u8c31\u626b\u63cf\u4eea,\u6240\u4ee5\u53ef\u7528\u6570\u636e\u5f88\u5c11
+
+\u5927\u5c0f\u9ad8\u8fbe20\u7c73, \u89e6\u89d2\u53ef\u4ee5\u63d0\u4f9b\u4f4e\u901f\u63a8\u8fdb,\u5584\u4e8e\u4e0e\u5176\u4ed6\u751f\u7269\u4ea4\u5f80,\u8f6e\u5ed3\u7b26\u5408\u4f4d\u4e8e\u98df\u7269\u94fe\u9876\u7aef\u7684\u8349\u98df\u52a8\u7269
+
+\u5929\u654c:\u672a\u77e5
+
+\u8bc4\u4ef7: \u76ee\u524d\u6ca1\u6709",
+    "Ency_ModificationStation": "\u6539\u88c5\u4e2d\u5fc3",
+    "EncyDesc_ModificationStation": "\u53ef\u4ee5\u628a\u539f\u5b50\u91cd\u65b0\u6392\u5217\u6210\u539f\u6750\u6599\u7684\u590d\u6742\u8bbe\u5907,\u53ef\u4ee5\u4e0e\u66f4\u590d\u6742\u7684\u8bbe\u5907\u7ed3\u5408\u6765\u6269\u5c55\u5b83\u7684\u529f\u80fd
+
+\u5927\u591a\u6570\u5de5\u4e1a\u98de\u8239\u90fd\u914d\u6709\u4e00\u53f0\u6539\u9020\u88c5\u7f6e,\u8fd9\u4f7f\u5de5\u7a0b\u5e08\u80fd\u591f\u5728\u7d27\u6025\u60c5\u51b5\u4e0b\u6539\u9020\u5bf9\u5e94\u9002\u5408\u7684\u5de5\u5177
+
+\u4e3a\u8282\u7701\u786c\u76d8\u7a7a\u95f4,\u9ed8\u8ba4\u60c5\u51b5\u4e0b\u6539\u9020\u88c5\u7f6e\u4e0d\u5305\u62ec\u5728\u5927\u591a\u6570\u4eba\u7684\u7d27\u6025\u84dd\u56fe\u5e93\u4e2d,\u7136\u800c\u5728\u6781\u7aef\u73af\u5883\u4e2d\u5982\u6d77\u6d0b\u548c\u6c99\u6f20\u7c7b\u884c\u661f\u53ef\u80fd\u9700\u8981\u57fa\u672c\u751f\u5b58\u5de5\u5177(\u5982\u5315\u9996\u548c\u6c27\u6c27\u6c14\u74f6)\u4ee5\u5e94\u5bf9\u610f\u60f3\u4e0d\u5230\u7684\u60c5\u51b5,\u4e3a\u6b64,\u63a8\u8350\u8bbf\u95ee\u4e00\u53f0\u6539\u9020\u88c5\u7f6e",
+    "Ency_StasisRifle": "\u505c\u6ede\u6b66\u5668",
+    "EncyDesc_StasisRifle": "\u505c\u6ede\u6b66\u5668\u7684\u4e13\u5229\u6280\u672f\u5728\u7269\u7406\u5b9a\u5f8b\u5c06\u5141\u8bb8\u7684\u60c5\u51b5\u4e0b,\u53ef\u4ee5\u8ba9\u4e00\u5b9a\u8303\u56f4\u5185\u65f6\u95f4\u53d8\u7684\u5f88\u6162, \u5b83\u662f\u4e00\u79cd\u5148\u8fdb\u7684\u624b\u6301\u5de5\u5177,\u65e8\u5728\u4fc3\u8fdb\u79d1\u5b66\u548c\u5de5\u7a0b\u53d1\u5c55,\u901a\u8fc7\u63a7\u5236\u65f6\u95f4\u6765\u6269\u5927\u884c\u52a8\u7684\u6210\u529f\u673a\u4f1a
+
+\u5e38\u89c1\u5e94\u7528\u5305\u62ec:
+\u51cf\u7f13\u5feb\u901f\u79fb\u52a8\u7684\u901f\u5ea6,\u5982\u98ce\u6247\u76ae\u5e26,\u4ee5\u65b9\u4fbf\u7ef4\u62a4
+\u6682\u505c\u751f\u7269\u4ee5\u4fbf\u5bf9\u5176\u8fdb\u884c\u8fdb\u4e00\u6b65\u7814\u7a76
+\u963b\u6b62\u706b\u707e\u548c\u6d2a\u6c34
+\u901a\u8fc7\u51bb\u7ed3\u822a\u884c\u8fc7\u7a0b\u4e2d\u7684\u5371\u9669\u7a7a\u95f4\u6765\u89e3\u9664\u5a01\u80c1
+\u505c\u6ede\u6b66\u5668\u7684\u4e3b\u8981\u7279\u70b9\u662f\u53ef\u66f4\u6362\u7535\u6c60,\u5e76\u4e14\u53ef\u4ee5\u6309\u4f4f\u84c4\u80fd,\u4ee5\u589e\u52a0\u8be5\u533a\u57df\u7684\u505c\u6ede\u6548\u679c\u6301\u7eed\u65f6\u95f4
+
+\u7531\u4e8e\u9ad8\u529f\u7387\u6d88\u8017\u548c\u975e\u81f4\u6b7b\u6027,\u88ab\u63a8\u8350\u7528\u505a\u5e38\u89c4\u7684\u4e2a\u4eba\u9632\u5fa1\u6b66\u5668",
+    "Ency_PropulsionCannon": "\u63a8\u529b\u8bbe\u5907",
+    "EncyDesc_PropulsionCannon": "\u63a8\u8fdb\u70ae\u5141\u8bb8\u6280\u672f\u4eba\u5458\u80fd\u591f\u572820\u7c73\u7684\u8303\u56f4\u5185\u64cd\u7eb5\u5f15\u529b\u3002\u5b83\u5e38\u7528\u4e8e\u5efa\u7b51\u548c\u91c7\u77ff\u4e2d\u8fd0\u8f93\u6750\u6599\u3002
+\u64cd\u4f5c\u8bf4\u660e\uff1a
+- \u6263\u52a8\u6273\u673a\u4e00\u6b21\u53ef\u9501\u5b9a\u5e76\u5438\u5f15\u91cd\u91cf\u5c0f\u4e8e25\u516c\u65a4\u7684\u5355\u4e00\u76ee\u6807\u7269\u4f53
+- \u73b0\u5728\u7269\u4f53\u53ef\u4ee5\u901a\u8fc7\u5f15\u529b\u5149\u675f\u5b89\u5168\u7684\u56de\u6536
+- \u53e6\u5916\uff0c\u6263\u52a8\u6273\u673a\u4e24\u6b21\u53ef\u63a8\u52a8\u7269\u4f53\u5feb\u901f\u8fdc\u79bb\u8bbe\u5907
+- \u4e0d\u63a8\u8350\u5728\u6709\u673a\u7269\u4f53\u4e0a\u4f7f\u7528",
+    "Ency_Seamoth": "\u6d77\u86fe\u53f7",
+    "EncyDesc_Seamoth": "\u6d77\u86fe\u53f7\u5355\u4eba\u6f5c\u6c34\u5668\u6709\u4e00\u4e2a\u72ec\u7acb\u7684,\u53ef\u66ff\u6362\u7684\u7535\u6c60\u548c\u4e00\u4e2a\u81ea\u5df1\u53ef\u5b9a\u5236\u5347\u7ea7\u7684\u8bbe\u8ba1,\u8fdc\u8ddd\u79bb\u91c7\u77ff\u8239\u4e00\u822c\u8981\u643a\u5e26\u81f3\u5c11\u4e24\u4e2a\u8fd9\u7c7b\u6f5c\u6c34\u5668\u4ee5\u65b9\u4fbf\u5230\u542b\u6c34\u5c0f\u884c\u661f\u5f00\u53d1\u52d8\u63a2
+
+\u989d\u5b9a\u503c: 
+\u6700\u9ad8\u901f\u5ea6\uff1a13\u7c73\/\u79d2
+\u52a0\u901f\u5ea6: 5\u7c73\/\u79d2
+\u6bcf\u4e2a\u7535\u6c60\u884c\u9a76\u8ddd\u79bb:10km
+\u6f5c\u6c34\u6df1\u5ea6:\u4f4e\u4e8e\u6d77\u5e73\u9762225\u7c73 
+\u5347\u7ea7\u6a21\u5757\u63d2\u69fd: 4
+\u5c3a\u5bf8\u89c4\u683c: 3\u7c73x 1.5\u7c73 x 1\u7c73
+\u8239\u8f7d\u4eba\u6570: 1
+
+\u6d77\u86fe\u53f7\u53ef\u4ee5\u901a\u8fc7\u5b89\u88c5\u5347\u7ea7\u6a21\u5757\u63d0\u5347\u529f\u80fd\u548c\u6548\u7387
+
+\u5176\u4e2d\u5305\u62ec:
+\u589e\u52a0\u8d27\u7269\u50a8\u5b58
+\u66f4\u5353\u8d8a\u7684\u52a8\u529b 
+\u538b\u529b\u548c\u78b0\u649e\u8865\u507f
+\u589e\u5f3a\u58f0\u7eb3
+\u589e\u52a0\u9632\u5fa1\u80fd\u529b
+ 
+\u6ce8\u610f,\u8fd9\u4e9b\u6a21\u5757\u4ec5\u53ef\u4ee5\u5728\u914d\u5907\u4e86\u6708\u4eae\u6c60\u7684\u57fa\u5730\u6765\u6539\u9020\u5347\u7ea7",
+    "Ency_SeamothConfigs": "\u6d77\u86fe\u53f7\u914d\u7f6e\u76ee\u5f55",
+    "EncyDesc_SeamothConfigs": "\u8d27\u7269\u8fd0\u8f93:3x\u5b58\u50a8,1x\u592a\u9633\u80fd\u5145\u7535\u5668
+\u4fa6\u5bdf:1x\u538b\u529b\u8865\u507f\u5668,1x\u7535\u6e90\u6548\u7387,1x\u5916\u56f4\u9632\u5fa1,1x\u58f0\u7eb3
+\u6c27\u6c14\u74f6:1x\u5916\u56f4\u9632\u5fa1,1x\u9c7c\u96f7\u7cfb\u7edf,2x\u8239\u4f53\u52a0\u56fa",
+    "Ency_Builder": "\u5efa\u9020\u5668",
+    "EncyDesc_Builder": "\u963f\u5c14\u7279\u62c9\u6280\u672f\u7684\u624b\u6301\u5efa\u9020\u5668\u662f\u79d1\u5b66\u5bb6\u4e0d\u53ef\u6216\u7f3a\u7684\u5de5\u5177,\u6b96\u6c11\u8005\u548c\u6025\u6551\u6551\u63f4\u4eba\u5458\u5728\u4e03\u4e2a\u4e0d\u540c\u7684\u5e1d\u56fd\u4f7f\u7528\u8d85\u8fc750\u5e74
+
+\u4ece\u5916\u9762\u770b\u57fa\u5730\u6a21\u5757\u662f\u5bc6\u5c01\u7684,\u53ef\u4ee5\u662f\u5efa\u7acb\u5728\u9646\u5730\u4e0a,\u6c34\u4e0b\u6216\u8005\u5728\u771f\u7a7a\u4e2d,\u6c27\u6c14\u548c\u52a8\u529b\u7cfb\u7edf\u4e0d\u662f\u6807\u51c6\u914d\u7f6e\u5fc5\u987b\u5355\u72ec\u5efa\u9020,\u5927\u591a\u6570\u7684\u98de\u8239\u90fd\u643a\u5e26\u4e86\u5148\u8fdb\u7684\u6a21\u5757\u548c\u53cd\u5e94\u5668,\u53ef\u4ee5\u5728\u73b0\u573a\u5feb\u901f\u90e8\u7f72\u548c\u5168\u9762\u8865\u7ed9
+
+\u57fa\u5730\u53ef\u4ee5\u589e\u5f3a\u6210\u4e3a\u957f\u671f\u7684\u5bb6\u56ed,\u8fdc\u7a0b\u7684\u7814\u7a76\u7ad9,\u9632\u5fa1\u524d\u54e8\u548c\u66f4\u591a\u7684\u7528\u5904
+
+\u989d\u5b9a\u538b\u529b:
+\u4e00\u4e2a\u57fa\u672c\u8d70\u5eca\u6a21\u5757\u53ef\u627f\u53d71200\u7c73\u6df1\u7684\u6c34\u538b
+\u4e0d\u8fc7,\u5982\u679c\u8fde\u63a5\u591a\u4e2a\u6a21\u5757\u589e\u52a0\u4e86\u53d7\u529b\u9762\u79ef\u5c31\u4f1a\u964d\u4f4e\u6574\u4f53\u7684\u5b8c\u6574\u5b89\u5168\u6027
+\u4e09\u4e2a\u623f\u95f4\u7684\u8d70\u5eca\u8fde\u63a5\u5c06\u5728\u6ca1\u6709\u5730\u57fa\u60c5\u51b5\u4e0b\u53ea\u80fd\u6709600\u7c73\u6df1\u5ea6
+\u901a\u8fc7\u52a0\u5f3a\u6807\u51c6\u6a21\u5757,\u53ef\u4ee5\u63d0\u9ad8\u57fa\u5730\u7684\u8010\u538b\u7b49\u7ea7",
+    "Ency_Moonpool": "\u6708\u4eae\u6c60",
+    "EncyDesc_Moonpool": "\u5347\u964d\u8f74\u662f\u957f\u671f\u63a2\u7d22\u6d77\u6d0b\u73af\u5883\u7684\u4e00\u4e2a\u91cd\u8981\u7684\u5c45\u7559\u8231\u6a21\u5757\u3002\u5b83\u7684\u4e3b\u8981\u529f\u80fd\u662f\u4f5c\u4e3a\u4e00\u4e2a\u5e72\u8239\u575e\u4f9b\u6d77\u86fe\u53f7\u6f5c\u8247\u505c\u9760\uff08\u4f46\u4e0d\u5305\u62ec\u6d77\u86fe\u53f7\uff09\u3002
+
+\u5927\u578b\u4e2d\u592e\u8154\u5ba4\u5305\u62ec\u63d0\u4f9b\u968f\u65f6\u8fdb\u5165\u5468\u8fb9\u6c34\u57df\u7684\u52a0\u538b\u6c60\uff0c\u5e76\u5e26\u6709\u80fd\u8ba9\u6d77\u86fe\u53f7\u63d0\u5347\u548c\u5145\u80fd\u7684\u6807\u51c6\u914d\u5907\u3002
+
+\u4e3a\u4e86\u60a8\u7684\u65b9\u4fbf\uff0c\u5efa\u8bae\u7528\u5efa\u9020\u5de5\u5177\u5c06\u6d77\u86fe\u53f7\u4fee\u6539\u7ad9\u914d\u5907\u4e8e\u5347\u964d\u8f74\u3002\u8fd9\u5c06\u5141\u8bb8\u60a8\u5236\u9020\u6d77\u86fe\u53f7\u5347\u7ea7\u6a21\u5757\u4ee5\u53ca\u5176\u4ed6\u7269\u54c1\u3002
+
+\u8bc4\u4ef7\uff1a
+- \u5c3a\u5bf8\uff1a 16m x 10m x 5m
+- \u8fde\u63a5\u70b9\uff1a 6
+- \u5c45\u7559\u8231\u5728\u6d77\u5e73\u9762\u4e0a\u7684\u8239\u4f53\u5f3a\u5ea6\u8d1f\u8f7d\uff1a -5 \uff08\u76f8\u5f53\u4e8e4\u4e2a\u623f\u95f4\uff09
+- \u5bb9\u91cf\uff1a1\u8258\u6d77\u86fe\u53f7
+- \u9ad8\u529f\u8017",
+    "NoKeyExchangeBattery": "\u66f4\u6362\u7535\u6c60",
+    "NoKeyExchangePowerCell": "\u66f4\u6362\u52a8\u529b\u7535\u6c60",
+    "CyclopsWelcomeAboard": "\u72ec\u773c\u5de8\u4eba\u53f7\uff1a\u6b22\u8fce\u767b\u8247\uff0c\u8239\u957f",
+    "CyclopsHullBreach": "\u72ec\u773c\u5de8\u4eba\u53f7: \u68c0\u6d4b\u5230\u8239\u4f53\u6709\u7834\u635f",
+    "CyclopsHullRestored": "\u72ec\u773c\u5de8\u4eba\u53f7: \u8239\u4f53\u5df2\u4fee\u590d \u6392\u6c34\u7cfb\u7edf\u6062\u590d\u5de5\u4f5c",
+    "SeamothWelcomeAboard": "Seamoth\uff1a\u6b22\u8fce\u767b\u8247\uff0c\u8239\u957f\u3002",
+    "BaseWelcomeAboard": "\u57fa\u5730\uff1a\u6b22\u8fce\u767b\u8247\uff0c\u8239\u957f\u3002",
+    "BasePowerUp": "\u57fa\u5730\uff1a\u7535\u6e90\u6062\u590d\u3002\u6240\u6709\u4e3b\u7cfb\u7edf\u5904\u4e8e\u5728\u7ebf\u72b6\u6001\u3002",
+    "BasePowerDown": "\u57fa\u5730\uff1a\u8b66\u544a\uff0c\u4ec5\u5269\u5e94\u6025\u80fd\u6e90\u53ef\u7528\u3002",
+    "BaseHullBreach": "\u57fa\u5730\uff1a\u68c0\u6d4b\u5230\u8239\u4f53\u7834\u88c2\u3002",
+    "BaseHullRestored": "\u57fa\u5730: \u8231\u4f53\u635f\u574f\u4fee\u590d \u6392\u6c34\u7cfb\u7edf\u542f\u52a8",
+    "AcidMushroomSpore": "\u7d2b\u8611\u83c7\u5b62\u5b50",
+    "BulboTree": "\u9762\u5305\u6811",
+    "BulboTreePiece": "\u9762\u5305\u6811\u5757",
+    "HangingFruitTree": "\u6302\u679c\u6811",
+    "HangingFruit": "\u6302\u679c",
+    "OrangeMushroom": "\u6a59\u8272\u8611\u83c7",
+    "OrangeMushroomSpore": "\u6a59\u8272\u8611\u83c7\u5b62\u5b50",
+    "PinkMushroom": "\u7c89\u7ea2\u8611\u83c7",
+    "PinkMushroomSpore": "\u7c89\u7ea2\u8611\u83c7\u5b62\u5b50",
+    "PurpleRattle": "\u7d2b\u94c3",
+    "PurpleRattleSpore": "\u7d2b\u94c3\u5b62\u5b50",
+    "PurpleVasePlant": "\u7d2b\u830e\u74f6",
+    "PurpleVasePlantSeed": "\u7d2b\u830e\u74f6\u79cd\u5b50",
+    "WhiteMushroomSpore": "\u767d\u8611\u83c7\u5b62\u5b50",
+    "Tooltip_AcidMushroomSpore": "\u7d2b\u8611\u83c7\u7684\u5b62\u5b50",
+    "Tooltip_BulboTreePiece": "\u9762\u5305\u6811\u690d\u7269\u7684\u4e00\u90e8\u5206",
+    "Tooltip_HangingFruit": "\u6302\u679c\u6811\u4e0a\u7ed3\u7684\u679c\u5b9e",
+    "Tooltip_KooshChunk": "\u5e93\u68d5\u7684\u4e00\u90e8\u5206",
+    "Tooltip_OrangeMushroomSpore": "\u6a59\u8272\u8611\u83c7\u5b62\u5b50,\u8131\u79bb\u672c\u4f53\u540e\u80fd\u76f4\u63a5\u6216\u95f4\u63a5\u53d1\u80b2\u6210\u65b0\u4e2a\u4f53\u7684\u751f\u6b96\u7ec6\u80de",
+    "Tooltip_PinkMushroom": "\u7c89\u7ea2\u8272\u8611\u83c7,\u7531\u83cc\u4e1d\u4f53\u548c\u5b50\u5b9e\u4f53\u4e24\u90e8\u5206\u7ec4\u6210\u7684\u771f\u83cc",
+    "Tooltip_PinkMushroomSpore": "\u7c89\u7ea2\u8611\u83c7\u5b62\u5b50,\u8131\u79bb\u672c\u4f53\u540e\u80fd\u76f4\u63a5\u6216\u95f4\u63a5\u53d1\u80b2\u6210\u65b0\u4e2a\u4f53\u7684\u751f\u6b96\u7ec6\u80de",
+    "Tooltip_PurpleRattle": "\u7d2b\u94c3,\u672c\u5730\u690d\u7269",
+    "Tooltip_PurpleRattleSpore": "\u7d2b\u94c3\u5b62\u5b50,\u8131\u79bb\u672c\u4f53\u540e\u80fd\u76f4\u63a5\u6216\u95f4\u63a5\u53d1\u80b2\u6210\u65b0\u4e2a\u4f53\u7684\u751f\u6b96\u7ec6\u80de",
+    "Tooltip_PurpleVasePlantSeed": "\u7d2b\u830e\u74f6\u690d\u7269\u7684\u79cd\u5b50",
+    "Tooltip_WhiteMushroomSpore": "\u767d\u8611\u83c7\u5b62\u5b50,\u8131\u79bb\u672c\u4f53\u540e\u80fd\u76f4\u63a5\u6216\u95f4\u63a5\u53d1\u80b2\u6210\u65b0\u4e2a\u4f53\u7684\u751f\u6b96\u7ec6\u80de",
+    "LEDLight": "LED\u7167\u660e\u706f",
+    "LEDLightBlueprint": "LED\u7167\u660e\u706f\u84dd\u56fe",
+    "Tooltip_LEDLightBlueprint": "\u5141\u8bb8\u5236\u9020\u4e00\u4e2aLED\u7167\u660e\u706f",
+    "Tooltip_LEDLight": "\u7531\u7535\u6c60\u4f9b\u7535\u4e14\u53ef\u624b\u6301\u5c55\u5f00\u7684\u7167\u660e\u8bbe\u5907",
+    "Ency_LEDLight": "LED\u7167\u660e\u706f",
+    "EncyDesc_LEDLight": "\u4e00\u4e2a\u53ef\u4ee5\u624b\u6301\u79fb\u52a8,\u7531\u7535\u6c60\u4f9b\u7535\u7684\u53d1\u5149\u4e8c\u6781\u7ba1,\u5b83\u80fd\u4e3a360\u5ea6\u65b9\u4f4d\u63d0\u4f9b\u4f4e\u7ea7\u522b\u7684\u7167\u660e,\u5e76\u4e14\u53ef\u4ee5\u5b89\u653e\u5728\u5927\u591a\u6570\u5730\u9762\uff08\u5305\u62ec\u6df1\u6d77\uff09",
+    "LoadingMessage": "Loading...
+
+NOTE: This screen may take some minutes to load and may look as if it has crashed during that time. Please be patient.",
+    "Dead": "\u6b7b\u4ea1",
+    "CyclopsHullFragment": "\u72ec\u773c\u5de8\u4eba\u53f7\u8239\u4f53\u788e\u7247",
+    "CyclopsBridgeFragment": "\u72ec\u773c\u5de8\u4eba\u53f7\u8230\u6865\u788e\u7247",
+    "CyclopsEngineFragment": "\u72ec\u773c\u5de8\u4eba\u53f7\u53d1\u52a8\u673a\u788e\u7247",
+    "CyclopsDockingBayFragment": "\u72ec\u773c\u5de8\u4eba\u53f7\u5bf9\u63a5\u8231\u788e\u7247",
+    "CyclopsHullBlueprint": "\u72ec\u773c\u5de8\u4eba\u53f7\u8239\u4f53\u84dd\u56fe",
+    "CyclopsBridgeBlueprint": "\u72ec\u773c\u5de8\u4eba\u53f7\u8230\u6865\u84dd\u56fe",
+    "CyclopsEngineBlueprint": "\u72ec\u773c\u5de8\u4eba\u53f7\u53d1\u52a8\u673a\u84dd\u56fe",
+    "CyclopsDockingBayBlueprint": "\u72ec\u773c\u5de8\u4eba\u53f7\u5bf9\u63a5\u8231\u84dd\u56fe",
+    "Tooltip_CyclopsHullBlueprint": "\u5141\u8bb8\u5efa\u9020\u72ec\u773c\u5de8\u4eba\u53f7\u8239\u4f53",
+    "Tooltip_CyclopsBridgeBlueprint": "\u5141\u8bb8\u5efa\u9020\u72ec\u773c\u5de8\u4eba\u53f7\u8230\u6865",
+    "Tooltip_CyclopsEngineBlueprint": "\u5141\u8bb8\u5efa\u9020\u72ec\u773c\u5de8\u4eba\u53f7\u53d1\u7535\u673a",
+    "Tooltip_CyclopsDockingBayBlueprint": "\u5141\u8bb8\u5efa\u9020\u72ec\u773c\u5de8\u4eba\u53f7\u5bf9\u63a5\u8231",
+    "FiberMesh": "\u7ea4\u7ef4\u5e03",
+    "Tooltip_FiberMesh": "\u7531\u5f3a\u529b\u5e76\u4e14\u8212\u9002\u7684\u5929\u7136\u7ea4\u7ef4\u5236\u4f5c\u800c\u6210\uff0c\u78b3\u7ea4\u7ef4\u5236\u6210\u7684\u590d\u5408\u6750\u6599\u5177\u6709\u6781\u9ad8\u7684\u5f3a\u5ea6\uff0c\u4e14\u8d85\u8f7b\u3001\u8010\u9ad8\u6e29\u9ad8\u538b",
+    "PlanterPot2": "\u82b1\u76c6B",
+    "PlanterPot3": "\u82b1\u76c6C",
+    "Tooltip_PlanterPot2": "\u79cd\u690d\u690d\u7269\u7528\u7684\u4e00\u79cd\u5668\u76bf",
+    "Tooltip_PlanterPot3": "\u79cd\u690d\u690d\u7269\u7528\u7684\u4e00\u79cd\u5668\u76bf",
+    "Tooltip_Radio": "\u63a5\u6536\u77ed\u8ddd\u79bb\u4fe1\u606f\u7684\u7535\u63a7\u5236\u5668\u4ef6",
+    "Radio": "\u65e0\u7ebf\u7535",
+    "Radio_Play": "\u64ad\u653e\u4fe1\u606f",
+    "EncyPath_DownloadedData": "\u8d44\u6599\u4e0b\u8f7d",
+    "Ency_BasePlanter": "\u7eff\u5316\u5899",
+    "EncyDesc_BasePlanter": "\u5ba4\u5185\u79cd\u690d\u673a\u7684\u4e00\u79cd\u914d\u7f6e,\u5141\u8bb8\u5927\u591a\u6570\u690d\u7269\u7269\u79cd\u751f\u957f,\u4e3b\u8981\u7528\u9014\u5c31\u662f\u88c5\u9970.",
+    "Ency_FarmingTray": "\u5ba4\u5916\u519c\u4e1a\u6258\u76d8",
+    "EncyDesc_FarmingTray": "\u62e5\u6709\u5148\u8fdb\u5408\u6210\u571f\u58e4\u7684\u79cd\u690d\u7bb1,\u53ef\u4ee5\u79cd\u690d\u5927\u90e8\u5206\u5916\u661f\u690d\u7269,\u53ea\u8981\u7a7a\u95f4\u591f\u5b83\u53ef\u4ee5\u5b89\u653e\u9646\u5730\u548c\u6c34\u4e0b.",
+    "Ency_PlanterBox": "\u5ba4\u5185\u79cd\u690d\u7bb1",
+    "EncyDesc_PlanterBox": "\u4e13\u95e8\u4e3a\u5ba4\u5185\u8bbe\u8ba1\u7684\u57fa\u5730\u7ec4\u4ef6,\u6bd4\u8d77\u5ba4\u5916\u79cd\u690d\u7bb1\u5b83\u663e\u5f97\u66f4\u52a0\u7d27\u51d1.",
+    "Ency_WaterFilter": "\u6d77\u6c34\u8fc7\u6ee4\u673a",
+    "EncyDesc_WaterFilter": "\u8fc7\u6ee4\u7cfb\u7edf\u5c06\u6d77\u6c34\u4ece\u5916\u90e8\u4e0d\u9002\u5408\u4eba\u7c7b\u996e\u7528\u7684\u6210\u5206\u81ea\u52a8\u5206\u88c2\u6210\u6db2\u6001\u6c34\u548c\u76d0,\u5e76\u4e14\u8fc7\u6ee4\u6389\u4efb\u4f55\u6709\u5bb3\u7684\u7269\u8d28,\u5b83\u53ef\u4ee5\u5efa\u5728\u57fa\u5730\u623f\u95f4\u5185,\u4f46\u9700\u8981\u5927\u91cf\u7684\u7535\u6765\u4f9b\u5b83\u8fd0\u884c.",
+    "BluePalm": "\u84dd\u68d5\u6988",
+    "BluePalmSeed": "\u84dd\u68d5\u6988\u79cd\u5b50",
+    "EyesPlant": "\u773c\u775b\u690d\u7269",
+    "EyesPlantSeed": "\u773c\u775b\u690d\u7269\u79cd\u5b50",
+    "FernPalm": "\u8568\u6811",
+    "FernPalmSeed": "\u8568\u6811\u79cd\u5b50",
+    "GabeSFeather": "\u52a0\u5e03\u7fbd\u6bdb",
+    "GabeSFeatherSeed": "\u52a0\u5e03\u7fbd\u6bdb\u79cd\u5b50",
+    "JellyPlantSeed": "\u679c\u51bb\u690d\u7269\u79cd\u5b50",
+    "MelonPlant": "\u751c\u74dc\u690d\u7269",
+    "Melon": "\u751c\u74dc",
+    "MembrainTreeSeed": "\u819c\u6811\u79cd\u5b50",
+    "SeaCrown": "\u6d77\u7687\u51a0",
+    "SeaCrownSeed": "\u6d77\u7687\u51a0\u79cd\u5b50",
+    "SmallMelon": "\u5c0f\u751c\u74dc",
+    "OrangePetalsPlant": "\u6a59\u8272\u82b1\u74e3",
+    "OrangePetalsPlantSeed": "\u6a59\u8272\u82b1\u74e3\u79cd\u5b50",
+    "PinkFlower": "\u7c89\u7ea2\u82b1",
+    "PinkFlowerSeed": "\u7c89\u7ea2\u82b1\u79cd\u5b50",
+    "PurpleBrainCoral": "\u7d2b\u8111\u73ca\u745a",
+    "PurpleBrainCoralPiece": "\u7d2b\u8111\u73ca\u745a\u6837\u672c",
+    "PurpleBranches": "\u7d2b\u679d",
+    "PurpleBranchesSeed": "\u7d2b\u679d\u79cd\u5b50",
+    "PurpleFanSeed": "\u7d2b\u8272\u98ce\u6247\u79cd\u5b50",
+    "PurpleStalk": "\u7d2b\u830e\u8349",
+    "PurpleStalkSeed": "\u7d2b\u830e\u8349\u79cd\u5b50",
+    "PurpleTentacleSeed": "\u6c34\u8349\u79cd\u5b50",
+    "PurpleVegetable": "\u7d2b\u8272\u852c\u83dc",
+    "PurpleVegetablePlant": "\u7d2b\u8272\u852c\u83dc\u690d\u7269",
+    "RedBasketPlant": "\u7ea2\u7bee\u690d\u7269",
+    "RedBasketPlantSeed": "\u7ea2\u7bee\u690d\u7269\u79cd\u5b50",
+    "RedBush": "\u7ea2\u704c\u8349",
+    "RedBushSeed": "\u7ea2\u704c\u8349\u79cd\u5b50",
+    "RedConePlant": "\u7ea2\u9525\u690d\u7269",
+    "RedConePlantSeed": "\u7ea2\u9525\u690d\u7269\u79cd\u5b50",
+    "RedGreenTentacle": "\u7ea2\u7eff\u89e6\u624b",
+    "RedGreenTentacleSeed": "\u7ea2\u7eff\u89e6\u624b\u79cd\u5b50",
+    "RedRollPlant": "\u7ea2\u5377\u8349",
+    "RedRollPlantSeed": "\u7ea2\u5377\u8349\u79cd\u5b50",
+    "ShellGrass": "\u8d1d\u58f3\u8349",
+    "ShellGrassSeed": "\u8d1d\u58f3\u8349\u79cd\u5b50",
+    "SpikePlantSeed": "\u864e\u76ae\u690d\u7269\u79cd\u5b50",
+    "SmallFanSeed": "\u5c0f\u98ce\u6247\u79cd\u5b50",
+    "SnakeMushroom": "\u86c7\u8611\u83c7",
+    "SnakeMushroomSpore": "\u86c7\u8611\u83c7\u5b62\u5b50",
+    "SpottedLeavesPlant": "\u6591\u53f6\u690d\u7269",
+    "SpottedLeavesPlantSeed": "\u6591\u53f6\u690d\u7269\u79cd\u5b50",
+    "Tooltip_BluePalmSeed": "\u84dd\u68d5\u6988\u7684\u79cd\u5b50",
+    "Tooltip_EyesPlantSeed": "\u773c\u775b\u690d\u7269\u7684\u79cd\u5b50",
+    "Tooltip_FernPalmSeed": "\u8568\u6811\u7684\u79cd\u5b50",
+    "Tooltip_GabeSFeatherSeed": "\u52a0\u5e03\u7fbd\u6bdb\u7684\u79cd\u5b50",
+    "Tooltip_JellyPlant": "\u80f6\u72b6\u7269\u679c\u51bb\u690d\u7269",
+    "Tooltip_JellyPlantSeed": "\u679c\u51bb\u690d\u7269\u7684\u79cd\u5b50",
+    "Tooltip_Melon": "\u5403\u8d77\u6765\u5f88\u751c\u7684\u74dc",
+    "Tooltip_MembrainTreeSeed": "\u819c\u6811\u7684\u79cd\u5b50",
+    "Tooltip_SmallMelon": "\u5916\u578b\u5c0f\u5de7\u7684\u74dc",
+    "Tooltip_OrangePetalsPlantSeed": "\u6a59\u8272\u82b1\u74e3\u7684\u79cd\u5b50",
+    "Tooltip_PinkFlowerSeed": "\u7c89\u7ea2\u82b1\u7684\u79cd\u5b50",
+    "Tooltip_PurpleBrainCoralPiece": "\u7d2b\u8111\u73ca\u745a\u7684\u6837\u672c",
+    "Tooltip_PurpleBranchesSeed": "\u7d2b\u679d\u690d\u7269\u7684\u79cd\u5b50",
+    "Tooltip_PurpleFanSeed": "\u7d2b\u8272\u98ce\u6247\u690d\u7269\u7684\u79cd\u5b50",
+    "Tooltip_PurpleStalkSeed": "\u7d2b\u830e\u8349\u7684\u79cd\u5b50",
+    "Tooltip_PurpleTentacleSeed": "\u6c34\u8349\u79cd\u5b50",
+    "Tooltip_PurpleVegetable": "\u4e00\u79cd\u7d2b\u8272\u7684\u852c\u83dc",
+    "Tooltip_RedBasketPlantSeed": "\u7ea2\u7bee\u690d\u7269\u7684\u79cd\u5b50",
+    "Tooltip_RedBushSeed": "\u7ea2\u704c\u8349\u7684\u79cd\u5b50",
+    "Tooltip_RedConePlantSeed": "\u7ea2\u9525\u690d\u7269\u7684\u79cd\u5b50",
+    "Tooltip_RedGreenTentacleSeed": "\u7ea2\u7eff\u89e6\u624b\u690d\u7269\u7684\u79cd\u5b50",
+    "Tooltip_RedRollPlantSeed": "\u7ea2\u5377\u8349\u7684\u79cd\u5b50",
+    "Tooltip_SeaCrownSeed": "\u6d77\u7687\u51a0\u7684\u79cd\u5b50",
+    "Tooltip_ShellGrassSeed": "\u8d1d\u58f3\u8349\u7684\u79cd\u5b50",
+    "Tooltip_SnakeMushroomSpore": "\u86c7\u8611\u83c7\u7684\u5b62\u5b50",
+    "Tooltip_SpikePlantSeed": "\u864e\u76ae\u690d\u7269\u7684\u79cd\u5b50",
+    "Tooltip_SpottedLeavesPlantSeed": "\u6591\u53f6\u690d\u7269\u7684\u79cd\u5b50",
+    "Tooltip_SmallFan": "\u5c0f\u98ce\u6247",
+    "Tooltip_SmallFanSeed": "\u5c0f\u98ce\u6247\u7684\u79cd\u5b50",
+    "Ency_HangingFruitTree": "\u6302\u679c\u6811",
+    "EncyDesc_HangingFruitTree": "\u7ed3\u4e86\u6a59\u8272\u5927\u679c\u5b9e\u7684\u6c34\u679c\u6811",
+    "Ency_BulboTree": "\u9762\u5305\u6811",
+    "EncyDesc_BulboTree": "\u690d\u682a\u542b\u767d\u8272\u4e73\u6c41,\u5177\u677f\u6839,\u5916\u5f62\u6d51\u539a,\u5728\u5e7c\u6728\u65f6,\u677f\u6839\u5e76\u4e0d\u660e\u663e,\u968f\u6811\u6728\u957f\u9ad8\u957f\u7c97,\u677f\u72b6\u7684\u6839\u5c31\u9010\u6e10\u9614\u5c55\u5f62\u6210",
+    "Ency_WhiteMushroom": "\u767d\u8611\u83c7",
+    "EncyDesc_WhiteMushroom": "",
+    "Ency_PinkMushroom": "\u7c89\u7ea2\u8611\u83c7",
+    "EncyDesc_PinkMushroom": "\u4e00\u79cd\u53ef\u4ee5\u79cd\u690d\u7684\u8611\u83c7",
+    "Ency_PurpleRattle": "\u7d2b\u94c3",
+    "EncyDesc_PurpleRattle": "",
+    "Ency_PurpleVasePlant": "\u7d2b\u830e\u74f6",
+    "EncyDesc_PurpleVasePlant": "",
+    "Ency_OrangeMushroom": "\u6a59\u8272\u8611\u83c7",
+    "EncyDesc_OrangeMushroom": "\u6a59\u8272\u7684\u5927\u8611\u83c7",
+    "Ency_VegetablePlant": "\u7d2b\u8272\u852c\u83dc",
+    "EncyDesc_VegetablePlant": "",
+    "Ency_MelonPlant": "\u751c\u74dc",
+    "EncyDesc_MelonPlant": "",
+    "Ency_KooshBush": "\u5e93\u68d5",
+    "EncyDesc_KooshBush": "",
+    "Ency_BluePalm": "\u84dd\u68d5\u6988",
+    "EncyDesc_BluePalm": "",
+    "Ency_SmallFan": "\u5c0f\u98ce\u6247",
+    "EncyDesc_SmallFan": "",
+    "Ency_PurpleFan": "\u7d2b\u8272\u98ce\u6247",
+    "EncyDesc_PurpleFan": "",
+    "Ency_WrithingWeed": "\u6c34\u8349",
+    "EncyDesc_WrithingWeed": "",
+    "Ency_GabeSFeather": "\u52a0\u5e03\u7fbd\u6bdb",
+    "EncyDesc_GabeSFeather": "",
+    "Ency_SeaCrown": "\u6d77\u7687\u51a0",
+    "EncyDesc_SeaCrown": "",
+    "Ency_MembrainTree": "\u819c\u6811",
+    "EncyDesc_MembrainTree": "",
+    "Ency_PinkFlower": "\u7c89\u7ea2\u82b1",
+    "EncyDesc_PinkFlower": "",
+    "Ency_FernPalm": "\u8568\u6811",
+    "EncyDesc_FernPalm": "",
+    "Ency_OrangePetalsPlant": "\u6a59\u8272\u82b1\u74e3",
+    "EncyDesc_OrangePetalsPlant": "",
+    "Ency_EyesPlant": "\u773c\u775b\u690d\u7269",
+    "EncyDesc_EyesPlant": "",
+    "Ency_RedGreenTentacle": "\u7ea2\u7eff\u89e6\u624b",
+    "EncyDesc_RedGreenTentacle": "",
+    "Ency_PurpleStalk": "\u7d2b\u830e\u8349",
+    "EncyDesc_PurpleStalk": "",
+    "Ency_RedBasketPlant": "\u7ea2\u7bee\u690d\u7269",
+    "EncyDesc_RedBasketPlant": "",
+    "Ency_RedBush": "\u7ea2\u704c\u8349",
+    "EncyDesc_RedBush": "",
+    "Ency_RedConePlant": "\u7ea2\u9525\u690d\u7269",
+    "EncyDesc_RedConePlant": "",
+    "Ency_ShellGrass": "\u8d1d\u58f3\u8349",
+    "EncyDesc_ShellGrass": "",
+    "Ency_SpottedLeavesPlant": "\u6591\u53f6\u690d\u7269",
+    "EncyDesc_SpottedLeavesPlant": "",
+    "Ency_RedRollPlant": "\u7ea2\u5377\u8349",
+    "EncyDesc_RedRollPlant": "",
+    "Ency_PurpleBranches": "\u7d2b\u679d",
+    "EncyDesc_PurpleBranches": "",
+    "Ency_SnakeMushroom": "\u86c7\u8611\u83c7",
+    "EncyDesc_SnakeMushroom": "",
+    "Ency_BloodVine": "\u8840\u85e4",
+    "EncyDesc_BloodVine": "",
+    "FeedbackNewReply": "\u4f60\u5df2\u7ecf\u6536\u5230\u5f00\u53d1\u8005\u65b0\u7684\u56de\u590d,\u6309F8\u952e\u9605\u8bfb!",
+    "SurvivorPDA": "\u9057\u5f03\u7684PAD",
+    "Tooltip_SurvivorPDA": "\u4e0b\u8f7d\u6570\u636e",
+    "StarshipCargoCrate": "\u8d27\u7269\u7bb1",
+    "StarshipCircuitBox": "\u7535\u8def\u76d2",
+    "StarshipDesk": "\u529e\u516c\u684c",
+    "StarshipChair": "\u6905\u5b50",
+    "StarshipMonitor": "\u76d1\u63a7",
+    "Tooltip_StarshipCargoCrate": "\u4f46\u8d27\u7269\u5728\u54ea\u91cc?!",
+    "Tooltip_StarshipCircuitBox": "\u590d\u6742\u7684\u7535\u7ebf",
+    "Tooltip_StarshipDesk": "\u529e\u516c\u684c",
+    "Tooltip_StarshipChair": "\u6905\u5b50",
+    "Tooltip_StarshipMonitor": "\u76d1\u63a7",
+    "Techlight": "\u5de5\u4e1a\u7167\u660e\u706f",
+    "Seaglide": "\u6c34\u4e0b\u63a8\u8fdb\u5668",
+    "BaseBulkheadFragment": "\u9694\u79bb\u8231\u95e8\u788e\u7247",
+    "BaseFiltrationMachineFragment": "\u6d77\u6c34\u8fc7\u6ee4\u673a\u788e\u7247",
+    "BaseObservatoryFragment": "\u89c2\u666f\u53f0\u788e\u7247",
+    "BaseUpgradeConsoleFragment": "\u6d77\u86fe\u53f7\u5347\u7ea7\u63a7\u5236\u53f0\u788e\u7247",
+    "ConstructorFragment": "\u8230\u8239\u5efa\u9020\u53f0\u788e\u7247",
+    "PowerTransmitterFragment": "\u80fd\u6e90\u5ef6\u4f38\u5668\u788e\u7247",
+    "RadioFragment": "\u65e0\u7ebf\u7535\u788e\u7247",
+    "ScannerRoomFragment": "\u626b\u63cf\u5ba4\u788e\u7247",
+    "SeaglideFragment": "\u6c34\u4e0b\u63a8\u8fdb\u5668\u788e\u7247",
+    "SolarPanelFragment": "\u592a\u9633\u80fd\u7535\u6c60\u677f\u788e\u7247",
+    "SpecimenAnalyzerFragment": "\u6807\u672c\u5206\u6790\u4eea\u788e\u7247",
+    "TechlightBlueprint": "\u5de5\u4e1a\u7167\u660e\u706f\u84dd\u56fe",
+    "Tooltip_Seaglide": "\u901a\u8fc7\u87ba\u65cb\u6868\u8f6c\u52a8\u6765\u4ea7\u751f\u6c34\u4e0b\u63a8\u52a8\u529b",
+    "Tooltip_TechlightBlueprint": "\u5141\u8bb8\u5efa\u9020\u5de5\u4e1a\u7167\u660e\u706f",
+    "Tooltip_Techlight": "\u7531\u7535\u6c60\u4f9b\u7535,\u4e3a\u6240\u6709\u73af\u5883\u8bbe\u8ba1\u7684\u5de5\u4e1a\u7ea7\u7167\u660e\u8bbe\u5907",
+    "Ency_Techlight": "\u5de5\u4e1a\u7167\u660e\u706f",
+    "EncyDesc_Techlight": "\u7531\u7535\u6c60\u4f9b\u7535\u7684\u6807\u51c6\u6cdb\u5149\u706f,\u8bbe\u8ba1\u5411\u5355\u4e00\u65b9\u5411\u805a\u7126\u660e\u4eae\u7684\u5149,\u5728\u5404\u7c7b\u5de5\u4e1a\u52d8\u63a2\u548c\u7d27\u6025\u60c5\u51b5\u4e0b\u5f88\u6709\u7528,\u53ef\u4ee5\u5e94\u7528\u5728\u6240\u6709\u5df2\u77e5\u7684\u73af\u5883\u4e2d,\u7535\u6c60\u53ef\u4ee5\u66f4\u597d",
+    "Ency_Spotlight": "\u63a2\u7167\u706f",
+    "EncyDesc_Spotlight": "",
+    "OxygenWarning10": "\u8b66\u544a\uff1a\u6c27\u6c14\u542b\u91cf\u4e0d\u8db310",
+    "OxygenWarning30": "\u8b66\u544a\uff1a\u6c27\u6c14\u542b\u91cf\u4e0d\u8db330",
+    "GrowingProgress": "\u751f\u957f\u7387: {0:P0}",
+    "GrowingPlant": "\u6b63\u5728\u751f\u957f {0}",
+    "MelonSeed": "\u751c\u74dc\u79cd\u5b50",
+    "Tooltip_SmallKoosh": "\u5c0f\u578b\u5e93\u68d5,\u4e00\u79cd\u672c\u571f\u690d\u7269",
+    "Tooltip_MediumKoosh": "\u4e2d\u578b\u5e93\u68d5,\u4e00\u79cd\u672c\u571f\u690d\u7269",
+    "Tooltip_LargeKoosh": "\u5927\u578b\u5e93\u68d5,\u4e00\u79cd\u672c\u571f\u690d\u7269",
+    "Tooltip_HugeKoosh": "\u5de8\u578b\u5e93\u68d5,\u4e00\u79cd\u672c\u571f\u690d\u7269",
+    "Tooltip_BulboTree": "\u9762\u5305\u6811,\u4e00\u79cd\u53ef\u98df\u7528\u7684\u672c\u5730\u690d\u7269",
+    "Tooltip_OrangeMushroom": "\u6a59\u8272\u8611\u83c7,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_PurpleVasePlant": "\u7d2b\u830e\u74f6,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_MelonPlant": "\u751c\u74dc,\u4e00\u79cd\u53ef\u98df\u7528\u7684\u672c\u5730\u690d\u7269",
+    "Tooltip_PurpleBrainCoral": "\u7d2b\u8272\u7684\u8111\u72b6\u73ca\u745a,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_SpikePlant": "\u864e\u76ae\u690d\u7269,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_BluePalm": "\u84dd\u68d5\u6988,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_PurpleFan": "\u7d2b\u8272\u98ce\u6247,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_SmallFanCluster": "\u5c0f\u98ce\u6247\u690d\u7269\u7fa4",
+    "Tooltip_PurpleTentacle": "\u6c34\u8349,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_GabeSFeather": "\u52a0\u5e03\u7fbd\u6bdb,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_SeaCrown": "\u6d77\u7687\u51a0,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_MembrainTree": "\u819c\u6811,\u5916\u8868\u900f\u660e\u7684\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_PinkFlower": "\u7c89\u7ea2\u7684\u82b1,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_FernPalm": "\u8568\u6811,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_OrangePetalsPlant": "\u957f\u6709\u6a59\u8272\u82b1\u74e3\u7684\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_EyesPlant": "\u773c\u775b\u690d\u7269,\u4e00\u79cd\u957f\u4e86\u773c\u775b\u7403\u9897\u7c92\u7684\u672c\u5730\u690d\u7269",
+    "Tooltip_RedGreenTentacle": "\u7ea2\u7eff\u89e6\u624b,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_PurpleStalk": "\u7d2b\u830e\u8349,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_RedBasketPlant": "\u7ea2\u7bee\u690d\u7269,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_RedBush": "\u7ea2\u704c\u8349,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_RedConePlant": "\u7ea2\u9525\u690d\u7269,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_ShellGrass": "\u8d1d\u58f3\u8349,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_SpottedLeavesPlant": "\u6591\u53f6\u690d\u7269,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_RedRollPlant": "\u7ea2\u5377\u8349,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_PurpleBranches": "\u7d2b\u679d,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_SnakeMushroom": "\u86c7\u8611\u83c7,\u4e00\u79cd\u672c\u5730\u690d\u7269",
+    "Tooltip_MelonSeed": "\u751c\u74dc\u7684\u79cd\u5b50",
+    "Tooltip_BlueJeweledDisk": "\u84dd\u5b9d\u77f3\u76d8",
+    "Tooltip_GreenJeweledDisk": "\u7eff\u5b9d\u77f3\u76d8",
+    "Tooltip_PurpleJeweledDisk": "\u7d2b\u5b9d\u77f3\u76d8",
+    "Tooltip_RedJeweledDisk": "\u7ea2\u5b9d\u77f3\u76d8",
+    "Tooltip_TreeMushroom": "\u6811\u8611\u83c7",
+    "Tooltip_BigCoralTubes": "\u5927\u73ca\u745a\u7ba1",
+    "Tooltip_CoralShellPlate": "\u73ca\u745a\u677f",
+    "Goal_HolyDiver": "You've been down too long in the midnight sea. Oh don't you see what I mean?",
+    "RadioBounceBack": "This is an automated bounce back from the Aurora Mining Vessel. Your distress signal has been received. An emergency relief team will be dispatched to your location. *Static* Estimated arrival time: 9...9...9...9...9 hours.",
+    "RadioLifepod17": "This is an automated distress signal from Aurora Lifepod 17. Co-ordinates attached. Please send immediate emergency relief team.",
+    "RadioSecondOfficer": "This is Second Officer Keen, broadcasting to all surviving Aurora crew! Captain Hollister is gone. I have assumed command. The computer has identified dry land approximately 750m south of the crash site. Your orders are to stay together, ensure your immediate safety, and then regroup at the attached rendezvous co-ordinates. Good luck. Over and out.",
+    "RadioWarper1": "Nine new biological subjects designated. Mode switch: hunting\/analyzing. Sharing subject locations with other agents.",
+    "RadioLifepod7": "This is Aurora Senior Engineer LaFette, broadcasting from Lifepod 7! We have survived impact, but flotation devices have failed to deploy and we are sinking! Co-ordinates attached! Will attempt repair! Anticipate losing radio contact at- *Static*",
+    "RadioWarper2": "Subject 11783 destroyed. Mode switch: patrol. New targets unaccounted for: 1.",
+    "RadioPrecursor1": "Karflaget gertrupop flayra. Troflagot e aitrart. Trankeboop. Askrinol forlaget yarma aquit e flyra e aitrart escimay.",
+    "RadioPassingShip": "This is trade vessel Sunbeam. Aurora, we've received your emergency transmission and your co-ordinates have been recorded. Wish we had better news for you, but we just aren't equipped to assist you at this time. We're anticipating arrival at the nearest starbase in approximately 461 earth days, that's four, six, one days. We will at that time pass on your emergency message to the appropriate corporate authority. You hold on in there, alright? Sunbeam out.",
+    "HintMouseLook": "Use mouse to look around",
+    "HintWSADToMove": "WSAD to move",
+    "HintLMBToPickupFireExtinguisher": "LMB to pickup fire extinguisher",
+    "HintRMBToUseFireExtinguisher": "RMB to use fire extinguisher",
+    "HintTabToOpenClosePDA": "Press TAB to open or close PDA",
+    "HintSuccess": "Excellent!",
+    "PDABootingEmergency": "BOOTING IN EMERGENCY MODE",
+    "PDABootingLoading": "LOADING
+[ {0}% ]",
+    "EscapePodStorageOpen": "Open storage container",
+    "EscapePodMedKitOpen": "Open med cabinet",
+    "EscapePodMedKitClose": "Close med cabinet",
+    "EnergyPercent": "Energy: {0:P0}",
+    "FuelPercent": "Fuel: {0:P0}",
+    "Weld": "Weld",
+    "Tooltip_MedicalCabinet": "Fabricates a medical kit every 30 minutes.",
+    "Tooltip_FireExtinguisher": "Keeps fires in check.",
+    "Damaged": "Damaged ",
+    "Pickup_FireExtinguisher": "Pickup Fire Extinguisher",
+    "FireExtinguisher_Douse": "Extinguish the Fire",
+    "MedicalCabinet": "Medical Kit Fabricator",
+    "MedicalCabinet_DoorClose": "Close",
+    "MedicalCabinet_DoorOpen": "Open",
+    "MedicalCabinet_PickupMedKit": "Pick Up First Aid Kit",
+    "DamagedWires": "Damaged Lifepod Systems",
+    "WeldToFix": "Use welder to repair",
+    "IntroEscapePod1Header": "LAUNCH SEQUENCE ACTIVE!",
+    "IntroEscapePod1Content": "Detachment from Aurora: OK.
+Crew restraints: secure.
+Entering planetary atmosphere.
+G-force approaching hazardous levels.
+Brace for impact.",
+    "IntroEscapePod1Power": "POWER CELLS 1-3 ONLINE",
+    "IntroEscapePod2Header": "EMERGENCY!",
+    "IntroEscapePod2Content": "Collision detected.
+Flotation devices deployed.
+Fire detected in lifepod interior.
+CO2 approaching hazardous levels.
+Secondary systems: offline.
+Hatches: malfunctioning.",
+    "IntroEscapePod2Power": "MAIN POWER OFFLINE",
+    "IntroEscapePod3Header": "WARNING!",
+    "IntroEscapePod3Content": "Multiple errors detected in lifepod power systems.
+Circuitry test: failed.
+Secondary systems: offline.
+Gravity anchor: offline.
+Lifepod hull integrity: OK.",
+    "IntroEscapePod3Power": "POWER CELLS 1-3 ONLINE",
+    "IntroEscapePod4Header": "STATUS: OK",
+    "IntroEscapePod4Content": "Hull integrity: OK.
+Secondary systems: online
+Gravity anchor: online.
+Lifepod hull integrity: OK.
+Scanning all emergency frequencies.",
+    "IntroEscapePod4Power": "MAIN POWER ONLINE",
+    "EncyPath_DownloadedData\/Degasi": "Degasi Survivors",
+    "Ency_WreckAuxOrders": "Aurora Auxiliary Mission Orders",
+    "EncyDesc_WreckAuxOrders": "SENIOR PERSONNEL ONLY
+
+Mission type: Search & Rescue
+Mission target: Crew of the Mongolian Empire vessel 'Degasi'
+Mission location: Ariadne Arm, 3 light years beyond furthest phasegate
+Mission contact: Emissary Jochi Khasar, Aurora Passenger Quarters, Room 4
+
+Mission brief:
+Aurora is due to pass through System 2001 approximately 13 months post-launch. The Aurora is scheduled to perform a gravity slingshot maneuver around planet 4546B. This will bring you within range of the Degasi's last known position.
+
+The Mongolian Empire lost contact with private vessel 'Degasi' 18 months after it left colonized space. The Empire has purchased passage aboard Aurora for Emissary Khasar, and your orders are to afford him every reasonable facility to locate and, if appropriate, retrieve Degasi crewmembers, without compromising the primary mission.
+
+Degasi crew manifesto has been distributed to senior officers in a separate data package.
+
+Mission classification:
+Aurora crew should not be informed of this mission until such time as their co-operation in locating or retrieving Degasi crew is required. It should be stressed that humanitarian auxiliary missions fall outside normal remuneration structures.",
+    "Ency_PaalTorgalBio": "Search & Rescue: Paal Torgal ",
+    "EncyDesc_PaalTorgalBio": "SENIOR PERSONNEL ONLY
+
+Auxiliary Search & Rescue Target: Paal Torgal
+Position: Chief Executive Officer of Torgaljin Corp, Captain of the 'Degasi'
+Status: Lost in space, Ariadne Arm
+Age at time of disappearance: 79
+
+Paal Torgal and his crew fell out of contact with Mongolian authorities ten years ago while travelling through System 2001. The vessel was insured for opportunistic search and rescue, and multiple vessels passing through the system have since attempted to trace the ship to no effect.
+
+    - Made majority shareholder in Torgaljin Corp. by his mother upon her retirement
+    - Interaction with Alterra limited to infrequent chartered munitions deliveries
+    - Beneficiary of life extension technologies
+    - Accompanied by his only child, Baat Torgal (19), heir to the Torgaljin Coproration
+    - Mongolian emissary Khasar reports Torgal frequently travelled with fewer than the minimum skeleton crew
+    - Inadequate systems maintenence may account for the ship's disappearance",
+    "Ency_BaatTorgalBio": "Search & Rescue: Baat Torgal",
+    "EncyDesc_BaatTorgalBio": "SENIOR PERSONNEL ONLY
+
+Auxiliary Search & Rescue Target: Baat Torgal
+Position: Vice President of Torgaljin Corp.
+Status: Lost in space, Ariadne Arm
+Age at time of disappearance: 19
+
+    - The only child of Paal Torgal
+    - Beneficiary of enhanced learning techniques and cerebral implants
+    - Digi-trained in advanced biochemistry and stellar economics
+    - Mongolian emissary Khasar reports Baat was accompanying his father, Paal, to a newly constructed space station where he was to serve a five year term as Chief Operating Officer",
+    "Ency_MargueritMaidaBio": "Search & Rescue: Paal Torgal",
+    "EncyDesc_MargueritMaidaBio": "SENIOR PERSONNEL ONLY
+
+Auxiliary Search & Rescue Target: Marguerit Maida
+Position: Security Personnel
+Status: Lost in space, Ariadne Arm
+Age at time of disappearance: 42
+
+    - Freelance mercenary, born in the Mongolian Empire
+    - Experienced in ship-to-ship and close quarters combat techniques
+    - Tours of duty with the Mongolian Defense Force and the Trans-Federation Military Police
+    - Dishonourably discharged from the TSA 15 years ago for going off mission (details classified)
+    - Mongolian emissary Khasar reports Maida was hired to accompany Paal Torgal onboard the Degasi into uncharted space and defend the ship in case of pirate assault",
+    "Ency_AuroraLaunchNews": "Alterra Launches the Aurora",
+    "EncyDesc_AuroraLaunchNews": "PHASEGATE ANNOUNCED FOR THE ARIADNE ARM: ALTERRA LAUNCHES THE AURORA
+
+The furthest reaches of inhabited space are due to expand, as Alterra Technologies launches the Aurora, a newly-constructed capital ship carrying state-of-the-art phasegate technology, bound for the Ariadne Arm. 
+
+The Aurora will travel from spacedock on the edge of Alterra space, making 324 consecutive warpgate jumps through nine different trans-gov authorities, and arrive on the far side of the Ariadne Arm of solar systems in approximately three months. From there the 100-strong crew will pilot the ship beyond the furthest warpgate, arriving in Solar System 84763 approximately 12 months later.
+
+There the elite team of engineers will begin a 6 month construction project which will see the new phasegate fully operational less than two years from today. The crew will be eager to complete the work on time, since the phasegate represents their fastest route home.
+
+Alterra Technologies currently operates 9% of all phasegates in the galaxy. If the Aurora's mission is successful Alterra will have outmaneuvered various private interests in the Mongolian Empire, which have to date established a number of outposts and mining operations in the region.
+
+The launch ceremony proceeded with the usual fanfare...",
+    "Ency_IslandsPDABase1Interior": "Paal Torgal's Log #1",
+    "EncyDesc_IslandsPDABase1Interior": "I am Paal Torgal, Chief Executive Officer of the Torgaljin Corporation. My crew and I were marooned here 5 weeks ago when our ship was struck by some kind of weapon. 
+
+We constructed a habitat using materials reclaimed from the ship. We survived by cultivating indigenous flora. The biochemistry imprint I commissioned for my son has already paid for itself. He has grown enough food to last us a month.
+
+Now I fear for our safety. A mercenary I hired for the journey, Marguerit Maida, is increasingly disturbed. She insists we abandon this site and establish a habitat underwater. I fear she may take steps to sabotage our habitat here to enforce her own agenda. Nonetheless, and against my better judgement, I have acquiesced to her request to scout for a suitable aquatic site. My hope is she will quickly realize how unforgiving the ocean is, and abandon this foolish ambition.",
+    "Ency_IslandsPDABase1a": "Baat Torgal's Log #6?",
+    "EncyDesc_IslandsPDABase1a": "I messed up. Real bad this time.  It's been two days since what happened. We never should have left this island. I shouldn't have listened to them. We shouldn't have gone so deep. They don't want us down there. They don't trust us. I knew it and I didn't say. I could see it, and they couldn't, and now they're stuck down there, and I'm up here, alone. I deserve this.",
+    "Ency_IslandsPDABase1bDesk": "Degasi Voice Log #1",
+    "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT: It won't work, Chief. We salvaged enough scrap from the Degasi for, what, a couple of observatories?
+PAAL: It'll be enough.
+MARGUERIT: For now. And then we'll run out. Ain't no building materials on this island. We're gonna have to get our feet wet. No other way. 
+PAAL: This island is safe. There's fertile land. No predators. Shelter from the elements.
+MARGUERIT: All we'd need is a water filtration system, some hull reinforcements, maybe a thermal plant or two...
+PAAL: I've made my decision. You want to forfeit your commision just to take a swim?
+MARGUERIT: Believe me, I'm thinking on it.
+BAAT: Those mountains look like they get the most of the sun. If we built observatories up there I think I could grow enough food to keep us all alive. I think this could work.
+PAAL: You hear that? You think you know better than 10 million credits of biochem training?
+MARGUERIT: It's not the kid I doubt. All I'm sayin' is, ocean's got us surrounded. No use hiding.
+PAAL: No. This is where we build. This is how we survive.",
+    "Ency_IslandsPDABase1Desk": "Degasi Voice Log #2",
+    "EncyDesc_IslandsPDABase1Desk": "PAAL: Your life is worth more. I forbid you go out there.
+BAAT: I stopped needing your permission when the ship you were captaining sunk.
+PAAL: You will stop needing my permission the day I cease to be your father!
+MAIDA: Say, Chief. Chief! 
+PAAL: What?
+MAIDA: Do you know how to drain those grow beds out there of 40 tons of storm water? Or where we'll find food for three people for the next two weeks?
+PAAL: You know I don't.
+MAIDA: So what's your boy's life worth to you today, if next week you're gonna be so hungry you start wondering what he tastes like? Let him go cover the plants.
+PAAL: Son, go cover the plants.
+CPU: Baat Torgal is no longer aboard the habitat.
+PAAL: Interfere with my family again and when the rescue team arrives I will leave you here. You understand me?
+MAIDA: No rescue coming, Chief. Not in time. And no stayin' here, neither. This rain keeps falling, and sooner or later this place'll be buried. Only choice we've got is whether we get buried with it.
+PAAL: Stay away from my boy.",
+    "Ency_IslandsPDAExterior": "Degasi Voice Log #3",
+    "EncyDesc_IslandsPDAExterior": "MARGUERIT: You see, Chief? You brought us to this fracking planet. You told us we'd see a lush payday. Now what do we got? Half of us dead. A pile of fracking dirt in our front room. Rain coming in the through the windows.
+PAAL: And you would have avoided this how?
+MARGEURIT: I woulda started by not taking an unscheduled detour. You NEVER go off course. That's something you gotta learn the hard way. Now you know.
+PAAL: What exactly do you propose?
+MARGEURIT: You want to waste what time you have left lugging titanium up from the seabed? Or you want to hit this thing head on?
+PAAL: If we build underwater, what will we do for food? Drinking water? Power?
+MARGEURIT: We'll go fishing. Build water filters. We go deep enough we gotta find thermal vents - we'll have more power than we could ever use. Chief, we'll eat fracking seaweed salad if that's what it takes. Or you got something better?
+BAAT: I think I could make a good seaweed salad.
+PAAL: Son, the adults are talking.
+BAAT: I'm serious, father. If I can grow fruit on the land, I can grow seaweed underwater. We can farm fish. Father, I kept us alive this long. I can keep on doing it.",
+    "Ency_JellyPDABrokenCorridor": "Degasi Voice Log #4 - Jellyshroom Arrival",
+    "EncyDesc_JellyPDABrokenCorridor": "BAAT: This place is rad.
+PAAL: It's not what I expected. Have you factored in the pressure on the hull construction?
+MARGUERIT: I reinforced the hull, installed bulkhead doors.
+PAAL: Of course.
+BAAT: We could build an observatory deck. We could learn a lot here.
+MARGUERIT: Now, the foundations... they're not in the best of shape. But I guarantee you, if this place comes loose it won't be the fall that kills us.",
+    "Ency_JellyPDARoom2Desk": "Degasi Voice Log #5 - Deeper?!",
+    "EncyDesc_JellyPDARoom2Desk": "PAAL: We're already 300m below sea level! You want to go DEEPER?!
+MARGUERIT: Look around us, Chief. You know what I see? Water. Water leaking through the hull. Water outside the hatch. Water above me, water below me. It's all freaking water, Chief. We're drowning. Real slow. You want to live out your few remaining days eating fruit on the beach afraid to get your toes wet? 
+PAAL: What is it YOU want?
+MARGUERIT: I want to know how to get off this freaking planet.",
+    "Ency_JellyPDAObservatory": "Baat Torgal's Log #1",
+    "EncyDesc_JellyPDAObservatory": "OK, get this. We ran out of enamelled glass we salvaged from the shipwreck so it looked like we couldn't build the observatory. And Marguerit, here's what she does - she takes the Seamoth out to the kelp forests, armed with just a heatblade, and freaking wrestles a stalker to the seafloor and brings back its teeth. 
+
+She entered hand-to-hand combat with an alien shark and brought home it's TEETH. Now we can fabricate all the enamel we need.
+
+On one hand, that is the most badass thing I ever heard, and now I'm sitting in this sweet observatory watching biters tap harmlessly at the glass.
+
+On the other hand, was it worth it? Did that creature survive? How fast do their teeth grow? Is there a way to manufacture materials without harming the ecosystem here?
+
+If we had a full size aquarium we could study these lifeforms up close. Find the answers.",
+    "Ency_JellyPDARoom1Desk": "Baat Torgal's Log #2",
+    "EncyDesc_JellyPDARoom1Desk": "We've been living in this habitat a month now. It used to be exciting, but it's more claustrophobic than I thought. There are so many predators in these caves that Marguerit is just about the only person that gets to go out there.
+
+All the same, the life down here is INCREDIBLE. Marguerit has been bringing back the wildest specimens you could imagine. OK, the plantlife is inedible. I learnt that the hard way. But the fish... down here they GLOW. There's one that's 90% eyeball. Snakes the length of two glass corridor sections.
+
+It's not easy without a proper lab and equipment, but sometimes the old fashioned way - observing, taking notes, testing theories - reveals things a spectroscopic analysis never would. 
+
+For example, I've been watching the sea snakes that make their homes in the purple mushrooms that grow here. They await their prey, and strike when small herbivores stray too close. What they don't consume settles on the seabed, which fertilizes the mushrooms, which feed the herbivores, and the chain continues. Co-evolution just blows my mind.",
+    "Ency_JellyPDARoom1Locker": "Paal Torgal's Log #2",
+    "EncyDesc_JellyPDARoom1Locker": "You know what Maida asked me today? 'Have you heard of a Cyclops Submarine?' she asks me. ME. I've hauled starwhals to Neptune, plasteel to the Federation... this family operates nine different mining colonies across the Ariadne Arm. She thinks I don't know what a Cyclops is?! She thinks she's in charge? Her contract still says otherwise.
+
+So she wants to build a habitat at 700m below sea level, a kilometre east of here. And she needs Baat and I to pull it off. She's got it into her head that there's no rescue coming. That she can save us if she just acts recklessly enough.
+
+And I just cannot goddamn tell whether it's the stupidest idea I ever heard, or my only hope. I turned 80 years old last week. I thought I had another 80 in me yet. But stuck here, there's no swapping out my liver when the old one fails. Down here, I'm mortal. And I'm running out of time.
+
+So it's my responsibility to make a decision. Return to the island and hope whatever knocked the Degasi out of the sky won't do the same to the rescue ship, or take us deeper in search of answers. And all the while be hoping old age gets me before the seamonsters do.
+
+I'll give Maida just one thing. She was right about these caves. There's enough lithium here to fabricate a hundred tons of plasteel. Enough for a damn FLEET of submarines. There was nothing anyone could have done to avoid crashing here, but I was right to order the detour. When we get off this planet they'll be talking about the Torgaljin Corp. share price on the other side of the Federation.",
+    "Ency_JellyPDAExterior": "Marguerit Maida's Log #1",
+    "EncyDesc_JellyPDAExterior": "These freaking corporate, bourgeois, inbred, incompetent, self-absorbed ASSHOLES don't have a FRIGGING clue. I swear every single thing that comes out of that idiot's face is a narcissistic lie. He wants to stay here, his problem.  I'm the one doing the heavy lifting. Screw the contract. Screw the bonus pay. Screw the charges. I'm building that sub and I'm going deeper.
+
+I've started preparing for the operation. The kid's alien petting zoo was worth chipping in for. No need to visit the surface for stalker teeth when he's got a whole school of them whipped to eat the fish from the palm of his hand. I've started defanging them when the Torgals are sleeping, and stockpiling enamel and metal ores for construction of the sub.
+
+When fracking seamonsters are hunting you, you don't run and hide. You hunt the fracking seamonsters. Then you build a bigger boat out of the bones of your vanquished foes and go hunt bigger monsters. Repeat until there aren't any monsters left to hunt you.",
+    "Ency_JellyPDARoom2Locker": "Degasi Voice Log #6 - Curious Discovery",
+    "EncyDesc_JellyPDARoom2Locker": "PAAL: What is that thing?
+MARGUERIT: I don't know.
+PAAL: Part of another ship?
+MARGUERIT: None I've ever seen.
+BAAT: It's in such good condition. It's not even scratched. It could originate here, on this planet.
+PAAL: Don't touch it, it could be valuable. I said don't touch it!
+MARGUERIT: Stand down, Chief, I'm just lookin'. If it were goin' to crumble to dust it woulda done so when I picked it up.
+BAAT: It's glowing.
+PAAL: It's still powered? Someone else was here recently.
+BAAT: Either that, or so long ago that no one remembers.",
+    "Ency_DeepPDABase3": "Degasi Voice Log #7",
+    "EncyDesc_DeepPDABase3": "BAAT: Stop it, both of you! We're sick.
+MARGUERIT: What?
+PAAL: How?
+BAAT: You've been coughing, right? Feeling itchy?
+MARGUERIT: Yeah.
+BAAT: We've been sick since we started breathing the air.
+PAAL: The suit biometrics would have warned us.
+BAAT: It's something new. A bacterial infection.
+MARGUERIT: What does it do?
+BAAT: Nothing much, so far. But it's smart. With enough time I think it could begin altering our genetic structure. Things get gross after that.
+PAAL: What can you do?
+BAAT: I think I can slow it down. 
+PAAL: How did you find it?
+BAAT: It's everywhere, I just couldn't see it. Everything on this planet is infected. It's pretty much just part of the ecosystem.
+MARGUERIT: How bad can it be if everything's got it?
+BAAT: The local lifeforms must have developed coping mechanisms. We haven't.
+PAAL: Yet. You have my full faith, son, that you'll figure this out for us.
+MARGUERIT: Tell me what you need, kid.",
+    "BaseMapRoomFragment": "Scanner Room Blueprint",
+    "BaseMapRoom": "Scanner room",
+    "Tooltip_BaseMapRoom": "Scanner Room",
+    "RecipeUnlocked": "{0} recipe unlocked",
+    "TechTypeUnlocked": "{0} unlocked",
+    "MapRoomCameraInfo": "Camera {0}",
+    "MapRoomCameraControls": "Press mouse buttons to cycle between cameras",
+    "MapRoomCameraDistance": "DISTANCE: {0}",
+    "MapRoomCameraDepth": "DEPTH: {0}",
+    "EncyPath_DownloadedData\/Lifepods": "Lifepods",
+    "EncyPath_DownloadedData\/AuroraSurvivors": "Aurora Survivors",
+    "Ency_Lifepod1": "Danby's Flight Recorder",
+    "EncyDesc_Lifepod1": "This is medical officer Danby, I'm breaking atmosphere at high velocity, planetfall in 20 seconds! *Explosion* Taking fire! Going into a spin! Attempting- *Static*",
+    "Ency_Lifepod2": "Lifepod Flight Recorder #1",
+    "EncyDesc_Lifepod2": "PASSENGER: We're sinking!
+CREW: Ma'am, I'm doing everything that I can!
+PASSENGER: Where are the support teams?!
+CREW: They're on their way, Ma'am!
+PASSENGER: That's not what he said on the radio!
+CREW: Ma'am, I have to ask you to stay where you are! The computer hasn't completed situational analysis, we've no idea what's out there!
+PASSENGER: I will not drown in here!
+CREW: Ma'am, come back, it's not safe!
+*Reaper sounds*",
+    "Ency_Lifepod3": "Engineers' Flight Recorder",
+    "EncyDesc_Lifepod3": "PDA: Situational analysis complete. Communications relay offline.
+ENGINEER 1: Frack it! How are we going to make the rendezvous without a radio signal?
+ENGINEER 2: We have a compass bearing. We'll have to do it the old fashioned way.
+ENGINEER 1: You want to fabricate a compass?
+ENGINEER 2: Why stop there? If we find the others, we can build stillsuits. Construct habitats. Maybe even make it to the Aurora and reactivate the interstellar communications. You have a welder?
+ENGINEER 1: Yeah I- Damn it, I left it in the exo bay.
+ENGINEER 2: Don't sweat.
+ENGINEER 1: No, I fracked up.
+ENGINEER 2: No, we can do this. All we need is some basic materials. This planet can't be barren. Let's get out there and find out.",
+    "Ency_Lifepod4": "Emissary Khasar's Flight Recorder",
+    "EncyDesc_Lifepod4": "Blackbox Data #345
+00:00 Lifepod systems online.
+00:03 Passenger 07 'Emissary Jochi Khasar' has boarded the lifepod.
+00:07 Lifepod launch sequence initiated.
+00:15 Lifepod detached from Aurora OK.
+00:17 Onboard microphones detecting voice communications, recording:
+'Our creators, who art gracious and merciful, hallowed be thy names. Praise be to you, the glorious one, the cherisher and sustainer of worlds. Give us this day our daily goods, and allow us our pleasures, as we allow those who seek pleasure from us.'
+
+00:33 Entering planetary atmosphere.
+00:35 External temperature approaching critical levels.
+
+00:37 'Show us the straight path, the path of those you favor. In Life, Truth, Love, the wholeness of reality. In Substance, Principle and Mind, man is its image and likeness. For ours is the power, we are the one. For ever and ever. Athem.'
+
+01:02 Exterior hull damage sustained.
+01:05 Life support systems failed.
+01:06 Impact imminent.",
+    "Ency_LifepodSeaglide": "Lifepod Voicelog #1",
+    "EncyDesc_LifepodSeaglide": "This may be my last report. The lifepod made planetfall intact, but now it's surrounded by some kind of aquatic alien predator. They're encased in a carapace armour, and attack the moment I open the hatches. The first one that came at me I attacked with the survival knife, but it got lodged in the armor layers. Tried distracting them with flares - no effect. No propulsion cannon available. No stasis rifle. No chance. 
+
+I've stripped some of the lifepod electrics to manufacture a seaglide. My only hope is I can outrun them. Wish me luck.",
+    "Ency_LifepodKeenDialog": "Officer Keen's Flight Recorder",
+    "EncyDesc_LifepodKeenDialog": "CAPTAIN: Keen! This is Aurora, come in!
+KEEN: I hear you, Captain!
+CAPTAIN: The computer has identified a landmass at the attached coordinates! I want you to regroup the crew there!
+KEEN: Understood, but-
+CAPTAIN: They're your responsibility now, don't let me down!
+KEEN: Captain, you need to evacuate!
+*Explosion aboard the Aurora*
+KEEN: Captain?!",
+    "Ency_LifepodKeenLog": "Officer Keen's Log #1",
+    "EncyDesc_LifepodKeenLog": "To all crew - If you are reading this then you have followed the automatic distress signal broadcast by this lifepod's onboard computer, contrary to protocol. My lifepod was damaged on impact and I am forced to evacuate. Your orders are to disregard my safety and attempt to reach the designated regroup co-ordinates at the nearest landmass. I hope to see you there.
+
+- Second Officer Keen",
+    "Ency_LifepodCrashZone1": "Lifepod Voicelog #2",
+    "EncyDesc_LifepodCrashZone1": "CREW: I need you to stay calm. The hull's secure. We're not in immediate danger.
+PASSENGER: Where are the rescue teams?!
+CREW: The Aurora didn't make it, Ma'am.
+PASSENGER: What do you mean?
+CREW: They're dead, ma'am. They're all dead.
+PASSENGER: What do you intend to do about it?
+CREW: We can't wait here for rescue. We're going to have to fabricate radiation suits and make for the crash site.
+PDA: Detecting local metal deposits.
+CREW: The PDA's interfacing with the fabricator okay. We'll have to go outside for the materials.
+PASSENGER: We?! It's your job, isn't it? To look after the passengers!
+CREW: Within reasonable parameters.
+PASSENGER: I beg your pardon?
+CREW: Forget it, I'll go. Just don't assume I'll find enough materials for the both of us.",
+    "Ency_LifepodCrashZone2": "Lifepod Voicelog #3",
+    "EncyDesc_LifepodCrashZone2": "*Hatch closes*
+CREW: *Coughing* Here, take this.
+PASSENGER: What do I do?!
+CREW: I pre-programmed the fabricator, just plug in the materials!
+FABRICATOR: Radiation suit fabricated.
+PASSENGER: It says there's only enough materials for one.
+CREW: It's all I could find. You'll have to take it.
+PASSENGER: To be clear, you want me to leave you here?
+CREW: Frack me, no! Find Officer Keen at the rendezvous, and send someone back for me with anti-rad meds, you incompetent, ungrateful-
+PASSENGER: Well if that's going to be your attitude-
+CREW: *Violent coughing*
+PASSENGER: OK, OK, I'm going!
+*Hatch opens*
+CREW: And stay clear of the crash zone in case the drive core goes up!",
+    "Ency_LifepodCTODialog1": "CTO Voicelog #1",
+    "EncyDesc_LifepodCTODialog1": "CTO: We're sinking! The flotation devices must have failed!
+TECHNICIAN: Should we evacuate?!
+CTO: No! The seafloor shouldn't be more than a couple hundred meters down. We're safer in here than out there.
+TECHNICIAN: There's water coming in!
+CTO: Wait, I can reconfigure the O2 system to act as a bilge!
+TECHNICIAN: It's working!
+*Crash*
+CTO: You okay?!
+TECHNICIAN: I think so...
+CTO: OK, good news or bad?
+TECHNICIAN: Good.
+CTO: We're alive, and we've stopped sinking.
+TECHNICIAN: Bad?
+CTO: The O2's going to run out in 30 minutes!
+TECHNICIAN: Frack! What do we do?
+CTO: Let me think.",
+    "Ency_LifepodCTODialog2": "CTO Voicelog #2",
+    "EncyDesc_LifepodCTODialog2": "*Sound of water inside the lifepod*
+CTO: According to these pressure readings we've sunk more than 400m.
+TECHNICIAN: So let's just build a flotation device, or a seaglide, and make for the surface.
+CTO: We'll never make it without air tanks. It's too far.
+TECHNICIAN: *Spluttering* I don't want to pressure you, but my feet aren't touching the floor anymore.
+CTO: I've got it! There's another lifepod nearby, a hundred meters from here. If we can make it there, we can resupply our O2 tanks then head for the surface!
+TECHNICIAN: What if that pod's screwed too?!
+CTO: Then we're screwed too, but no more than we are already!
+TECHNICIAN: I'm ready.",
+    "Ency_LifepodCTOLog1": "CTO Log #1",
+    "EncyDesc_LifepodCTOLog1": "Entry 1
+Screw this planet! Technician Berkeley and I were forced to abandon our lifepod when it hit the ocean floor. We swam for this pod, but Berkeley ran out of air on the way here. And I don't know how, but we're not in open water. There's no natural light here. There's a roof overhead, and no obvious way out. Lifepod must have rolled down into a cave system of some kind. Might be I can use a dive reel and compass to chart a way out. Might be I'm going to breathe my last down here.
+
+Entry 2
+Two hours since the first pod sunk. I've tried exploring the area. There's no air pockets. No overhead exit. If I had plasteel I could build an air tank, a submersible, anything! But as it is I can only explore so far before I'm forced back to this lifepod. I have to find another way.
+
+Entry 3
+I've managed to cobble together a rebreather and explore a bit further. I've found an incline heading up. Not clear whether it's part of the cave wall, or the way out. One way to know for sure.
+
+Entry 4
+Daylight! It was definitely daylight, I'm sure of it. I swam as far as I could. Next time I have to go past the point of no return and take my chances. If any rescue party finds this, please retrieve Berkeley's body, if the fish don't get to it first. I will now attempt to make it to the surface and regroup with Keen and anyone else that made it. 
+
+- Chief Technical Officer Yu",
+    "Ency_LifepodCTOLog2": "CTO Log #2",
+    "EncyDesc_LifepodCTOLog2": "This beacon marks the beginning of a major cave system. Strong currents dragged our lifepod down. Do not pass this point for fear of death.
+
+- Chief Technical Officer Yu",
+    "MapRoomCameraNoSignal": "NO SIGNAL",
+    "MapRoomCamera": "Camera drone",
+    "Tooltip_MapRoomCamera": "A controllable camera.",
+    "Presentation": "Presentation",
+    "Quality": "Quality",
+    "VRRenderScale": "VR render scale",
+    "Apply": "Apply",
+    "HorizontalSensitivity": "Horizontal sensitivity",
+    "VerticalSensitivity": "Vertical sensitivity",
+    "InvertLook": "Invert look",
+    "EnableController": "Enable controller",
+    "ResetToDefault": "Reset to Defaults",
+    "Deconstruct": "Deconstruct",
+    "Construct": "Construct",
+    "CyclopsWelcomeNoPower": "Cyclops: Warning: Emergency power only. Oxygen production offline.",
+    "AssignQuickSlot": "assign quick slot",
+    "Eat": "eat",
+    "Use": "use",
+    "Place": "place",
+    "Drop": "drop",
+    "SwitchContainer": "switch container",
+    "SeamothWelcomeNoPower": "Seamoth: Warning: Emergency power only. Oxygen production offline.",
+    "BaseWelcomeNoPower": "Base: Warning: Emergency power only. Oxygen production offline.",
+    "MapRoomCameraConnecting": "CONNECTING",
+    "StarshipChair2": "Chair 2",
+    "StarshipChair3": "Chair 3",
+    "Tooltip_StarshipChair2": "Surprisingly comfy.",
+    "Tooltip_StarshipChair3": "Surprisingly comfy.",
+    "1": "2"
+}

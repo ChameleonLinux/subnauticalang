@@ -1,0 +1,2201 @@
+{
+    "NewGame": "Nov\u00e1 hra",
+    "New Game Tooltip": "VSTUPTE DO SV\u011aTA SUBNAUTICA",
+    "ContinueGame": "Pokra\u010dovat ve h\u0159e",
+    "Exit Tooltip": "VRA\u0164TE SE NA HLADINU",
+    "Survival": "P\u0159e\u017eit\u00ed",
+    "Freedom": "Voln\u00e1 hra",
+    "Hardcore": "Hardcore",
+    "Back": "Zp\u011bt",
+    "LatestNews": "Novinky",
+    "NewsLoading": "Nahr\u00e1v\u00e1n\u00ed...",
+    "Language": "Jazyk",
+    "Resolution": "Rozli\u0161en\u00ed",
+    "FieldOfView": "\u00dahel pohledu",
+    "Vsync": "Vsync",
+    "Options": "Nastaven\u00ed",
+    "OptionsTooltip": "P\u0158ED NALOD\u011aN\u00cdM",
+    "DevelopmentVersion": "V\u00fdvoj\u00e1\u0159sk\u00e1 verze",
+    "InventoryFull": "Invent\u00e1\u0159 je pln\u00fd",
+    "RadiationDetected": "ZJI\u0160T\u011aNA RADIACE",
+    "Quartz": "k\u0159emen",
+    "ScrapMetal": "kovov\u00fd \u0161rot",
+    "Limestone": "V\u00e1pencov\u00fd v\u00fd\u010dn\u011blek ",
+    "Copper": "m\u011bd\u011bn\u00e1 ruda",
+    "CopperWire": "m\u011bd\u011bn\u00fd dr\u00e1t",
+    "Salt": "s\u016fl",
+    "Placeholder": "Z\u00e1stupn\u00fd text",
+    "Glass": "sklo",
+    "EnameledGlass": "tvrzen\u00e9 sklo",
+    "Titanium": "titan",
+    "TitaniumIngot": "titanov\u00fd ingot",
+    "PlasteelIngot": "oceloplastov\u00fd ingot",
+    "Silver": "st\u0159\u00edbrn\u00e1 ruda",
+    "Gold": "zlato",
+    "Lodestone": "magnetovec",
+    "WiringKit": "elektrik\u00e1\u0159sk\u00e9 n\u00e1\u010din\u00ed",
+    "AdvancedWiringKit": "pokro\u010dil\u00e1 elektrik\u00e1\u0159sk\u00e1 sada",
+    "ComputerChip": "po\u010d\u00edta\u010dov\u00fd \u010dip",
+    "Diamond": "diamant",
+    "MODULES": "MODULY",
+    "Energy": "Energie",
+    "AddedToInventory": "P\u0159id\u00e1no do invent\u00e1\u0159e.",
+    "BreakLimestone": "Rozbijte v\u00e1pencov\u00fd v\u00fd\u010dn\u011blek",
+    "BreakSandstone": "Rozbijte p\u00edskovcov\u00fd v\u00fd\u010dn\u011blek",
+    "BreakShale": "Rozbijte b\u0159idlicov\u00fd v\u00fd\u010dn\u011blek",
+    "BreakBasalt": "Rozbijte \u010dedi\u010dov\u00fd v\u00fd\u010dn\u011blek",
+    "BreakObsidian": "Rozbijte obsidi\u00e1nov\u00fd v\u00fd\u010dn\u011blek",
+    "Fabricator": "Fabrik\u00e1tor",
+    "UseFabricator": "Pou\u017e\u00edt Fabrik\u00e1tor",
+    "Locker": "Sk\u0159\u00ed\u0148ka",
+    "Spotlight": "Sv\u011btlomet",
+    "Reinforce hull": "Vyztu\u017eit trup",
+    "Aquarium": "Akv\u00e1rium",
+    "EnterSeamoth": "Nastoupit do Seamothu",
+    "NoSeamothDocked": "\u017e\u00e1dn\u00fd Seamoth v doku",
+    "DiveSuit": "pot\u00e1p\u011b\u010dsk\u00fd oblek",
+    "ShipComputer": "Palubn\u00ed po\u010d\u00edta\u010d",
+    "Fins": "ploutve",
+    "RadiationSuit": "antiradia\u010dn\u00ed oblek",
+    "Tank": "kysl\u00edkov\u00e1 l\u00e1hev",
+    "Battery": "baterie",
+    "Builder": "Konstruktor",
+    "Knife": "N\u016f\u017e",
+    "Drill": "Vrta\u010dka",
+    "Flashlight": "Sv\u00edtilna",
+    "Beacon": "B\u00f3jka",
+    "Bleach": "dezinfekce",
+    "CurrentGenerator": "Gener\u00e1tor proudu",
+    "PowerCell": "energetick\u00fd \u010dl\u00e1nek",
+    "DiveReel": "Vod\u00edc\u00ed \u0161\u0148\u016fra",
+    "Rebreather": "Regul\u00e1tor",
+    "Welder": "Sv\u00e1\u0159e\u010dka",
+    "Constructor": "Mobiln\u00ed lod\u011bnice",
+    "UseConstructor": "Pou\u017e\u00edt lod\u011bnici",
+    "Transfuser": "Transfuzor",
+    "Flare": "Sv\u011btlice",
+    "StasisRifle": "St\u00e1zov\u00e1 pu\u0161ka",
+    "Observatory": "Observato\u0159",
+    "Audiolog": "Audiolog - Ouch, where does this show up in the game?",
+    "SafeShallowsEgg": "Vejce z Bezpe\u010dn\u00fdch m\u011bl\u010din",
+    "KelpForestEgg": "Vejce z Chaluhov\u00e9ho h\u00e1je",
+    "GrassyPlateausEgg": "Vejce z Travnat\u00fdch pl\u00e1n\u00ed",
+    "GrandReefsEgg": "Vejce z Velk\u00e9ho \u00fatesu",
+    "MushroomForestEgg": "Vejce z Houbov\u00e9ho lesa",
+    "KooshZoneEgg": "Vejce ze z\u00f3ny Koosh",
+    "TwistyBridgesEgg": "Vejce z Pokroucen\u00fdch Most\u016f",
+    "LavaZoneEgg": "Vejce z L\u00e1vov\u00e9 z\u00f3ny",
+    "Workbench": "Modifika\u010dn\u00ed stanice",
+    "Tooltip_Workbench": "Vylep\u0161en\u00fd fabrik\u00e1tor pro \u00fapravu vybaven\u00ed ",
+    "SpecialHullPlate": "Pl\u00e1t trupu",
+    "Tooltip_SpecialHullPlate": "Limitovan\u00e1 \u010d\u00edslovan\u00e1 edice pl\u00e1tu trupu (D\u011bkujeme!)",
+    "Seamoth": "Seamoth",
+    "Exosuit": "exoskelet",
+    "PropulsionCannon": "Propulzn\u00ed d\u011blo",
+    "SandLoot": "p\u00edsek",
+    "Signal": "Sign\u00e1l",
+    "BallClusters": "Treespawn",
+    "BarnacleSuckers": "Stromov\u00e1 pijavice",
+    "BlueBarnacle": "Modr\u00fd vilej\u0161",
+    "BlueBarnacleCluster": "Shluk modr\u00fdch vilej\u0161\u016f",
+    "BlueCoralTubes": "Jordi's Tung",
+    "RedGrass": "Rud\u00e1 tr\u00e1va",
+    "GreenGrass": "Zelen\u00e1 tr\u00e1va",
+    "CreepvinePiece": "kousek chaluchy",
+    "Mohawk": "Mohawk",
+    "GreenReeds": "Te\u010dkovan\u00fd r\u00e1kos",
+    "JellyPlant": "Sliznatka",
+    "BlueJeweledDisk": "Modr\u00fd stolov\u00fd kor\u00e1l",
+    "GreenJeweledDisk": "Zelen\u00fd stolov\u00fd kor\u00e1l",
+    "PurpleJeweledDisk": "Purpurov\u00fd stolov\u00fd kor\u00e1l",
+    "RedJeweledDisk": "\u010cerven\u00fd stolov\u00fd kor\u00e1l",
+    "SmallKoosh": "Zakrsl\u00fd Koosh",
+    "MediumKoosh": "Mal\u00fd Koosh",
+    "LargeKoosh": "Velk\u00fd Koosh",
+    "HugeKoosh": "Ob\u0159\u00ed Koosh",
+    "MembrainTree": "Membr\u00e1nov\u00fd strom",
+    "PurpleFan": "Purpurov\u00fd v\u011bj\u00ed\u0159",
+    "AcidMushroom": "kyselinov\u00e1 houba",
+    "PurpleTentacle": "Sv\u00edjice purpurov\u00e1",
+    "RedSeaweed": "Krvotr\u00e1va",
+    "CoralShellPlate": "Kor\u00e1lov\u00e1 schr\u00e1nka",
+    "SmallFan": "Mali\u010dk\u00fd v\u011bj\u00ed\u0159",
+    "SmallFanCluster": "Shluk v\u011bj\u00ed\u0159\u016f",
+    "BigCoralTubes": "Obrovsk\u00e1 kor\u00e1lov\u00e1 roura",
+    "TreeMushroom": "Houbov\u00fd strom",
+    "BlueCluster": "Grue cluster",
+    "BrownTubes": "Hn\u011bd\u00e9 kor\u00e1lov\u00e9 roury",
+    "BloodGrass": "Krvav\u00e1 tr\u00e1va",
+    "JeweledDiskPiece": "vzorek stolov\u00e9ho kor\u00e1lu",
+    "CoralChunk": "vzorek b\u011b\u017en\u00e9ho kor\u00e1lu",
+    "KooshChunk": "vzorek Kooshe",
+    "StalkerTooth": "stalker\u016fv zub",
+    "SmallStorage": "vodot\u011bsn\u00e1 sk\u0159\u00ed\u0148ka",
+    "SeamothFragment": "Fragment Seamothu",
+    "StasisRifleFragment": "Fragment st\u00e1zov\u00e9 pu\u0161ky",
+    "ExosuitFragment": "fragment exoskeletu",
+    "TransfuserFragment": "Fragment Transfuzoru",
+    "TerraformerFragment": "Fragment Terraformeru",
+    "ReinforceHullFragment": "Fragment vyrovn\u00e1va\u010de tlaku pro Cyclopa",
+    "WorkbenchFragment": "Fragment modifika\u010dn\u00ed stanice",
+    "FabricatorBlueprint": "Pl\u00e1nek Fabrik\u00e1toru",
+    "ConstructorBlueprint": "Pl\u00e1nek mobiln\u00ed lod\u011bnice",
+    "CyclopsBlueprint": "Pl\u00e1nek Cyclopa",
+    "SeamothBlueprint": "Pl\u00e1nek Seamotha",
+    "StasisRifleBlueprint": "Pl\u00e1nek St\u00e1zov\u00e9 pu\u0161ky",
+    "ExosuitBlueprint": "Pl\u00e1nek exoskeletu",
+    "TransfuserBlueprint": "Pl\u00e1nek Transfuzoru",
+    "TerraformerBlueprint": "Pl\u00e1nek terraformeru",
+    "ReinforceHullBlueprint": "Pl\u00e1nek vyrovn\u00e1va\u010de tlaku pro Cyclopa",
+    "WorkbenchBlueprint": "Pl\u00e1nek modifika\u010dn\u00ed stanice",
+    "Boulder": "Balvan",
+    "HangingStinger": "Stinger",
+    "SpikePlant": "Tyg\u0159\u00ed kv\u011btina ",
+    "FilteredWater": "filtrovan\u00e1 voda",
+    "DisinfectedWater": "dezinfikovan\u00e1 voda",
+    "CookedPeeper": "Pe\u010den\u00fd Peeper",
+    "CookedHoleFish": "Pe\u010den\u00fd Holefish",
+    "CookedHoopfish": "Pe\u010den\u00fd Hoopfish",
+    "CookedGarryFish": "Pe\u010den\u00fd Garryfish",
+    "CookedReginald": "Pe\u010den\u00fd Reginald",
+    "CookedBladderfish": "Pe\u010den\u00fd Airsack",
+    "CookedHoverfish": "Pe\u010den\u00fd Hoverfish",
+    "CookedSpadefish": "pe\u010den\u00fd r\u00fd\u010dovec",
+    "CookedBoomerang": "Pe\u010den\u00fd Boomerang",
+    "CookedEyeye": "pe\u010den\u00fd okoun",
+    "CookedOculus": "Pe\u010den\u00fd Oculus",
+    "Unobtanium": "Unobtanium",
+    "Creepvine": "Chaluha",
+    "HoleFish": "Holefish",
+    "Jumper": "Jumper",
+    "Peeper": "Peeper",
+    "Oculus": "Oculus",
+    "Hoopfish": "Hoopfish",
+    "RabbitRay": "Rejnok kr\u00e1li\u010d\u00ed",
+    "GarryFish": "Garryfish",
+    "Slime": "Slime",
+    "Crash": "Crash",
+    "Boomerang": "Bumerang",
+    "LavaLarva": "L\u00e1vov\u00e1 larva",
+    "Stalker": "Stalker",
+    "Eyeye": "okoun",
+    "Bloom": "Bloom",
+    "Bladderfish": "Airsack",
+    "Hoverfish": "Hoverfish",
+    "Jellyray": "Jallyray",
+    "Reefback": "Reefback",
+    "Reginald": "Reginald",
+    "Spadefish": "R\u00fd\u010dovec",
+    "Grabcrab": "Grabcrab",
+    "Floater": "Floater",
+    "Gasopod": "Gasopod",
+    "Sandshark": "P\u00edse\u010dn\u00fd \u017eralok",
+    "Player": "Hr\u00e1\u010d",
+    "AirBladder": "Vzduchov\u00fd m\u011bch\u00fd\u0159",
+    "DEPTH": "HLOUBKA",
+    "NITROGEN": "DUS\u00cdK",
+    "MeterSuffix": "m",
+    "SUB DEPTH": "HLOUBKA PONORKY",
+    "ECOSYSTEM": "EKOSYST\u00c9M",
+    "BATHSPHERE": "BATHSPHERE",
+    "BLOOD SUGAR": "KREVN\u00cd CUKR",
+    "FOOD": "J\u00cdDLO",
+    "H20": "VODA",
+    "Initializing dive suit HUD...": "Inicializace u\u017eivatelsk\u00e9ho rozhran\u00ed pot\u00e1p\u011b\u010dsk\u00e9ho obleku...",
+    "Initializing objectives...": "Inicializuji \u00fakoly...",
+    "|": "|",
+    "Demo time": "Zb\u00fdvaj\u00edc\u00ed \u010das dema",
+    "InventorySecured": "Invent\u00e1\u0159 zabezpe\u010den.",
+    "THANK YOU FOR PLAYING": "D\u011aKUJEME, \u017dE JSTE HR\u00c1LI NA\u0160I HRU",
+    "PRIMARY": "HLAVN\u00cd",
+    "SECONDARY": "VEDLEJ\u0160\u00cd",
+    "ControlSubInstructions": "WASD pro \u0159\u00edzen\u00ed, MEZERN\u00cdK\/C pro ovl\u00e1d\u00e1n\u00ed ponoru",
+    "Drop loot onto Constructor": "Drop loot onto Constructor",
+    "PressUseToExit": "Opustit",
+    "DeployConstructor": "Vypus\u0165te mobiln\u00ed lod\u011bnici ve vod\u011b",
+    "DeployConstructorInWater": "Pro vypu\u0161t\u011bn\u00ed mobiln\u00ed lod\u011bnice mus\u00edte b\u00fdt ve vod\u011b!",
+    "Total: ": "Celkem:",
+    "<UnImplemented>": "(nen\u00ed pou\u017eito)",
+    "<Bullet>": "\u2022",
+    "DontHaveNeededIngredients": "Nem\u00e1te pot\u0159ebn\u00e9 ingredience!",
+    "YouDied": "Zem\u0159el\/a jste.",
+    "YouDiedLostStuff": "Um\u0159eli jste a ztratili n\u011bjak\u00e9 v\u011bci",
+    "OXYGEN": "KYSL\u00cdK",
+    "0": "2",
+    "How likely are you to recommend this game to a friend?": "Jak\u00e1 je \u0161ance, \u017ee tuto hru doporu\u010d\u00edte sv\u00fdm p\u0159\u00e1tel\u016fm?",
+    "Submit": "Odeslat",
+    "WASD to pilot, SPACE\/C for vertical, E to exit": "WASD pro \u0159\u00edzen\u00ed, MEZERN\u00cdK\/C ponor, E vystoupit ",
+    "I": "\/",
+    "TRANSFUSER SERUM": "S\u00e9rum z Transfuzoru",
+    "PLAYER EFFECTS": "PLAYER EFFECTS",
+    "CREATURE DEBUG": "CREATURE DEBUG",
+    "PickUp": "Sebrat",
+    "PickedUp": "Sebr\u00e1no: {0}",
+    "Needs": "Pot\u0159eby",
+    "Tooltip_AcidMushroom": "Purpurov\u00e1 houba. Produkuje kyselinu jako obrann\u00fd mechanismus.",
+    "Tooltip_AdvancedWiringKit": "Po\u010d\u00edta\u010dov\u00fd procesor s kabely ze zlata\/st\u0159\u00edbra pro pokro\u010dil\u00e9 technologie.",
+    "Tooltip_AirBladder": "Chemickou reakc\u00ed produkuje plyn leh\u010d\u00ed ne\u017e vzduch pro vlastn\u00ed nadn\u00e1\u0161en\u00ed.",
+    "Tooltip_Battery": "P\u0159enosn\u00fd zdroj energie.",
+    "Tooltip_Beacon": "Naviga\u010dn\u00ed pom\u016fcka. Udr\u017euje a hl\u00e1s\u00ed svou polohu.",
+    "Tooltip_Bleach": "NaClO. Chlornan sodn\u00fd pro desinfekci a \u010di\u0161t\u011bn\u00ed.",
+    "Tooltip_Builder": "Stav\u00ed \u010d\u00e1sti z\u00e1zem\u00ed a za\u0159\u00edzen\u00ed ze surov\u00fdch materi\u00e1l\u016f.",
+    "Tooltip_Compass": "Na hern\u00ed obrazovce zobrazuje sv\u011btov\u00e9 strany.",
+    "Tooltip_ComputerChip": "V\u00edce\u00fa\u010delov\u00fd procesor",
+    "Tooltip_Constructor": "Vyr\u00e1b\u00ed plavidla ze surov\u00fdch materi\u00e1l\u016f.",
+    "Tooltip_CookedBladderfish": "Houbovit\u00fd. Chrupav\u010dit\u00fd. Na\u0161t\u011bst\u00ed bez z\u00e1pachu.",
+    "Tooltip_CookedBoomerang": "Okolo chrupav\u010dit\u00e9 ploutve je velmi chutn\u00fd.",
+    "Tooltip_CookedEyeye": "Bohat\u00fd na b\u00edlkoviny. Mal\u00fdch rozm\u011br\u016f. Obt\u00ed\u017en\u00e9 jej udr\u017eet v \u017ealudku.",
+    "Tooltip_CookedGarryFish": "Rostlinn\u00e1 chu\u0165, ale nen\u00ed jej mnoho.",
+    "Tooltip_CookedHoleFish": "\u017delatinov\u00e9 maso s dobrou nutri\u010dn\u00ed hodnotou.",
+    "Tooltip_CookedHoopfish": "Nikdy nejezte tykadla.",
+    "Tooltip_CookedHoverfish": "Tuh\u00e9, n\u00edzkotu\u010dn\u00e9 plaz\u00ed maso.",
+    "Tooltip_CookedOculus": "Tmav\u00e9, hutn\u00e9 maso. Dobr\u00e9 j\u00eddlo krom\u011b s\u00edrov\u00e9 pachuti.",
+    "Tooltip_CookedPeeper": "Bulvy bohat\u00e9 na b\u00edlkoviny. Drobn\u00e9 kosti dod\u00e1vaj\u00ed texturu.",
+    "Tooltip_CookedReginald": "Pal\u010div\u00fd a kou\u0159ovit\u00fd",
+    "Tooltip_CookedSpadefish": "P\u0159im\u011b\u0159en\u011b velk\u00fd ale slan\u00fd...",
+    "Tooltip_Copper": "Z\u00e1kladn\u00ed slo\u017eka pro v\u00fdrobu kabel\u016f",
+    "Tooltip_CopperWire": "Atomy m\u011bdi p\u0159etvo\u0159en\u00e9 na z\u00e1kladn\u00ed elektronickou kabel\u00e1\u017e.",
+    "Tooltip_CoralChunk": "Vzorek obsahuje CaCO\u00b3. Uhli\u010ditan v\u00e1penat\u00fd je z\u00e1kladn\u00ed slo\u017eka pro v\u00fdrobu desinfekce.",
+    "Tooltip_Creepvine": "Organick\u00fd materi\u00e1l.",
+    "Tooltip_CreepvinePiece": "Vzorek organick\u00e9ho materi\u00e1lu.",
+    "Tooltip_CurrentGenerator": "Pou\u017e\u00edv\u00e1 um\u011blou gravitaci pro generov\u00e1n\u00ed konvek\u010dn\u00edho proudu.",
+    "Tooltip_Cyclops": "Nesm\u00edrn\u011b v\u0161estrann\u00e1 pr\u016fmyslov\u00e1 ponorka",
+    "Tooltip_Diamond": "C. Alotropie uhl\u00edku s vynikaj\u00edc\u00edmi fyzik\u00e1ln\u00edmi vlastnostmi.",
+    "Tooltip_DisinfectedWater": "H\u00b2O. 355ml dezinfikovan\u00e9 vody",
+    "Tooltip_DiveReel": "Ukotv\u011bte k pevn\u00e9mu podkladu a naviga\u010dn\u00ed lanko se s v\u00e1mi bude odv\u00edjet.",
+    "Tooltip_EnameledGlass": "Sklo tvrzen\u00e9 za pou\u017eit\u00ed p\u0159\u00edrodn\u00edch materi\u00e1l\u016f",
+    "Tooltip_Exosuit": "Projd\u011bte se po mo\u0159sk\u00e9m dn\u011b...",
+    "Tooltip_Fabricator": "Z\u00e1kladn\u00ed krizov\u00fd fabrik\u00e1tor. P\u0159eskupuje suroviny na atom\u00e1rn\u00ed \u00farovni.",
+    "Tooltip_FilteredWater": "H\u00b2O. 175ml filtrovan\u00e9 vody.",
+    "Tooltip_Fins": "P\u0159ev\u00e1d\u00ed pod vodou vertik\u00e1ln\u00ed pohyby kon\u010detin na pohyb dop\u0159edu.",
+    "Tooltip_Flare": "V\u00edce\u00fa\u010delov\u00e9 podvodn\u00ed osv\u011btlen\u00ed.",
+    "Tooltip_Flashlight": "Vodot\u011bsn\u00e1 sv\u00edtilna na baterie",
+    "Tooltip_Floater": "Skl\u00e1d\u00e1 se z n\u011bkolika organism\u016f v symbi\u00f3ze. Nezn\u00e1m\u00fd \u017eivotn\u00ed cyklus.",
+    "Tooltip_Gaspod": "Vylu\u010duje kyselinov\u00e9 plyny",
+    "Tooltip_Glass": "SiO\u2074. \u010cist\u00e9 k\u0159emi\u010dit\u00e9 sklo.",
+    "Tooltip_Gold": "Au. Cenn\u00e9 vodiv\u00e9 vlastnosti.",
+    "Tooltip_GrandReefsEgg": "Nezn\u00e1m\u00e9 vejce",
+    "Tooltip_GrassyPlateausEgg": "Nezn\u00e1m\u00e9 vejce",
+    "Tooltip_Gravsphere": "Pou\u017e\u00edv\u00e1 um\u011blou gravitaci k p\u0159itahov\u00e1n\u00ed mal\u00fdch objekt\u016f.",
+    "Tooltip_Hoopfish": "Pou\u017e\u00edv\u00e1 sv\u00e1 tykadla k pohybu ve vod\u011b",
+    "Tooltip_JeweledDiskPiece": "Obsahuje stopov\u00e9 mno\u017estv\u00ed drah\u00fdch kov\u016f pou\u017e\u00edvan\u00fdch pro v\u00fdrobu po\u010d\u00edta\u010d\u016f.",
+    "Tooltip_KelpForestEgg": "Nezn\u00e1m\u00e9 vejce",
+    "Tooltip_Knife": "Standardn\u00ed n\u016f\u017e pro p\u0159e\u017eit\u00ed. Multifunk\u010dn\u00ed.",
+    "Tooltip_KooshZoneEgg": "Nezn\u00e1m\u00e9 vejce",
+    "Tooltip_LavaZoneEgg": "Nezn\u00e1m\u00e9 vejce",
+    "Tooltip_Lithium": "Li. Vyu\u017eit\u00ed ve slitin\u00e1ch s d\u016frazem na v\u00fddr\u017e ",
+    "Tooltip_Locker": "Sk\u0159\u00ed\u0148ka pro ulo\u017een\u00ed v\u011bc\u00ed",
+    "Tooltip_Magnesium": "Mg. Vzn\u011btliv\u00fd kov.",
+    "Tooltip_MushroomForestEgg": "Z\u00e1hadn\u00e9 vejce",
+    "Tooltip_Pipe": "\u010cerp\u00e1 vzduch z povrchu.",
+    "Tooltip_PlasteelIngot": "Extr\u00e9mn\u011b pevn\u00fd materi\u00e1l",
+    "Tooltip_PowerCell": "Velkokapacitn\u00ed p\u0159enosn\u00fd zdroj energie",
+    "Tooltip_Quartz": "SiO\u2074. K\u0159emen v krystalick\u00e9 form\u011b.",
+    "Tooltip_RadiationSuit": "Olovem pota\u017een\u00fd oblek poskytuj\u00edc\u00ed ochranu p\u0159ed radiac\u00ed",
+    "Tooltip_Rebreather": "Pohlcuje CO\u00b2 a recykluje pou\u017eit\u00fd vzduch ve v\u011bt\u0161\u00edch hloubk\u00e1ch.",
+    "Tooltip_SafeShallowsEgg": "Nezn\u00e1m\u00e9 vejce",
+    "Tooltip_Salt": "NaCl. Chlorid sodn\u00fd. Kuchy\u0148sk\u00e1 s\u016fl k p\u0159\u00edprav\u011b j\u00eddla a k desinfekci.",
+    "Tooltip_ScrapMetal": "Kovov\u00fd \u0161rot s obsahem 87% titanu.",
+    "Tooltip_Seamoth": "Jednom\u00edstn\u00e9 ponorn\u00e9 plavidlo.",
+    "Tooltip_Signal": "Sou\u0159adnice",
+    "Tooltip_Silicone": "Syntetick\u00e1 silikonov\u00e1 guma",
+    "Tooltip_Silver": "Ag. Nejlep\u0161\u00ed elektrick\u00e1 a tepeln\u00e1 vodivost, p\u016fsob\u00ed p\u0159edev\u0161\u00edm baktericidn\u011b a desinfek\u010dn\u011b.",
+    "Tooltip_SmallStorage": "4x4 \u00falo\u017en\u00fd prostor, kter\u00fd udr\u017euje svou pozici ve vod\u011b",
+    "Tooltip_StalkerTooth": "Ostr\u00e1, tvrd\u00e1 v\u00e1pn\u00edkov\u00e1 struktura.",
+    "Tooltip_StasisRifle": "Do\u010dasn\u011b zastavuje fyzick\u00e9 objekty.",
+    "Tooltip_Tank": "Kysl\u00edkov\u00e1 sm\u011bs na 30 sekund d\u00fdch\u00e1n\u00ed.",
+    "Tooltip_Terraformer": "P\u0159\u00edstupn\u00e1 \u00faprava ter\u00e9nu.",
+    "Tooltip_Thermometer": "Zobrazuje okoln\u00ed teplotu.",
+    "Tooltip_Titanium": "Ti. Titan. Z\u00e1kladn\u00ed stavebn\u00ed materi\u00e1l.",
+    "Tooltip_TitaniumIngot": "Titanov\u00fd ingot - Titan ve zhu\u0161t\u011bn\u00e9 form\u011b.",
+    "Tooltip_Transfuser": "Sb\u00edr\u00e1 vzorky DNA",
+    "Tooltip_TwistyBridgesEgg": "Nezn\u00e1m\u00e9 vejce",
+    "Tooltip_Welder": "V\u00edce\u00fa\u010delov\u00e9 oprav\u00e1rensk\u00e9 za\u0159\u00edzen\u00ed, pou\u017eiteln\u00e9 ve v\u0161ech prost\u0159ed\u00edch.",
+    "Tooltip_WiringKit": "Izolovan\u00e9 st\u0159\u00edbrn\u00e9 dr\u00e1tky. Z\u00e1kladn\u00ed elektronick\u00e1 sou\u010d\u00e1stka.",
+    "Tooltip_SeamothFragment": "If I'm correct this tooltip will no longer show up in game. Please report as a bug if you see this",
+    "Tooltip_StasisRifleFragment": "\u010c\u00e1st st\u00e1zov\u00e9 pu\u0161ky",
+    "Tooltip_ExosuitFragment": "\u010d\u00e1st exoskeletu",
+    "Tooltip_TransfuserFragment": "\u010d\u00e1st Transfuzoru",
+    "Tooltip_TerraformerFragment": "\u010d\u00e1st terraformeru",
+    "Tooltip_WorkbenchFragment": "Po\u0161kozen\u00e1 \u010d\u00e1st modifika\u010dn\u00edho za\u0159\u00edzen\u00ed Aurory",
+    "Tooltip_FabricatorBlueprint": "N\u00e1vod na stavbu Fabrik\u00e1toru",
+    "Tooltip_ConstructorBlueprint": "N\u00e1vod na stavbu mobiln\u00ed lod\u011bnice.",
+    "Tooltip_CyclopsBlueprint": "N\u00e1vod na stavbu Cyclopa",
+    "Tooltip_SeamothBlueprint": "N\u00e1vod na stavbu Seamotha",
+    "Tooltip_StasisRifleBlueprint": "N\u00e1vod na stavbu St\u00e1zov\u00e9 pu\u0161ky",
+    "Tooltip_ExosuitBlueprint": "N\u00e1vod na stavbu Exoskeletu",
+    "Tooltip_TransfuserBlueprint": "N\u00e1vod na stavbu Transfuzoru",
+    "Tooltip_TerraformerBlueprint": "N\u00e1vod na stavbu Terraformeru",
+    "Tooltip_ReinforceHullBlueprint": "N\u00e1vod na stavbu zes\u00edlen\u00ed pl\u00e1\u0161t\u011b.",
+    "Tooltip_WorkbenchBlueprint": "N\u00e1vod na stavbu modifika\u010dn\u00ed stanice.",
+    "WorldArrow_EquipFlashlight": "Vybavte se sv\u00edtilnou.",
+    "WorldArrow_EquipKnife": "Vybavte se no\u017eem.",
+    "WorldArrow_CutCreepvine": "Useknout kousek chaluhy no\u017eem.",
+    "WorldArrow_EquipSeaglide": "Pou\u017eijte Seaglide",
+    "WorldArrow_TurnOnFlashlight": "Zapn\u011bte sv\u00edtilnu",
+    "WorldArrow_EquipConstructor": "Pou\u017eijte mobiln\u00ed lod\u011bnici",
+    "WorldArrow_ReleaseConstructor": "Vypus\u0165te mobiln\u00ed lod\u011bnici",
+    "WorldArrow_EatSomething": "N\u011bco sn\u011bzte",
+    "WorldArrow_DrinkSomething": "N\u011bco vypijte",
+    "WorldArrow_PickupMetal": "Sebrat kus \u0161rotu.",
+    "WorldArrow_PickupQuartz": "Sebrat k\u0159emen",
+    "WorldArrow_BreakLimestone": "Rozb\u00edt v\u00e1penec",
+    "WorldArrow_BoardEscapePod": "Vstoupit do z\u00e1chrann\u00e9ho modulu.",
+    "WorldArrow_UseFabricator": "Pou\u017e\u00edt Fabrik\u00e1tor",
+    "WorldArrow_OpenPDA": "Open PDA",
+    "WorldArrow_CatchPeeper": "Chytit Peepra",
+    "WorldArrow_SwimToSurface": "Plavte na hladinu!",
+    "WorldArrow_EnterSeamoth": "Nasednout do Seamothu",
+    "WorldArrow_BoardCyclops": "Nalodit se na Cyclopa ",
+    "WorldArrow_DockSeamoth": "Zadokovat Seamotha",
+    "FragmentAnalyzer": "Fragment Analyzer",
+    "Tooltip_FragmentAnalyzer": "Analyzuje \u010d\u00e1sti n\u00e1vod\u016f a vybaven\u00ed",
+    "FragmentAnalysisComplete": "Fragment oskenov\u00e1n, odem\u010deno {0}.",
+    "Terraformer_Ammo": "MATERIAL: {0}",
+    "BaseFoundation": "Podstava",
+    "BaseCorridor": "Chodba",
+    "BaseCorridorI": "Chodba ve tvaru I",
+    "BaseCorridorT": "Chodba ve tvaru T",
+    "BaseCorridorL": "Chodba ve tvaru L",
+    "BaseCorridorX": "Chodba ve tvaru X",
+    "BaseDoor": "Dve\u0159e",
+    "BaseHatch": "Poklop",
+    "BaseLadder": "\u017deb\u0159\u00edk",
+    "BaseReinforcement": "V\u00fdztu\u017e",
+    "BaseRoom": "V\u00edce\u00fa\u010delov\u00e1 m\u00edstnost",
+    "BaseWall": "St\u011bna",
+    "BaseWindow": "Okno",
+    "PowerGenerator": "Gener\u00e1tor energie",
+    "Tooltip_BaseFoundation": "Postavte jako prvn\u00ed (+2HP)",
+    "Tooltip_BaseCorridor": "Z\u00e1kladn\u00ed chodba (-1HP)",
+    "Tooltip_BaseCorridorI": "Z\u00e1kladn\u00ed chodba (-1HP)",
+    "Tooltip_BaseCorridorT": "Vlevo a vpravo (-1HP)",
+    "Tooltip_BaseCorridorL": "90\u00b0 zat\u00e1\u010dka (-1HP)",
+    "Tooltip_BaseCorridorX": "K\u0159i\u017eovatka (-1HP)",
+    "Tooltip_BaseDoor": "Z\u00e1brana proti vod\u011b a podporuje strukturu. (+2HP)",
+    "Tooltip_BaseHatch": "Pot\u0159ebn\u00fd pro vstup do z\u00e1kladny (-1HP)",
+    "Tooltip_BaseLadder": "Propojuje patra",
+    "Tooltip_BaseReinforcement": "Zvy\u0161uje s\u00edlu trupu (+7HP)",
+    "Tooltip_BaseRoom": "Z\u00e1kladn\u00ed m\u00edstnost (-1.25HP)",
+    "Tooltip_BaseWall": "Rozd\u011bluje m\u00edstnost",
+    "Tooltip_BaseWindow": "Pozorovac\u00ed okno (-1HP)",
+    "Tooltip_PowerGenerator": "Postavte na z\u00e1kladech pro nap\u00e1jen\u00ed z\u00e1zem\u00ed",
+    "GhostModelRotateInput": "Pou\u017eij kole\u010dko my\u0161i pro ot\u00e1\u010den\u00ed",
+    "WarningUnsafeDepth": "POZOR: Opou\u0161t\u00edme bezpe\u010dnou hloubku {0} m. Kolize zp\u016fsob\u00ed trupu po\u0161kozen\u00ed.",
+    "WarningCrushDepth": "POZOR: Bl\u00ed\u017e\u00ed se deforma\u010dn\u00ed hloubka {0} metr\u016f. Nast\u00e1v\u00e1 po\u0161kozen\u00ed trupu! Okam\u017eit\u011b stoupejte!",
+    "SafeDepthNow": "Bezpe\u010dn\u00e1 hloubka nyn\u00ed {0} metr\u016f",
+    "CrushDepthNow": "Deforma\u010dn\u00ed hloubka nyn\u00ed {0} metr\u016f",
+    "NewLeakDetected": "Zji\u0161t\u011bno po\u0161kozen\u00ed trupu! {0} trhlin, {1} men\u0161\u00ed.",
+    "LeakWelded": "Trup sva\u0159en. {0} trhlin a {1} men\u0161\u00ed zb\u00fdv\u00e1.",
+    "HullRestored": "Integrita trupu obnovena. \u010cerpadla v provozu.",
+    "AimCloserToGround": "Dosta\u0148te se bl\u00ed\u017ee k zemi a zami\u0159te na ni.",
+    "DiveReelUsage": "Prav\u00fdm tla\u010d\u00edtkem upevn\u011bte kotvu k zemi. Pak u\u017e jen plavte.",
+    "DiveReelAfterAnchor": "Dal\u0161\u00edm prav\u00fdm kliknut\u00edm upevn\u00edte navij\u00e1k k zemi. Navij\u00e1k m\u016f\u017eete i odlo\u017eit z ruky.",
+    "PickUpDiveReelAnchor": "Sebrat kotvu",
+    "WrongAnchorForReel": "Nejprve vezm\u011bte do ruky navij\u00e1k pro tuto kotvu!",
+    "BaseHullStrChanged": "Zm\u011bna pevnosti o  {0}, nyn\u00ed celkem {1}",
+    "BaseHullStrDamageDetected": "Po\u0161kozen\u00ed v d\u016fsledku n\u00edzk\u00e9 pevnosti {0}! Vyztu\u017ete trup, nebo odstra\u0148te slab\u00e9 \u010d\u00e1sti!",
+    "GiantMushroomTree": "Velk\u00e1 organick\u00e1 hmota",
+    "SecretCave": "Otev\u0159en\u00fd jeskynn\u00ed syst\u00e9m",
+    "CaveEntrance": "Otev\u0159en\u00fd jeskynn\u00ed syst\u00e9m",
+    "HeatSignature": "Tepeln\u00e1 stopa",
+    "HatchExitBlocked": "Poklop je blokov\u00e1n!",
+    "RotateCorridorHint": "Rotate",
+    "Lead": "olov\u011bn\u00e1 deska",
+    "Magnesium": "ho\u0159\u010d\u00edk",
+    "NutrientBlock": "Nutri\u010dn\u00ed ty\u010dinka",
+    "OpalGem": "Opal gem",
+    "SupplyCrate": "Vac-Pack",
+    "SmallSupplyCrate": "Small Vac-Pack",
+    "HoldShiftToPreventMenuClose": "Dr\u017ete Shift aby se nezav\u00edralo menu p\u0159i v\u00fdrob\u011b",
+    "RadiationHelmet": "antiradia\u010dn\u00ed helma",
+    "RadiationGloves": "antiradia\u010dn\u00ed rukavice",
+    "HullReinforcementModule": "Vyrovn\u00e1va\u010d tlaku pro Cyclopa",
+    "Tooltip_HullReinforcementModule": "Zesiluje atomovou strukturu trupu pro zv\u00fd\u0161en\u00ed maxim\u00e1ln\u00ed hloubky ponoru",
+    "PowerUpgradeModule": "Modul pro zv\u00fd\u0161en\u00ed energetick\u00e9 \u00fa\u010dinnosti ",
+    "Tooltip_PowerUpgradeModule": "Recykluje tepeln\u00e9 vyza\u0159ov\u00e1n\u00ed a zvy\u0161uje \u00fa\u010dinnost motor\u016f o 15% ",
+    "SpecimenAnalyzerBlueprint": "Pl\u00e1nek analyz\u00e1toru vzork\u016f",
+    "FirstAidKit": "L\u00e9k\u00e1rni\u010dka",
+    "Tooltip_FirstAidKit": "Steriln\u00ed obvazy. Spolehliv\u011b zastavuj\u00ed krv\u00e1cen\u00ed a udr\u017euj\u00ed r\u00e1ny v \u010distot\u011b.",
+    "Tooltip_Lead": "Pb. Olovo. Chr\u00e1n\u00ed proti radiaci",
+    "Tooltip_NutrientBlock": "V\u00fd\u017eivn\u00e9 hotov\u00e9 j\u00eddlo z Aurory",
+    "Tooltip_OpalGem": "Si. K\u0159em\u00edk ve form\u011b koncentrovan\u00e9ho silikonu",
+    "Tooltip_RadiationGloves": "Ochrana proti radiaci na b\u00e1zi olova.",
+    "Tooltip_RadiationHelmet": "Olovem pota\u017een\u00e1 helma sni\u017euj\u00edc\u00ed \u00fa\u010dinky radiace.",
+    "Tooltip_SupplyCrate": "Vakuov\u011b balen\u00e9 vybaven\u00ed z Aurory.",
+    "Tooltip_SmallSupplyCrate": "Vakuov\u011b balen\u00e9 z\u00e1soby z Aurory.",
+    "Open_SupplyCrate": "Otev\u0159\u00edt z\u00e1sobovac\u00ed bednu",
+    "Close_SupplyCrate": "Zav\u0159\u00edt z\u00e1sobovac\u00ed bednu",
+    "Tooltip_SpecimenAnalyzerBlueprint": "Pl\u00e1ny na stavbu Analyz\u00e1toru vzork\u016f",
+    "Tooltip_HoleFish": "80% chrupavky. Otvor pou\u017e\u00edv\u00e1 pro nep\u0159edv\u00eddateln\u00e9 man\u00e9vry.",
+    "Tooltip_Peeper": "Hbit\u00fd b\u00fdlo\u017eravec, aktivn\u00ed b\u011bhem dne.",
+    "Tooltip_Oculus": "V\u00fdvojov\u011b p\u0159\u00edbuzn\u00fd Peepera. Uzp\u016fsoben\u00fd pro \u017eivot ve \u0161patn\u00fdch sv\u011bteln\u00fdch podm\u00ednk\u00e1ch.",
+    "Tooltip_GarryFish": "Mal\u00e1 ryba s vynikaj\u00edc\u00ed chut\u00ed.",
+    "Tooltip_Boomerang": "Denn\u00ed tvor, s v\u00fdraznou dvojitou ploutv\u00ed.",
+    "Tooltip_LavaLarva": "Vzorek podobn\u00fd larv\u011b s vyvinutou odolnost\u00ed proti \u017e\u00e1ru",
+    "Tooltip_Eyeye": "Uzp\u016fsoben\u00fd tak aby vid\u011bl pred\u00e1tora d\u0159\u00edv ne\u017e on jeho.",
+    "Tooltip_Bladderfish": "Pou\u017e\u00edv\u00e1 propustn\u00e9 membr\u00e1ny pro filtrov\u00e1n\u00ed kysl\u00edku z vody. Napln\u011bn\u00fd vzduchem.",
+    "Tooltip_Hoverfish": "Vibruj\u00edc\u00ed no\u017eky tohoto stvo\u0159en\u00ed umo\u017e\u0148uj\u00ed udr\u017eet pozici.",
+    "Tooltip_Reginald": "P\u0159izp\u016fsobiv\u00e1 p\u016fvodn\u00ed fauna.",
+    "Tooltip_Spadefish": "Vodn\u00ed tvor s jedn\u00edm okem.",
+    "SpecimenAnalyzer": "Analyz\u00e1tor vzork\u016f",
+    "AccessSpecimenAnalyzer": "Pou\u017e\u00edt Analyz\u00e1tor vzork\u016f",
+    "Tooltip_SpecimenAnalyzer": "Zkoum\u00e1 vzorky a vytv\u00e1\u0159\u00ed recepty",
+    "SpecimenAnalyzerEmpty": "Analyz\u00e1tor vzork\u016f je pr\u00e1zdn\u00fd",
+    "SpecimenAnalyzerIdle": "Analyz\u00e1tor vzork\u016f je ne\u010dinn\u00fd",
+    "SpecimenAnalyzing": "Analyzuji {0}{1}{2}%...",
+    "SpecimenAnalysisCommencing": "Zah\u00e1jena anal\u00fdza {0}.",
+    "SpecimenAnalysisComplete": "Vzorek analyzov\u00e1n, odem\u010deno {0}.",
+    "ReefbackTissue": "Chrupav\u010dit\u00e1 tk\u00e1\u0148",
+    "Tooltip_ReefbackTissue": "Tato siln\u00e1 pojivov\u00e1 tk\u00e1\u0148 umo\u017en\u00ed nov\u00e9 zp\u016fsoby v\u00fdroby siln\u011bj\u0161\u00edch pot\u00e1p\u011b\u010dsk\u00fdch oblek\u016f.",
+    "ReefbackShell": "Chrupav\u010dit\u00e1 schr\u00e1nka",
+    "Tooltip_ReefbackShell": "Tento vysoce odoln\u00fd materi\u00e1l umo\u017en\u00ed vytvo\u0159en\u00ed siln\u011bj\u0161\u00edch v\u00fdztuh.",
+    "ReefbackAdvancedStructure": "Krun\u00fd\u0159ov\u00e1 stavba",
+    "Tooltip_ReefbackAdvancedStructure": "Podrobn\u00e1 anal\u00fdza vnit\u0159n\u00edch pochod\u016f t\u00e9to pokro\u010dil\u00e9 konstrukce umo\u017en\u00ed dal\u0161\u00ed pos\u00edlen\u00ed staveb.",
+    "HullReinforcementModule2": "Krun\u00fd\u0159ov\u00e1 v\u00fdztuha",
+    "Tooltip_HullReinforcementModule2": "V\u00fdztuha trupu vyroben\u00e1 pou\u017eit\u00edm krun\u00fd\u0159e Reefbacka",
+    "HullReinforcementModule3": "Chelonian Hull reinforcement module",
+    "Tooltip_HullReinforcementModule3": "Hull reinforcement module built using advanced Reefback chelonian cellular structure",
+    "ReefbackEgg": "Vejce Reefbacka",
+    "Tooltip_ReefbackEgg": "Je neuv\u011b\u0159iteln\u00e9, \u017ee se Reefback l\u00edhne z tohoto",
+    "ReefbackDNA": "vzorek DNA Reefbacka",
+    "UpgradeConsole": "Otev\u0159\u00edt vylep\u0161en\u00ed",
+    "PowerRatingNow": "Energetick\u00e1 \u00fa\u010dinnost {0}",
+    "RadiationFixed": "Trhliny v j\u00e1dru uzav\u0159eny. Z\u00e1\u0159en\u00ed se rozpt\u00fdl\u00ed do 3 dn\u016f. Pokou\u0161\u00edm se st\u00e1hnout data z \u010dern\u00e9 sk\u0159\u00ed\u0148ky Aurory. Siln\u00e9 ru\u0161en\u00ed.",
+    "RemainingRadiationLeaks": "Zb\u00fdvaj\u00edc\u00ed po\u010det trhlin: {0}",
+    "HardcoreGameOver": "Um\u0159el jsi, konec hry.",
+    "WorldArrow_AttackBleeder": "Attack",
+    "EscToSkip": "P\u0159esko\u010dit ESC ...",
+    "InventoryLabel": "INVENT\u00c1\u0158",
+    "StorageLabel": "SKLAD",
+    "EquipmentLabel": "VYBAVEN\u00cd",
+    "CraftingLabel": "V\u00ddROBA",
+    "KeyRange15": "1-5",
+    "ShiftLMB": "Shift+LTM",
+    "KeyE": "E",
+    "BeaconLabelEdit": "Zm\u011bnit popisek b\u00f3jky",
+    "BeaconLabel": "Popisek b\u00f3jky",
+    "BeaconSubmit": "OK",
+    "BeaconDefaultPrefix": "B",
+    "EscapePodStorageLabel": "\u00daLO\u017dN\u00dd PROSTOR",
+    "CyclopsUpgradesStorageLabel": "MODULY VYLEP\u0160EN\u00cd",
+    "SpecimenAnalyzerStorageLabel": "ANALYZ\u00c9R VZORK\u016e",
+    "CalciumChunk": "V\u00e1pencov\u00fd v\u00fd\u010dn\u011blek",
+    "CuredPeeper": "Nalo\u017een\u00fd Peeper",
+    "CuredHoleFish": "Nalo\u017een\u00fd HoleFish",
+    "CuredHoopfish": "Nalo\u017een\u00fd Hoopfish",
+    "CuredGarryFish": "Nalo\u017een\u00fd Garryfish",
+    "CuredReginald": "Nalo\u017een\u00fd Reginald",
+    "CuredBladderfish": "Nalo\u017een\u00fd Airsack",
+    "CuredHoverfish": "Nalo\u017een\u00fd Hoverfish",
+    "CuredSpadefish": "nalo\u017een\u00fd r\u00fd\u010dovec",
+    "CuredBoomerang": "Nalo\u017een\u00fd Boomerang",
+    "CuredEyeye": "nalo\u017een\u00fd okoun",
+    "CuredOculus": "Nalo\u017een\u00fd Oculus",
+    "Decomposing": "Star\u00fd",
+    "Ripe": "Rozkl\u00e1daj\u00edc\u00ed",
+    "Rotting": "Shnil\u00fd",
+    "CookedFood": "Pe\u010den\u00e9 j\u00eddlo",
+    "CuredFood": "Nakl\u00e1dan\u00e9 j\u00eddlo",
+    "Tooltip_CuredBladderfish": "P\u0159ipom\u00edn\u00e1 su\u0161en\u00e9 maso.",
+    "Tooltip_CuredBoomerang": "Tvrd\u00fd, ale po\u017eivateln\u00fd.",
+    "Tooltip_CuredEyeye": "Scvrkl\u00e9, ztvrdl\u00e9, ale jinak chutn\u00e9.",
+    "Tooltip_CuredGarryFish": "Pouze slan\u00e9.",
+    "Tooltip_CuredHoleFish": "Prosolen\u00edm z\u00edsk\u00e1 p\u011bnovou konzistenci.",
+    "Tooltip_CuredHoopfish": "Tato ryba opravdu chutn\u00e1 jako ryba.",
+    "Tooltip_CuredHoverfish": "K\u0159upav\u00e9, nejlep\u0161\u00ed jsou slan\u00e9 no\u017ei\u010dky.",
+    "Tooltip_CuredOculus": "Masov\u00e1 a velmi siln\u00e1 chu\u0165.",
+    "Tooltip_CuredPeeper": "Konzervov\u00e1no sol\u00ed.",
+    "Tooltip_CuredReginald": "P\u0159esoleno.",
+    "Tooltip_CuredSpadefish": "Doporu\u010den\u00e1 denn\u00ed d\u00e1vka soli v jedin\u00e9 porci.",
+    "NoBattery": "V invent\u00e1\u0159i nem\u00e1me baterie",
+    "UseWorkbench": "Pou\u017e\u00edt modifika\u010dn\u00ed stanici",
+    "DiamondBlade": "Tvrzen\u00fd n\u016f\u017e",
+    "HeatBlade": "Termo n\u016f\u017e",
+    "LithiumIonBattery": "Lithium-iontov\u00e1 baterie",
+    "PlasteelTank": "plastocelov\u00e1 l\u00e1hev",
+    "HighCapacityTank": "velkokapacitn\u00ed l\u00e1hev",
+    "UltraGlideFins": "sportovn\u00ed ploutve",
+    "SwimChargeFins": "dob\u00edjec\u00ed ploutve",
+    "RepulsionCannon": "Odpuzovac\u00ed d\u011blo",
+    "Stillsuit": "filtra\u010dn\u00ed oblek",
+    "PowerGlide": "Powerglide",
+    "Tooltip_DiveSuit": "Z\u00e1kladn\u00ed neopr\u00e9nov\u00fd oblek",
+    "Tooltip_DiamondBlade": "Diamantem tvrzen\u00fd n\u016f\u017e",
+    "Tooltip_HeatBlade": "Roz\u017ehaven\u00e1 \u010depel",
+    "Tooltip_LithiumIonBattery": "Dvojn\u00e1sobn\u00e1 kapacita energie",
+    "Tooltip_PlasteelTank": "Odleh\u010den\u00e1 l\u00e1hev",
+    "Tooltip_HighCapacityTank": "Velkokapacitn\u00ed l\u00e1hev +60 sekund",
+    "Tooltip_UltraGlideFins": "Umo\u017e\u0148uj\u00ed plavat rychleji",
+    "Tooltip_SwimChargeFins": "P\u0159i plav\u00e1n\u00ed bezdr\u00e1tov\u011b dob\u00edj\u00ed ru\u010dn\u00ed za\u0159\u00edzen\u00ed.",
+    "Tooltip_RepulsionCannon": "P\u016fsob\u00ed silou na p\u0159edm\u011bty.",
+    "Tooltip_Stillsuit": "Zachyt\u00e1v\u00e1 t\u011blesn\u00e9 tekutiny.",
+    "Tooltip_PowerGlide": "Right-mouse to activate power surge",
+    "SecsO2": "{0}s",
+    "Empty": "pr\u00e1zdn\u00fd",
+    "Tooltip_PropulsionCannon": "Pomoc\u00ed gravitace p\u0159itahuje a odhazuje objekty.",
+    "Tooltip_PropulsionCannonBlueprint": "Pl\u00e1ny na stavbu Propulsn\u00edho d\u011bla",
+    "InventoryOverflow": "Pln\u00fd invent\u00e1\u0159. Uvoln\u011bte m\u00edsto pro sebr\u00e1n\u00ed {0}.",
+    "CrashPowder": "St\u0159eln\u00fd prach",
+    "Tooltip_CrashPowder": "SO\u2074Tr. S\u00edran na b\u00e1zi pr\u00e1\u0161ku. Ho\u0159lav\u00fd pod vodou.",
+    "LoadGame": "Nahr\u00e1t hru",
+    "Quit": "Konec",
+    "SurvivalDescription": "Vyh\u00fdbat se nebezpe\u010dn\u00fdm tvor\u016fm, hledat suroviny, zah\u00e1n\u011bt hlad a \u017e\u00edze\u0148 abyste p\u0159e\u017eili.",
+    "FreedomDescription": "Jako P\u0159e\u017eit\u00ed, ale bez hladov\u011bn\u00ed a \u017e\u00edzn\u011b.",
+    "HardcoreDescription": "Re\u017eim P\u0159e\u017eit\u00ed pouze s jedn\u00edm \u017eivotem. Bez hl\u00e1\u0161en\u00ed nedostatku kysl\u00edku.",
+    "GetDevelopmentUpdates": "Odeb\u00edrat v\u00fdvoj\u00e1\u0159sk\u00e9 novinky",
+    "ViewOnSteam": "Zhl\u00e9dnout na steamu",
+    "RedeemaKey": "Redeem a Key",
+    "GetDevUpdates": "Z\u00edskej Dev Aktualizace",
+    "GetDevUpdatesDescription": "Zadejte sv\u016fj email pro zas\u00edlan\u00ed novinek ohledn\u011b vyd\u00e1n\u00ed aktualizac\u00ed Subnautica!",
+    "EnterEmailPlaceholder": "Napi\u0161 email ...",
+    "ViewPastUpdates": "Historie zpr\u00e1v",
+    "Subscribe": "P\u0159ihl\u00e1sit",
+    "RedeemanItemKey": "Redeem an Item Key",
+    "EnterKeyPlaceholder": "Enter key...",
+    "RedemptionDescription": "Got a Subnautica item key? Redeem it here to add it to your Steam Inventory, and make it available in game!",
+    "Redeem": "Redeem",
+    "StillsuitEquipped": "Oble\u010den filtra\u010dn\u00ed oblek, sb\u011br t\u011blesn\u00fdch tekutin zapo\u010dal.",
+    "StillsuitCreatedWater": "Filtra\u010dn\u00ed oblek zachytil 236ml recyklovan\u00e9 vody",
+    "StillsuitWater": "recyklovan\u00e1 voda",
+    "Tooltip_StillsuitWater": "H\u00b2O. Vy\u010di\u0161t\u011bn\u00e1 voda z t\u011blesn\u00fdch tekutin.",
+    "PropulsionCannonEToRelease": "Stiskn\u011bte E pro odhozen\u00ed",
+    "Help": "N\u00e1pov\u011bda",
+    "Inventory": "Invent\u00e1\u0159",
+    "OpenSteamInventory": "Otev\u0159\u00edt invent\u00e1\u0159 na Steamu",
+    "BackToDevNews": "Zp\u011bt na v\u00fdvoj\u00e1\u0159sk\u00e9 novinky",
+    "EconomyWarning": "Tato funkce je v omezen\u00e9m testov\u00e1n\u00ed. Pros\u00edm ignorujte j\u00ed.",
+    "DevTestItem": "Dev test item",
+    "Tooltip_DevTestItem": "Really. REALLY.",
+    "BikemanHullPlate": "Bikeman Hull Plate",
+    "EatMyDictionHullPlate": "Eat My Diction Hull Plate",
+    "POWER": "ENERGIE",
+    "DevelopmentNews": "V\u00fdvoj\u00e1\u0159sk\u00e9 novinky",
+    "SavedGames": "Ulo\u017een\u00e9 hry",
+    "ClimbLadder": "Vy\u0161plhat",
+    "ExitEscapePod": "Opustit z\u00e1chrann\u00fd modul",
+    "EnterEscapePod": "Vstoupit na z\u00e1chrann\u00fd modul",
+    "BoardEscapePod": "Nalodit na z\u00e1chrann\u00fd modul",
+    "UseLadder": "Pou\u017e\u00edt \u017eeb\u0159\u00edk",
+    "Open": "Otev\u0159\u00edt",
+    "Close": "Zav\u0159\u00edt",
+    "OpenStorage": "Otev\u0159\u00edt lavici",
+    "SavingGame": "Ukl\u00e1d\u00e1m hru ...",
+    "GameSaved": "Hra ulo\u017eena.",
+    "PressButton": "Stiskni tla\u010d\u00edtko",
+    "Climb": "\u0160plhat",
+    "Dig": "Kopat",
+    "DriveVehicle": "\u0158\u00eddit plavidlo",
+    "CloseDoor": "Zav\u0159\u00edt dve\u0159e",
+    "OpenDoor": "Otev\u0159\u00edt dve\u0159e",
+    "ClimbUp": "Vy\u0161plhat",
+    "ClimbDown": "Sl\u00e9zt",
+    "GrabOn": "Chytit",
+    "PowerCableInstructions": "P\u0159ipojit (LTM) odpojit (PTM)",
+    "PickupCable": "Sebrat kabel",
+    "InsertPowerCell": "Vlo\u017eit nov\u00fd energetick\u00fd \u010dl\u00e1nek",
+    "PilotSub": "\u0158\u00eddit ponorku",
+    "SetAutopilot": "Nastavit Autopilota",
+    "SignInstructions": "Sebrat (editace PTM)",
+    "TerraformerInstructions": "Prav\u00fd tl. nan\u00e1\u0161\u00edte materi\u00e1l, se Shiftem odeb\u00edr\u00e1te.",
+    "TerraformerOutOfMaterial": "Do\u0161el materi\u00e1l! Nasb\u00edrat dal\u0161\u00ed. (Shift+PTM)",
+    "TerraformerTooClose": "Moc bl\u00edzko! Jd\u011bte d\u00e1l.",
+    "TerraformerTooFar": "P\u0159\u00edli\u0161 daleko od ter\u00e9nu!",
+    "PipeInstructions": "Prav\u00fdm um\u00edstit. Konec nad hladinou nebo p\u0159ipojovat k st\u00e1vaj\u00edc\u00edmu potrub\u00ed.",
+    "PipeCantReconnect": "Nelze p\u0159ipojit, p\u0159\u00edli\u0161 velk\u00e1 vzd\u00e1lenost!",
+    "PipeNotConnected": "Potrub\u00ed nevede nad hladinu! Nelze \u010derpat vzduch.",
+    "FeedbackInstructions": "Pro zasl\u00e1n\u00ed zp\u011btn\u00e9 reakce stiskn\u011bte F8",
+    "NightTime": "Nast\u00e1v\u00e1 noc",
+    "SpawnNearbyFailed": "SpawnNearby failed.",
+    "Compass": "Kompas",
+    "Pipe": "Potrub\u00ed",
+    "Terraformer": "Teraformer",
+    "Thermometer": "Teplom\u011br",
+    "BatteryDepleted": "Vybit\u00e1 baterie",
+    "Gravsphere": "Gravita\u010dn\u00ed koule",
+    "Cyclops": "Cyclop",
+    "EscapePod": "Z\u00e1chrann\u00fd modul",
+    "Silicone": "silikonov\u00e1 guma",
+    "Tooltip_Aquarium": "Sob\u011bsta\u010dn\u00e1 vodn\u00ed n\u00e1dr\u017e.",
+    "Tooltip_Spotlight": "Osv\u011btluje temn\u00e1 m\u00edsta.",
+    "DeconstructAttachedError": "P\u0159ipojen\u00e9 sou\u010d\u00e1sti mus\u00edte nejd\u0159\u00edve odmontovat.",
+    "Pause": "Pauza",
+    "BackToGame": "Zp\u011bt do hry",
+    "GiveFeedback": "Poslat zp\u011btnou vazbu",
+    "Save": "Ulo\u017eit",
+    "QuitToDesktop": "Ukon\u010dit",
+    "AreYouSure": "Jsi si jist\u00fd?",
+    "Yes": "Ano",
+    "No": "Ne",
+    "InvertMouse": "P\u0159evr\u00e1tit my\u0161",
+    "MouseSensitivity": "Citlivost my\u0161i",
+    "OculusRift": "Oculus Rift",
+    "OculusRecenter": "Vycentrovat (F2)",
+    "DisableMousePitch": "Vypnout pohyb my\u0161\u00ed",
+    "ArmFollowsGaze": "Ruce sleduj\u00ed pohled",
+    "capacity": "kapacita",
+    "ClimbUpLadder": "Vy\u0161plhat po \u017eeb\u0159\u00edku",
+    "ClimbDownLadder": "Sl\u00e9zt po \u017eeb\u0159\u00edku",
+    "sand": "p\u00edsek",
+    "FabricatorMenu_Resources": "Materi\u00e1ly",
+    "FabricatorMenu_Electronics": "Elektronika",
+    "FabricatorMenu_Survival": "V\u00fd\u017eiva",
+    "FabricatorMenu_Water": "Voda",
+    "FabricatorMenu_CookedFood": "Pe\u010den\u00e9 j\u00eddlo",
+    "FabricatorMenu_CuredFood": "Nakl\u00e1dan\u00e9 jidlo",
+    "FabricatorMenu_Personal": "V\u00fdbava",
+    "FabricatorMenu_Equipment": "Za\u0159\u00edzen\u00ed",
+    "FabricatorMenu_Tools": "N\u00e1stroje",
+    "FabricatorMenu_Machines": "Rozm\u00edstiteln\u00e9",
+    "FabricatorMenu_Submarine": "Ponorka",
+    "ConstructorMenu_Vehicles": "Plavidla",
+    "WorkbenchMenu_KnifeMenu": "N\u016f\u017e p\u0159e\u017eit\u00ed",
+    "WorkbenchMenu_TankMenu": "Kysl\u00edkov\u00e1 l\u00e1hev",
+    "WorkbenchMenu_FinsMenu": "Ploutve",
+    "PropulsionCannonFragment": "Fragment propulsn\u00edho d\u011bla",
+    "Tooltip_PropulsionCannonFragment": "Kousek propulsn\u00edho d\u011bla",
+    "Tooltip_ReinforceHullFragment": "Kousek v\u00fdztuhy z Aurory",
+    "TabInventory": "Invent\u00e1\u0159",
+    "TabJournal": "N\u00e1vody",
+    "SignDefaultLabel": "POPIS",
+    "SignEditLabel": "P\u0159epsat",
+    "CategoryMisc": "Ostatn\u00ed",
+    "CategoryBase": "\u010c\u00e1sti z\u00e1kladny",
+    "CategoryPower": "Energie",
+    "CategoryModule": "Za\u0159\u00edzen\u00ed",
+    "Sign": "Cedule",
+    "Tooltip_Sign": "Cedule nebo ukazatel",
+    "SolarPanel": "Sol\u00e1rn\u00ed panel",
+    "SolarPanelStatus": "Sol\u00e1rn\u00ed panel (osv\u011btlen\u00ed: {0}% nabito: {1}\/{2})",
+    "Tooltip_SolarPanel": "Postavit na zem v dosahu slune\u010dn\u00edch paprsk\u016f (25 energie\/min)",
+    "WorkbenchMenu_PropulsionCannonMenu": "Propulsn\u00ed d\u011blo",
+    "Uranium": "Uran",
+    "RegenPowerCell": "Samo-dob\u00edjec\u00ed baterie ",
+    "CompostCreepvine": "Chaluhov\u00fd kompost",
+    "Tooltip_CompostCreepvine": "Zpracov\u00e1n\u00edm chaluh vytv\u00e1\u0159\u00ed u\u017ee\u010dnou energii",
+    "ProcessUranium": "Zpracov\u00e1v\u00e1 uran",
+    "Tooltip_ProcessUranium": "\u0158\u00edzen\u00e1 atomov\u00e1 reakce",
+    "TreeMushroomPiece": "kousek houby",
+    "Tooltip_TreeMushroomPiece": "Domorod\u00e1 fl\u00f3ra. Obsahuje houbovit\u00e9 enzymy.",
+    "Tooltip_Uranium": "U. Pou\u017e\u00edv\u00e1 se jako palivo v jadern\u00fdch reaktorech",
+    "PowerTransmitter": "P\u0159ena\u0161e\u010d energie",
+    "Accumulator": "Akumul\u00e1tor",
+    "Bioreactor": "Bioreaktor",
+    "ThermalPlant": "Tepen\u00e9 \u010derpadlo",
+    "NuclearReactor": "Nukle\u00e1rn\u00ed reaktor",
+    "PowerCellStatus": "ENERGIE: {0}\/{1}",
+    "HUDPowerStatus": "ENERGIE: {0}\/{1}",
+    "AccumulatorStatus": "Akumul\u00e1tor (nabito: {0}\/{1})",
+    "BioreactorStatus": "Bioreaktor (nabito: {0}\/{1})",
+    "BioreactorProcessingStatus": "Bioreaktor (zpracov\u00e1no: {0} nabito: {1}\/{2})",
+    "ThermalPlantStatus": "Tepeln\u00e9 \u010derpadlo (nabito: {0}\/{1})",
+    "NuclearReactorStatus": "Nukle\u00e1rn\u00ed reaktor (nabito: {0}\/{1})",
+    "NuclearReactorProcessingStatus": "Nukle\u00e1rn\u00ed reaktor (zpracov\u00e1no: {0} nabito: {1}\/{2})",
+    "Tooltip_PowerTransmitter": "Roz\u0161i\u0159uje dosah energie",
+    "Tooltip_Accumulator": "Ukl\u00e1d\u00e1 energii",
+    "Tooltip_Bioreactor": "Kompostov\u00e1n\u00edm rostlin vytv\u00e1\u0159\u00ed energii (40 energie\/min)",
+    "Tooltip_ThermalPlant": "P\u0159ev\u00e1d\u00ed teplo na energii (> 15 \u00b0C) (50 energie\/min)",
+    "Tooltip_NuclearReactor": "Produkuje energii \u0161t\u011bpen\u00edm uranu (150 energie\/min)",
+    "SmallLockerDefaultLabel": "SK\u0158\u00cd\u0147KA",
+    "SmallLockerEditLabel": "P\u0159ejmenovat",
+    "SmallLocker": "N\u00e1st\u011bnn\u00e1 sk\u0159\u00ed\u0148ka",
+    "Tooltip_SmallLocker": "\u00falo\u017en\u00fd prostor",
+    "Lithium": "lithium",
+    "DioramaHullPlate": "Diorama Hull Plate",
+    "Tooltip_DioramaHullPlate": "A special Hull Plate to commemorate a unique diorama.",
+    "OpenPercent": "OTEV\u0158ENO: {0}%",
+    "LaserCutter": "Laserov\u00fd \u0159ez\u00e1k",
+    "Tooltip_LaserCutter": "Otev\u00edr\u00e1 v\u011bci \u0159ez\u00e1n\u00edm",
+    "Sealed_SupplyCrate": "Zape\u010det\u011bn\u00e1 bedna z\u00e1sob",
+    "Sealed": "Zape\u010det\u011bno",
+    "SealedInstructions": "Nutno vy\u0159ezat otvor",
+    "BoardCyclops": "Na palubu Cyclopa",
+    "LeaveCyclops": "Opustit Cyclopa",
+    "EnterBase": "Vstoupit na z\u00e1kladnu",
+    "ExitBase": "Opustit z\u00e1kladnu",
+    "MarkiplierHullPlate": "Markiplier Hull Plate",
+    "Tooltip_MarkiplierHullPlate": "I'm not scared. Not even a little bit.",
+    "MuyskermHullPlate": "Muyskerm Hull Plate",
+    "Tooltip_MuyskermHullPlate": "Reconsider your YouTube subscription standards.",
+    "LordMinionHullPlate": "LordMinion Hull Plate",
+    "Tooltip_LordMinionHullPlate": "The most handsome Subnautica Hull Plate of all time.",
+    "JackSepticEyeHullPlate": "JackSepticEye Hull Plate",
+    "Tooltip_JackSepticEyeHullPlate": "Jack creates clean, swearing-free videos appropriate for viewing by all ages.",
+    "Aerogel": "Aerogel",
+    "AluminumOxide": "Krystal oxidu hlinit\u00e9ho",
+    "AminoAcids": "aminokyseliny",
+    "AramidFibers": "syntetick\u00e1 vl\u00e1kna",
+    "Benzene": "benzen",
+    "BloodOil": "rud\u00fd olej",
+    "BloodRoot": "Rud\u00fd ko\u0159en",
+    "BloodVine": "Rud\u00e1 r\u00e9va",
+    "Graphene": "Grafen",
+    "HydrochloricAcid": "kyselina chlorovod\u00edkov\u00e1",
+    "Magnetite": "Magnetit",
+    "MercuryOre": "Rtu\u0165",
+    "Nanowires": "Nanovodi\u010de",
+    "Polyaniline": "Polyanilin",
+    "Sulphur": "S\u00edra",
+    "WhiteMushroom": "Ryzec hloubkov\u00fd",
+    "FabricatorMenu_BasicMaterials": "Z\u00e1kladn\u00ed materi\u00e1ly",
+    "FabricatorMenu_AdvancedMaterials": "Pokro\u010dil\u00e9 materi\u00e1ly",
+    "Tooltip_Aerogel": "Lehk\u00fd, por\u00e9zn\u00ed, vysu\u0161en\u00fd gel. Vysok\u00e1 tepeln\u00e1 odolnost.",
+    "Tooltip_AluminumOxide": "Al\u00b2O\u00b3. V\u00fdborn\u00e1 tepeln\u00e1 a elektrick\u00e1 vodivost.",
+    "Tooltip_AminoAcids": "Stavebn\u00ed k\u00e1men b\u00edlkovin a neurotransmiter\u016f.",
+    "Tooltip_AramidFibers": "Vysoce pevn\u00e1 syntetick\u00e1 vl\u00e1kna",
+    "Tooltip_Benzene": "C\u2076H\u2076. Pou\u017eit\u00ed do olej\u016f a rozpou\u0161t\u011bdel.",
+    "Tooltip_BloodOil": "Olejovit\u00e1 b\u0159e\u010dka",
+    "Tooltip_BloodRoot": "Ko\u0159en syt\u011b \u010derven\u00e9 barvy",
+    "Tooltip_BloodVine": "",
+    "Tooltip_Graphene": "C. Supertenk\u00e1 forma uhl\u00edku strukturou podobn\u00e1 grafitu. Pevn\u011bj\u0161\u00ed ne\u017e ocel.",
+    "Tooltip_HydrochloricAcid": "HCl. Velmi siln\u00e1 kyselina. Zamezte styku s k\u016f\u017e\u00ed a o\u010dima.",
+    "Tooltip_Magnetite": "Ma. Kov s magnetick\u00fdmi vlastnostmi.",
+    "Tooltip_MercuryOre": "HgS.Rum\u011blka. Tepelnou \u00fapravou lze z\u00edskat rtu\u0165.",
+    "Tooltip_Nanowires": "Vodi\u010de nanometrick\u00fdch kvantov\u00fdch za\u0159\u00edzen\u00ed.",
+    "Tooltip_Polyaniline": "Vysoce vodiv\u00fd polymer.",
+    "Tooltip_Sulphur": "S. Oxida\u010dn\u00ed a reduk\u010dn\u00ed \u010dinidlo.",
+    "Tooltip_WhiteMushroom": "Obsahuje silnou kyselinu",
+    "Cutefish": "Cutefish",
+    "Tooltip_Cutefish": "Mazl\u00ed\u010dek ze Speci\u00e1ln\u00ed Edice",
+    "BaseBulkhead": "P\u0159ep\u00e1\u017eka",
+    "Tooltip_BaseBulkhead": "Vodot\u011bsn\u00e1 p\u0159ep\u00e1\u017eka, zvy\u0161uje pevnost (+2HP)",
+    "OpenLocker": "Otev\u0159\u00edt sk\u0159\u00ed\u0148ku",
+    "Lubricant": "mazivo",
+    "CreepvineSeedCluster": "semena chaluh",
+    "Tooltip_CreepvineSeedCluster": "V\u00e1\u010dky s vysok\u00fdm obsahem oleje.",
+    "Tooltip_Lubricant": "P\u0159irozen\u011b z\u00edskan\u00e1, maziva na b\u00e1zi oleje. Pr\u016fmyslov\u00e9 vyu\u017eit\u00ed.",
+    "SeamothReinforcementModule": "Zv\u00fd\u0161en\u00ed tlaku pro Seamotha",
+    "Tooltip_SeamothReinforcementModule": "Zvy\u0161uje odolnost Seamotha v\u016f\u010di vysok\u00fdm tlak\u016fm, bezpe\u010dn\u00e1 hloubka bude o 200m lep\u0161\u00ed.",
+    "SeamothPowerUpgradeModule": "Sn\u00ed\u017een\u00ed spot\u0159eby pro Seamotha",
+    "Tooltip_SeamothPowerUpgradeModule": "Recykluje tepeln\u00e9 vyza\u0159ov\u00e1n\u00ed a zvy\u0161uje \u00fa\u010dinnost motor\u016f o 15%",
+    "SeamothSolarCharge": "Sol\u00e1rn\u00ed dob\u00edjen\u00ed Seamotha",
+    "Tooltip_SeamothSolarCharge": "Dob\u00edj\u00ed baterie Seamotha kdy\u017e je vystaven slune\u010dn\u00edmu z\u00e1\u0159en\u00ed.",
+    "Bench": "Lavice",
+    "Tooltip_Bench": "Jednoduch\u00e9 kovov\u00e9 za\u0159\u00edzen\u00ed. Dod\u00e1v\u00e1 energii p\u0159i odpo\u010dinku.",
+    "BaseCorridorGlassI": "Prosklen\u00e1 chodba",
+    "BaseCorridorGlassL": "Prosklen\u00e1 rohov\u00e1 chodba",
+    "BaseObservatory": "Observato\u0159",
+    "Tooltip_BaseCorridorGlassI": "Z\u00e1kladn\u00ed prosklen\u00e1 chodba (-2HP)",
+    "Tooltip_BaseCorridorGlassL": "Pravo\u00fahl\u00e1 chodba -(2HP)",
+    "Tooltip_BaseObservatory": "Pozorujte podvodn\u00ed sv\u011bt polem sebe (-3HP)",
+    "BaseConnector": "Vertik\u00e1ln\u00ed pr\u016flez",
+    "Tooltip_BaseConnector": "Z\u00e1kladn\u00ed vertik\u00e1ln\u00ed pr\u016flez (-0,5HP)",
+    "BioreactorFragment": "Fragment Bioreaktoru",
+    "NuclearReactorFragment": "Fragment Nukle\u00e1rn\u00edho reaktoru",
+    "ThermalPlantFragment": "Fragment tepeln\u00e9ho \u010derpadla",
+    "Tooltip_BioreactorFragment": "Mal\u00e1 \u010d\u00e1st bioreaktoru",
+    "Tooltip_ThermalPlantFragment": "Mal\u00e1 \u010d\u00e1st tepeln\u00e9ho \u010derpadla",
+    "Tooltip_BioreactorBlueprint": "Pl\u00e1ny na stavbu Bioreaktoru",
+    "Tooltip_NuclearReactorBlueprint": "Pl\u00e1ny na stavbu nukle\u00e1rn\u00edho reaktoru",
+    "Tooltip_ThermalPlantBlueprint": "Pl\u00e1ny na stavbu tepeln\u00e9ho \u010derpadla",
+    "BaseMoonpool": "Moon Pool",
+    "Tooltip_BaseMoonpool": "Such\u00fd dok (-5HP)",
+    "AquariumStorageLabel": "AKV\u00c1RIUM",
+    "UseAquarium": "Pou\u017e\u00edt akv\u00e1rium",
+    "SitDown": "Posadit",
+    "StandUp": "Vst\u00e1t",
+    "MoonpoolFragment": "Fragment Moon Poolu",
+    "BioreactorBlueprint": "Pl\u00e1nek Bioreaktoru",
+    "MoonpoolBlueprint": "Pl\u00e1nek Moon Poolu",
+    "NuclearReactorBlueprint": "Pl\u00e1nek nukle\u00e1rn\u00edho reaktoru",
+    "ThermalPlantBlueprint": "Pl\u00e1nek tepeln\u00e9ho \u010derpadla",
+    "Tooltip_MoonpoolFragment": "Mal\u00e1 \u010d\u00e1st Moon Poolu",
+    "Tooltip_NuclearReactorFragment": "Mal\u00e1 \u010d\u00e1st nukle\u00e1rn\u00edho reaktoru",
+    "FloatingIsland": "Zji\u0161t\u011bna spousta ter\u00e9nu",
+    "CoralArch": "Velk\u00e1 organick\u00e1 hmota",
+    "BalancingRock": "Geologick\u00fd \u00fatvar",
+    "HugePillar": "Geologick\u00fd \u00fatvar",
+    "InventoryCantDropHere": "Udr\u017eujte po\u0159\u00e1dek. Pou\u017e\u00edvejte \u00falo\u017en\u00e9 prostory.",
+    "BaseCorridorGlass": "Prosklen\u00e1 chodba",
+    "Tooltip_BaseCorridorGlass": "Prosklen\u00e1 chodba (-2HP)",
+    "SeamothDefaultName": "SEAMOTH",
+    "ExosuitDefaultName": "EXOSKELET",
+    "SubmersibleNotDocked": "NEN\u00cd ZADOKOV\u00c1NO",
+    "SubmersibleDocked": "V DOKU",
+    "SubmersibleFullyCharged": "PLN\u011a NABITO",
+    "SubmersibleCharging": "NAB\u00cdJEN\u00cd",
+    "BaseUpgradeConsole": "Modifika\u010dn\u00ed stanice Seamotha",
+    "Tooltip_BaseUpgradeConsole": "Lze postavit v such\u00e9m doku pro \u00fapravy Seamotha",
+    "NotEnoughSpaceToSit": "Zde si nen\u00ed kam sednout",
+    "Creative": "Kreativn\u00ed",
+    "CreativeDescription": "Budujte bez omezen\u00ed. Vzduch, j\u00eddlo, tlak, p\u0159\u00edb\u011bh a smrt nen\u00ed t\u0159eba \u0159e\u0161it.",
+    "unpowered": "Bez energie",
+    "SeamothStorageModule": "\u00dalo\u017en\u00fd prostor Seamotha",
+    "Tooltip_SeamothStorageModule": "Vn\u011bj\u0161\u00ed sk\u0159\u00ed\u0148ka 4x4",
+    "SeamothStorageNotEmpty": "\u00dalo\u017en\u00fd prostor mus\u00ed b\u00fdt pr\u00e1zdn\u00fd",
+    "SeamothElectricalDefense": "Obrann\u00fd syst\u00e9m Seamotha",
+    "Tooltip_SeamothElectricalDefense": "Generuje siln\u00e9 elektrick\u00e9 pole pro odra\u017een\u00ed agresivn\u00ed fauny.",
+    "Skyray": "Skyray",
+    "SeamothTorpedoModule": "Torp\u00e9dov\u00fd syst\u00e9m Seamotha",
+    "Tooltip_SeamothTorpedoModule": "Podvodn\u00ed odpalovac\u00ed syst\u00e9m pro st\u0159elbu nedestruktivn\u00edch v\u00ed\u0159iv\u00fdch torp\u00e9d.",
+    "Goal_Lifepod1": "Spu\u0161t\u011bn\u00ed PDA v nouzov\u00e9m re\u017eimu. Biometrie p\u0159ipojena. Syst\u00e9m pro podporu \u017eivota p\u0159ipojeno. Prov\u00e1d\u00edm anal\u00fdzu situace.",
+    "Goal_Lifepod2": "T\u011b\u017eebn\u00ed vesm\u00edrn\u00e1 lo\u010f Aurora utrp\u011bla katastrof\u00e1ln\u00ed po\u0161kozen\u00ed trupu. P\u0159\u00ed\u010dina: nezn\u00e1m\u00e1. \u017d\u00e1dn\u00e9 zn\u00e1mky lidsk\u00e9ho \u017eivota nezji\u0161t\u011bny v okol\u00ed 100m.",
+    "Goal_Lifepod3": "\u010cas: 3 hodiny od dopadu. Z\u00e1chrann\u00fd modul: trup nepo\u0161kozen. Komunikace: v re\u017eimu offline.",
+    "Goal_Lifepod4": "\u017divotn\u00ed prost\u0159ed\u00ed: Nezn\u00e1m\u00e1 mo\u0159sk\u00e1 planeta. Atmosf\u00e9ra d\u00fdchateln\u00e1. Kontaminace vody: vysok\u00e1.",
+    "Goal_Intro1": "Automatick\u00e9 vys\u00edl\u00e1n\u00ed sign\u00e1lu t\u00edsn\u011b kr\u00e1tk\u00e9ho dosahu se nezda\u0159ilo. Komunika\u010dn\u00ed za\u0159\u00edzen\u00ed z\u00e1chrann\u00e9ho modulu v re\u017eimu offline.",
+    "Goal_Intro2": "Z\u00e1chrann\u00e9 moduly jsou vybaveny Fabrik\u00e1tory naprogramovan\u00fdmi tak, aby vyrobili n\u00e1stroje, a vytvo\u0159ili z organick\u00fdch l\u00e1tek j\u00eddlo.",
+    "Goal_CookedPeeper": "Fabrik\u00e1tor va\u0159\u00ed mal\u00e9 organismy, odstra\u0148uje kostern\u00ed strukturu, t\u011blesn\u00e9 tekutiny a vnit\u0159n\u00ed org\u00e1ny, \u010d\u00edm\u017e je d\u011bl\u00e1 bezpe\u010dn\u00e9 pro lidsk\u00e9 pot\u0159eby.",
+    "Goal_LocationAuroraEntry": "Pozor, nezn\u00e1m\u00e1 integrita struktury. Pr\u016fzkum se nedoporu\u010duje.",
+    "Goal_LocationAuroraFurtherIn": "Zji\u0161t\u011bny stopy lidsk\u00fdch ostatk\u016f v za\u017e\u00edvac\u00edm traktu nedalek\u00e9ho organismu. Dal\u0161\u00ed pr\u016fzkum nedoporu\u010duje.",
+    "Goal_BiomeCrashedShip": "Zji\u0161t\u011bno rozs\u00e1hl\u00e9 pole trosek.",
+    "Goal_LocationAuroraInterior": "87% obytn\u00fdch \u010d\u00e1st\u00ed lodi bylo shled\u00e1no neobyvateln\u00fdm b\u011bhem detonace.",
+    "Goal_LocationAuroraHallway": "Vyhodnocuji vnit\u0159n\u00ed po\u0161kozen\u00ed. Typ po\u0161kozen\u00ed neodpov\u00edd\u00e1 vnit\u0159n\u00ed poru\u0161e. \u010cern\u00e1 sk\u0159\u00ed\u0148ka Aurory nenalezena.",
+    "Goal_LocationAuroraDriveEntry": "Kontrola po\u0161kozen\u00ed reaktoru v\u016f\u010di rychlosti n\u00e1razu. V\u00fdpo\u010dty ukazuj\u00ed, na nedostate\u010dn\u00fd n\u00e1raz k poru\u0161en\u00ed j\u00e1dra.",
+    "Goal_Location AuroraDriveInterior": "Nalezena \u010dern\u00e1 sk\u0159\u00ed\u0148ka Aurory. Pokus o sta\u017een\u00ed dat. Siln\u00e9 ru\u0161en\u00ed. Pozor, radiace na maxim\u00e1ln\u00ed p\u0159ijateln\u00e9 \u00farov\u0148i.",
+    "SeamothStorageOpen": "Otev\u0159\u00edt box",
+    "SeamothSonarModule": "Sonar Seamotha",
+    "Tooltip_SeamothSonarModule": "Specializovan\u00fd syst\u00e9m pro zji\u0161\u0165ov\u00e1n\u00ed a zobrazov\u00e1n\u00ed geografick\u00fdch dat na HUD.",
+    "LootSensorMetal": "Detektor \u017eeleza pro Seamotha",
+    "Tooltip_LootSensorMetal": "",
+    "LootSensorLithium": "detektor lithia pro Seamotha",
+    "Tooltip_LootSensorLithium": "",
+    "LootSensorFragment": "Detektor fragment\u016f pro Seamotha",
+    "Tooltip_LootSensorFragment": "",
+    "SeamothTorpedoStorage": "Torp\u00e9do met pro Seamotha ",
+    "SeamothTorpedoNoAmmo": "Munice vy\u010derp\u00e1na. Vystupte z plavidla a dopl\u0148te munici.",
+    "WhirlpoolTorpedo": "V\u00ed\u0159iv\u00e9 torp\u00e9do pro Seamotha",
+    "Tooltip_WhirlpoolTorpedo": "Nabijte toto torp\u00e9do do p\u0159edn\u00ed \u010d\u00e1sti Seamotha",
+    "SeamothArmorPlating": "Zes\u00edlen\u00ed trupu Seamotha",
+    "Tooltip_SeamothArmorPlating": "Preventivn\u011b zpev\u0148uje trup proti koliz\u00edm, co\u017e za norm\u00e1ln\u00edch podm\u00ednek sni\u017euje po\u0161kozen\u00ed.",
+    "SeamothUpgradesMenu_ModuleMenu": "Vylep\u0161en\u00ed Seamotha",
+    "SeamothUpgradesMenu_ItemMenu": "Torp\u00e9da Seamotha",
+    "ContainerOverflow": "P\u0159i posledn\u00ed aktualizaci do\u0161lo ke zm\u011bn\u011b velikosti p\u0159edm\u011bt\u016f, uvoln\u011bte m\u00edsto v invent\u00e1\u0159i pro zobrazen\u00ed v\u0161ech v\u011bc\u00ed.",
+    "DURABILITY": "TRVANLIVOST",
+    "TabLog": "Hlasov\u00fd z\u00e1znam",
+    "Day": "Den",
+    "MasterVolume": "Celkov\u00e1 hlasitost",
+    "MusicVolume": "Hlasitost hudby",
+    "ExchangeBattery": "V\u00fdm\u011bna baterie (R)",
+    "Health": "Zdrav\u00ed",
+    "PlanterStorageLabel": "Z\u00c1HONEK",
+    "FiltrationMachineStorageLabel": "FILTRA\u010cN\u00cd ZA\u0158\u00cdZEN\u00cd",
+    "TabGallery": "Fotoalbum",
+    "SortByDateDescending": "\u0158adit podle data (sestupn\u011b)",
+    "SortByDateAscending": "\u0158adit podle data (vzestupn\u011b)",
+    "SortByTopic": "\u0159azen\u00ed dle t\u00e9ma",
+    "SortByName": "\u0159azen\u00ed dle n\u00e1zvu",
+    "ScreenshotUpload": "Nahr\u00e1t",
+    "ScreenshotAddToSteamLibrary": "P\u0159idat na Steam",
+    "ScreenshotDelete": "Smazat",
+    "PDAGalleryTabInstructions": "Press {0} to take a screenshot",
+    "PDAGalleryThumbnailSize": "Velikost",
+    "PDAGalleryUpload": "Nahr\u00e1t obr\u00e1zek do r\u00e1me\u010dku",
+    "PDAGalleryAddToSteam": "P\u0159idat obr\u00e1zek do knihovny Steam",
+    "PDAGalleryDelete": "Smazat obr\u00e1zek (dvojklik)",
+    "UsePlanter": "Pou\u017e\u00edt z\u00e1honek",
+    "UseFiltrationMachine": "Pou\u017e\u00edt filtra\u010dn\u00ed za\u0159\u00edzen\u00ed",
+    "PictureFrameEditLabel": "Nastavit obr\u00e1zek",
+    "BreakPurplePinecone": "Rozb\u00edt purpurovou \u0161i\u0161ku",
+    "PlanterPot": "Kv\u011btin\u00e1\u010d",
+    "PlanterBox": "Vnit\u0159n\u00ed z\u00e1hon",
+    "PlanterShelf": "Kv\u011btinov\u00e1 police",
+    "FarmingTray": "Vn\u011bj\u0161\u00ed z\u00e1hon",
+    "FiltrationMachine": "Filtra\u010dn\u00ed za\u0159\u00edzen\u00ed",
+    "FullyCharged": "Pln\u011b nabito",
+    "ReinforcedDiveSuit": "zes\u00edlen\u00fd pot\u00e1p\u011b\u010dsk\u00fd oblek",
+    "PictureFrame": "Foto r\u00e1me\u010dek",
+    "Tooltip_PictureFrame": "",
+    "Tooltip_PlanterPot": "Titanov\u00fd kv\u011btin\u00e1\u010d obsahuj\u00edc\u00ed syntetickou p\u016fdu.",
+    "Tooltip_PlanterBox": "Um\u011bl\u00fd rostlinn\u00fd z\u00e1hon, vhodn\u00fd pouze pro pou\u017eit\u00ed v interi\u00e9ru.",
+    "Tooltip_PlanterShelf": "N\u00e1st\u011bnn\u00e1 kv\u011btinov\u00e1 poli\u010dka",
+    "Tooltip_FarmingTray": "Um\u011bl\u00fd rostlinn\u00fd z\u00e1hon, vhodn\u00fd pro pou\u017eit\u00ed na zemi nebo pod vodou.",
+    "Tooltip_FiltrationMachine": "Odsolovac\u00ed za\u0159\u00edzen\u00ed. Odd\u011bluje s\u016fl a vytv\u00e1\u0159\u00ed dezinfikovanou vodu.",
+    "Tooltip_ReinforcedDiveSuit": "Pevn\u00e1 aramidov\u00e1 vl\u00e1kna zvy\u0161uj\u00ed odolnost obleku o 50%.",
+    "FiltrationComplete": "Filtrace dokon\u010dena.",
+    "FiltrationProgress": "Proces filtrace: voda {0:P0}, s\u016fl {1:P0}",
+    "BasePlanter": "Zelen\u00e1 st\u011bna",
+    "BaseFiltrationMachine": "Filtra\u010dn\u00ed za\u0159\u00edzen\u00ed",
+    "Tooltip_BasePlanter": "N\u00e1st\u011bnn\u00fd sklen\u00edk. \u010cist\u011b dekorativn\u00ed.",
+    "Tooltip_BaseFiltrationMachine": "Odsolovac\u00ed za\u0159\u00edzen\u00ed. Produkuje vodu a s\u016fl.",
+    "Story_AuroraWarning3": "Pozor: \u00farove\u0148 radiace vykazuje charakteristiky spojen\u00e9 s naprost\u00fdm rozpadem pohonn\u00e9ho j\u00e1dra Aurory. Kvantov\u00e1 detonace nastane s pravd\u011bpodobnost\u00ed 85.5%. Doporu\u010den\u00e1 bezpe\u010dn\u00e1 zvd\u00e1lenost: 1km.",
+    "Story_AuroraWarning2": "Varov\u00e1n\u00ed: neust\u00e1vaj\u00edc\u00ed rozpad pohonn\u00e9ho j\u00e1dra Aurory by mohl zp\u016fsobit kvantovou detonaci. Pokud bude j\u00e1dro naru\u0161eno, pravd\u011bpodobnost smrti vystaven\u00edm se radioaktivn\u00edmu materi\u00e1lu z m\u00edsta nehody se nav\u00fd\u0161\u00ed na 37%.",
+    "Story_AuroraWarning1": "Zji\u0161t\u011bna nav\u00fd\u0161en\u00e1 \u00farove\u0148 radiace. Tento jev vykazuje znaky spojen\u00e9 s pokra\u010duj\u00edc\u00edm rozpadem pohonn\u00e9ho j\u00e1dra Aurory d\u00edky po\u0161kozen\u00ed utr\u017een\u00e9ho b\u011bhem kolize. Pokra\u010duji ve sledov\u00e1n\u00ed.",
+    "TabEncyclopedia": "Databanka",
+    "Ency_CuteFish": "Cute Fish",
+    "EncyDesc_CuteFish": "Cute Fish Description",
+    "Ency_Gasopod": "Gasopod",
+    "EncyDesc_Gasopod": "Pomalu se pohybuj\u00edc\u00ed \u017eivo\u010dich schopn\u00fd se naplnit tekutinou s jedovatou a korozivn\u00ed slou\u010deninou, kter\u00e1 rozpou\u0161t\u00ed i syntetick\u00e1 vl\u00e1kna.
+
+1. Filtra\u010dn\u00ed syst\u00e9m: N\u011bkolik \u017eabern\u00edch vrstev slou\u017e\u00ed k tomu, aby byl s\u00e1m odoln\u00fd proti \u0161kodliv\u00fdm mrak\u016fm, kter\u00e9 vylu\u010duje.
+
+2. \u0158asov\u00e1 \u017el\u00e1za: ba\u0148at\u00e1, pytel p\u0159ipom\u00ednaj\u00edc\u00ed p\u0159\u00edv\u011bsek na zadn\u00edm konci. Obsahuje druh luminiscen\u010dn\u00ed \u017elut\u00e9 \u0159asy rostouc\u00ed uvnit\u0159 a vytv\u00e1\u0159\u00ed jedovat\u00e9 slou\u010deniny.
+
+3. B\u0159i\u0161n\u00ed svaly: v p\u0159\u00edpad\u011b ohro\u017een\u00ed zp\u016fsobuje kontrakce a \u017el\u00e1za vylu\u010duje \u017e\u00edrav\u00e9 slou\u010deniny do okoln\u00ed vody.
+
+Z\u00e1v\u011br: Vyh\u00fdbat se",
+    "Ency_Biter": "Biter",
+    "EncyDesc_Biter": "Mal\u00fd, agresivn\u00ed druh. 94% sval\u016f, 4% pojivov\u00e9 tk\u00e1n\u011b, 2% mozkov\u00e9 hmoty.
+
+- D\u00edky nadm\u011brn\u011b vyvinut\u00e9 ocasn\u00ed ploutvi up\u0159ednost\u0148uje p\u0159ev\u00fd\u0161en\u00ed po\u010dtem sv\u00e9 ko\u0159isti nad vlastn\u00ed obratnost\u00ed
+- Specializovan\u00e9 \u010dichov\u00e9 senzory na p\u0159edku hlavy pro detekci t\u011bln\u00edch tekutin ve vod\u011b
+- pravd\u011bpodobn\u011b nerozli\u0161uje kdy\u017e lov\u00ed: cokoliv zran\u011bn\u00e9 se st\u00e1v\u00e1 ko\u0159ist\u00ed
+- sekund\u00e1rn\u00ed p\u00e1r o\u010d\u00ed se podob\u00e1 t\u011bm p\u00edse\u010dn\u00e9ho \u017eraloka. Nejsp\u00ed\u0161 ur\u010deny k detekci pohybu v\u011bt\u0161\u00edch pred\u00e1tor\u016f v perifern\u00edm \u00fahlu pohledu
+
+Ko\u0159ist: Mal\u00fd b\u00fdlo\u017eravci, vzhledem k propo\u010dt\u016fm i 100x t\u011b\u017e\u0161\u00ed \u017eivo\u010dichov\u00e9 by mohli podlehnout odhodlan\u00e9 sme\u010dce.
+
+Z\u00e1v\u011br: Smrteln\u00ed bez pat\u0159i\u010dn\u00fdch opat\u0159en\u00ed - vyhn\u011bte se sme\u010dk\u00e1m - sna\u017ete se nekrv\u00e1cet",
+    "Ency_Stalker": "Stalker",
+    "EncyDesc_Stalker": "Vyvinut\u00fd dravec s velkou inteligenc\u00ed a silou.
+
+- Ob\u00fdv\u00e1 chaluhov\u00fd h\u00e1j, v z\u00e1loze \u010d\u00edh\u00e1 na ko\u0159ist kter\u00e1 opou\u0161t\u00ed bezpe\u010dn\u00e9 m\u011bl\u010diny
+- S\u00edtnicov\u00e9 vrstven\u00ed p\u0159izp\u016fsoben\u00e9 pro no\u010dn\u00ed lov
+- Nervov\u00e9 dr\u00e1hy nazna\u010duj\u00ed vrozenou schopnost u\u010den\u00ed za odm\u011bnu; evolu\u010dn\u00ed vysv\u011btlen\u00ed moment\u00e1ln\u011b nejasn\u00e9
+- P\u0159itahov\u00e1n kovy. Bojuje divoce o sv\u016fj poklad. I pro toto chov\u00e1n\u00ed nen\u00ed \u017e\u00e1dn\u00e9 vysv\u011btlen\u00ed. Je zapot\u0159eb\u00ed dal\u0161\u00ed v\u00fdzkum. 
+
+Ko\u0159ist: Evolu\u010dn\u00ed profil odpov\u00edd\u00e1 p\u0159irozen\u00e9mu dravci Peeperu
+
+Z\u00e1v\u011br: zkrotit nebo vyhnout",
+    "Ency_SandShark": "P\u00edse\u010dn\u00fd \u017eralok",
+    "EncyDesc_SandShark": "\u010cl\u00e1nkov\u00fd krun\u00fd\u0159 \u010din\u00ed tohoto dravce pomal\u00fdm, ale siln\u00fdm. \u0158ady nohou na spodn\u00ed stran\u011b jsou \u0161patn\u011b vyvinut\u00e9 pro ch\u016fzi - nam\u00edsto toho jsou pou\u017e\u00edv\u00e1ny k naru\u0161en\u00ed povrchu p\u00edsku, tak\u017ee se m\u016f\u017ee zavrtat do zem\u011b, odkud p\u0159epad\u00e1v\u00e1 svou ko\u0159ist.
+
+Ko\u0159ist: B\u00fdlo\u017eravci do dvojn\u00e1sobku vlastn\u00ed velikosti
+
+Z\u00e1v\u011br: vyhnout se mra\u010dn\u016fm p\u00edsku
+",
+    "Locked_Door": "Zam\u010den\u00e9 dve\u0159e",
+    "Sealed_Door": "Zape\u010det\u011bn\u00e9 dve\u0159e",
+    "DoorInstructions_Powercell": "P\u0159ipojte nap\u00e1jen\u00ed ke konzoli otev\u00edr\u00e1n\u00ed",
+    "DoorInstructions_Keycard": "Najd\u011bte spr\u00e1vnou p\u0159\u00edstupovou kartu",
+    "GenericLocked": "Door is unlocked from elsewhere",
+    "FiltrationMachineFragment": "Fragment filtra\u010dn\u00edho za\u0159\u00edzen\u00ed",
+    "FiltrationMachineBlueprint": "Pl\u00e1nek filtra\u010dn\u00ed stanice",
+    "Tooltip_FiltrationMachineFragment": "\u010c\u00e1st filtra\u010dn\u00edho za\u0159\u00edzen\u00ed",
+    "ScannerInstanceScanned": "{0} doskenov\u00e1no. Celkov\u00fd postup: {1}% ({2}\/{3}).",
+    "ScannerRedundantScanned": "P\u0159ebyte\u010dn\u00fd fragment oskenov\u00e1n.",
+    "ScannerInstanceKnown": "Tato entita ji\u017e byla oskenov\u00e1na. Mus\u00edte naj\u00edt jinou k dokon\u010den\u00ed v\u00fdzkumu.",
+    "ScannerEntityKnown": "Entita '{0}' ji\u017e byla zkoum\u00e1na. Net\u0159eba dal\u0161\u00edho skenu.",
+    "EncyclopediaEntryUnlocked": "{0} entry added to encyclopedia",
+    "Scanner": "Skener",
+    "PropulsionCannonBlueprint": "Pl\u00e1nek propulsn\u00edho d\u011bla",
+    "Tooltip_Scanner": "Ru\u010dn\u00ed spektroskopick\u00fd skener pro z\u00e1znam informac\u00ed na atom\u00e1rn\u00ed \u00farovni ze zam\u011b\u0159en\u00e9ho objektu.",
+    "Tooltip_MoonpoolBlueprint": "Pl\u00e1ny na stavbu Moonpoolu",
+    "WaterParkPlanterStorageLabel": "AQUARIUM PLANTS",
+    "UnknownEgg1": "Creature egg",
+    "UnknownEgg2": "Creature egg",
+    "UnknownEgg3": "Creature egg",
+    "UnknownEgg4": "Creature egg",
+    "UnknownEgg5": "Creature egg",
+    "UnknownEgg6": "Creature egg",
+    "UnknownEgg7": "Creature egg",
+    "UnknownEgg8": "Creature egg",
+    "UnknownEgg9": "Creature egg",
+    "UnknownEgg10": "Creature egg",
+    "Tooltip_UnknownEgg1": "Neidentifikovan\u00e9 vejce",
+    "Tooltip_UnknownEgg2": "Neidentifikovan\u00e9 vejce",
+    "Tooltip_UnknownEgg3": "Neidentifikovan\u00e9 vejce",
+    "Tooltip_UnknownEgg4": "Neidentifikovan\u00e9 vejce",
+    "Tooltip_UnknownEgg5": "Neidentifikovan\u00e9 vejce",
+    "Tooltip_UnknownEgg6": "Neidentifikovan\u00e9 vejce",
+    "Tooltip_UnknownEgg7": "Neidentifikovan\u00e9 vejce",
+    "Tooltip_UnknownEgg8": "Neidentifikovan\u00e9 vejce",
+    "Tooltip_UnknownEgg9": "Neidentifikovan\u00e9 vejce",
+    "Tooltip_UnknownEgg10": "Neidentifikovan\u00e9 vejce",
+    "BonesharkEgg": "Boneshark egg",
+    "CrabsnakeEgg": "Crabsnake egg",
+    "GasopodEgg": "Gasopod egg",
+    "JellyrayEgg": "Jellyray egg",
+    "JumperEgg": "Jumper egg",
+    "MesmerEgg": "Mesmer egg",
+    "RabbitrayEgg": "vejce Rejnoka kr\u00e1li\u010d\u00edho",
+    "ShockerEgg": "Shocker egg",
+    "SpadefishEgg": "vejce r\u00fd\u010dovce",
+    "StalkerEgg": "vejce Stalkera",
+    "SandsharkEgg": "Vejce p\u00edse\u010dn\u00e9ho \u017eraloka",
+    "Tooltip_BonesharkEgg": "Boneshark hatch from these",
+    "Tooltip_CrabsnakeEgg": "Crabsnake hatch from these",
+    "Tooltip_GasopodEgg": "Gasopod hatch from these",
+    "Tooltip_JellyrayEgg": "Jellyray hatch from these",
+    "Tooltip_JumperEgg": "Jumper hatch from these",
+    "Tooltip_MesmerEgg": "Mesmer hatch from these",
+    "Tooltip_RabbitrayEgg": "Z tohoto se vyl\u00edhne rejnok kr\u00e1li\u010d\u00ed",
+    "Tooltip_ShockerEgg": "Shocker hatch from these",
+    "Tooltip_SpadefishEgg": "Z tohoto se vyl\u00edhne r\u00fd\u010dovec",
+    "Tooltip_StalkerEgg": "z toho se l\u00edhne Stalker",
+    "Tooltip_SandsharkEgg": "Z tohoto se vyl\u00edhne p\u00edse\u010dn\u00fd \u017eralok",
+    "EggDiscovered": "{0} objeveno",
+    "BaseWaterPark": "Velk\u00e9 akv\u00e1rium",
+    "Tooltip_BaseWaterPark": "Poskytuje optim\u00e1ln\u00ed podm\u00ednky pro fl\u00f3ru a faunu. Nutno p\u0159istav\u011bt poklop pro vstup.",
+    "EnterWaterPark": "Vstoupit do velk\u00e9ho akv\u00e1ria",
+    "ExitWaterPark": "Vystoupit z velk\u00e9ho akv\u00e1ria",
+    "LimestoneChunk": "Kus v\u00e1pence",
+    "ScannerScreenDefault": "VYHLED\u00c1V\u00c1N\u00cd...",
+    "ScannerScreenReady": "P\u0158IPRAVENO KE SKENOV\u00c1N\u00cd",
+    "ScannerScreenScanning": "SKENUJI...",
+    "CookedSpinefish": "Cooked Spinefish",
+    "CuredSpinefish": "Cured Spinefish",
+    "Spinefish": "Spinefish",
+    "Shuttlebug": "Shuttlebug",
+    "Blighter": "Blighter",
+    "Tooltip_CookedSpinefish": "Never eat the antennae.",
+    "Tooltip_CuredSpinefish": "Tato ryba opravdu chutn\u00e1 jako ryba.",
+    "Tooltip_Spinefish": "Deep sea relative of the hoopfish, its distinctive white markings have the appearance of a rib cage, which it uses to play dead on the ocean floor when predators pass by.",
+    "Story_AuroraWarning4": "Nal\u00e9hav\u00e9: Seismick\u00e1 data nazna\u010duj\u00ed, \u017ee v \u0159\u00edd\u00edc\u00ed jednotce Aurory do\u0161lo ke kvantov\u00e9 detonaci. Reaktor dos\u00e1hne super kritick\u00e9ho stavu za T- 10, 9, 8, 7, 6, 5, 4, 3, 2, 1-",
+    "Goal_Lifepod6": "Referen\u010dn\u00ed informace byla p\u0159id\u00e1na do databanky va\u0161eho PDA. Pokyny budou vyd\u00e1v\u00e1ny podle pot\u0159eby. Hodn\u011b \u0161t\u011bst\u00ed.",
+    "Goal_Airsack": "Spektroskopick\u00e1 anal\u00fdza organism\u016f je siln\u011b doporu\u010dena p\u0159ed prvn\u00edm kontaktem.",
+    "Goal_Titanium": "Titan: objeven. Titan je v\u0161estrann\u00fd a d\u016fle\u017eit\u00fd konstruk\u010dn\u00ed materi\u00e1l.",
+    "Goal_Quartz": "K\u0159emen: objeven. K\u0159emen je vyu\u017e\u00edv\u00e1n na v\u00fdrobu z\u00e1kladn\u00edch p\u0159edm\u011bt\u016f k p\u0159e\u017eit\u00ed a dlouhodob\u00fdch obydl\u00ed.",
+    "Goal_Copper": "M\u011bd\u011bn\u00e1 ruda: objevena. M\u011b\u010f je z\u00e1kladn\u00edm komponentem v\u0161ech elektroza\u0159\u00edzen\u00ed. Pravd\u011bpodobnost va\u0161eho p\u0159e\u017eit\u00ed se nav\u00fd\u0161ila o 7.6%.",
+    "Goal_FilteredWater": "U p\u016fvodn\u00edch forem \u017eivota se z\u0159ejm\u011b vyvinuli praktick\u00e9 metody k filtrov\u00e1n\u00ed kontaminant\u016f ze zdroj\u016f vody.",
+    "Goal_Scanner": "Ru\u010dn\u00ed spektroskopick\u00fd skener m\u016f\u017ee b\u00fdt pou\u017eit k vytvo\u0159en\u00ed pl\u00e1n\u016f z nalezen\u00fdch \u010d\u00e1st\u00ed technologi\u00ed a k z\u00e1znamu biologick\u00fdch dat o mimozemsk\u00fdch form\u00e1ch \u017eivota.
+",
+    "Goal_Fins": "Fabrik\u00e1tor vyr\u00e1b\u00ed dle dostupn\u00fdch dat vhodn\u00e9 vybaven\u00ed, za pou\u017eit\u00ed dostupn\u00fdch lok\u00e1ln\u00edch zdroj\u016f. Tato nastaven\u00ed se pro va\u0161\u00ed bezpe\u010dnost nedaj\u00ed zm\u011bnit.",
+    "Goal_Knife": "N\u016f\u017e byl kl\u00ed\u010dov\u00fdm n\u00e1strojem pro lidstvo po dobu p\u0159ibli\u017en\u011b dva a p\u016fl... milionu let. P\u0159e\u017eiv\u0161\u00edmu je doporu\u010deno, aby se o ten sv\u016fj dob\u0159e staral.",
+    "Goal_Tank": "No\u0161en\u00ed n\u011bkolika kysl\u00edkov\u00fdch lahv\u00ed zvy\u0161uje dobu, po kterou m\u016f\u017eete b\u00fdt vystaveni nebezpe\u010dn\u00e9mu prost\u0159ed\u00ed.",
+    "Goal_Battery": "Fabrik\u00e1tor nahradil standardn\u00ed kyselinu do bateri\u00ed kyselinou syntetizovanou z m\u00edstn\u00ed fl\u00f3ry.",
+    "Goal_Bleach": "B\u011blidlo je d\u016fle\u017eitou chemik\u00e1li\u00ed pou\u017e\u00edvanou pro \u010di\u0161t\u011bn\u00ed ran a vody.",
+    "Goal_CookedGarryfish": "Je norm\u00e1ln\u00ed b\u00fdt odm\u00edtav\u00fd k my\u0161lenk\u00e1m na poz\u0159en\u00ed mrtv\u00e9ho zv\u00ed\u0159ete. Nejlep\u0161\u00ed je si pamatovat, \u017ee lid\u00e9 p\u0159e\u017e\u00edvali bez um\u011bl\u00fdch j\u00eddel po mnoho let. Vy m\u016f\u017eete tak\u00e9.",
+    "Goal_CookedHoverfish": "Pokud jste navykl\u00ed konven\u010dn\u00edm j\u00eddl\u016fm, zva\u017ete mo\u017enost vylep\u0161en\u00ed chuti m\u00edstn\u00edho masa za vyu\u017eit\u00ed lok\u00e1ln\u00edch zdroj\u016f bylin a ko\u0159en\u00ed.",
+    "Goal_PurifiedWater": "V\u010dasn\u00e1 p\u0159\u00edprava denn\u00ed d\u00e1vky vody, pom\u016f\u017ee proti dehydrataci a eventu\u00e1ln\u00ed smrti.",
+    "Goal_Silver": "St\u0159\u00edbrn\u00e1 ruda: objevena. Po\u010d\u00edta\u010dov\u00e9 \u010dipy zalo\u017een\u00e9 na st\u0159\u00edb\u0159e jsou d\u016fle\u017eit\u00fdm komponentem radia\u010dn\u00edho obleku \u010di Konstruktoru.",
+    "Goal_Lubricant": "Mazivo je nezbytn\u00e9 v konstrukci plavidel a elektr\u00e1ren. Pou\u017e\u00edt m\u00edstn\u00ed n\u00e1hradn\u00ed materi\u00e1ly t\u00edmto zp\u016fsobem je osv\u011bd\u010den\u00e1 strategie p\u0159e\u017eit\u00ed.",
+    "Goal_Beacon": "Zkoum\u00e1n\u00ed a mapov\u00e1n\u00ed \u017eivotn\u00edho prost\u0159ed\u00ed by nem\u011blo b\u00fdt prov\u00e1d\u011bno bez odpov\u00eddaj\u00edc\u00edho vybaven\u00ed a z\u00e1sob. Nevzdalujte se v\u00edce jak 2km od z\u00e1chrann\u00e9ho modulu nebo jin\u00e9 z\u00e1kladny.",
+    "Goal_Seaglide": "Mo\u0159sk\u00fd kluz\u00e1k zvy\u0161uje podvodn\u00ed rychlost na 9.5m\/s a zobrazuje topografick\u00e9 informace.",
+    "Goal_Builder": "Konstruktor je navrhnut ke konstrukci obydl\u00ed schopn\u00e9ho ust\u00e1t podm\u00ednky extr\u00e9mn\u00edho prost\u0159ed\u00ed.",
+    "Goal_EnameledGlass": "P\u0159irozen\u00fd zdroj pro v\u00fdrobu tvrzen\u00e9ho skla: objeven. Konstrukce pokro\u010dil\u00fdch podvodn\u00edch plavidel a obydl\u00ed je nyn\u00ed mo\u017en\u00e1.",
+    "EncyPath_Aurora": "Aurora",
+    "EncyPath_Tech": "Technick\u00e9",
+    "EncyPath_Welcome": "V\u00edtejte",
+    "EncyPath_Tech\/Habitats": "Obydl\u00ed",
+    "EncyPath_Tech\/Equipment": "Vybaven\u00ed",
+    "EncyPath_Lifeforms": "Mimozemsk\u00e9 formy \u017eivota",
+    "EncyPath_Lifeforms\/Coral": "Kor\u00e1l",
+    "EncyPath_Lifeforms\/Fauna": "Fauna",
+    "EncyPath_Lifeforms\/Flora": "Fl\u00f3ra",
+    "EncyPath_Lifeforms\/Fauna\/Herbivores": "B\u00fdlo\u017erav\u00ed",
+    "EncyPath_Lifeforms\/Fauna\/Carnivores": "Maso\u017erav\u00ed",
+    "EncyPath_Lifeforms\/Fauna\/Scavengers": "Mrcho\u017erouti & paraziti",
+    "EncyPath_PlanetaryGeology": "Planet\u00e1rn\u00ed geologie",
+    "EncyPath_Advanced": "Pokro\u010dil\u00e9 teorie",
+    "Ency_Lifepod": "Standardn\u00ed dvoum\u00edstn\u00fd z\u00e1chrann\u00fd modul",
+    "EncyDesc_Lifepod": "V\u00e1ha: 576 kg
+Rozm\u011bry: 3m x 3m
+
+Standardn\u00ed vlastnosti:
+- lehk\u00e1, pevn\u00e1 konstrukce
+- pad\u00e1ky a tryskov\u00e9 syst\u00e9my pro pozemn\u00ed, vodn\u00ed i vesm\u00edrnou z\u00e1chranu
+- kr\u00e1tkovlnn\u00e9 komunika\u010dn\u00ed rel\u00e9 (250km v otev\u0159en\u00e9m prostoru)
+- sol\u00e1rn\u00ed panely
+- instalovan\u00fd Fabrik\u00e1tor
+- v\u00edce v\u00fdchod\u016f
+
+Standardn\u00ed p\u0159\u00edd\u011bly:
+2x v\u0161estrann\u00fd ochrann\u00fd oblek
+1x ru\u010dn\u00ed spektroskopick\u00fd skener
+3x j\u00eddlo p\u0159ipraven\u00e9 ke konzumaci
+3x 1L pitn\u00e9 vody
+1x l\u00e9k\u00e1rni\u010dka
+1x sv\u00edtilna
+1x nouzov\u00e1 sv\u011btlice
+1x sm\u011bs n\u00e1hradn\u00edch d\u00edl\u016f",
+    "Ency_Readme": "P\u0159e\u010dti m\u011b",
+    "EncyDesc_Readme": "Pokud toto \u010dtete, tak jste p\u0159e\u017eili nouzovou evakuaci lodi t\u0159\u00eddy \"Capital\" vybaven\u00e9 technologiemi Alterra.
+Gratulujeme: ta t\u011b\u017ek\u00e1 \u010d\u00e1st je za v\u00e1mi.
+
+Va\u0161e PDA je automaticky restartov\u00e1no do Nouzov\u00e9ho Re\u017eimu.Tento opera\u010dn\u00ed syst\u00e9m m\u00e1 jedin\u00fd \u00fa\u010del: udr\u017eet v\u00e1s na\u017eivu.
+
+Obsahuje:
+- plnou integraci s biometrick\u00fdmi \u00fadaji u\u017eivatele k v\u010dasn\u00e9mu varov\u00e1n\u00ed
+- pl\u00e1ny pro fabrik\u00e1tor v rozsahu z\u00e1kladn\u00edch technologi\u00ed k p\u0159e\u017eit\u00ed
+- palubn\u00ed mikrofon, kamera a OCR technologie pro kr\u00e1tkovlnnou (20m) situa\u010dn\u00ed anal\u00fdzu
+- vz\u00e1jemn\u00e1 kompatibilita s ru\u010dn\u00edm spektroskopick\u00fdm skenerem Alterra
+
+Dodr\u017eujte zobrazen\u00e9 instrukce a my v\u00e1s dostaneme dom\u016f.
+
+pozn. Va\u0161e osobn\u00ed a pracovn\u00ed slo\u017eky byly za\u0161ifrov\u00e1ny a mohou b\u00fdt obnoveny pozd\u011bji licencovan\u00fdm technikem.",
+    "Ency_SurvivalChecklist": "Z\u00e1klady p\u0159e\u017eit\u00ed",
+    "EncyDesc_SurvivalChecklist": "1. Poskytn\u011bte prvn\u00ed pomoc, je-li to nutn\u00e9
+2. Prozkoumejte okoln\u00ed prost\u0159ed\u00ed
+3. Lokalizujte ostatn\u00ed p\u0159e\u017eiv\u0161\u00ed
+4. Zajist\u011bte dostupnost j\u00eddla a vody a rozd\u011blte do p\u0159\u00edd\u011bl\u016f
+5. Zkontrolujte z\u00e1chrann\u00fd modul a opravte p\u0159\u00edpadn\u00e9 \u0161kody
+6. Vy\u0161lete nouzov\u00fd sign\u00e1l za pou\u017eit\u00ed kr\u00e1tkovlnn\u00e9ho komunika\u010dn\u00edho rel\u00e9 v z\u00e1chrann\u00e9m modulu
+7. Shrom\u00e1\u017ed\u011bte a prozkoumejte m\u00edstn\u00ed materi\u00e1ly
+8. Zajist\u011bte okol\u00ed tak, aby bylo obyvateln\u00e9 za pou\u017eit\u00ed vybaven\u00ed
+9. Udr\u017eujte si fyzick\u00e9 i psychick\u00e9 zdrav\u00ed ne\u017e doraz\u00ed z\u00e1chrana
+
+pozn. Tyto postupy jsou navr\u017eeny jako obecn\u00fd pr\u016fvodce. V prvn\u00ed \u0159ad\u011b v\u017edy n\u00e1sledujte rady va\u0161eho PDA, kter\u00e9 bere v potaz aktu\u00e1ln\u00ed situaci.
+",
+    "Ency_AuroraOverview": "T\u011b\u017eebn\u00ed lo\u010f Aurora p\u0159ehled",
+    "EncyDesc_AuroraOverview": "Ur\u010den\u00ed: 3 roky pr\u016fzkumn\u011b t\u011b\u017eebn\u00ed operace
+Pos\u00e1dka: Velitelsk\u00fd t\u00fdm (11), Technick\u00fd t\u00fdm (57), \u00dadr\u017eba (30) Cestuj\u00edc\u00ed (3)
+
+Vybaven\u00ed:
+- Iontov\u00fd pohon V8 na temnou hmotu
+- Technick\u00fd odd\u00edl t\u0159\u00eddy A (v\u010detn\u011b z\u00e1kladn\u00ed drti\u010dky meteor\u016f, osazen\u00e9 robotick\u00fdm za\u0159\u00edzen\u00edm a kompletn\u00ed sadou skener\u016f)
+- 0,25 kubick\u00fdch kilometr\u016f skladovac\u00edch prostor na vyt\u011b\u017een\u00e9 materi\u00e1ly
+- Za\u0159\u00edzen\u00ed pro voln\u00fd \u010das t\u0159\u00eddy C+",
+    "Ency_AEPSuit": "Univerz\u00e1ln\u00ed ochrann\u00fd oblek",
+    "EncyDesc_AEPSuit": "Alterra AEP oblek: Jedin\u00e9 \u0159e\u0161en\u00ed pro nekone\u010dn\u00e9 nebezpe\u010d\u00ed vesm\u00edru
+
+V sou\u010dasn\u00e9 dob\u011b m\u00e1te na sob\u011b oblek AEP - hermeticky uzav\u0159en\u00e9 vlastn\u00ed prost\u0159ed\u00ed, navr\u017een\u00fd tak, aby vydr\u017eel nejextr\u00e9mn\u011bj\u0161\u00ed podm\u00ednky ve zn\u00e1m\u00e9m vesm\u00edru.
+
+- Udr\u017euje teplotu a reguluje hydrataci
+- Modifikovateln\u00fd \u0159adou \u00faprav pro konkr\u00e9tn\u00ed prost\u0159ed\u00ed
+- P\u0159il\u00e9hav\u00fd pro maxim\u00e1ln\u00ed svobodu pohybu
+- Biometrick\u00e9 senzory
+- Zabudovan\u00fd heads-up display
+
+AEP oblek by m\u011bly b\u00fdt v\u017edy oble\u010den P\u0158ED pou\u017eit\u00edm z\u00e1chrann\u00e9ho modulu, pro p\u0159\u00edpad po\u0161kozen\u00ed trupu.",
+    "Ency_MetalSalvage": "Struktur\u00e1ln\u00ed anal\u00fdza: Rozpt\u00fdlen\u00e9 vraky",
+    "EncyDesc_MetalSalvage": "Anal\u00fdza potvrzuje \u017ee vraky poch\u00e1z\u00ed z Aurory.
+
+Vn\u011bj\u0161\u00ed vrstvy materi\u00e1lu oxiduj\u00ed, co\u017e nazna\u010duje, \u017ee byl zah\u0159\u00edv\u00e1n nad teplotu 1200 Celsia. Co\u017e odpov\u00edd\u00e1 pr\u016fchodu atmosf\u00e9rou a n\u00e1sledn\u00e9mu dopadu. Vnit\u0159n\u00ed vrstvy obsahuj\u00ed dostatek zbytkov\u00e9ho titanu, kter\u00fd je mo\u017eno z\u00edskat za pou\u017eit\u00ed fabrik\u00e1toru.",
+    "Ency_Airsack": "Airsack",
+    "EncyDesc_Airsack": "1. Poloprody\u0161n\u00e1 membr\u00e1na: T\u011blo sest\u00e1v\u00e1 z poloprody\u0161n\u00e9 membr\u00e1ny pln\u00e9 vody a kysl\u00edku. Nenalezena \u017e\u00e1dn\u00e1 dutina \u00fastn\u00ed. Membr\u00e1na mo\u017en\u00e1 filtruje zooplankton z vody.
+
+2. C\u00e9vn\u00ed trubice s otev\u0159en\u00fdm zakon\u010den\u00edm: Mohou se oh\u00fdbat a smr\u0161\u0165ovat, \u010d\u00edm\u017e vypumpov\u00e1vaj\u00ed vodu - toto je jejich jedin\u00fd zp\u016fsob pohybu (\u017e\u00e1dn\u00e9 ploutve toti\u017e nebyly nalezeny).
+
+3. Pred\u00e1tory v\u011bt\u0161inou ignorov\u00e1n. Jedin\u00fd obrann\u00fd mechanismus: je z 95% tvo\u0159en chrupavkou.
+
+Z\u00e1v\u011br: Membr\u00e1na pou\u017eiteln\u00e1 jako p\u0159irozen\u00fd filtr pro vodu",
+    "Ency_RabbitRay": "Rejnok kr\u00e1li\u010d\u00ed",
+    "EncyDesc_RabbitRay": "B\u00fdlo\u017erav\u00fd vodn\u00ed tvor s vysoce jedovat\u00fdm masem.
+
+1. Vlniv\u00e1 k\u0159\u00eddla: Hlavn\u00ed zp\u016fsob pohybu.
+
+2. Jedovat\u00e9 maso: Vzhledem k tomu, \u017ee je rejnok kr\u00e1li\u010d\u00ed velk\u00fd a nem\u00e1 \u017e\u00e1dn\u00fd jin\u00fd zp\u016fsob obrany, vyvinul si jedovat\u00e9 maso k odpuzen\u00ed pred\u00e1tor\u016f.
+
+3. Potrava: \u0158asy a chaluhy.
+
+Z\u00e1v\u011br: Nejedl\u00fd, ale p\u0159\u00e1telsk\u00fd.",
+    "Ency_AcidMushroom": "kyselinov\u00e1 houba",
+    "EncyDesc_AcidMushroom": "Roz\u0161\u00ed\u0159en\u00fd druh houby se sporami s vyvinut\u00fdmi obrann\u00fdmi mechanismy. Tk\u00e1n\u011b obsahuj\u00ed vysoce jedovatou l\u00e1tku, kter\u00e1 se p\u0159i po\u0161kozen\u00ed poko\u017eky uvol\u0148uje do vody. V\u00fdkyvy v m\u00edstn\u00edm tlaku vody mohou zp\u016fsobit zm\u011bnu velikosti houby.
+
+Nen\u00ed jasn\u00e9, kter\u00fd pred\u00e1tor p\u0159inutil kyselinovou houbu k vytvo\u0159en\u00ed takov\u00fdchto extr\u00e9mn\u00edch obrann\u00fdch prost\u0159edk\u016f, ale podle po\u010dtu kyselinov\u00fdch hub byla v\u011bt\u0161ina t\u011bchto pred\u00e1tor\u016f \u00fasp\u011b\u0161n\u011b odrazena.
+
+Z\u00e1v\u011br: Nejedl\u00e9, ale p\u0159i opatrn\u00e9m sb\u011bru mo\u017en\u00e9 vyu\u017eit k v\u00fdrob\u011b bateri\u00ed.",
+    "Ency_LimestoneOutcrops": "V\u00e1pencov\u00fd v\u00fd\u010dn\u011blek",
+    "EncyDesc_LimestoneOutcrops": "Tyto neobvykl\u00e9 geologick\u00e9 struktury se \u010dasto tvo\u0159\u00ed kolem titanu a lo\u017eisek m\u011bdi, pozorov\u00e1no pouze na t\u00e9to planet\u011b. Hlub\u0161\u00ed anal\u00fdza odhaluje k\u00e1men kolem kovu vytvrzen\u00fd proti erozi, ale mechanismus vzniku z\u016fst\u00e1v\u00e1 nezn\u00e1m\u00fd.
+
+Z\u00e1v\u011br: zdroj titanu a m\u011bdi",
+    "Ency_SandstoneOutcrops": "P\u00edskovcov\u00fd v\u00fd\u010dn\u011blek",
+    "EncyDesc_SandstoneOutcrops": "Tato por\u00e9zn\u00ed vyv\u0159elina vypad\u00e1, \u017ee se tvo\u0159\u00ed kolem mal\u00fdch mno\u017estv\u00ed drah\u00fdch kov\u016f, nebo jinak, tyto kovy jsou sou\u010d\u00e1st\u00ed sediment\u00e1rn\u00edho nahromad\u011bn\u00ed v pr\u016fb\u011bhu \u010dasu.
+
+Z\u00e1v\u011br: zdroj st\u0159\u00edbra a zlata",
+    "Ency_ShaleOutcrops": "B\u0159idlicov\u00fd v\u00fd\u010dn\u011blek",
+    "EncyDesc_ShaleOutcrops": "Tato usazenina horniny je tvo\u0159ena z vlo\u010dek j\u00edlov\u00fdch miner\u00e1l\u016f, uvnit\u0159 lze nal\u00e9zt vz\u00e1cn\u00e9 kovy, jako je lithium. Geologick\u00e9 podm\u00ednky na t\u00e9to planet\u011b vykazuj\u00ed, \u017ee m\u00e1 tendenci se nach\u00e1zet v hlub\u0161\u00edch biomech. 
+
+Z\u00e1v\u011br: zdroj zlata a lithia",
+    "Ency_BasaltOutcrops": "\u010cedi\u010dov\u00fd v\u00fd\u010dn\u011blek",
+    "EncyDesc_BasaltOutcrops": "Tvrd\u00e1, magmatick\u00e1 hornina vznikl\u00e1 sope\u010dnou \u010dinnosti. Pravd\u011bpodobn\u011b obsahuj\u00ed velmi vz\u00e1cn\u00e9 miner\u00e1ly, jako je diamant a uran, kter\u00e9 nelze naj\u00edt jinde.
+
+Z\u00e1v\u011br: zdroj zlata, diamant\u016f a uranu",
+    "Ency_BrainCoral": "Purple Brain Coral",
+    "EncyDesc_BrainCoral": "Rostouc\u00ed kolonie mikroskopick\u00fdch organism\u016f. Tento druh kor\u00e1lu se adaptoval na filtrov\u00e1n\u00ed oxidu uhli\u010dit\u00e9ho z okol\u00ed. Uhl\u00edk je pou\u017e\u00edv\u00e1n k budov\u00e1n\u00ed kolonie, kde\u017eto kysl\u00edk je vylu\u010dov\u00e1n speci\u00e1ln\u00edmi vydechovac\u00edmi trycht\u00fd\u0159ky.
+
+Z\u00e1v\u011br: Vyu\u017eiteln\u00e9 k dopln\u011bn\u00ed kysl\u00edku.",
+    "Ency_Peeper": "Peeper",
+    "EncyDesc_Peeper": "1. Velmi vyvinut\u00e9 postrann\u00ed o\u010di: V\u00fdborn\u011b adaptovan\u00e9 na rozpozn\u00e1n\u00ed (a n\u00e1sledn\u00fd \u00fanik) mnoha tvor\u016fm, kter\u00fdm slou\u017e\u00ed za potravu. Takt\u00e9\u017e bohat\u00e9 na proteiny.
+
+2. Siln\u00e1 ocasn\u00ed ploutev: Umo\u017e\u0148uje rychlou akceleraci a vyskakov\u00e1n\u00ed a\u017e n\u011bkolik metr\u016f nad hladinu.
+
+3. \u00dazk\u00e1 h\u0159betn\u00ed ploutev: Zlep\u0161uje man\u00e9vrovac\u00ed schopnosti.
+
+Z\u00e1vislost na rozpozn\u00e1v\u00e1n\u00ed pred\u00e1tor\u016f pomoc\u00ed zraku m\u016f\u017ee Peepera nechat v temn\u00fdch prostor\u00e1ch na holi\u010dk\u00e1ch.
+
+Z\u00e1v\u011br: Jedl\u00fd a v\u00fd\u017eivn\u00fd - tedy pokud ho chyt\u00edte.",
+    "Ency_Boomerang": "Bumerang",
+    "EncyDesc_Boomerang": "1. Dv\u011b ploutve: Tyto ploutve jsou narozd\u00edl od v\u011bt\u0161iny druh\u016f chrupav\u010dit\u00e9 prodlou\u017een\u00ed ryb\u00ed kostry. Odoln\u011bj\u0161\u00ed v\u016f\u010di zran\u011bn\u00ed, ale h\u016f\u0159e dor\u016fstaj\u00ed.
+
+2. Vroubkovan\u00e9 zuby: Pravd\u011bpodobn\u00e1 adaptace na o\u017e\u00edr\u00e1n\u00ed kor\u00e1l\u016f.
+
+3. Aktivn\u011bj\u0161\u00ed za dne, m\u00e1 tendenci ut\u00e9ci p\u0159i setk\u00e1n\u00ed.
+
+Z\u00e1v\u011br: Jedl\u00fd, \u00falovek je skrovn\u00fd ale jist\u00fd.",
+    "Ency_Garryfish": "Garryfish",
+    "EncyDesc_Garryfish": "Pomal\u00fd a zv\u011bdav\u00fd b\u00fdlo\u017eravec.  
+
+1. Maskov\u00e1n\u00ed nazna\u010duje obez\u0159etn\u00fd pohyb pobl\u00ed\u017e mo\u0159sk\u00e9ho dna.  
+
+2. O\u010dn\u00ed stopky mohou b\u00fdt u\u017eite\u010dn\u00e9 p\u0159i pozorov\u00e1n\u00ed pred\u00e1tor\u016f zpoza kor\u00e1l\u016f.  
+
+3. Velk\u00e1 dutina b\u0159i\u0161n\u00ed: Krm\u00ed se od \u00fasvitu do soumraku, vzhledem k velikosti dutiny b\u0159i\u0161n\u00ed na n\u011bm nez\u016fst\u00e1v\u00e1 mnoho masa.  
+
+Z\u00e1v\u011br: Ne tak jedl\u00fd, jak se zd\u00e1",
+    "Ency_Shuttlebug": "Shuttlebug",
+    "EncyDesc_Shuttlebug": "1. T\u0159i nohy: Siln\u00e9 svaly mohou tohoto tvora poh\u00e1n\u011bt na velkou vzd\u00e1lenost, nebo po nich tak\u00e9 m\u016f\u017ee kr\u00e1\u010det po mo\u0159sk\u00e9m dn\u011b.
+
+2. T\u0159i \u010delisti: Pou\u017e\u00edv\u00e1ny pro orientaci p\u0159i klouz\u00e1n\u00ed vodou a pro filtrov\u00e1n\u00ed odpadu na podlaze jeskyn\u00ed.
+
+Jejich p\u0159\u00edtomnost m\u016f\u017ee znamenat, \u017ee je pobl\u00ed\u017e syst\u00e9m jeskyn\u00ed.
+
+Z\u00e1v\u011br: Nezbytn\u00fd recykl\u00e1tor v potravn\u00edm \u0159et\u011bzci.",
+    "Ency_Floater": "Floater",
+    "EncyDesc_Floater": "Evolu\u010dn\u011b abnorm\u00e1ln\u00ed. Hlub\u0161\u00ed v\u00fdzkum nutn\u00fd.
+
+1. Dominantn\u00ed tvor: Struktur\u00e1ln\u00ed anal\u00fdza odhaluje, \u017ee tato entita je tvo\u0159ena dv\u011bma r\u016fzn\u00fdmi druhy. R\u016f\u017eov\u00e9 t\u011blo a vnit\u0159n\u00ed \u010delisti jsou dominantn\u00edm tvorem.
+
+2. Mikroorganismov\u00e1 membr\u00e1na: Vn\u011bj\u0161\u00ed gelovit\u00e1 substance je pletivem mikroorganism\u016f, kter\u00e9 m\u016f\u017ee kolem \u010delist\u00ed tohoto stvo\u0159en\u00ed vytvo\u0159it vakuum.
+
+3. Plynov\u00fd m\u011bch\u00fd\u0159: V membr\u00e1n\u011b se nach\u00e1z\u00ed tenk\u00e1 vrstva helia, kter\u00e1 nadn\u00e1\u0161\u00ed cel\u00e9ho tvora.
+
+Tvor byl pozorov\u00e1n t\u00e9m\u011b\u0159 v\u00fdhradn\u011b p\u0159ipojen\u00fd k balvan\u016fm. Zd\u00e1 se, \u017ee je v\u016f\u010di pokus\u016fm o odpojen\u00ed naprosto bezbrann\u00fd. N\u00e1sledn\u011b nen\u00ed p\u0159\u00edli\u0161 vyb\u00edrav\u00fd v tom, k \u010demu se p\u0159ipoj\u00ed.
+
+Z\u00e1v\u011br: Dal\u0161\u00ed informace nezbytn\u00e9.",
+    "Ency_Holefish": "Holefish",
+    "EncyDesc_Holefish": "1. Zabarven\u00ed napov\u00edd\u00e1, \u017ee tato ryba je uzp\u016fsoben\u00e1 \u017eivotu v jeskyni.
+
+2. Ocasn\u00ed ploutev s d\u00edrou: Pomoc\u00ed m\u011bn\u011bn\u00ed velikosti a tvaru d\u00edry m\u016f\u017ee tato ryba prov\u00e1d\u011bt nep\u0159edv\u00eddateln\u00e9 man\u00e9vry.
+
+Men\u0161\u00ed ne\u017e v\u011bt\u0161ina b\u00fdlo\u017eravc\u016f, pravd\u011bpodobn\u011b kv\u016fli nedostatku vegetace v tmav\u00fdch prost\u0159ed\u00edch. Neboj\u00ed se pred\u00e1tor\u016f.
+
+Z\u00e1v\u011br: Jedl\u00e9, spolehliv\u00fd zdroj j\u00eddla v jeskyn\u00edch.",
+    "Ency_CaveCrawler": "Cave Crawler",
+    "EncyDesc_CaveCrawler": "Obratn\u00fd, teritori\u00e1ln\u00ed mrcho\u017erout.
+
+1. \u010cty\u0159i nohy: Pou\u017e\u00edv\u00e1ny k ch\u016fzi po mo\u0159sk\u00e9m dn\u011b a zav\u011b\u0161ov\u00e1n\u00ed se na zdi. Stejn\u011b dob\u0159e pou\u017eiteln\u00e9 na sou\u0161i.
+
+2. Membr\u00e1na pro v\u00fdm\u011bnu plyn\u016f: Absorbuje nezbytn\u00e9 plyny ze vzduchu nebo z vody.
+
+Tento tvor hled\u00e1 mr\u0161iny ve sme\u010dk\u00e1ch, n\u00e1sledn\u011b v\u0161ak b\u011bhem hostiny ka\u017ed\u00fd br\u00e1n\u00ed sv\u016fj pod\u00edl.
+
+Z\u00e1v\u011br: Nevhodn\u00fd, zvl\u00e1\u0161t\u011b pak na poh\u0159bech.",
+    "Ency_TableCoral": "Table Coral",
+    "EncyDesc_TableCoral": "Ka\u017ed\u00fd disk je samostatn\u00e1 kolonie mikroorganism\u016f, filtruj\u00edc\u00ed \u017eiviny z vody proud\u00edc\u00ed kolem.
+
+Vzory r\u016fstu nazna\u010duj\u00ed, \u017ee jednotliv\u00e9 kolonie si p\u0159\u00edmo konkuruj\u00ed v \"boji\" o m\u00edsta se siln\u011bj\u0161\u00edm proudem nebo jasn\u011bj\u0161\u00edm sv\u011btlem. Na rozd\u00edl od ostatn\u00edch druh\u016f kor\u00e1l\u016f je struktura tohoto ohebn\u00e1, p\u0159i pumpov\u00e1n\u00ed \u017eivin do sv\u00fdch okraj\u016f jemn\u011b pulzuje a tuhne pouze, kdy\u017e uc\u00edt\u00ed fyzick\u00fd \u00fatok.
+
+Hrbolky na povrchu p\u0159ipom\u00ednaj\u00edc\u00ed drahokamy jsou koncentrovan\u00fdmi hrudkami vz\u00e1cn\u00fdch miner\u00e1l\u016f, kter\u00e9 kor\u00e1l nedok\u00e1\u017ee zpracovat.
+
+Z\u00e1v\u011br: Vyu\u017eiteln\u00e9 p\u0159i v\u00fdrob\u011b po\u010d\u00edta\u010dov\u00fdch \u010dip\u016f.",
+    "Ency_HangingStinger": "Drooping Stinger",
+    "EncyDesc_HangingStinger": "1. \u017d\u00e1dn\u00e9 fotosyntetick\u00e9 bu\u0148ky nebyly detekov\u00e1ny. Nazna\u010duje maso\u017eravou adaptaci na tmav\u00e1 prost\u0159ed\u00ed.
+
+2. Dutiny pod\u00e9l chapadel jsou citliv\u00e9 na dotek ciz\u00edch t\u011bles, po doteku vytvo\u0159\u00ed elektromagnetick\u00fd v\u00fdboj o v\u00fdkonu 600 watt\u016f. Ko\u0159ist je pravd\u011bpodobn\u011b paralyzov\u00e1na a v pr\u016fb\u011bhu n\u011bkolika t\u00fddn\u016f rostlinou zkonzumov\u00e1na.
+
+Ko\u0159ist: Mal\u00e9 ryby.
+
+Z\u00e1v\u011br: Vyh\u00fdbat se.",
+    "Ency_Hoopfish": "Hoopfish",
+    "EncyDesc_Hoopfish": "1. Mal\u00e1, hejnov\u00e1 mentalita, \u010dast\u00e1 ko\u0159ist.
+
+2. Tykadla: M\u00edsto plav\u00e1n\u00ed pou\u017e\u00edv\u00e1 sv\u00e1 jemn\u00e1 tykadla, obkru\u017euj\u00edc\u00ed sv\u00e9 t\u011blo, k pozm\u011bn\u011bn\u00ed slo\u017een\u00ed vody p\u0159ed sebou, co\u017e j\u00ed umo\u017e\u0148uje 'plachtit' ve vytvo\u0159en\u00e9m prostoru s n\u00edzkou hustotou.
+
+Z\u00e1v\u011br: Jedl\u00e1, ale skrovn\u00e1.",
+    "Ency_CoralSample": "B\u011b\u017en\u00e9 Kor\u00e1ly",
+    "EncyDesc_CoralSample": "Ob\u0159\u00ed trubicovit\u00e9 kor\u00e1ly a \u0161ikm\u00e9 schr\u00e1nkov\u00e9 pl\u00e1ty jsou dv\u011b \u0159e\u0161en\u00ed jednoho probl\u00e9mu: maximalizov\u00e1n\u00ed proudu vody a rozpu\u0161t\u011bn\u00fdch \u017eivin skrz kolonii. P\u0159es vn\u011bj\u0161\u00ed rozd\u00edly jsou tyto struktury tvo\u0159eny velmi podobn\u00fdmi organismy na stejn\u00fdch principech. Vzorky jsou bohat\u00e9 na v\u00e1pn\u00edk.
+
+Z\u00e1v\u011br: Pou\u017eiteln\u00e9 pro v\u00fdrobu b\u011blidla.",
+    "Ency_Crash": "Crash",
+    "EncyDesc_Crash": "1. Impact-sensitive spikes: If the lifeform collides with something at sufficient speed these spikes are impacted, triggering an internal chemical reaction.
+
+2. Suction snout: Likely adapted to vacuum up small insects and grubs in cave systems.
+
+3. Chemical storage organ: concentrations of sulfur build up in this organ over time, and can be deployed as an explosive last line of defense during the nesting phase.
+
+Data points to an evolved symbiosis with the crash plant. Hypothesis: the plant evolved to feed on sulphuric compounds secreted by the crash. Stronger, more protective plants provided superior nesting grounds, which in turn benefited the plant with more nutrients, and the co-operative cycle continued.
+
+Assessment: Avoid or incapacitate",
+    "Ency_CrashLair": "Crash Plant",
+    "EncyDesc_CrashLair": "This plant species appears to share a symbiotic relationship with the aquatic lifeform that nests inside it. The petal-like structures appear undamaged when the lifeform emerges, and likely remain open until the nest is reclaimed by the original owner, or another.
+
+Further information on this relationship is not possible from studying the plant in isolation.
+
+Trace amounts of a sulphuric residue have been detected on the inner leaves.
+
+Assessment: Exploitable",
+    "Ency_Creepvine": "Chaluha",
+    "EncyDesc_Creepvine": "Druh chaluhy rostouc\u00ed v rozs\u00e1hl\u00fdch les\u00edch v m\u011blk\u00fdch, p\u00edse\u010dn\u00fdch vod\u00e1ch. Voln\u00e9 ko\u0159eny p\u0159ipout\u00e1vaj\u00ed rostlinu k mo\u0159sk\u00e9mu dnu, odkud st\u00e1le roste k hladin\u011b kv\u016fli slune\u010dn\u00edmu sv\u011btlu.
+
+Stonek je vl\u00e1knit\u00fd a bohat\u00fd na \u017eelezo, co\u017e ho d\u011bl\u00e1 z\u00e1rove\u0148 hodnotn\u00fdm zdrojem potravy a z\u00e1kladn\u00ed surovinou pro v\u00fdrobu textili\u00ed jako nap\u0159\u00edklad provaz\u016f a obvaz\u016f.
+
+Pred\u00e1to\u0159i: Hoverfish, Okoun, Rejnok kr\u00e1li\u010d\u00ed, peeper.
+
+Z\u00e1v\u011br: d\u016fle\u017eit\u00e1 mimozemsk\u00e1 surovina - jedl\u00e9, l\u00e9ka\u0159stv\u00ed, v\u00fdroba",
+    "Ency_CreepvineSeeds": "Sem\u00ednka chaluhy",
+    "EncyDesc_CreepvineSeeds": "Dosp\u011bl\u00e9 chaluhy, kter\u00e9 p\u0159e\u017eily \u00fatoky mal\u00fdch b\u00fdlo\u017eravc\u016f, produkuj\u00ed tyto bioluminescentn\u00ed hrozny semen, kter\u00e9 mohou b\u00fdt odtrhnuty proudy nebo se\u017er\u00e1ny a vylou\u010deny b\u00fdlo\u017eravci.
+
+Semeno je obklopeno silnou vrstvou oleje, kter\u00e1 by se rozpt\u00fdlila po dn\u011b mo\u0159sk\u00e9m, kdyby byl vn\u011bj\u0161\u00ed obal poru\u0161en. Toto mo\u017en\u00e1 sem\u00ednku dod\u00e1v\u00e1 \u017eiviny, pot\u0159ebn\u00e9 k p\u0159e\u017eit\u00ed na tmav\u00e9m mo\u0159sk\u00e9m dn\u011b.
+
+Z\u00e1v\u011br: Vyu\u017eiteln\u00e9 oleje.",
+    "Ency_Eyeye": "Okoun (Eyeye)",
+    "EncyDesc_Eyeye": "Extr\u00e9mn\u00ed evolu\u010dn\u00ed adaptace, kdy je 90% t\u011blesn\u00e9 hmoty v\u011bnov\u00e1no o\u010dn\u00ed dutin\u011b.
+
+- Specializov\u00e1n v identifikaci sv\u00fdch pred\u00e1tor\u016f v n\u00edzce osv\u011btlen\u00e9m prost\u0159ed\u00ed na velkou vzd\u00e1lenost
+- \u017d\u00e1dn\u00fd mozek, pouze nervov\u00e1 soustava
+- P\u0159\u00edli\u0161 hloup\u00fd k vyhnut\u00ed se pred\u00e1tor\u016fm na bl\u00edzko
+- Zranitelnost k \u00fatok\u016fm ze z\u00e1lohy nazna\u010duje, \u017ee je p\u0159irozenou ko\u0159ist\u00ed p\u00edse\u010dn\u00e9ho \u017eraloka
+
+Z\u00e1v\u011br: Jedl\u00fd a snadn\u00fd k loven\u00ed jakmile spat\u0159en",
+    "Ency_Hoverfish": "Hoverfish",
+    "EncyDesc_Hoverfish": "Six unique limb appendages feature charged pads capable of ionizing the surrounding water. The hoverfish appears to use this ability to maintain its position against the current as it feeds from kelp and lichen.
+
+Assessment: Edible, a healthy staple",
+    "Ency_Bleeder": "Pijavice",
+    "EncyDesc_Bleeder": "
+Jednoduch\u00fd parazit, jen o trochu vyvinut\u011bj\u0161\u00ed ne\u017e kl\u00ed\u0161t\u011b obecn\u00e9.
+
+Snadno rozpoznateln\u00fd podle m\u011bkk\u00e9ho v\u00e1\u010dku na jeho zadn\u00edm konci a krve\u017e\u00edznivost. Tak\u00e9 \u00fasta s \u0159adami zub\u016f a \u010delisti pou\u017e\u00edvan\u00e9 k p\u0159ichycen\u00ed na k\u016f\u017ei sv\u00fdch ob\u011bt\u00ed.
+
+Ko\u0159ist: A\u010dkoliv \u00fato\u010d\u00ed i na \u017eiv\u00e9 organismy, n\u00edzk\u00e1 rychlost a mizern\u00e1 obrana v\u0161ak napov\u00edd\u00e1, \u017ee se vyvinul p\u0159ev\u00e1\u017en\u011b jako mrcho\u017erout.
+
+Z\u00e1v\u011br: Nevhodn\u00fd a nehygienick\u00fd.",
+    "Ency_StalkerTooth": "Chov\u00e1n\u00ed & Psychologie Stalker\u016f",
+    "EncyDesc_StalkerTooth": "Roz\u0161\u00ed\u0159en\u00e1 anal\u00fdza zubn\u00edch vzork\u016f Stalkera dokon\u010dena.
+
+U jin\u00fdch m\u00edstn\u00edch tvor\u016f slo\u017een\u00ed odpov\u00edd\u00e1 zn\u00e1m\u00e9mu biologick\u00e9mu procesu, ve kter\u00e9m z d\u00e1sn\u011b vyr\u016fst\u00e1 zv\u00e1penat\u011bl\u00e1 struktura.
+
+Zuby Stalkera jsou dosti neobvykl\u00e9, jeliko\u017e obsahuj\u00ed jen stopov\u00e1 mno\u017estv\u00ed v\u00e1pn\u00edku a jsou nezvykle lehk\u00e9 a p\u0159itom siln\u00e9. Jejich struktur\u00e1ln\u00ed integrita poch\u00e1z\u00ed z titaniov\u00e9\/\u017eelezn\u00e9 slou\u010deniny, nezn\u00e1mo jak vytv\u00e1\u0159en\u00e9 v Stalkerov\u011b organismu.
+
+Toto nab\u00edz\u00ed n\u011bkolik mo\u017en\u00fdch vysv\u011btlen\u00ed, pro\u010d si Stalker r\u00e1d \"hraje\" s kusy kovu, ale z\u00e1rove\u0148 t\u00edmto vyvst\u00e1v\u00e1 n\u011bkolik dal\u0161\u00edch ot\u00e1zek:
+
+- jak\u00fdm procesem Stalker p\u0159em\u011b\u0148uje surov\u00e9 kovy v zubn\u00ed strukturu?
+- pro\u010d byla vyvinuta tato zd\u00e1nliv\u011b n\u00e1kladn\u00e1 evolu\u010dn\u00ed adaptace? Obrn\u011bn\u00fd nep\u0159\u00edtel? Nedostatek v\u00e1pn\u00edku?
+
+Z\u00e1v\u011br: Hlub\u0161\u00ed v\u00fdzkum nutn\u00fd.",
+    "Ency_Spadefish": "R\u00fd\u010dovec",
+    "EncyDesc_Spadefish": "B\u011b\u017en\u00fd b\u00fdlo\u017eravec, kter\u00fd se vyh\u00fdb\u00e1 m\u011bl\u010din\u00e1m a up\u0159ednost\u0148uje plav\u00e1n\u00ed u mo\u0159sk\u00e9ho dna, odkud m\u016f\u017ee sv\u00fdm jedn\u00edm okem d\u00e1vat pozor na potenci\u00e1ln\u00ed pred\u00e1tory nad n\u00edm. Ned\u00e1vno pozorovan\u00ed jedinci obsahuj\u00ed vysok\u00e9 koncentrace jedovat\u00fdch enzym\u016f - mohla by to b\u00fdt sez\u00f3nn\u00ed f\u00e1ze jejich \u017eivotn\u00edho cyklu. Pokra\u010dovat v pozorov\u00e1n\u00ed.
+
+Z\u00e1v\u011br: Jedl\u00fd, v\u00fd\u017eivn\u00fd",
+    "Ency_Reginald": "Reginald",
+    "EncyDesc_Reginald": "B\u011b\u017en\u00e1 lovn\u00e1 ryba. Mdl\u00e9 zelen\u00e9 zabarven\u00ed pro hlubinnou kamufl\u00e1\u017e. Luminiscen\u010dn\u00ed ocasn\u00ed zabarven\u00ed je pravd\u011bpodobn\u011b sou\u010d\u00e1st\u00ed p\u00e1\u0159\u00edc\u00edho obdob\u00ed. Filtruje voln\u00e9 \u0159asy a jin\u00fd rostlinn\u00fd materi\u00e1l z vody pomoc\u00ed \u010dty\u0159 otvor\u016f \u00fast\u00edc\u00edch na p\u0159edku hlavy podobn\u00fdch \u017e\u00e1br\u00e1m. 
+
+Z\u00e1v\u011br: Jedl\u00fd, v\u00fd\u017eivn\u00fd",
+    "Ency_TigerPlant": "Tyg\u0159\u00ed Kv\u011btina",
+    "EncyDesc_TigerPlant": "Tato rostlina se adaptovala k vyc\u00edt\u011bn\u00ed zm\u011bn pohybu ve vod\u011b a\u017e do vzd\u00e1lenosti 15m a je schopna jak ch\u00e1pav\u00e9ho uchopen\u00ed sv\u00fdmi trubicemi, tak vyst\u0159elen\u00ed trn\u016f rychlost\u00ed a\u017e 10m\/s.
+
+A\u010dkoli schopna znehybn\u011bn\u00ed mal\u00fdch b\u00fdlo\u017eravc\u016f, tato rostlina postr\u00e1d\u00e1 org\u00e1ny pot\u0159ebn\u00e9 k rozkl\u00e1d\u00e1n\u00ed masa. Potenci\u00e1ln\u00ed pred\u00e1to\u0159i zachyceni v jej\u00edm obrann\u00e9m perimetru slou\u017e\u00ed jako varov\u00e1n b\u00fdlo\u017eravc\u016fm, aby se nep\u0159ibli\u017eovali. Jak se d\u00e1le rozkl\u00e1daj\u00ed, pln\u00ed funkci hnojiva pro tuto rostlinu.
+
+Z\u00e1v\u011br: Vyhnout se nebo znehybnit",
+    "Ency_BloodGrass": "Blood Grass",
+    "EncyDesc_BloodGrass": "B\u011b\u017en\u00e1 mo\u0159sk\u00e1 tr\u00e1va adaptovan\u00e1 na m\u011blk\u00e1, p\u00eds\u010dit\u00e1 prost\u0159ed\u00ed.
+
+- pravd\u011bpodobn\u011b roste kdekoli, kde je povrch p\u0159\u00edli\u0161 sypk\u00fd nebo p\u0159\u00edli\u0161 hluboko na to, aby se tam uchytily chaluhy.
+- kv\u016fli lep\u0161\u00edmu p\u0159\u00edstupu ke slune\u010dn\u00edmu svitu \u010dasto roste na h\u0159ebenech dun a na vrcholc\u00edch n\u00e1horn\u00edch plo\u0161in.
+- charakteristick\u00e9 rud\u00e9 zabarven\u00ed m\u016f\u017ee b\u00fdt adaptac\u00ed na n\u00edzk\u00e9 vlnov\u00e9 d\u00e9lky slune\u010dn\u00edho svitu na dn\u011b mo\u0159sk\u00e9m nebo m\u016f\u017ee b\u00fdt ur\u010deno k odrazen\u00ed pred\u00e1tor\u016f, \u010di oboje najednou.
+- nedostate\u010dn\u00e9 kalorie pro konzumaci lidmi.
+
+Pred\u00e1to\u0159i: Reginald, R\u00fd\u010dovec, Bumerang
+
+Z\u00e1v\u011br: V\u00fdskyt pom\u00e1h\u00e1 zdrav\u00e9 biodiversit\u011b.",
+    "Ency_TreeLeech": "Tree Leech",
+    "EncyDesc_TreeLeech": "Parasitic, fungus-like growth found attached to other fauna. An enzyme is released by the organism which dissolves a hole in the skin of the host, from which it leeches nutrients directly.
+
+Outer, tooth-lined jaw serves no identified purpose. May be used during a different stage of the organism's lifecycle?
+
+Assessment: Exploitable fungal enzymes",
+    "Ency_TreeMushroom": "Tree Mushrooms",
+    "EncyDesc_TreeMushroom": "Anal\u00fdza t\u011bchto velk\u00fdch organick\u00fdch struktur odhaluje mikrokosmos kooperuj\u00edc\u00edch, spolu\u017eij\u00edc\u00edch a konkuruj\u00edc\u00edch si tvor\u016f.
+
+Kmen je druhem kor\u00e1lu, n\u011bkter\u00e9 z koloni\u00ed mohou b\u00fdt a\u017e 50 000 let star\u00e9. Klobou\u010dky, kter\u00e9 'houbu' obkru\u017euj\u00ed, jsou ji\u017e podobn\u011bj\u0161\u00ed pozemn\u00edm houb\u00e1m. Dal\u0161\u00ed organismy na struktu\u0159e rostou kdekoliv je m\u00edsto a sv\u011btlo.
+
+Okoln\u00ed vody jsou tak zapln\u011bn\u00e9 b\u00fdlo\u017erav\u00fdmi tvory o velikosti 1 - 10 mm, \u017ee v\u011bt\u0161\u00ed b\u00fdlo\u017eravci, jak se zd\u00e1, naprosto opustili tyto oblasti.
+
+Z\u00e1v\u011br: Vyu\u017eiteln\u00e9.",
+    "Ency_Jellyray": "Rosolnatka (Jellyray)",
+    "EncyDesc_Jellyray": "Sd\u00edl\u00ed n\u011bkter\u00e9 evolu\u010dn\u00ed rysy s Rejnokem kr\u00e1li\u010d\u00edm zahrnuj\u00edc\u00ed vysoce jedovat\u00e9 maso. Tento druh se adaptoval prost\u0159ed\u00ed s n\u00edzk\u00fdm osv\u011btlen\u00edm. M\u00e1 pr\u016fsvitn\u00e9, luminiscen\u010dn\u00ed t\u011blo, kter\u00e9 m\u016f\u017ee napom\u00e1hat k:
+
+- Osv\u011btlen\u00ed okoln\u00edho prost\u0159ed\u00ed p\u0159i krmen\u00ed
+- Odstra\u0161en\u00ed pred\u00e1tor\u016f
+- Identifikaci organism\u016f stejn\u00e9ho druhu
+
+Men\u0161\u00ed organismy byly spat\u0159eny plavat bl\u00edzko Rosolnatky, vyu\u017e\u00edvaj\u00edc j\u00ed tak jako zdroje sv\u011btla pro sv\u00e9 vlastn\u00ed \u00fa\u010dely.  
+
+Z\u00e1v\u011br: Nejedl\u00e9",
+    "Ency_Mesmer": "Mesmer",
+    "EncyDesc_Mesmer": "Mal\u00e1, maso\u017erav\u00e1 forma \u017eivota s unik\u00e1tn\u00edm lov\u00edc\u00edm mechanismem, kter\u00fd ji dovoluje chytit dvakr\u00e1t v\u011bt\u0161\u00ed ko\u0159ist.
+
+Mesmer \u010dek\u00e1 na p\u0159ibl\u00ed\u017een\u00ed v\u011bt\u0161\u00edho maso\u017eravce ne\u017e otev\u0159e sv\u00e1 vn\u011bj\u0161\u00ed k\u0159\u00eddla. Pred\u00e1tor za\u010dne b\u00fdt ohromen\u00fd blikaj\u00edc\u00edm vzorcem a Mesmer otev\u0159e dutinu podobnou \u010delisti v ochrann\u00e9m krun\u00fd\u0159i a pokus\u00ed se sn\u00edst ob\u011b\u0165 za\u017eiva, nebo znehybnit na dostate\u010dn\u011b dlouho k \u00faniku.
+
+Z\u00e1v\u011br: Vyhnout se",
+    "Ency_Reefback": "Reefback",
+    "EncyDesc_Reefback": "Panc\u00ed\u0159 t\u011bchto obrovit\u00fdch tvor\u016f je dostate\u010dn\u011b siln\u00fd, aby ru\u0161il vlny spektroskopick\u00e9ho skeneru. Dostupn\u00e1 pouze omezen\u00e1 data.
+
+Velikost se pohybuje od 20 m. Chapadla zaji\u0161\u0165uj\u00ed pomal\u00fd pohon. Spole\u010densk\u00fd, spat\u0159en v mal\u00fdch skupink\u00e1ch. Profil je v souladu s b\u00fdlo\u017eravcem t\u00e9m\u011b\u0159 na vrcholku potravn\u00edho \u0159et\u011bzce.
+
+Pred\u00e1to\u0159i: Nezn\u00e1m\u00ed.
+
+Z\u00e1v\u011br: Zat\u00edm \u017e\u00e1dn\u00fd.",
+    "Ency_ModificationStation": "Modifika\u010dn\u00ed stanice",
+    "EncyDesc_ModificationStation": "Pokud standardn\u00ed fabrik\u00e1tor automaticky p\u0159eskupuje pevn\u00e9 materi\u00e1ly, pak modifika\u010dn\u00ed stanice je schopna zkombinovat komplexn\u00ed za\u0159\u00edzen\u00ed a tak vylep\u0161it jejich funkci.
+
+V\u011bt\u0161ina pr\u016fmyslov\u00fdch plavidel je vybavena dodate\u010dn\u00fdmi za\u0159\u00edzen\u00edmi modifika\u010dn\u00edch stanic, kter\u00e9 umo\u017e\u0148uj\u00ed in\u017een\u00fdr\u016fm adaptovat jejich n\u00e1stroje v nal\u00e9hav\u00fdch situac\u00edch za chodu.
+
+Z d\u016fvodu u\u0161et\u0159en\u00ed m\u00edsta na disku, modifika\u010dn\u00ed stanice je b\u011b\u017en\u011b vylou\u010dena z v\u011bt\u0161iny osobn\u00edch knihoven technologick\u00fdch pl\u00e1n\u016f; nicm\u00e9n\u011b v extr\u00e9mn\u00edm prost\u0159ed\u00ed vodn\u00edch \u010di pou\u0161tn\u00edch planet m\u016f\u017ee b\u00fdt \u00faprava n\u00e1stroj\u016f pro z\u00e1kladn\u00ed p\u0159e\u017eit\u00ed (jako jsou n\u016f\u017e a kysl\u00edkov\u00e9 lahve) nezbytn\u00e1 k neo\u010dek\u00e1van\u00e9mu pou\u017eit\u00ed. Z tohoto d\u016fvodu je p\u0159\u00edstup k modifika\u010dn\u00ed stanici v\u017edy doporu\u010den.",
+    "Ency_StasisRifle": "St\u00e1zov\u00e1 pu\u0161ka",
+    "EncyDesc_StasisRifle": "The stasis rifle uses patented technology to slow time in a specified area to as near to a full stop as the laws of physics will permit. It is an advanced, handheld tool designed to facilitate scientific and engineering operations by expanding the window of opportunity for action in time-sensitive scenarios.
+
+Common applications include:
+
+ - Slowing fast-moving mechanisms, such as fan belts, to facilitate maintenance operations
+ - Pausing the biological processes of organisms for closer study
+ - Halting the progress of fires and flooding
+ - Navigating perilous spaces by freezing potential threats
+
+The stasis rifle features an independent, replaceable power cell, and the trigger may be held down to increase the area of effect and duration.
+
+Due to high power consumption and non-lethality, conventional weapons are recommended for personal defense.",
+    "Ency_PropulsionCannon": "PropulsionCannon",
+    "EncyDesc_PropulsionCannon": "The propulsion cannon allows technicians to manipulate gravitational forces at ranges of up to 20m. It is commonly used in construction and mining to move materials.
+
+Operating Instructions:
+
+ - Pull the trigger once to lock onto and attract a single targeted object weighing less than 25kg
+ - The object can now safely be retrieved from the gravitational beam
+ - Alternatively, pull the trigger a second time to propel the object at speed away from the device
+ - Not recommended for use on organic subjects",
+    "Ency_Seamoth": "Seamoth",
+    "EncyDesc_Seamoth": "Seamoth je jednom\u00edstn\u00e9 ponorn\u00e9 plavidlo s nez\u00e1visl\u00fdm, vym\u011bniteln\u00fdm energetick\u00fdm \u010dl\u00e1nkem a pln\u011b p\u0159izp\u016fsobiteln\u00fdm designem. V\u011bt\u0161ina t\u011b\u017eebn\u00edch lod\u00ed s dlouh\u00fdm doletem voz\u00ed alespo\u0148 dv\u011b ponorky t\u00e9to t\u0159\u00eddy s c\u00edlem usnadnit pr\u016fzkum a t\u011b\u017ebu vodn\u00edch planetek.
+
+Hodnoty:
+- Maxim\u00e1ln\u00ed rychlost: 13 m\/s
+- Zrychlen\u00ed: 5 m\/s\/s
+- V\u00fddr\u017e energetick\u00e9ho \u010dl\u00e1nku: 10km
+- Deforma\u010dn\u00ed hloubka: 225 m pod hladinou mo\u0159e
+- Roz\u0161i\u0159ovac\u00edch slot\u016f: 4
+- Rozm\u011bry: 3 x 1.5 x 1 m
+- Po\u010det osob: 1
+
+Seamoth m\u016f\u017ee b\u00fdt p\u0159izp\u016fsoben instalac\u00ed roz\u0161i\u0159ovac\u00edch modul\u016f do slot\u016f na lev\u00e9m horn\u00edm k\u0159\u00eddle.
+
+Nab\u00eddka modul\u016f:
+- \u00falo\u017en\u00e9 prostory
+- sn\u00ed\u017een\u00e1 spot\u0159eba
+- vy\u0161\u0161\u00ed odolnost tlaku a po\u0161kozen\u00ed
+- pokro\u010dil\u00fd sonar
+- obrann\u00e9 syst\u00e9my
+
+Pozn. Tyto moduly mohou b\u00fdt vyr\u00e1b\u011bny pouze na p\u0159\u00edslu\u0161n\u00e9m za\u0159\u00edzen\u00ed Moonpoolu nebo dok\u016f.",
+    "Ency_SeamothConfigs": "Seamoth Configurations Catalog",
+    "EncyDesc_SeamothConfigs": "Transport: 3x \u00falo\u017en\u00fd prostor; sol\u00e1rn\u00ed nab\u00edje\u010dka
+Pr\u016fzkum: tlakov\u00fd kompenz\u00e1tor; sn\u00ed\u017een\u00ed spot\u0159eby; obrann\u00e9 pole; sonar;
+Boj: obrann\u00e9 pole; torp\u00e9da; 2x v\u00fdztu\u017e trupu",
+    "Ency_Builder": "All-terrain Quick-build Habitats",
+    "EncyDesc_Builder": "Alterra ru\u010dn\u00ed Konstruktor byl z\u00e1sadn\u00edm n\u00e1strojem pro xenov\u011bdc\u016f, kolonist\u016f a z\u00e1chrann\u00fdch  t\u00fdm\u016f nap\u0159\u00ed\u010d sedmi r\u016fzn\u00fdch \u0159\u00ed\u0161\u00ed po dobu v\u00edce ne\u017e 50 let.
+
+Moduly jsou hermeticky uzav\u0159eny od vn\u011bj\u0161\u00edho prost\u0159ed\u00ed, a mohou b\u00fdt postaveny na zemi, pod vodou, nebo ve vakuu. Kysl\u00edk a nap\u00e1jec\u00ed syst\u00e9my nejsou standardn\u011b integrov\u00e1ny a mus\u00ed b\u00fdt postaveny samostatn\u011b. V\u011bt\u0161ina velk\u00fdch lod\u00ed je vybavena \u00faplnou sadu pokro\u010dil\u00fdch modul\u016f a reaktor\u016f pro rychl\u00e9 nasazen\u00ed v ter\u00e9nu.
+
+Moduly mohou b\u00fdt roz\u0161\u00ed\u0159eny na dlouhodob\u011b obyvateln\u00e9, odlou\u010den\u00e9 v\u00fdzkumn\u00e9 stanice, obrann\u00e9 z\u00e1kladny a dal\u0161\u00ed.",
+    "Ency_Moonpool": "Moonpool",
+    "EncyDesc_Moonpool": "Moonpool je z\u00e1kladn\u00ed modul pro dlouhodob\u00e9 zkoum\u00e1n\u00ed oce\u00e1nsk\u00fdch prost\u0159ed\u00ed. Jeho prim\u00e1rn\u00ed funkc\u00ed je such\u00fd dok pro ponorn\u00e9 plavidlo Seamoth (Seamoth nen\u00ed sou\u010d\u00e1st\u00ed dod\u00e1vky).
+
+Velk\u00e1 centr\u00e1ln\u00ed m\u00edstnost obsahuje p\u0159etlakov\u00fd baz\u00e9n, kter\u00fd poskytuje snadn\u00fd p\u0159\u00edstup do okoln\u00edch vod, a je standardn\u011b dod\u00e1v\u00e1n s vybaven\u00edm pro zved\u00e1n\u00ed a dob\u00edjen\u00ed Seamotha.
+
+Doporu\u010duje se dovybavit Moonpool modifika\u010dn\u00ed stanic\u00ed Seamothu. Ta umo\u017e\u0148uje v\u00fdrobu roz\u0161i\u0159uj\u00edc\u00edch modul\u016f Seamotha a mnoho dal\u0161\u00edch v\u011bc\u00ed.
+
+Hodnoty:
+- rozm\u011bry: 16 x 10 x 5 m
+- p\u0159\u00edpojn\u00fdch m\u00edst: 6
+- zm\u011bna pevnosti stanice na hladin\u011b mo\u0159e: -5 HP (ekvivalent 4 m\u00edstnosti)
+- kapacita: jedno plavidlo
+- vysok\u00e1 spot\u0159eba energie",
+    "NoKeyExchangeBattery": "Vym\u011bnit baterii",
+    "NoKeyExchangePowerCell": "Vym\u011bnit energetick\u00fd \u010dl\u00e1nek",
+    "CyclopsWelcomeAboard": "Cyclop: V\u00edtejte na palub\u011b, kapit\u00e1ne.",
+    "CyclopsHullBreach": "Cyclop: detekov\u00e1no poru\u0161en\u00ed pl\u00e1\u0161t\u011b.",
+    "CyclopsHullRestored": "Cyclop: celistvost pl\u00e1\u0161t\u011b obnovena. Odvod\u0148ovac\u00ed syst\u00e9my spu\u0161t\u011bny.",
+    "SeamothWelcomeAboard": "Seamoth: V\u00edtejte na palub\u011b kapit\u00e1ne.",
+    "BaseWelcomeAboard": "Z\u00e1kladna: V\u00edtejte na palub\u011b, kapit\u00e1ne.",
+    "BasePowerUp": "Z\u00e1kladna: Energie obnovena. V\u0161echny prim\u00e1rn\u00ed syst\u00e9my online.",
+    "BasePowerDown": "Z\u00e1kladna: Varov\u00e1n\u00ed, pouze nouzov\u00e9 nap\u00e1jen\u00ed.",
+    "BaseHullBreach": "Z\u00e1kladna: Detekov\u00e1no poru\u0161en\u00ed pl\u00e1\u0161t\u011b.",
+    "BaseHullRestored": "Z\u00e1kladna: Celistvost pl\u00e1\u0161t\u011b obnovena. Odvod\u0148ovac\u00ed syst\u00e9my spu\u0161t\u011bny.",
+    "AcidMushroomSpore": "sp\u00f3ry kyselinov\u00e9 houby",
+    "BulboTree": "Strom Bulbo",
+    "BulboTreePiece": "vzorek stromu Bulbo",
+    "HangingFruitTree": "Strom s vis\u00edc\u00edm ovocem",
+    "HangingFruit": "Vis\u00edc\u00ed ovoce",
+    "OrangeMushroom": "Oran\u017eov\u00e1 houba",
+    "OrangeMushroomSpore": "Sp\u00f3ry oran\u017eov\u00e9 houby",
+    "PinkMushroom": "R\u016f\u017eov\u00e1 houba",
+    "PinkMushroomSpore": "Sp\u00f3ry r\u016f\u017eov\u00e9 houby",
+    "PurpleRattle": "Fialov\u00e9 chrast\u00edtko",
+    "PurpleRattleSpore": "Sp\u00f3ry fialov\u00e9ho chrast\u00edtka",
+    "PurpleVasePlant": "Purple vase plant",
+    "PurpleVasePlantSeed": "Purple vase plant seed",
+    "WhiteMushroomSpore": "Deep shroom spore",
+    "Tooltip_AcidMushroomSpore": "",
+    "Tooltip_BulboTreePiece": "",
+    "Tooltip_HangingFruit": "",
+    "Tooltip_KooshChunk": "",
+    "Tooltip_OrangeMushroomSpore": "",
+    "Tooltip_PinkMushroom": "",
+    "Tooltip_PinkMushroomSpore": "",
+    "Tooltip_PurpleRattle": "",
+    "Tooltip_PurpleRattleSpore": "",
+    "Tooltip_PurpleVasePlantSeed": "",
+    "Tooltip_WhiteMushroomSpore": "",
+    "LEDLight": "Sv\u011bteln\u00e1 ty\u010d",
+    "LEDLightBlueprint": "Pl\u00e1n na sv\u011btelnou ty\u010d",
+    "Tooltip_LEDLightBlueprint": "Pl\u00e1ny na stavbu sv\u011bteln\u00e9 ty\u010de",
+    "Tooltip_LEDLight": "Mobiln\u00ed bateri\u00ed nap\u00e1jen\u00e9 osv\u011btlen\u00ed",
+    "Ency_LEDLight": "Sv\u011bteln\u00e1 ty\u010d",
+    "EncyDesc_LEDLight": "Mobiln\u00ed, bateri\u00ed nap\u00e1jen\u00e9 LED sv\u011btlo, kter\u00e9 poskytuje slab\u0161\u00ed osv\u011btlen\u00ed v 360 stupn\u00edch kolem sebe a m\u016f\u017ee b\u00fdt uchyceno na v\u011bt\u0161inu povrch\u016f.",
+    "LoadingMessage": "Loading...
+
+NOTE: This screen may take some minutes to load and may look as if it has crashed during that time. Please be patient.",
+    "Dead": "Mrtv\u00fd",
+    "CyclopsHullFragment": "Fragment Cyclopova pl\u00e1\u0161t\u011b",
+    "CyclopsBridgeFragment": "Fragment Cyclopova m\u016fstku",
+    "CyclopsEngineFragment": "Fragment Cyclopovy strojovny",
+    "CyclopsDockingBayFragment": "Fragment Cyclopovy dokovac\u00ed stanice",
+    "CyclopsHullBlueprint": "Pl\u00e1ny na Cyclop\u016fv pl\u00e1\u0161\u0165",
+    "CyclopsBridgeBlueprint": "Pl\u00e1ny na Cyclop\u016fv m\u016fstek",
+    "CyclopsEngineBlueprint": "Pl\u00e1ny na Cyclopovu strojovnu",
+    "CyclopsDockingBayBlueprint": "Pl\u00e1ny na Cyclopovu dokovac\u00ed stanci",
+    "Tooltip_CyclopsHullBlueprint": "Pl\u00e1ny ke stavb\u011b Cyclopa",
+    "Tooltip_CyclopsBridgeBlueprint": "Pl\u00e1ny ke stavb\u011b Cyclopa",
+    "Tooltip_CyclopsEngineBlueprint": "Pl\u00e1ny ke stavb\u011b Cyclopa",
+    "Tooltip_CyclopsDockingBayBlueprint": "Pl\u00e1ny ke stavb\u011b Cyclopa",
+    "FiberMesh": "s\u00ed\u0165ovina",
+    "Tooltip_FiberMesh": "Siln\u00e9 p\u0159\u00edrodn\u00ed pletivo. Pohodln\u00e9.",
+    "PlanterPot2": "Kv\u011btin\u00e1\u010d 2",
+    "PlanterPot3": "Kv\u011btin\u00e1\u010d 3",
+    "Tooltip_PlanterPot2": "Kv\u011btin\u00e1\u010d z titanu obsahuj\u00edc\u00ed syntetickou hl\u00ednu.",
+    "Tooltip_PlanterPot3": "Kv\u011btin\u00e1\u010d z titanu obsahuj\u00edc\u00ed syntetickou hl\u00ednu.",
+    "Tooltip_Radio": "P\u0159ij\u00edm\u00e1 kr\u00e1tkovlnnou komunikaci z vn\u011bj\u0161\u00edho sv\u011bta.",
+    "Radio": "Komunika\u010dn\u00ed rel\u00e9",
+    "Radio_Play": "P\u0159ehr\u00e1t zpr\u00e1vu",
+    "EncyPath_DownloadedData": "Sta\u017een\u00e9 soubory",
+    "Ency_BasePlanter": "Planters & Pots",
+    "EncyDesc_BasePlanter": "Interior planters come in a variety of configurations, and allow for most plant species to be grown in small numbers. For decorative or botanical use.",
+    "Ency_FarmingTray": "Exterior Growbed",
+    "EncyDesc_FarmingTray": "Pokro\u010dil\u00e1 syntetick\u00e1 p\u016fda umo\u017e\u0148uje v\u00fd\u017eivu obrovsk\u00e9mu mno\u017estv\u00ed ciz\u00edho rostlinn\u00e9ho \u017eivota, a m\u016f\u017ee b\u00fdt pou\u017eita kdekoliv na zemi nebo pod vodou v\u0161ude tam kde je prostor.",
+    "Ency_PlanterBox": "Interior Growbed",
+    "EncyDesc_PlanterBox": "Designed for use exclusively inside regulated habitat modules, the interior growbed is more compact than the outdoor version.",
+    "Ency_WaterFilter": "Water Filtration Machine",
+    "EncyDesc_WaterFilter": "The filtration system draws water unfit for human consumption from an external source, atomically splits it into its constituent parts and outputs consumable liquid water and salts while disposing of any harmful by-product. It can be built in any compatible habitat module, but has substantial power requirements.",
+    "BluePalm": "Modr\u00e1 palma",
+    "BluePalmSeed": "sem\u00ednka modr\u00e9 palmy",
+    "EyesPlant": "Eyes plant",
+    "EyesPlantSeed": "Eyes plant seed",
+    "FernPalm": "Fern palm",
+    "FernPalmSeed": "Fern palm seed",
+    "GabeSFeather": "Gabe's feather",
+    "GabeSFeatherSeed": "Gabe's feather seed",
+    "JellyPlantSeed": "Jelly plant seed",
+    "MelonPlant": "Marblemelon plant",
+    "Melon": "Marblemelon",
+    "MembrainTreeSeed": "Membrain tree seed",
+    "SeaCrown": "Sea crown",
+    "SeaCrownSeed": "Sea crown seed",
+    "SmallMelon": "Small marblemelon",
+    "OrangePetalsPlant": "Kv\u011btina s oran\u017eov\u00fdmi okv\u011btn\u00edmi pl\u00e1tky",
+    "OrangePetalsPlantSeed": "Sem\u00ednka kv\u011btiny s oran\u017eov\u00fdmi okv\u011btn\u00edmi pl\u00e1tky",
+    "PinkFlower": "R\u016f\u017eovka",
+    "PinkFlowerSeed": "Semena r\u016f\u017eovky",
+    "PurpleBrainCoral": "Purple brain coral",
+    "PurpleBrainCoralPiece": "vzorek fialov\u00e9ho mozkov\u00e9ho kor\u00e1lu",
+    "PurpleBranches": "Purple branches",
+    "PurpleBranchesSeed": "Purple branches seed",
+    "PurpleFanSeed": "Purple fan seed",
+    "PurpleStalk": "Purple stalk",
+    "PurpleStalkSeed": "Purple stalk seed",
+    "PurpleTentacleSeed": "Writhing Weed seed",
+    "PurpleVegetable": "Purple vegetable",
+    "PurpleVegetablePlant": "Vegetable plant",
+    "RedBasketPlant": "Red basket plant",
+    "RedBasketPlantSeed": "Red basket plant seed",
+    "RedBush": "Red bush",
+    "RedBushSeed": "Red bush seed",
+    "RedConePlant": "Red cone plant",
+    "RedConePlantSeed": "Red cone plant seed",
+    "RedGreenTentacle": "Red green tentacle",
+    "RedGreenTentacleSeed": "Red green tentacle seed",
+    "RedRollPlant": "Red roll plant",
+    "RedRollPlantSeed": "Red roll plant seed",
+    "ShellGrass": "Shell grass",
+    "ShellGrassSeed": "Shell grass seed",
+    "SpikePlantSeed": "semeno tyg\u0159\u00ed kv\u011btiny",
+    "SmallFanSeed": "Pygmy fan seed",
+    "SnakeMushroom": "Snake mushroom",
+    "SnakeMushroomSpore": "Snake mushroom spore",
+    "SpottedLeavesPlant": "Spotted leaves plant",
+    "SpottedLeavesPlantSeed": "Spotted leaves plant seed",
+    "Tooltip_BluePalmSeed": "Blue palm seed",
+    "Tooltip_EyesPlantSeed": "Eyes plant seed",
+    "Tooltip_FernPalmSeed": "Fern palm seed",
+    "Tooltip_GabeSFeatherSeed": "Gabe's feather seed",
+    "Tooltip_JellyPlant": "Jelly plant",
+    "Tooltip_JellyPlantSeed": "Jelly plant seed",
+    "Tooltip_Melon": "",
+    "Tooltip_MembrainTreeSeed": "Membrain tree seed",
+    "Tooltip_SmallMelon": "",
+    "Tooltip_OrangePetalsPlantSeed": "Orange petals plant seed",
+    "Tooltip_PinkFlowerSeed": "Pink flower seed",
+    "Tooltip_PurpleBrainCoralPiece": "Purple brain coral sample",
+    "Tooltip_PurpleBranchesSeed": "Purple branches seed",
+    "Tooltip_PurpleFanSeed": "Purple fan seed",
+    "Tooltip_PurpleStalkSeed": "Purple stalk seed",
+    "Tooltip_PurpleTentacleSeed": "Writhing Weed seed",
+    "Tooltip_PurpleVegetable": "",
+    "Tooltip_RedBasketPlantSeed": "Red basket plant seed",
+    "Tooltip_RedBushSeed": "Red bush seed",
+    "Tooltip_RedConePlantSeed": "Red cone plant seed",
+    "Tooltip_RedGreenTentacleSeed": "Red green tentacle seed",
+    "Tooltip_RedRollPlantSeed": "Red roll plant seed",
+    "Tooltip_SeaCrownSeed": "Sea crown seed",
+    "Tooltip_ShellGrassSeed": "Shell grass seed",
+    "Tooltip_SnakeMushroomSpore": "Snake mushroom spore",
+    "Tooltip_SpikePlantSeed": "",
+    "Tooltip_SpottedLeavesPlantSeed": "Spotted leaves plant seed",
+    "Tooltip_SmallFan": "Pygmy fan",
+    "Tooltip_SmallFanSeed": "Pygmy fan seed",
+    "Ency_HangingFruitTree": "Hanging Fruit Tree",
+    "EncyDesc_HangingFruitTree": "Strom s velk\u00fdmi oran\u017eov\u00fdmi plody",
+    "Ency_BulboTree": "Bulbo Tree",
+    "EncyDesc_BulboTree": "Vypad\u00e1 jako strom",
+    "Ency_WhiteMushroom": "Deep Shroom",
+    "EncyDesc_WhiteMushroom": "",
+    "Ency_PinkMushroom": "Pink Mushroom",
+    "EncyDesc_PinkMushroom": "It's definitely a mushroom",
+    "Ency_PurpleRattle": "Purple Rattle",
+    "EncyDesc_PurpleRattle": "",
+    "Ency_PurpleVasePlant": "Purple Vase Plant",
+    "EncyDesc_PurpleVasePlant": "",
+    "Ency_OrangeMushroom": "Orange Mushroom",
+    "EncyDesc_OrangeMushroom": "Large Orange Mushroom",
+    "Ency_VegetablePlant": "Vegetable Plant",
+    "EncyDesc_VegetablePlant": "",
+    "Ency_MelonPlant": "Marblemelon Plant",
+    "EncyDesc_MelonPlant": "",
+    "Ency_KooshBush": "Koosh Bush",
+    "EncyDesc_KooshBush": "",
+    "Ency_BluePalm": "Blue Palm",
+    "EncyDesc_BluePalm": "",
+    "Ency_SmallFan": "Pygmy Fan",
+    "EncyDesc_SmallFan": "",
+    "Ency_PurpleFan": "Purple Fan",
+    "EncyDesc_PurpleFan": "",
+    "Ency_WrithingWeed": "Writhing Weed",
+    "EncyDesc_WrithingWeed": "",
+    "Ency_GabeSFeather": "Gabe's Feather",
+    "EncyDesc_GabeSFeather": "",
+    "Ency_SeaCrown": "Sea Crown",
+    "EncyDesc_SeaCrown": "",
+    "Ency_MembrainTree": "Membrain Tree",
+    "EncyDesc_MembrainTree": "",
+    "Ency_PinkFlower": "Pink Flower",
+    "EncyDesc_PinkFlower": "",
+    "Ency_FernPalm": "Fern Palm",
+    "EncyDesc_FernPalm": "",
+    "Ency_OrangePetalsPlant": "Orange Petals Plant",
+    "EncyDesc_OrangePetalsPlant": "",
+    "Ency_EyesPlant": "Eyes Plant",
+    "EncyDesc_EyesPlant": "",
+    "Ency_RedGreenTentacle": "Red Green Tentacle",
+    "EncyDesc_RedGreenTentacle": "",
+    "Ency_PurpleStalk": "Purple Stalk",
+    "EncyDesc_PurpleStalk": "",
+    "Ency_RedBasketPlant": "Red Basket Plant",
+    "EncyDesc_RedBasketPlant": "",
+    "Ency_RedBush": "Red Bush",
+    "EncyDesc_RedBush": "",
+    "Ency_RedConePlant": "Red Cone Plant",
+    "EncyDesc_RedConePlant": "",
+    "Ency_ShellGrass": "Shell Grass",
+    "EncyDesc_ShellGrass": "",
+    "Ency_SpottedLeavesPlant": "Spotted Leaves Plant",
+    "EncyDesc_SpottedLeavesPlant": "",
+    "Ency_RedRollPlant": "Red Roll Plant",
+    "EncyDesc_RedRollPlant": "",
+    "Ency_PurpleBranches": "Purple Branches",
+    "EncyDesc_PurpleBranches": "",
+    "Ency_SnakeMushroom": "Snake Mushroom",
+    "EncyDesc_SnakeMushroom": "",
+    "Ency_BloodVine": "BloodVine",
+    "EncyDesc_BloodVine": "",
+    "FeedbackNewReply": "Obdr\u017eeli jste novou v\u00fdvoj\u00e1\u0159ovu odpov\u011b\u010f.
+Zm\u00e1\u010dkn\u011bte F8 k p\u0159e\u010dten\u00ed.",
+    "SurvivorPDA": "Opu\u0161t\u011bn\u00e9 PDA",
+    "Tooltip_SurvivorPDA": "St\u00e1hnout data",
+    "StarshipCargoCrate": "N\u00e1kladn\u00ed bedna",
+    "StarshipCircuitBox": "Rozvad\u011b\u010d",
+    "StarshipDesk": "St\u016fl",
+    "StarshipChair": "\u017didle",
+    "StarshipMonitor": "Monitor",
+    "Tooltip_StarshipCargoCrate": "Ale kde je n\u00e1klad?!",
+    "Tooltip_StarshipCircuitBox": "Behold, complex wires!",
+    "Tooltip_StarshipDesk": "For white collar workers.",
+    "Tooltip_StarshipChair": "Surprisingly comfy.",
+    "Tooltip_StarshipMonitor": "No signal.",
+    "Techlight": "Floodlight",
+    "Seaglide": "Podmo\u0159sk\u00fd kluz\u00e1k",
+    "BaseBulkheadFragment": "Bulkhead fragment",
+    "BaseFiltrationMachineFragment": "Base filtration fragment",
+    "BaseObservatoryFragment": "Observatory fragment",
+    "BaseUpgradeConsoleFragment": "Seamoth upgrade console fragment",
+    "ConstructorFragment": "Fragment mobiln\u00ed lod\u011bnice",
+    "PowerTransmitterFragment": "Power transmitter fragment",
+    "RadioFragment": "Radio fragment",
+    "ScannerRoomFragment": "Fragment monitorovac\u00ed m\u00edstnosti",
+    "SeaglideFragment": "Fragment podmo\u0159sk\u00e9ho kluz\u00e1ku",
+    "SolarPanelFragment": "Solar panel fragment",
+    "SpecimenAnalyzerFragment": "Specimen analyzer fragment",
+    "TechlightBlueprint": "Floodlight blueprint",
+    "Tooltip_Seaglide": "Converts torque into thrust underwater via propeller.",
+    "Tooltip_TechlightBlueprint": "Plans for building a Floodlight",
+    "Tooltip_Techlight": "Pr\u016fmyslov\u00e9, bateri\u00ed nap\u00e1jen\u00e9 osv\u011btlen\u00ed navr\u017een\u00e9 pro v\u0161echna prost\u0159ed\u00ed",
+    "Ency_Techlight": "Floodlight",
+    "EncyDesc_Techlight": "Standardn\u00ed akumul\u00e1torov\u00e9 sv\u00edtidlo je navr\u017eeno tak, aby soust\u0159edilo jasn\u00fd paprsek sv\u011btla v jednom sm\u011bru, co\u017e je u\u017eite\u010dn\u00e9 v nejr\u016fzn\u011bj\u0161\u00edch pr\u016fmyslov\u00fdch a z\u00e1chrann\u00fdch operac\u00ed. Funguje ve v\u0161ech zn\u00e1m\u00fdch prost\u0159ed\u00edch. Baterie je v\u00fdm\u011bnn\u00e1.",
+    "Ency_Spotlight": "Sv\u011btlomet",
+    "EncyDesc_Spotlight": "",
+    "OxygenWarning10": "NAL\u00c9HAV\u00c9: zb\u00fdv\u00e1 10 sekund kysl\u00edku.",
+    "OxygenWarning30": "Varov\u00e1n\u00ed: zb\u00fdv\u00e1 30 sekund kysl\u00edku.",
+    "GrowingProgress": "R\u016fst: {0:P0}",
+    "GrowingPlant": "R\u016fst {0}",
+    "MelonSeed": "Marblemelon seed",
+    "Tooltip_SmallKoosh": "",
+    "Tooltip_MediumKoosh": "",
+    "Tooltip_LargeKoosh": "",
+    "Tooltip_HugeKoosh": "",
+    "Tooltip_BulboTree": "",
+    "Tooltip_OrangeMushroom": "",
+    "Tooltip_PurpleVasePlant": "",
+    "Tooltip_MelonPlant": "",
+    "Tooltip_PurpleBrainCoral": "",
+    "Tooltip_SpikePlant": "",
+    "Tooltip_BluePalm": "",
+    "Tooltip_PurpleFan": "",
+    "Tooltip_SmallFanCluster": "",
+    "Tooltip_PurpleTentacle": "",
+    "Tooltip_GabeSFeather": "",
+    "Tooltip_SeaCrown": "",
+    "Tooltip_MembrainTree": "",
+    "Tooltip_PinkFlower": "",
+    "Tooltip_FernPalm": "",
+    "Tooltip_OrangePetalsPlant": "",
+    "Tooltip_EyesPlant": "",
+    "Tooltip_RedGreenTentacle": "",
+    "Tooltip_PurpleStalk": "",
+    "Tooltip_RedBasketPlant": "",
+    "Tooltip_RedBush": "",
+    "Tooltip_RedConePlant": "",
+    "Tooltip_ShellGrass": "",
+    "Tooltip_SpottedLeavesPlant": "",
+    "Tooltip_RedRollPlant": "",
+    "Tooltip_PurpleBranches": "",
+    "Tooltip_SnakeMushroom": "",
+    "Tooltip_MelonSeed": "",
+    "Tooltip_BlueJeweledDisk": "",
+    "Tooltip_GreenJeweledDisk": "",
+    "Tooltip_PurpleJeweledDisk": "",
+    "Tooltip_RedJeweledDisk": "",
+    "Tooltip_TreeMushroom": "",
+    "Tooltip_BigCoralTubes": "",
+    "Tooltip_CoralShellPlate": "",
+    "Goal_HolyDiver": "Byl jsi dole p\u0159\u00edli\u0161 dlouho v p\u016flno\u010dn\u00edm mo\u0159i. Oh nev\u00ed\u0161, co t\u00edm mysl\u00edm?",
+    "RadioBounceBack": "Toto je automatick\u00e1 odpov\u011b\u010f t\u011b\u017eebn\u00ed lodi Aurora. Byl p\u0159ijat v\u00e1\u0161 nouzov\u00fd sign\u00e1l. Z\u00e1chrann\u00fd t\u00fdm bude odesl\u00e1n na va\u0161\u00ed pozici. * \u0161um * Odhadovan\u00fd \u010das p\u0159\u00edjezdu: 9 ... 9 ... 9 ... 9 ... 9 hodin.",
+    "RadioLifepod17": "Toto je automatick\u00fd nouzov\u00fd sign\u00e1l ze z\u00e1chrann\u00e9ho modulu 17. Sou\u0159adnice p\u0159ilo\u017eeny. Pros\u00edm o okam\u017eit\u00e9 vysl\u00e1n\u00ed z\u00e1chrann\u00e9ho t\u00fdmu.",
+    "RadioSecondOfficer": "This is Second Officer Keen, broadcasting to all surviving Aurora crew! Captain Hollister is gone. I have assumed command. The computer has identified dry land approximately 750m south of the crash site. Your orders are to stay together, ensure your immediate safety, and then regroup at the attached rendezvous co-ordinates. Good luck. Over and out.",
+    "RadioWarper1": "Nine new biological subjects designated. Mode switch: hunting\/analyzing. Sharing subject locations with other agents.",
+    "RadioLifepod7": "Hl\u00e1s\u00ed se vedouc\u00ed technik Lafayette, kter\u00e1 vys\u00edl\u00e1 ze z\u00e1chrann\u00e9ho modulu 7! P\u0159e\u017eili jsme n\u00e1raz, ale plov\u00e1ky selhaly a my se pot\u00e1p\u00edme! Sou\u0159adnice p\u0159ilo\u017eeny! Pokou\u0161\u00edme se to opravit! O\u010dek\u00e1v\u00e1me ztr\u00e1tu r\u00e1diov\u00e9ho kontaktu za * \u0161um *",
+    "RadioWarper2": "Subject 11783 destroyed. Mode switch: patrol. New targets unaccounted for: 1.",
+    "RadioPrecursor1": "Karflaget gertrupop flayra. Troflagot e aitrart. Trankeboop. Askrinol forlaget yarma aquit e flyra e aitrart escimay.",
+    "RadioPassingShip": "Tady obchodn\u00ed lo\u010f Sunbeam. Auroro, obdr\u017eeli jsme va\u0161e nouzov\u00e9 vys\u00edl\u00e1n\u00ed a va\u0161e poloha byla zaznamen\u00e1na. K\u00e9\u017e bychom m\u011bli pro v\u00e1s lep\u0161\u00ed zpr\u00e1vy, ale my prost\u011b nejsme schopni v\u00e1m moment\u00e1ln\u011b pomoci. P\u0159edpokl\u00e1dan\u00fd p\u0159\u00edjezd k nejbli\u017e\u0161\u00ed hv\u011bzdn\u00e9 z\u00e1kladn\u011b za 461 pozemsk\u00fdch dn\u00ed, to je \u010dty\u0159i sta \u0161edes\u00e1t jedna dn\u00ed. Pak budeme moci p\u0159edat va\u0161\u00ed zpr\u00e1vu p\u0159\u00edslu\u0161n\u00fdm org\u00e1n\u016fm. Vydr\u017ete pos\u00e1dko. Sunbeam kon\u010d\u00ed.",
+    "HintMouseLook": "K rozhl\u00ed\u017een\u00ed po\u017eijte my\u0161",
+    "HintWSADToMove": "Pohybujte se pomoc\u00ed WASD",
+    "HintLMBToPickupFireExtinguisher": "LTM pro sebr\u00e1n\u00ed hasic\u00edho p\u0159\u00edstroje",
+    "HintRMBToUseFireExtinguisher": "PTM pro pou\u017eit\u00ed hasic\u00edho p\u0159\u00edstroje",
+    "HintTabToOpenClosePDA": "Stiskni TAB pro otev\u0159en\u00ed nebo zav\u0159en\u00ed PDA",
+    "HintSuccess": "V\u00fdborn\u011b!",
+    "PDABootingEmergency": "ZAV\u00c1D\u00cdM NOUZOV\u00dd RE\u017dIM",
+    "PDABootingLoading": "NAHR\u00c1V\u00c1N\u00cd
+[ {0}% ]",
+    "EscapePodStorageOpen": "Otev\u0159\u00edt \u00falo\u017en\u00fd prostor",
+    "EscapePodMedKitOpen": "Open med cabinet",
+    "EscapePodMedKitClose": "Close med cabinet",
+    "EnergyPercent": "Energie: {0:P0}",
+    "FuelPercent": "Palivo: {0:P0}",
+    "Weld": "Oprava",
+    "Tooltip_MedicalCabinet": "Vyrob\u00ed l\u00e9k\u00e1rni\u010dku ka\u017ed\u00fdch 30 minut.",
+    "Tooltip_FireExtinguisher": "Udr\u017euje ohe\u0148 pod kontrolou.",
+    "Damaged": "Po\u0161kozen\u00e9",
+    "Pickup_FireExtinguisher": "Sebrat hasic\u00ed p\u0159\u00edstroj",
+    "FireExtinguisher_Douse": "Uhasit ohe\u0148",
+    "MedicalCabinet": "L\u00e9ka\u0159sk\u00fd Fabrik\u00e1tor",
+    "MedicalCabinet_DoorClose": "Zav\u0159\u00edt",
+    "MedicalCabinet_DoorOpen": "Otev\u0159\u00edt",
+    "MedicalCabinet_PickupMedKit": "Sebrat l\u00e9k\u00e1rni\u010dku",
+    "DamagedWires": "Po\u0161kozen\u00e9 za\u0159\u00edzen\u00ed",
+    "WeldToFix": "Pou\u017eijte k oprav\u011b sv\u00e1\u0159e\u010dku",
+    "IntroEscapePod1Header": "STARTOVAC\u00cd SEKVENCE!",
+    "IntroEscapePod1Content": "Odpojen\u00ed od Aurory: OK
+Pos\u00e1dka op\u011brky: zaji\u0161t\u011bno
+Vstup do atmosf\u00e9ry.
+P\u0159et\u00ed\u017een\u00ed dosahuje nebezpe\u010dn\u00e9 \u00farovn\u011b.
+P\u0159ipravit na n\u00e1raz.",
+    "IntroEscapePod1Power": "BATERIE 1-3 ZAPNUTO",
+    "IntroEscapePod2Header": "NOUZOV\u00c1 SITUACE!",
+    "IntroEscapePod2Content": "Detekov\u00e1na kolize.
+Plov\u00e1ky aktivov\u00e1ny.
+Zji\u0161t\u011bn po\u017e\u00e1r na palub\u011b modulu.
+CO2 dosahuje nebezpe\u010dn\u00e9 \u00farovn\u011b.
+Pomocn\u00e9 syst\u00e9my: offline
+Poklopy: nefuk\u010dn\u00ed",
+    "IntroEscapePod2Power": "HLAVN\u00cd ZDROJ VYPNUTO",
+    "IntroEscapePod3Header": "POZOR!",
+    "IntroEscapePod3Content": "Zji\u0161t\u011bno v\u00edcen\u00e1sobn\u00e9 po\u0161kozen\u00ed syst\u00e9m\u016f modulu.
+Test obvod\u016f: chyba
+Pomocn\u00e9 syst\u00e9my: offline
+Gravita\u010dn\u00ed kotva: offline
+Integrita z\u00e1chrann\u00e9ho modulu: OK",
+    "IntroEscapePod3Power": "BATERIE 1-3 ZAPNUTO",
+    "IntroEscapePod4Header": "SYSTEM: OK",
+    "IntroEscapePod4Content": "Integrita trupu: OK
+Pomocn\u00e9 syst\u00e9my: online
+Gravita\u010dn\u00ed kotva: online
+Integrita z\u00e1chrann\u00e9ho modulu: OK
+Sledov\u00e1n\u00ed v\u0161ech nouzov\u00fdch frekvenc\u00ed",
+    "IntroEscapePod4Power": "HLAVN\u00cd ZDROJ ZAPNUTO",
+    "EncyPath_DownloadedData\/Degasi": "Degasi Survivors",
+    "Ency_WreckAuxOrders": "Aurora Auxiliary Mission Orders",
+    "EncyDesc_WreckAuxOrders": "POUZE PRO VEDOUC\u00cd PRACOVN\u00cdKY
+
+Typ mise: Hled\u00e1n\u00ed & z\u00e1chrana
+C\u00edl mise: Pos\u00e1dka lodi Mongolsk\u00e9ho Imp\u00e9ria 'Degasi'
+M\u00edsto mise: Pa\u017ee Ariadne, 3 sv\u011bteln\u00e9 roky za nejvzd\u00e1len\u011bj\u0161\u00ed f\u00e1zovou branou
+Kontakt mise: Emisar Jochi Khasar, pasa\u017e\u00e9rsk\u00e1 oblast Aurory, pokoj \u010d. 4
+
+Shrnut\u00ed mise:
+Aurora je po pr\u016fletu syst\u00e9mem 2001 p\u0159ibli\u017en\u011b 13 m\u011bs\u00edc\u016f na cest\u011b. Aurora pl\u00e1nuje vyu\u017e\u00edt gravita\u010dn\u00edho praku okolo planety 4546B. Toto by v\u00e1s m\u011blo dov\u00e9st do bl\u00edzkosti posledn\u00ed zn\u00e1m\u00e9 pozice Degasi.
+
+Mongolsk\u00e9 Imp\u00e9rium ztratilo kontakt s priv\u00e1tn\u00ed lod\u00ed Degasi 18 m\u011bs\u00edc\u016f pot\u00e9, co odlet\u011bla kolonizovat vesm\u00edr. Imp\u00e9rium zakoupilo letenky pro Emisara Khasara, a va\u0161e rozkazy jsou dodat mu v\u0161echna pot\u0159ebn\u00e1 za\u0159\u00edzen\u00ed pot\u0159ebn\u00e9 k nalezen\u00ed a, pokud to bude mo\u017en\u00e9, navr\u00e1cen\u00ed pos\u00e1dky Degasi, ov\u0161em bez ohro\u017een\u00ed va\u0161\u00ed prim\u00e1rn\u00ed mise.
+
+Dokumenty o pos\u00e1dce Degasi byly dod\u00e1ny vedouc\u00edm pracovn\u00edk\u016fm v odd\u011blen\u00e9m souboru.
+
+Klasifikace mise:
+Pos\u00e1dka Aurory by nem\u011bla b\u00fdt informov\u00e1na o t\u00e9to misi do doby, ne\u017e bude pot\u0159eba jejich pomoci p\u0159i hled\u00e1n\u00ed\/navr\u00e1cen\u00ed pos\u00e1dky Degasi. M\u011blo by b\u00fdt zd\u016frazn\u011bno, \u017ee pomocn\u00e9 humanit\u00e1rn\u00ed mise nespadaj\u00ed pod norm\u00e1ln\u011b odm\u011b\u0148ovan\u00e9 pr\u00e1ce.",
+    "Ency_PaalTorgalBio": "Search & Rescue: Paal Torgal ",
+    "EncyDesc_PaalTorgalBio": "POUZE PRO VEDOUC\u00cd PRACOVN\u00cdKY
+
+Vedlej\u0161\u00ed c\u00edl Hled\u00e1n\u00ed & z\u00e1chrany: Paal Torgal
+Hodnost: \u0158editel Torgaljin Corp., kapit\u00e1n 'Degasi'
+Status: Ztracen\u00fd ve vesm\u00edru, Pa\u017ee Ariadne
+V\u011bk v dob\u011b zmizen\u00ed: 79
+
+Paal Torgal a jeho pos\u00e1dka ztratili kontakt s Mongolsk\u00fdmi \u00fa\u0159ady p\u0159ed deseti lety, kdy\u017e cestovali Syst\u00e9mem 2001. Plavidlo bylo poji\u0161t\u011bno pro p\u0159\u00edpadn\u00e9 hled\u00e1n\u00ed a z\u00e1chranu, a n\u011bkolik lod\u00ed let\u00edc\u00edch skrz syst\u00e9m se tud\u00ed\u017e pokusilo plavidlo nal\u00e9zt - bezv\u00fdsledn\u011b.
+
+- kdy\u017e jeho matka ode\u0161la do d\u016fchodu, stal se z n\u011bj v\u011bt\u0161inov\u00fd akcion\u00e1\u0159 v Torgaljin Corp.
+- interakce s Alterrou se omezila na z\u0159\u00eddkav\u00e9 dod\u00e1vky munice
+- p\u0159\u00edjemce technologi\u00ed prodlu\u017euj\u00edc\u00edch \u017eivot
+- doprov\u00e1zen\u00fd sv\u00fdm jedin\u00fdm d\u00edt\u011btem, Baatem Torgalem (19), d\u011bdicem spole\u010dnosti Torgaljin
+- Mongolsk\u00fd emisar Khasar ozn\u00e1mil, \u017ee Torgal \u010dasto cestoval s men\u0161\u00edm ne\u017e minim\u00e1ln\u00edm mno\u017estv\u00edm pos\u00e1dky
+- neadekv\u00e1tn\u00ed \u00fadr\u017eba syst\u00e9m\u016f se m\u016f\u017ee pod\u00edlet na zmizen\u00ed lodi",
+    "Ency_BaatTorgalBio": "Search & Rescue: Baat Torgal",
+    "EncyDesc_BaatTorgalBio": "POUZE PRO VEDOUC\u00cd PRACOVN\u00cdKY
+
+Vedlej\u0161\u00ed c\u00edl Hled\u00e1n\u00ed & z\u00e1chrany: Baat Torgal
+Hodnost: Vicepresident Torgaljin Corp.
+Status: Ztracen\u00fd ve vesm\u00edru, Pa\u017ee Ariadne
+V\u011bk v dob\u011b zmizen\u00ed: 19
+
+- jedin\u00e9 d\u00edt\u011b Paala Torgala
+- p\u0159\u00edjemce vylep\u0161en\u00fdch technik v\u00fduky a mozkov\u00fdch implant\u00e1t\u016f
+- digit\u00e1ln\u011b tr\u00e9novan\u00fd v pokro\u010dil\u00e9 biochemii a hv\u011bzdn\u00e9 ekonomice
+- mongolsk\u00fd emisar Khasar ozn\u00e1mil, \u017ee Baat doprov\u00e1zel sv\u00e9ho otce Paala na nov\u011b vybudovanou vesm\u00edrnou stanici, kde m\u011bl p\u011bt let pracovat jako provozn\u00ed \u0159editel",
+    "Ency_MargueritMaidaBio": "Search & Rescue: Paal Torgal",
+    "EncyDesc_MargueritMaidaBio": "POUZE PRO VEDOUC\u00cd PRACOVN\u00cdKY
+
+Vedlej\u0161\u00ed c\u00edl Hled\u00e1n\u00ed & z\u00e1chrany: Marguerit Maida
+Hodnost: Bezpe\u010dnostn\u00ed person\u00e1l
+Status: Ztracen\u00e1 ve vesm\u00edru, Pa\u017ee Ariadne
+V\u011bk v dob\u011b zmizen\u00ed: 42
+
+- \u017eold\u00e1k na voln\u00e9 noze, narozena v Mongolsk\u00e9m Imp\u00e9riu
+- zku\u0161en\u00e1 v mezilodn\u00edm souboji a souboji tv\u00e1\u0159\u00ed v tv\u00e1\u0159
+- pr\u00e1ce pro Mongolsk\u00e9 Obrann\u00e9 S\u00edly a Trans-Federa\u010dn\u00ed Milit\u00e1rn\u00ed Policii
+- propu\u0161t\u011bna beze cti z TSA p\u0159ed patn\u00e1cti lety pro opu\u0161t\u011bn\u00ed mise (detaily tajn\u00e9)
+- mongolsk\u00fd emisar Khasar ozn\u00e1mil, \u017ee Maida byla najata, aby doprov\u00e1zela Paala Torgala na palub\u011b Degasi v nezmapovan\u00e9m vesm\u00edru a br\u00e1nila lo\u010f p\u0159ed pir\u00e1tsk\u00fdm \u00fatokem",
+    "Ency_AuroraLaunchNews": "Alterra odstartovala Auroru",
+    "EncyDesc_AuroraLaunchNews": "F\u00c1ZOV\u00c9 BR\u00c1NY NA RUKOU ARIADNE: ALTERRA SPOU\u0160T\u00cd AURORU
+
+Pro roz\u0161\u00ed\u0159en\u00ed nejd\u00e1le obydlen\u00e9ho vesm\u00edru, Alterra Technologies uv\u00e1d\u00ed na trh Auroru, nov\u011b postavenou kapit\u00e1ln\u00ed lo\u010f p\u0159epravuj\u00edc\u00ed z\u00e1kladn\u00ed technologie pro stavbu f\u00e1zov\u00e9 br\u00e1ny, sm\u011b\u0159uj\u00edc\u00ed k Ruk\u00e1m Ariadne. Co\u017e je nejvzd\u00e1len\u011bj\u0161\u00ed sektor galaxie.
+
+Aurora bude cestovat z dok\u016f na okraji Alterra prostoru, p\u0159es 324 po sob\u011b jdouc\u00edch skok\u016f br\u00e1nami a dev\u011bt r\u016fzn\u00fdch \u0159\u00ed\u0161\u00ed, doraz\u00ed na druhou stranu sol\u00e1rn\u00edch syst\u00e9m\u016f Rukou Ariadne za zhruba t\u0159i m\u011bs\u00edce. Odtamtud 100 \u010dlenn\u00e1 pos\u00e1dka bude pilotovat lo\u010f mimo nejvzd\u00e1len\u011bj\u0161\u00ed br\u00e1nu, zhruba za 12 m\u011bs\u00edc\u016f p\u0159ilet\u00ed do slune\u010dn\u00ed soustavy 84763.
+
+Zde elitn\u00ed t\u00fdm technik\u016f za\u010dne \u0161esti m\u011bs\u00ed\u010dn\u00ed projekt v\u00fdstavby, kter\u00fd dokon\u010d\u00ed novou pln\u011b funk\u010dn\u00ed f\u00e1zovou br\u00e1nu za m\u00e9n\u011b ne\u017e dva roky od dne\u0161n\u00edho dne. Pos\u00e1dka se bude sna\u017eit dokon\u010dit pr\u00e1ci v\u010das, proto\u017ee f\u00e1zov\u00e1 br\u00e1na p\u0159edstavuje nejrychlej\u0161\u00ed cestu dom\u016f.
+
+Alterra Technologies v sou\u010dasn\u00e9 dob\u011b provozuje 9% v\u0161ech f\u00e1zov\u00fdch bran v galaxii. Pokud bude Aurora \u00fasp\u011b\u0161n\u00e1 Alterra propoj\u00ed r\u016fzn\u00e9 soukrom\u00e9 aktivity v mongolsk\u00e9 \u0159\u00ed\u0161\u00ed, kter\u00e9 k dne\u0161n\u00edmu dni vytvo\u0159ili \u0159adu z\u00e1kladen pro t\u011b\u017eebn\u00ed \u010dinnosti v regionu.
+
+Slavnostn\u00ed zah\u00e1jen\u00ed pokra\u010duje obvyklou fanf\u00e1rou ...",
+    "Ency_IslandsPDABase1Interior": "Paal Torgal: z\u00e1znam \u010d.1",
+    "EncyDesc_IslandsPDABase1Interior": "Paal Torgal, \u0159editel Torgaljin Corp. Moje pos\u00e1dka a j\u00e1 jsme zde byly ponech\u00e1ni p\u0159ed p\u011bti t\u00fddny, kdy byla na\u0161e lo\u010f zasa\u017eena n\u011bjak\u00fdm druhem zbran\u011b.
+
+Postavili jsme obydl\u00ed s pou\u017eit\u00edm materi\u00e1l\u016f ze zbytk\u016f lodi. P\u0159e\u017eili jsme t\u00edm, \u017ee p\u011bstujeme m\u00edstn\u00ed rostliny. Biochemick\u00e9 vzd\u011bl\u00e1n\u00ed m\u00e9ho syna rozhodn\u011b nejsou vyhozen\u00e9 pen\u00edze. Vyp\u011bstoval dostatek potravy, aby n\u00e1m vydr\u017eel dal\u0161\u00ed m\u011bs\u00edc.
+
+Te\u010f m\u00e1m strach o na\u0161i bezpe\u010dnost. Ochranka, kterou jsem najal na cestu, Marguerite Maida, je neust\u00e1le rozru\u0161en\u00e1. Trv\u00e1 na tom, \u017ee mus\u00edme opustit toto m\u00edsto a vytvo\u0159it stanovi\u0161t\u011b pod hladinou. Ob\u00e1v\u00e1m se, \u017ee m\u016f\u017ee podniknout kroky k sabot\u00e1\u017ei na\u0161eho stanovi\u0161t\u011b, a prosadit tak sv\u00e9 rozhodnut\u00ed. Nicm\u00e9n\u011b i proti sv\u00e9mu p\u0159esv\u011bd\u010den\u00ed jsem se sm\u00ed\u0159il s jej\u00ed \u017e\u00e1dost\u00ed, aby se hledalo vhodn\u00e9 m\u00edsto pro podmo\u0159skou z\u00e1kladnu. Douf\u00e1m, \u017ee si brzy uv\u011bdom\u00ed, jak nemilosrdn\u00fd oce\u00e1n je a opust\u00ed tuto po\u0161etilou my\u0161lenku.",
+    "Ency_IslandsPDABase1a": "Baat Torgal: z\u00e1znam \u010d.6?",
+    "EncyDesc_IslandsPDABase1a": "Zkazil jsem to. Tentokr\u00e1t docela dost. Bylo to dva dny od t\u00e9 doby, co se to stalo. Nikdy jsme nem\u011bli opustit ostrov. Nem\u011bl jsem je poslouchat. Nem\u011bli jsme j\u00edt tak hluboko. Necht\u011bj\u00ed n\u00e1s tam dole. Nev\u011b\u0159\u00ed n\u00e1m. V\u011bd\u011bl jsem to a nic jsem ne\u0159ekl. Vid\u011bl jsem to, ale oni ne, a te\u010f tam z\u016fstali, a j\u00e1 jsem tady, s\u00e1m. Zaslou\u017e\u00edm si to.",
+    "Ency_IslandsPDABase1bDesk": "Degasi hlasov\u00fd z\u00e1znam \u010d.1",
+    "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT: To nebude dost, \u0161\u00e9fe. Zachr\u00e1n\u011bno m\u00e1me dostatek \u0161rotu z Degasi, pro p\u00e1r observato\u0159\u00ed?
+PAAL: Bude to sta\u010dit.
+MARGUERIT: Te\u010f mo\u017en\u00e1. Jednou dojde. Nen\u00ed zde \u017e\u00e1dn\u00fd stavebn\u00ed materi\u00e1l na ostrov\u011b. Budeme si muset namo\u010dit nohy. Nen\u00ed jin\u00e1 mo\u017enost.
+PAAL: Tento ostrov je bezpe\u010d\u00ed. Je tu \u00farodn\u00e1 p\u016fda. \u017d\u00e1dn\u00ed pred\u00e1to\u0159i. \u00dakryt p\u0159ed nep\u0159\u00edzn\u00ed po\u010das\u00ed.
+MARGUERIT: V\u0161e co budeme pot\u0159ebovat je filtrace vody, n\u011bkter\u00e9 v\u00fdztuhy trupu, mo\u017en\u00e1 tepeln\u00e9 \u010derpadlo nebo dv\u011b ...
+PAAL: U\u017e jsem se rozhodl. Chcete p\u0159ij\u00edt o provizi jen proto, abyste si zaplavala?
+MARGUERIT: V\u011b\u0159te mi, p\u0159em\u00fd\u0161l\u00edm o tom.
+BAAT: Ty hory vypadaj\u00ed, \u017ee budou z\u00edsk\u00e1vat co nejv\u00edce slunce. Kdy\u017e postav\u00edme observato\u0159e tam, mysl\u00edm \u017ee bych mohl vyp\u011bstovat dostatek potravy, aby n\u00e1s v\u0161echny udr\u017eela na\u017eivu. Mysl\u00edm, \u017ee by to mohlo fungovat.
+PAAL: Sly\u0161\u00edte to? Mysl\u00edte si, \u017ee to v\u00edte l\u00e9pe ne\u017e 10 milion\u016f za biochemick\u00e9 vzd\u011bl\u00e1n\u00ed?
+MARGUERIT: Ne\u0159\u00edk\u00e1m, \u017ee kluk je hloupej. Jen \u0159\u00edk\u00e1m, \u017ee oce\u00e1n je v\u0161ude okolo. Nem\u00e1 smysl se skr\u00fdvat.
+PAAL: Ne. Tady, postav\u00edme. Takhle tu p\u0159e\u017eijeme.",
+    "Ency_IslandsPDABase1Desk": "Degasi hlasov\u00fd z\u00e1znam \u010d.2",
+    "EncyDesc_IslandsPDABase1Desk": "PAAL: N\u00e1\u0161 \u017eivot je cenn\u011bj\u0161\u00ed. Zakazuji ti j\u00edt ven.
+BAAT: P\u0159estal jsem t\u011b poslouchat, kdy\u017e se lo\u010f pod tv\u00fdm velen\u00edm potopila.
+PAAL: Dokud jsem tv\u016fj otec tak mn\u011b bude\u0161 poslouchat!
+MAIDA: \u0158ekn\u011bte, \u0161\u00e9fe. \u0160\u00e9fe!
+PAAL: Co?
+MAIDA: V\u00edte, jak vypustit ze z\u00e1honk\u016f venku 40 tun de\u0161\u0165ov\u00e9 vody? Nebo jak sehnat potravu pro t\u0159i osoby na p\u0159\u00ed\u0161t\u00ed dva t\u00fddny?
+PAAL: No, j\u00e1 ne.
+MAIDA: Tak\u017ee jakou cenu bude m\u00edt chlapc\u016fv \u017eivot, pokud p\u0159\u00ed\u0161t\u00ed t\u00fdden budeme m\u00edt takov\u00fd hlad \u017ee za\u010dneme p\u0159em\u00fd\u0161let, jak co chutn\u00e1? Nechte ho j\u00edt p\u011bstovat rostliny.
+PAAL: Tak, jdi p\u011bstovat rostliny.
+CPU: Baat Torgal ji\u017e nen\u00ed na z\u00e1kladn\u011b.
+PAAL: Je\u0161t\u011b jednou se bude\u0161 montovat do moj\u00ed rodiny a\u017e pro n\u00e1s p\u0159ejedou, tak t\u011b tu nech\u00e1m. Rozum\u00ed\u0161 mi?
+MAIDA: Nikdo nep\u0159ijede, \u0161\u00e9fe. Ne v \u010das. A z\u016fstat tady taky nejde. Nep\u0159est\u00e1v\u00e1 pr\u0161et, a d\u0159\u00edve nebo pozd\u011bji to tady poh\u0159b\u00ed. Jedin\u00e1 mo\u017enost kterou m\u00e1me je, jestli z\u016fstaneme poh\u0159beni s n\u00edm.
+PAAL: Dr\u017e se d\u00e1l od m\u00e9ho kluka.",
+    "Ency_IslandsPDAExterior": "Degasi hlasov\u00fd z\u00e1znam \u010d.3",
+    "EncyDesc_IslandsPDAExterior": "MARGUERIT: Vid\u00edte, \u0161\u00e9fe? Vy jste n\u00e1s p\u0159ivedl na tuhle po\u0161ahanou planetu. \u0158ekl jste n\u00e1m \u017ee dostaneme super pen\u00edze. A co m\u00e1me te\u010f? Polovina z n\u00e1s jsou mrtv\u00fd. Hromada bordelu kolem. Oknem sem pr\u0161\u00ed.
+PAAL: A jak byste se vyhnula vy?
+MARGEURIT: J\u00e1 bych za\u010dala t\u00edm, \u017ee nepojedu zkratkou. Nikdy nesm\u00edte j\u00edt mimo kurs. To je drsn\u00e1 lekce. No p\u0159\u00ed\u0161t\u011b u\u017e budeme v\u011bd\u011bt.
+PAAL: Co p\u0159esn\u011b navrhujete?
+MARGEURIT: Chcete ztr\u00e1cet \u010das, vl\u00e1\u010den\u00edm titanu z mo\u0159sk\u00e9ho dna? Nebo chcete b\u00fdt u zdroje?
+PAAL: Budeme-li stav\u011bt pod vodou, jak vyp\u011bstujeme j\u00eddlo? Co budeme p\u00edt? Z \u010deho vyr\u00e1b\u011bt energii?
+MARGEURIT: Budeme lovit ryby. Ud\u011bl\u00e1me vodn\u00ed filtry. P\u016fjdeme-li dostate\u010dn\u011b hluboko mus\u00edme tam naj\u00edt term\u00e1ln\u00ed pr\u016fduchy - a budeme m\u00edt v\u00edc energie, ne\u017e budeme v\u016fbec pot\u0159ebovat. \u0160\u00e9fe, budeme j\u00edst hnusnej sal\u00e1t z mo\u0159sk\u00fdch \u0159as, jestli to bude zapot\u0159eb\u00ed. Nebo m\u00e1te n\u011bco lep\u0161\u00edho?
+BAAT: Mysl\u00edm, \u017ee bych mohl ud\u011blat i chutn\u00fd sal\u00e1t z mo\u0159sk\u00fdch \u0159as.
+PAAL: Synu, te\u010f mluv\u00ed dosp\u011bl\u00ed.
+BAAT: Mysl\u00edm to v\u00e1\u017en\u011b, ot\u010de. Kdy\u017e m\u016f\u017eu p\u011bstovat ovoce na zemi, m\u016f\u017eu n\u011bco p\u011bstovat i pod vodou. M\u016f\u017eeme chovat ryby. Ot\u010de, udr\u017eel jsem n\u00e1s p\u0159i \u017eivot\u011b u\u017e dost dlouho. A m\u016f\u017eu i nad\u00e1le.",
+    "Ency_JellyPDABrokenCorridor": "Degasi hlasov\u00fd z\u00e1znam \u010d.4 - jeskyn\u011b p\u0159\u00edjezd",
+    "EncyDesc_JellyPDABrokenCorridor": "BAAT: Tady to je hust\u00fd.
+PAAL: Nen\u00ed to to, co jsem o\u010dek\u00e1val. U\u017e jste postavili v\u00fdztuhy trupu?
+MARGUERIT: J\u00e1 jsem pos\u00edlila trup a instalovala p\u0159etlakov\u00e9 dve\u0159e.
+PAAL: No jist\u011b.
+BAAT: Mohli bychom postavit pozorovac\u00ed palubu. Mohli bychom objevit mnoho nov\u00fdch druh\u016f v okol\u00ed.
+MARGUERIT: Nejd\u0159\u00edve, podstavy ... ty nejsou v nejlep\u0161\u00ed kondici. Ale m\u016f\u017eu zaru\u010dit, \u017ee n\u00e1m to na hlavu nespadne.",
+    "Ency_JellyPDARoom2Desk": "Degasi hlasov\u00fd z\u00e1znam \u010d.5 - Hloub\u011bji?!",
+    "EncyDesc_JellyPDARoom2Desk": "PAAL: U\u017e jsme 300 metr\u016f pod mo\u0159em! Chcete j\u00edt hloub\u011bji?!
+MARGUERIT: Pod\u00edvejte se kolem n\u00e1s, \u0161\u00e9fe. V\u00edte, co vid\u00edm? Vodu. Vodu co prosakuje skrz trup. Vodu mimo poklop. Voda nade mnou, voda pode mnou. V\u0161ude \u0161\u00edlen\u00e1 voda, \u0161\u00e9fe. Pot\u00e1p\u00edme se. Hodn\u011b pomalu. Chcete \u017e\u00edt n\u011bkolik zb\u00fdvaj\u00edc\u00edch dn\u00ed, j\u00edst ovoce na pl\u00e1\u017ei ve strachu, aby se va\u0161e prsty nenamo\u010dili?
+PAAL: Co teda chcete?
+MARGUERIT: Chci v\u011bd\u011bt, jak se dostat z t\u00e9hle pitom\u00e9 planety.",
+    "Ency_JellyPDAObservatory": "Baat Torgal: z\u00e1znam \u010d.1",
+    "EncyDesc_JellyPDAObservatory": "U\u017e jsme zpracovali v\u0161echno pou\u017eiteln\u00e9 tvrzen\u00e9 sklo z lodi, tak\u017ee to vypadalo, \u017ee observato\u0159 nedostav\u00edme. Ale Marguerita, co ta teda d\u011bl\u00e1 - ona vezme Seamotha jede mezi chaluhy, vyzbrojen\u00e1 jen \u017ehnouc\u00edm no\u017eem a \u0161\u00edlen\u011b z\u00e1pas\u00ed se Stalkery na mo\u0159sk\u00e9m dn\u011b o jejich zuby.
+
+Vlastn\u00edma rukama bojuje se \u017eraloky a nos\u00ed zp\u011bt jejich zuby. Nyn\u00ed m\u016f\u017eeme vyrobit v\u0161echno tvrzen\u00e9 sklo, kter\u00e9 pot\u0159ebujeme.
+
+Na jedn\u00e9 stran\u011b to je nejhust\u011bj\u0161\u00ed v\u011bc, kterou jsem kdy sly\u0161el a te\u010f sed\u00edm v observato\u0159i, sleduji zubat\u00fd potvory jak ne\u0161kodn\u011b nar\u00e1\u017e\u00ed do skla.
+
+Na druhou stranu, st\u00e1lo to za to? V\u00edme, jak ten tvor \u017eije? Jak rychle mu rostou zuby? Existuje zp\u016fsob, jak z\u00edsk\u00e1vat materi\u00e1ly bez naru\u0161ov\u00e1n\u00ed tohoto ekosyst\u00e9mu?
+
+Kdybychom m\u011bli dostate\u010dn\u011b velk\u00e1 akv\u00e1ria bychom mohli tyto formy \u017eivota studovat zbl\u00edzka. Naj\u00edt odpov\u011bdi.",
+    "Ency_JellyPDARoom1Desk": "Baat Torgal: z\u00e1znam \u010d.2",
+    "EncyDesc_JellyPDARoom1Desk": "\u017dijeme tu u\u017e m\u011bs\u00edc. Je to vzru\u0161uj\u00edc\u00ed, ale o moc v\u00edc klaustrofobn\u00ed ne\u017e jsem si myslel. Existuje spousta dravc\u016f v t\u011bchto jeskyn\u00edch, Marguerita je jedin\u00e1 osoba, kter\u00e1 chod\u00ed ven.
+
+Co dodat, \u017eivot tady je neuv\u011b\u0159iteln\u00fd. Marguerita nos\u00ed zp\u011bt nejdivo\u010dej\u0161\u00ed vzorky co si m\u016f\u017eu p\u0159edstavit. Dobr\u00e1, rostliny jsou tu nepo\u017eivateln\u00e9. Co\u017e byla docela tvrd\u00e1 lekce. Ale ryby ... tady dole sv\u00edt\u00ed. Je tu jedna, kter\u00e1 je z 90% o\u010dn\u00ed bulva. Hadi dlouh\u00fd p\u0159es dv\u011b prosklen\u00e9 chodby. Nen\u00ed to snadn\u00e9 bez po\u0159\u00e1dn\u00e9 laborato\u0159e a za\u0159\u00edzen\u00ed, ale funguji postaru - pozorov\u00e1n\u00ed, zapisov\u00e1n\u00ed pozn\u00e1mek, testov\u00e1n\u00ed teorie - odhaluji v\u011bc\u00ed, kter\u00e9 spektroskopick\u00e1 anal\u00fdza nevid\u00ed.
+
+Nap\u0159\u00edklad jsem pozoroval mo\u0159sk\u00e9 hady, kte\u0159\u00ed si d\u011blaj\u00ed sv\u00e9 domovy ve fialov\u00fdch houb\u00e1ch, co tu rostou. \u010cekaj\u00ed na svou ko\u0159ist, a ude\u0159\u00ed kdy\u017e se mal\u00fd b\u00fdlo\u017eravci zatoulaj\u00ed p\u0159\u00edli\u0161 bl\u00edzko. Co nese\u017eerou usad\u00ed se na dn\u011b mo\u0159e, \u010d\u00edm\u017e hnoj\u00ed podhoub\u00ed, houbami se \u017eiv\u00ed b\u00fdlo\u017eravci a \u0159et\u011bz pokra\u010duje. Koevoluce jen jit\u0159\u00ed mou mysl.",
+    "Ency_JellyPDARoom1Locker": "Paal Torgal: z\u00e1znam \u010d.2",
+    "EncyDesc_JellyPDARoom1Locker": "V\u00edte, co se mi Maida dnes zeptala? \"U\u017e jsi sly\u0161el o ponorce Cyclop?\" M\u011b, co jsem dov\u00e1\u017eel z Neptuna, plastocel pro federaci ... moje rodina provozuje dev\u011bt r\u016fzn\u00fdch t\u011b\u017eebn\u00ed koloni\u00ed p\u0159es Ruce Ariadny. Mysl\u00ed si, \u017ee nev\u00edm, co je to Cyclop?! Za co mysl\u00ed \u017ee je placen\u00e1? Jej\u00ed smlouva st\u00e1le to \u0159\u00edk\u00e1 jasn\u011b.
+
+Tak\u017ee ona chce vybudovat z\u00e1kladnu 700 m pod hladinou mo\u0159e, kilometr v\u00fdchodn\u011b odtud. A pot\u0159ebuje Baata a m\u011b natahat to tam. Vzala si do hlavy, \u017ee z\u00e1chrana nep\u0159ijde. M\u016f\u017ee n\u00e1s zachr\u00e1nit, jen kdyby se prost\u011b nechovala tak lehkomysln\u011b.
+
+A j\u00e1 sakra nem\u016f\u017eu \u0159\u00edct, jestli to je ten nejhloup\u011bj\u0161\u00ed n\u00e1pad, co jsem kdy sly\u0161el, nebo na\u0161e jedin\u00e1 nad\u011bje. Minul\u00fd t\u00fdden mi bylo 80 let. O\u010dek\u00e1val jsem \u017ee dal\u0161\u00ed osmdes\u00e1tku je\u0161t\u011b vydr\u017e\u00edm. Ale tvrdnu tady, a neexistuje \u017e\u00e1dn\u00e1 \u0161ance na nov\u00e1 j\u00e1tra, kdy\u017e ty star\u00e1 sel\u017eou. Tady jsem smrteln\u00fd. A \u010das se kr\u00e1t\u00ed.
+
+Tak\u017ee je to na moj\u00ed zodpov\u011bdnost, abych se rozhodl. Vr\u00e1tit se na ostrov s nad\u011bj\u00ed \u017ee cokoliv co srazilo Degasi z nebe, neud\u011bl\u00e1 tot\u00e9\u017e z\u00e1chrann\u00e9 lodi, nebo se vyd\u00e1me hloub\u011bji p\u0159i hled\u00e1n\u00ed odpov\u011bd\u00ed. A celou tu dobu budu doufat, \u017ee m\u011b dostane st\u00e1\u0159\u00ed a ne n\u011bjak\u00e1 mo\u0159sk\u00e1 potvora.
+
+Maida m\u011bla pravdu o t\u011bchto jeskyn\u00edch. Je tu dost lithia na v\u00fdrobu sto tun plastoceli. Dost pro flotily zatracen\u00fdch ponorek. Nebylo nic, co by n\u011bkdo mohl ud\u011blat, aby se zabr\u00e1nilo ztroskot\u00e1n\u00ed, ale m\u011bl jsem opravdu ud\u011blat obj\u00ed\u017e\u010fku. Kdy\u017e se dostaneme z t\u00e9hle planety tak mus\u00edm probrat cenu akci\u00ed Torgaljin Corp. s federac\u00ed.",
+    "Ency_JellyPDAExterior": "Marguerit Maida: z\u00e1znam \u010d.1",
+    "EncyDesc_JellyPDAExterior": "Ty zpropaden\u00fd korpor\u00e1tn\u00ed, bur\u017eoazn\u00ed, nekompetentn\u00ed, sebest\u0159edn\u00ed pitomci nemaj\u00ed v\u016fbec pon\u011bt\u00ed jak moc pitom\u00fd. P\u0159\u00edsah\u00e1m, \u017ee ka\u017ed\u00e9 jednotliv\u00e9 slovo, kter\u00e9 vych\u00e1z\u00ed z toho idiota je narcistick\u00e1 le\u017e. Chce z\u016fstat tady, jeho probl\u00e9m. J\u00e1 jsem ten, kdo d\u011bl\u00e1 t\u011b\u017ekou pr\u00e1ci. Ka\u0161lu na smlouvu. Ka\u0161lu na bonusy. Ka\u0161lu na pen\u00edze. Postav\u00edm si ponorku a jdu do hloubek.
+
+Za\u010dala jsem p\u0159ipravovat operaci. Ta emz\u00e1ck\u00e1 zoo se docela hod\u00ed. Nen\u00ed t\u0159eba l\u00e9zt na povrch pro zuby Stalker\u016f, kdy\u017e z nich m\u00e1 celou \u0161kolku a \u017eerou mu z ruky. Za\u010dala jsem sb\u00edrat zuby, kdy\u017e Torgal sp\u00ed, a kovov\u00e9 rudy pro stavbu ponorky.
+
+Kdy\u017e \u0161\u00edlen\u00e1 monstra lov\u00ed v\u00e1s, neut\u00edkejte se schovat. Za\u010dn\u011bte lovit \u0161\u00edlen\u00e1 monstra. Pak budete stav\u011bt v\u011bt\u0161\u00ed lod\u011b z kost\u00ed sv\u00fdch pora\u017een\u00fdch nep\u0159\u00e1tel a lovit je\u0161t\u011b v\u011bt\u0161\u00ed obludy. A tak d\u00e1l, dokud u\u017e nebudou dal\u0161\u00ed p\u0159\u00ed\u0161ery k lovu.",
+    "Ency_JellyPDARoom2Locker": "Degasi hlasov\u00fd z\u00e1znam \u010d.6 - Kuri\u00f3zn\u00ed objev",
+    "EncyDesc_JellyPDARoom2Locker": "PAAL: Co je to?
+MARGUERITE: J\u00e1 nev\u00edm.
+PAAL: \u010c\u00e1st jin\u00e9 lodi?
+MARGUERITE: \u017d\u00e1dnou takovou jsem nikdy nevid\u011bla.
+BAAT: Je to v dobr\u00e9m stavu. Nen\u00ed to ani po\u0161kr\u00e1ban\u00fd. Mo\u017en\u00e1 to vzniklo zde, na planet\u011b.
+PAAL: Nesahejte na to, m\u016f\u017ee to b\u00fdt vz\u00e1cn\u00e9. \u0158ekl jsem, ne\u0161ahat!
+MARGUERIT: Klid, \u0161\u00e9fe, jen se kouk\u00e1m. Kdyby se to cht\u011blo rozpadnout na prach, tak to u\u017e ud\u011blalo jak jsem to zvedla.
+BAAT: Trochu to sv\u00edt\u00ed.
+PAAL: M\u00e1to energii? Byl tu v posledn\u00ed dob\u011b n\u011bkdo jin\u00fd.
+BAAT: Bu\u010f to, nebo to tak d\u00e1vno, \u017ee si to nikdo nepamatuje.",
+    "Ency_DeepPDABase3": "Degasi hlasov\u00fd z\u00e1znam \u010d.7",
+    "EncyDesc_DeepPDABase3": "BAAT: Nechte toho, oba dva! Jsme nemocn\u00ed.
+MARGUERIT: Co?
+PAAL: Jak to?
+BAAT: M\u00e1\u0161 ka\u0161el, \u017ee jo? Sv\u011bd\u011bn\u00ed?
+MARGUERIT: Jo.
+BAAT: Byli jsme nemocn\u00ed, proto\u017ee jsme za\u010dali d\u00fdchat vzduch.
+PAAL: Oblek biometrie by varoval n\u00e1s.
+BAAT: Je to n\u011bco nov\u00e9ho. Bakteri\u00e1ln\u00ed infekce.
+MARGUERIT: Co to d\u011bl\u00e1?
+BAAT: Nic moc, zat\u00edm. Ale je to chytr\u00e9. S dostatkem \u010dasu si mysl\u00edm, \u017ee by to mohlo za\u010d\u00edt m\u011bnit na\u0161i genetickou strukturu. Tu\u0161\u00edm \u017ee to m\u016f\u017ee m\u011bnit vzr\u016fst.
+PAAL: Co m\u016f\u017eete d\u011blat?
+BAAT: Mysl\u00edm, \u017ee to mohu zpomalit.
+PAAL: Jak jsi to na\u0161el?
+BAAT: Je to v\u0161ude, jen jsem to nemohl vid\u011bt. V\u0161echno, co je na t\u00e9to planet\u011b je infikov\u00e1no. Je to do zna\u010dn\u00e9 m\u00edry pr\u00e1v\u011b sou\u010d\u00e1st\u00ed ekosyst\u00e9mu.
+MARGUERIT: Jak zl\u00e9 to m\u016f\u017ee b\u00fdt, jestli to m\u00e1me v\u0161ichni?
+BAAT: M\u00edstn\u00ed organismy maj\u00ed vyvinut\u00fd obrann\u00e9 mechanismy. To my nem\u00e1me.
+PAAL: No. M\u00e1\u0161 mou plnou d\u016fv\u011bru, synu, \u017ee na to p\u0159ijde\u0161 a zbav\u00ed\u0161 n\u00e1s toho.
+MARGUERIT: \u0158ekni si, co bude\u0161 pot\u0159ebovat, chlap\u010de.",
+    "BaseMapRoomFragment": "Pl\u00e1n monitorovac\u00ed m\u00edstnosti",
+    "BaseMapRoom": "Monitorovac\u00ed m\u00edstnost",
+    "Tooltip_BaseMapRoom": "Scanner Room",
+    "RecipeUnlocked": "{0} recipe unlocked",
+    "TechTypeUnlocked": "{0} unlocked",
+    "MapRoomCameraInfo": "Kamera {0}",
+    "MapRoomCameraControls": "Tla\u010d\u00edtkem my\u0161i p\u0159ep\u00edn\u00e1te kamery",
+    "MapRoomCameraDistance": "VZD\u00c1LENOST: {0}",
+    "MapRoomCameraDepth": "HLOUBKA: {0}",
+    "EncyPath_DownloadedData\/Lifepods": "Z\u00e1chrann\u00e9 moduly",
+    "EncyPath_DownloadedData\/AuroraSurvivors": "P\u0159e\u017eiv\u0161\u00ed z Aurory",
+    "Ency_Lifepod1": "Danbyho letov\u00fd z\u00e1znam",
+    "EncyDesc_Lifepod1": "Tady l\u00e9ka\u0159 Danby, vstupuji do atmosf\u00e9ry vysokou rychlost\u00ed, dopad za 20 sekund! * V\u00fdbuch * Ho\u0159\u00ed! Jdu do v\u00fdvrtky! Zkou\u0161\u00edm ... * \u0160um *",
+    "Ency_Lifepod2": "Z\u00e1chrann\u00fd modul z\u00e1znam \u010d. 1",
+    "EncyDesc_Lifepod2": "CESTUJ\u00cdC\u00cd: Pot\u00e1p\u00edme se!
+POS\u00c1DKA: Madam, d\u011bl\u00e1m v\u0161echno, co m\u016f\u017eu!
+CESTUJ\u00cdC\u00cd: Kde jsou z\u00e1chrann\u00e9 t\u00fdmy ?!
+POS\u00c1DKA: Jsou na cest\u011b, Madam!
+CESTUJ\u00cdC\u00cd: To nen\u00ed to, co hl\u00e1sili v r\u00e1diu!
+POS\u00c1DKA: Madam, mus\u00edm v\u00e1s po\u017e\u00e1dat, abyste z\u016fstala, kde jste! Po\u010d\u00edta\u010d nedokon\u010dil situa\u010dn\u00ed anal\u00fdzu, nem\u00e1me tu\u0161en\u00ed, co je tam venku!
+CESTUJ\u00cdC\u00cd: Nechci se tady utopit!
+POS\u00c1DKA: Madam, vra\u0165te se, nen\u00ed to bezpe\u010dn\u00e9!
+* zvuk Reapera *",
+    "Ency_Lifepod3": "Technick\u00fd letov\u00fd z\u00e1znam",
+    "EncyDesc_Lifepod3": "PDA: Situa\u010dn\u00ed anal\u00fdza dokon\u010dena. Komunikace rel\u00e9 v re\u017eimu offline.
+TECHNIK 1: Sakra! Jak m\u00e1me d\u011blat p\u0159ibl\u00ed\u017een\u00ed bez r\u00e1diov\u00e9ho sign\u00e1lu?
+TECHNIK 2: M\u00e1me kompas. Budeme to muset ud\u011blat postaru.
+TECHNIK 1: Chcete si vyrobit kompas?
+TECHNIK 2: Pro\u010d zastavujeme? Kdy\u017e najdeme ostatn\u00ed, m\u016f\u017eeme stav\u011bt filtra\u010dn\u00ed obleky. Vybudovat z\u00e1kladnu. Mo\u017en\u00e1 se dokonce dostat do Aurory a reaktivovat mezihv\u011bzdnou komunikace. M\u00e1\u0161 sv\u00e1\u0159e\u010dku?
+TECHNIK 1: Jo, j\u00e1 sakra, nechal jsem j\u00ed v exo doku.
+TECHNIK 2: No nevad\u00ed..
+TECHNIK 1: M\u011b, to \u0161tve.
+TECHNIK 2: Ne, m\u016f\u017eeme j\u00ed ud\u011blat. V\u0161e, co pot\u0159ebujeme, je n\u011bkolik z\u00e1kladn\u00edch materi\u00e1l\u016f. Tahle planeta nem\u016f\u017ee b\u00fdt na nic. Jdeme ven to zjistit.",
+    "Ency_Lifepod4": "Emisar Khasar: letov\u00fd z\u00e1znam",
+    "EncyDesc_Lifepod4": "\u010cern\u00e1 sk\u0159\u00ed\u0148ka z\u00e1znam \u010d. 345
+00:00 Z\u00e1chrann\u00fd modul aktivov\u00e1n
+00:03 Cestuj\u00edc\u00ed 07 'Vyslanec Jochi Khasar' vstoupil na palubu
+00:07 Startovac\u00ed sekvence zah\u00e1jena
+00:15 Modul \u00fasp\u011b\u0161n\u011b odd\u011blen od Aurory
+00:17 Palubn\u00ed mikrofony zjistili hlasovou komunikaci a zaznamen\u00e1vaj\u00ed:
+\"Ot\u010de n\u00e1\u0161, jen\u017e jsi na v nebes\u00edch, posv\u011b\u0165 se jm\u00e9no tv\u00e9, p\u0159ij\u010f kr\u00e1lovstv\u00ed tv\u00e9, bu\u010f v\u016fle tv\u00e1 jako v nebi, tak i na zemi. Chl\u00e9b n\u00e1\u0161 vezdej\u0161\u00ed dej\u017e n\u00e1m dnes a odpus\u0165 n\u00e1m na\u0161e viny, jako\u017e i my odpou\u0161t\u00edme na\u0161im vin\u00edk\u016fm a neuve\u010f n\u00e1s v poku\u0161en\u00ed\"
+
+00:33 Vstup do atmosf\u00e9ry planety
+00:35 Venkovn\u00ed teplota dosahuje kritick\u00e9 \u00farovn\u011b
+
+00:37 \"Uka\u017e n\u00e1m spr\u00e1vnou cestu, cestu kterou vol\u00ed\u0161. Pro \u017eivot, pravdu, l\u00e1sku, celistvost reality. Pro podstatu,  princip a mysl, \u010dlov\u011bka kter\u00fd jest tv\u00fdm obrazem a podobou. Pro tvou s\u00edlu, my jedno jsme. Nav\u011bky v\u011bk\u016f. Amen\"'
+
+01:02 Zji\u0161t\u011bno po\u0161kozen\u00ed trupu
+01:05 Syst\u00e9my udr\u017een\u00ed \u017eivota selh\u00e1vaj\u00ed
+01:06 Dopad vz\u00e1p\u011bt\u00ed",
+    "Ency_LifepodSeaglide": "Z\u00e1chrann\u00fd modul audioz\u00e1znam \u010d.1",
+    "EncyDesc_LifepodSeaglide": "To to m\u016f\u017ee b\u00fdt moje posledn\u00ed zpr\u00e1va. Modul vydr\u017eel dopad na planetu neporu\u0161en\u00fd, ale te\u010f jsem obklopen n\u011bjak\u00fdm druhem vodn\u00edch mimozemsk\u00fdch dravc\u016f. Jsou vybaveni krun\u00fd\u0159em a \u00fato\u010d\u00ed okam\u017eit\u011b jak otev\u0159u pr\u016flez. Na prvn\u00edho z nich, jsem za\u00fato\u010dil s no\u017eem p\u0159e\u017eit\u00ed, ale nedostal jsem se skrz  panc\u00e9\u0159ov\u00e9 vrstvy. Zkou\u0161el jsem je rozptylovat sv\u011btlicemi - bez v\u00fdsledku. Propulzn\u00ed d\u011blo nem\u00e1m k dispozici. Ani st\u00e1zovou pu\u0161ku. Nem\u00e1m \u0161anci.
+
+Rozebral jsem \u010d\u00e1st elektroinstalace modulu v nad\u011bji vyrobit podmo\u0159sk\u00fd kluz\u00e1k. Mou jedinou nad\u011bj\u00ed je, \u017ee jim ute\u010du. Dr\u017ete mi palce.",
+    "Ency_LifepodKeenDialog": "Letov\u00fd z\u00e1znam d\u016fstojn\u00edka Keena",
+    "EncyDesc_LifepodKeenDialog": "KAPIT\u00c1N: Keene! Tady Aurora, ozvi se!
+KEEN: Sly\u0161\u00edm v\u00e1s, kapit\u00e1ne!
+KAPIT\u00c1N: Po\u010d\u00edta\u010d na\u0161el pevninu na p\u0159ilo\u017een\u00fdch sou\u0159adnic\u00edch! Chci, abys p\u0159esunul pos\u00e1dku tam!
+KEEN: Rozum\u00edm, ale-
+KAPIT\u00c1N: Je to te\u010f va\u0161e odpov\u011bdnost, nevzd\u00e1vejte to!
+KEEN: Kapit\u00e1ne, je t\u0159eba se evakuovat!
+* V\u00fdbuch na palub\u011b Aurory *
+KEEN: Kapit\u00e1ne ?!",
+    "Ency_LifepodKeenLog": "D\u016fstojn\u00edk Keen z\u00e1znam \u010d.1",
+    "EncyDesc_LifepodKeenLog": "Cel\u00e9 pos\u00e1dce - Pokud toto \u010dtete pak jste n\u00e1sledovali automatick\u00fd nouzov\u00fd sign\u00e1l vys\u00edlan\u00fd t\u00edmto modulem v rozporu s protokolem. M\u016fj z\u00e1chrann\u00fd modul byl po\u0161kozen p\u0159i n\u00e1razu a jsem nucen jej opustit. Va\u0161e rozkazy jsou p\u0159ehl\u00ed\u017eet moji bezpe\u010dnost a pokusit se dostat na ur\u010den\u00e9 sou\u0159adnice nejbli\u017e\u0161\u00ed pevniny. Douf\u00e1m, \u017ee se tam uvid\u00edme.
+
+- Druh\u00fd d\u016fstojn\u00edk Keen",
+    "Ency_LifepodCrashZone1": "Z\u00e1chrann\u00fd modul audio z\u00e1znam \u010d.2",
+    "EncyDesc_LifepodCrashZone1": "POS\u00c1DKA: Pot\u0159ebuji, abyste z\u016fstala v klidu. Trup nen\u00ed po\u0161kozen. Nejsme v bezprost\u0159edn\u00edm nebezpe\u010d\u00ed.
+CESTUJ\u00cdC\u00cd: Kde jsou z\u00e1chrann\u00e9 t\u00fdmy ?!
+POS\u00c1DKA: Aurora je nepo\u0161le, madam.
+CESTUJ\u00cdC\u00cd: Co t\u00edm mysl\u00ed\u0161?
+POS\u00c1DKA: Jsou mrtv\u00ed, madam. V\u0161ichni jsou mrtv\u00ed.
+CESTUJ\u00cdC\u00cd: Co hodl\u00e1te d\u011blat?
+POS\u00c1DKA: Nem\u016f\u017eeme \u010dekat na z\u00e1chranu. Budeme muset vyrobit antiradia\u010dn\u00ed obleky a hledat na m\u00edst\u011b hav\u00e1rie.
+PDA: Detekce m\u00edstn\u00ed kovov\u00e9 usazeniny.
+POS\u00c1DKA: PDA s fabrik\u00e1torem jsou funk\u010dn\u00ed. Budeme muset j\u00edt ven pro materi\u00e1ly.
+CESTUJ\u00cdC\u00cd: My ?! Je to va\u0161e pr\u00e1ce, ne? Pe\u010dovat o cestuj\u00edc\u00ed!
+POS\u00c1DKA: V r\u00e1mci rozumn\u00fdch hranic.
+CESTUJ\u00cdC\u00cd: Promi\u0148te?
+POS\u00c1DKA: Zapome\u0148te na to, p\u016fjdu. Jen nev\u00edm jestli najdu dostatek materi\u00e1l\u016f pro n\u00e1s oba.",
+    "Ency_LifepodCrashZone2": "Z\u00e1chrann\u00fd modul audio z\u00e1znam \u010d.3",
+    "EncyDesc_LifepodCrashZone2": "* Poklop uzav\u0159en *
+POS\u00c1DKA: * Ka\u0161el * Vem si tohle.
+CESTUJ\u00cdC\u00cd: Co m\u00e1m d\u011blat ?!
+POS\u00c1DKA: P\u0159eprogramoval jsem fabrik\u00e1tor, sta\u010d\u00ed dodat materi\u00e1ly!
+FABRIK\u00c1TOR: Vyroben antiradia\u010dn\u00ed oblek.
+CESTUJ\u00cdC\u00cd: \u0158\u00edk\u00e1 to, \u017ee je nedostatek materi\u00e1l\u016f pro druh\u00fd.
+POS\u00c1DKA: Je to v\u0161echno, co se dalo naj\u00edt. Bude\u0161 si ho muset vz\u00edt.
+CESTUJ\u00cdC\u00cd: Aby bylo jasno, ty chce\u0161, abych t\u011b tu nechal?
+POS\u00c1DKA: Ka\u0161li na m\u011b! Najdi d\u016fstojn\u00edka Keena na sou\u0159adnic\u00edch a po\u0161lete n\u011bkoho zp\u00e1tky s anti-radia\u010dn\u00edmi l\u00e9ky, ty neschopn\u00fd, nevd\u011b\u010d-
+CESTUJ\u00cdC\u00cd: No, jestli to je tv\u00e9 rozhodnu-
+POS\u00c1DKA: * Siln\u00fd ka\u0161el *
+CESTUJ\u00cdC\u00cd: OK, OK, u\u017e jdu!
+* Poklop otev\u0159en *
+POS\u00c1DKA: A vyhni se z\u00f3n\u011b dopadu,pro p\u0159\u00edpad, \u017ee pohonn\u00e9 j\u00e1dro vybuchne!",
+    "Ency_LifepodCTODialog1": "CTO Voicelog #1",
+    "EncyDesc_LifepodCTODialog1": "CTO: We're sinking! The flotation devices must have failed!
+TECHNICIAN: Should we evacuate?!
+CTO: No! The seafloor shouldn't be more than a couple hundred meters down. We're safer in here than out there.
+TECHNICIAN: There's water coming in!
+CTO: Wait, I can reconfigure the O2 system to act as a bilge!
+TECHNICIAN: It's working!
+*Crash*
+CTO: You okay?!
+TECHNICIAN: I think so...
+CTO: OK, good news or bad?
+TECHNICIAN: Good.
+CTO: We're alive, and we've stopped sinking.
+TECHNICIAN: Bad?
+CTO: The O2's going to run out in 30 minutes!
+TECHNICIAN: Frack! What do we do?
+CTO: Let me think.",
+    "Ency_LifepodCTODialog2": "CTO Voicelog #2",
+    "EncyDesc_LifepodCTODialog2": "*Sound of water inside the lifepod*
+CTO: According to these pressure readings we've sunk more than 400m.
+TECHNICIAN: So let's just build a flotation device, or a seaglide, and make for the surface.
+CTO: We'll never make it without air tanks. It's too far.
+TECHNICIAN: *Spluttering* I don't want to pressure you, but my feet aren't touching the floor anymore.
+CTO: I've got it! There's another lifepod nearby, a hundred meters from here. If we can make it there, we can resupply our O2 tanks then head for the surface!
+TECHNICIAN: What if that pod's screwed too?!
+CTO: Then we're screwed too, but no more than we are already!
+TECHNICIAN: I'm ready.",
+    "Ency_LifepodCTOLog1": "CTO Log #1",
+    "EncyDesc_LifepodCTOLog1": "Entry 1
+Screw this planet! Technician Berkeley and I were forced to abandon our lifepod when it hit the ocean floor. We swam for this pod, but Berkeley ran out of air on the way here. And I don't know how, but we're not in open water. There's no natural light here. There's a roof overhead, and no obvious way out. Lifepod must have rolled down into a cave system of some kind. Might be I can use a dive reel and compass to chart a way out. Might be I'm going to breathe my last down here.
+
+Entry 2
+Two hours since the first pod sunk. I've tried exploring the area. There's no air pockets. No overhead exit. If I had plasteel I could build an air tank, a submersible, anything! But as it is I can only explore so far before I'm forced back to this lifepod. I have to find another way.
+
+Entry 3
+I've managed to cobble together a rebreather and explore a bit further. I've found an incline heading up. Not clear whether it's part of the cave wall, or the way out. One way to know for sure.
+
+Entry 4
+Daylight! It was definitely daylight, I'm sure of it. I swam as far as I could. Next time I have to go past the point of no return and take my chances. If any rescue party finds this, please retrieve Berkeley's body, if the fish don't get to it first. I will now attempt to make it to the surface and regroup with Keen and anyone else that made it. 
+
+- Chief Technical Officer Yu",
+    "Ency_LifepodCTOLog2": "CTO Log #2",
+    "EncyDesc_LifepodCTOLog2": "This beacon marks the beginning of a major cave system. Strong currents dragged our lifepod down. Do not pass this point for fear of death.
+
+- Chief Technical Officer Yu",
+    "MapRoomCameraNoSignal": "NEN\u00cd SIGN\u00c1L",
+    "MapRoomCamera": "Kamerov\u00fd dron",
+    "Tooltip_MapRoomCamera": "Ovl\u00e1dateln\u00e1 kamera",
+    "Presentation": "Zobrazen\u00ed",
+    "Quality": "Kvalita",
+    "VRRenderScale": "VR render scale",
+    "Apply": "Pou\u017e\u00edt",
+    "HorizontalSensitivity": "Horizont\u00e1ln\u00ed citlivost",
+    "VerticalSensitivity": "Vertik\u00e1ln\u00ed citlivost",
+    "InvertLook": "Obr\u00e1tit osu y",
+    "EnableController": "Povolit ovlada\u010d",
+    "ResetToDefault": "P\u016fvodn\u00ed nastaven\u00ed",
+    "Deconstruct": "Rozebrat",
+    "Construct": "Postavit",
+    "CyclopsWelcomeNoPower": "Cyclop: Pozor: Nouzov\u00fd zdroj energie. Produkce vzduchu nen\u00ed v provozu.",
+    "AssignQuickSlot": "p\u0159i\u0159adit rychl\u00fd slot",
+    "Eat": "j\u00edst",
+    "Use": "pou\u017e\u00edt",
+    "Place": "polo\u017eit",
+    "Drop": "zahodit",
+    "SwitchContainer": "p\u0159esunout",
+    "SeamothWelcomeNoPower": "Seamoth: Pozor: Nouzov\u00fd zdroj energie. Produkce vzduchu nen\u00ed v provozu.",
+    "BaseWelcomeNoPower": "Z\u00e1kladna: Pozor: Nouzov\u00fd zdroj energie. Produkce vzduchu nen\u00ed v provozu.",
+    "MapRoomCameraConnecting": "P\u0158IPOJUJI",
+    "StarshipChair2": "Chair 2",
+    "StarshipChair3": "Chair 3",
+    "Tooltip_StarshipChair2": "Surprisingly comfy.",
+    "Tooltip_StarshipChair3": "Surprisingly comfy.",
+    "1": "2"
+}
