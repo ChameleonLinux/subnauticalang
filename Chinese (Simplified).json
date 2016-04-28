@@ -303,7 +303,7 @@
     "Tooltip_SmallStorage": "4x4\u7684\u5b58\u50a8\u7a7a\u95f4,\u53ef\u4ee5\u653e\u7f6e\u6f02\u6d6e\u5728\u6c34\u4e2d\u800c\u4e14\u4e0d\u4f1a\u8fdb\u6c34",
     "Tooltip_StalkerTooth": "\u4e00\u4e2a\u9510\u5229\u7684\uff0c\u786c\u5316\u7684\u9499\u8d28\u6784\u9020\u3002",
     "Tooltip_StasisRifle": "\u901a\u8fc7\u6539\u53d8\u78c1\u573a\u4f7f\u7269\u4f53\u5728\u4e00\u6bb5\u65f6\u95f4\u5185\u5904\u4e8e\u505c\u6ede\u72b6\u6001",
-    "Tooltip_Tank": "\u6df7\u5408\u6c27\u6c14\u3002\u53ef\u4f9b\u547c\u5438 30\u79d2 \u7684\u6c14\u4f53\u3002",
+    "Tooltip_Tank": "O\u00b2 mix. 60 seconds of breathable air.",
     "Tooltip_Terraformer": "\u6539\u9020\u5730\u5f62\u7ed3\u6784,\u8ba9\u5b83\u66f4\u9002\u5408\u4f60\u7684\u8981\u6c42",
     "Tooltip_Thermometer": "\u6e29\u5ea6\u663e\u793a\u5668",
     "Tooltip_Titanium": "\u949b\uff0c\u6700\u5e38\u7528\u7684\u5efa\u7b51\u6750\u6599",
@@ -381,7 +381,7 @@
     "Tooltip_BaseWindow": "\u73bb\u7483\u7a97\u6237,\u4e5f\u8ba9\u4f60\u7684\u57fa\u5730\u66f4\u5177\u89c2\u8d4f\u6027 (-1HP)",
     "Tooltip_PowerGenerator": "\u5efa\u7acb\u5728\u5730\u57fa\u4e0a",
     "GhostModelRotateInput": "\u9f20\u6807\u6ed1\u8f6e\u65cb\u8f6c",
-    "WarningUnsafeDepth": "\u8b66\u544a\uff1a\u8fbe\u5230\u5b89\u5168\u6df1\u5ea6{0}\u7c73 \u51fa\u73b0\u78b0\u649e\u5c06\u4f1a\u9020\u6210\u8239\u4f53\u53d7\u635f",
+    "WarningUnsafeDepth": "WARNING: Passing safe depth of {0} meters. Approaching crush depth.",
     "WarningCrushDepth": "\u8b66\u544a\uff1a\u63a5\u8fd1\u6324\u538b\u635f\u574f\u6df1\u5ea6{0}\u7c73 \u8239\u4f53\u5c06\u4f1a\u635f\u574f \u63d0\u5347",
     "SafeDepthNow": "\u5b89\u5168\u6df1\u5ea6 {0} \u7c73",
     "CrushDepthNow": "\u53ef\u627f\u53d7\u6324\u538b\u6df1\u5ea6 {0} \u7c73",
@@ -453,7 +453,7 @@
     "ReefbackAdvancedStructure": "\u9f9f\u7c7b\u7ed3\u6784",
     "Tooltip_ReefbackAdvancedStructure": "\u8be6\u7ec6\u5206\u6790\u5185\u90e8\u8fd0\u4f5c\u7ed3\u6784\u540e\u53d1\u73b0\u8fd9\u79cd\u5148\u8fdb\u7684\u9f9f\u7c7b\u7ed3\u6784\u53ef\u4ee5\u8fdb\u4e00\u6b65\u52a0\u5f3a\u8239\u4f53\u5f3a\u5ea6",
     "HullReinforcementModule2": "\u72ec\u773c\u5de8\u4eba\u53f7\u8239\u4f53\u5916\u58f3\u5f3a\u5316\u6a21\u5757",
-    "Tooltip_HullReinforcementModule2": "\u8239\u4f53\u5916\u58f3\u5f3a\u5316\u6a21\u5757\u91c7\u7528\u6697\u7901\u9c7c\u5148\u8fdb\u7684\u8f6f\u9aa8\u5916\u58f3\u7ed3\u6784",
+    "Tooltip_HullReinforcementModule2": "Hull reinforcement module built using an interwoven nanite structure",
     "HullReinforcementModule3": "\u72ec\u773c\u5de8\u4eba\u53f7\u9f9f\u7ed3\u6784\u8239\u4f53\u5f3a\u5316\u6a21\u5757",
     "Tooltip_HullReinforcementModule3": "\u9f9f\u7c7b\u7ed3\u6784\u8239\u4f53\u5f3a\u5316\u6a21\u5757\u91c7\u7528\u4e86\u6697\u7901\u9c7c\u5148\u8fdb\u7684\u9f9f\u7c7b\u7ed3\u6784",
     "ReefbackEgg": "\u6697\u7901\u9c7c\u7684\u5375",
@@ -462,7 +462,7 @@
     "UpgradeConsole": "\u8bbf\u95ee\u5347\u7ea7\u63a7\u5236\u53f0",
     "PowerRatingNow": "\u7535\u6e90\u6548\u7387 {0}",
     "RadiationFixed": "\u6240\u6709\u7684\u6cc4\u6f0f\u8f90\u5c04\u5df2\u6d88\u6563 \u4f30\u8ba1\u65f6\u95f4\uff1a3\u5929\u540e\u6d88\u5931 \u91cd\u65b0\u5c1d\u8bd5\u4e0b\u8f7d\u6781\u5149\u53f7\u9ed1\u5323\u5b50\u6570\u636e \u9047\u5230\u5e72\u6270 \u4fee\u6b63\u4e2d...\u4e0b\u8f7d...\u5b8c\u6210...",
-    "RemainingRadiationLeaks": "{0} \u5269\u4f59\u6cc4\u6f0f\u7684\u8f90\u5c04",
+    "RemainingRadiationLeaks": "Radiation leaks remaining: {0}",
     "HardcoreGameOver": "\u4f60\u6302\u4e86\uff0c\u6e38\u620f\u7ed3\u675f\uff01",
     "WorldArrow_AttackBleeder": "Attack",
     "EscToSkip": "Hold ESC to skip",
@@ -1114,14 +1114,14 @@
 
 \u6ce8\u610f\uff1a\u6b64\u4fe1\u606f\u4ec5\u4f5c\u4e3a\u4e00\u4efd\u901a\u7528\u6307\u5357\u3002\u5728\u7b2c\u4e00\u79cd\u60c5\u51b5\u4e0b\uff0c\u4f60\u5e94\u8be5\u59cb\u7ec8\u9075\u5faa\u4f60\u7684PDA\uff0c\u5b83\u6839\u636e\u60a8\u7684\u5177\u4f53\u60c5\u51b5\u8003\u8651\u5f97\u51fa\u5efa\u8bae\u3002",
     "Ency_AuroraOverview": "\u6781\u5149\u53f7\u91c7\u77ff\u8239\u6982\u8ff0",
-    "EncyDesc_AuroraOverview": "\u4f7f\u547d\uff1a3\u5e74\u7684\u63a2\u7d22\u6027\u91c7\u77ff\u4f5c\u4e1a
-\u8239\u5458\uff1a\u6307\u6325\u7ec4\uff0811\uff09,\u5de5\u7a0b\u7ec4\uff0857\uff09,\u652f\u63f4\u7ec4\uff0830\uff09,\u4e58\u5ba2\uff083\uff09
+    "EncyDesc_AuroraOverview": "Mission: 3 year exploratory mining operation
+Crew: Command Team (11), Engineering Team (57), Support Crew (30), Passengers (3)
 
-\u914d\u5957\u8bbe\u65bd\uff1a
-\u6697\u7269\u8d28\u79bb\u5b50\u9a71\u52a8\u7684V8\u5f15\u64ce
-\u4e00\u7ea7\u8bbe\u65bd\u5de5\u7a0b (\u4e3b\u8981\u5305\u62ec\u521d\u7ea7\u6d41\u661f\u7834\u788e\u673a,\u53ef\u4ee5\u8f7d\u4eba\u7684\u673a\u5668\u4eba\u5957\u4ef6\u548c\u5168\u65b9\u4f4d\u626b\u63cf\u88c5\u7f6e)
-0.25\u7acb\u65b9\u7c73\u7684\u8d44\u6e90\u50a8\u5907
-\u5c45\u4f4f\u533a\u91c7\u7528C+\u7ea7\u4f11\u95f2\u914d\u5957\u8bbe\u65bd",
+Facilities:
+- Dark-matter ion drive V8
+- Engineering section with A Grade facilities (incl primary meteor cracker, manned robotics suite and full scanner range)
+- 0.25 cubic kilometers storage for mined resources
+- Habitation section with C+ Grade leisure facilities.",
     "Ency_AEPSuit": "\u5168\u73af\u5883\u4fdd\u62a4\u670d",
     "EncyDesc_AEPSuit": "\u963f\u5c14\u7279\u62c9AEP\u7684\u5957\u88c5:\u63a2\u7d22\u65e0\u9650\u7684\u5371\u9669\u5b87\u5b99\u552f\u4e00\u89e3\u51b3\u65b9\u6848
 
@@ -1716,7 +1716,6 @@ NOTE: This screen may take some minutes to load and may look as if it has crashe
     "ConstructorFragment": "\u8230\u8239\u5efa\u9020\u53f0\u788e\u7247",
     "PowerTransmitterFragment": "\u80fd\u6e90\u5ef6\u4f38\u5668\u788e\u7247",
     "RadioFragment": "\u65e0\u7ebf\u7535\u788e\u7247",
-    "ScannerRoomFragment": "\u626b\u63cf\u5ba4\u788e\u7247",
     "SeaglideFragment": "\u6c34\u4e0b\u63a8\u8fdb\u5668\u788e\u7247",
     "SolarPanelFragment": "\u592a\u9633\u80fd\u7535\u6c60\u677f\u788e\u7247",
     "SpecimenAnalyzerFragment": "\u6807\u672c\u5206\u6790\u4eea\u788e\u7247",
@@ -1882,7 +1881,7 @@ Age at time of disappearance: 19
     - Beneficiary of enhanced learning techniques and cerebral implants
     - Digi-trained in advanced biochemistry and stellar economics
     - Mongolian emissary Khasar reports Baat was accompanying his father, Paal, to a newly constructed space station where he was to serve a five year term as Chief Operating Officer",
-    "Ency_MargueritMaidaBio": "Search & Rescue: Paal Torgal",
+    "Ency_MargueritMaidaBio": "Search & Rescue: Marguerit Maida",
     "EncyDesc_MargueritMaidaBio": "SENIOR PERSONNEL ONLY
 
 Auxiliary Search & Rescue Target: Marguerit Maida
@@ -1913,7 +1912,7 @@ The launch ceremony proceeded with the usual fanfare...",
 We constructed a habitat using materials reclaimed from the ship. We survived by cultivating indigenous flora. The biochemistry imprint I commissioned for my son has already paid for itself. He has grown enough food to last us a month.
 
 Now I fear for our safety. A mercenary I hired for the journey, Marguerit Maida, is increasingly disturbed. She insists we abandon this site and establish a habitat underwater. I fear she may take steps to sabotage our habitat here to enforce her own agenda. Nonetheless, and against my better judgement, I have acquiesced to her request to scout for a suitable aquatic site. My hope is she will quickly realize how unforgiving the ocean is, and abandon this foolish ambition.",
-    "Ency_IslandsPDABase1a": "Baat Torgal's Log #6?",
+    "Ency_IslandsPDABase1a": "Baat Torgal's Log #6",
     "EncyDesc_IslandsPDABase1a": "I messed up. Real bad this time.  It's been two days since what happened. We never should have left this island. I shouldn't have listened to them. We shouldn't have gone so deep. They don't want us down there. They don't trust us. I knew it and I didn't say. I could see it, and they couldn't, and now they're stuck down there, and I'm up here, alone. I deserve this.",
     "Ency_IslandsPDABase1bDesk": "Degasi Voice Log #1",
     "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT: It won't work, Chief. We salvaged enough scrap from the Degasi for, what, a couple of observatories?
@@ -2028,13 +2027,13 @@ MARGUERIT: How bad can it be if everything's got it?
 BAAT: The local lifeforms must have developed coping mechanisms. We haven't.
 PAAL: Yet. You have my full faith, son, that you'll figure this out for us.
 MARGUERIT: Tell me what you need, kid.",
-    "BaseMapRoomFragment": "Scanner Room Blueprint",
+    "BaseMapRoomFragment": "Scanner room fragment",
     "BaseMapRoom": "Scanner room",
     "Tooltip_BaseMapRoom": "Scanner Room",
     "RecipeUnlocked": "{0} recipe unlocked",
     "TechTypeUnlocked": "{0} unlocked",
     "MapRoomCameraInfo": "Camera {0}",
-    "MapRoomCameraControls": "Press mouse buttons to cycle between cameras",
+    "MapRoomCameraControls": "Use {0} and {1} to cycle cameras",
     "MapRoomCameraDistance": "DISTANCE: {0}",
     "MapRoomCameraDepth": "DEPTH: {0}",
     "EncyPath_DownloadedData\/Lifepods": "Lifepods",
@@ -2197,5 +2196,40 @@ Daylight! It was definitely daylight, I'm sure of it. I swam as far as I could. 
     "StarshipChair3": "Chair 3",
     "Tooltip_StarshipChair2": "Surprisingly comfy.",
     "Tooltip_StarshipChair3": "Surprisingly comfy.",
+    "UseMapRoomFabricator": "Use fabricator",
+    "MapRoomUpgrades": "Scanner room upgrades",
+    "MapRoomHUDChip": "Scanner room HUD chip",
+    "Tooltip_MapRoomHUDChip": "Streams data from scanner rooms to the HUD",
+    "MapRoomUpgradeScanRange": "Scanner room range upgrade",
+    "MapRoomUpgradeScanSpeed": "Scanner room speed upgrade",
+    "Tooltip_MapRoomUpgradeScanRange": "",
+    "Tooltip_MapRoomUpgradeScanSpeed": "",
+    "FireExtinguisher": "Fire Extinguisher",
+    "DamagedSavedGame": "<color='#000000FF'>Damaged saved game<\/color>",
+    "MapRoomCameraInfoScreen": "CAMERA {0}",
+    "ControlCamera": "Control camera",
+    "MapRoomScanningText": "SCANNING",
+    "BindQuickSlot": "bind quick slot",
+    "Equip": "equip",
+    "Unequip": "unequip",
+    "CyclopsHullModule1": "Cyclops pressure compensator",
+    "Tooltip_CyclopsHullModule1": "Rearranges the submarine hull's atomic structure to increase safe diving depth.",
+    "CyclopsHullModule2": "Ultra hull reinforcement module",
+    "Tooltip_CyclopsHullModule2": "Rearranges the submarine hull's atomic structure to increase safe diving depth by extreme amounts.",
+    "WorkbenchMenu_CyclopsMenu": "Cyclops Upgrades",
+    "CyclopsLightingToggle": "Toggle Internal Lighting On\/Off",
+    "CyclopsPowerToggle": "Toggle Cyclops Power On\/Off",
+    "CyclopsFloodlightsToggle": "Toggle External Floodlights On\/Off",
+    "SeamothHullModule1": "Seamoth pressure compensator mark 1",
+    "Tooltip_SeamothHullModule1": "Hardens the Seamoth chassis under high pressures.",
+    "SeamothHullModule2": "Seamoth pressure compensator mark 2",
+    "Tooltip_SeamothHullModule2": "Hardens the Seamoth chassis under extreme pressures.",
+    "SeamothHullModule3": "Seamoth pressure compensator mark 3",
+    "Tooltip_SeamothHullModule3": "Hardens the Seamoth chassis under the planet's deepest pressures.",
+    "SeamothDepthWarning": "WARNING! Seamoth is below its current crush depth!",
+    "UraniniteCrystal": "Uraninite crystal",
+    "ReactorRod": "Reactor rod",
+    "Tooltip_ReactorRod": "Used to power nuclear reactors.",
+    "Tooltip_UraniniteCrystal": "A highly radioactive and interesting mineral.",
     "1": "2"
 }

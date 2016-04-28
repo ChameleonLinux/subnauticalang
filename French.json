@@ -19,7 +19,7 @@
     "InventoryFull": "Inventaire plein",
     "RadiationDetected": "RADIATIONS D\u00c9TECT\u00c9ES",
     "Quartz": "Quartz",
-    "ScrapMetal": "D\u00e9bris m\u00e9talliques ",
+    "ScrapMetal": "D\u00e9bris m\u00e9talliques",
     "Limestone": "Affleurement de calcaire",
     "Copper": "Minerai de cuivre",
     "CopperWire": "Fil de cuivre",
@@ -94,7 +94,7 @@
     "PropulsionCannon": "Canon \u00e0 propulsion",
     "SandLoot": "Sable",
     "Signal": "Signal",
-    "BallClusters": "Treespawn",
+    "BallClusters": "Pousse d'arbre",
     "BarnacleSuckers": "Sangsue v\u00e9g\u00e9tale ",
     "BlueBarnacle": "Bernacle bleue",
     "BlueBarnacleCluster": "Grappe de bernacles bleues",
@@ -119,8 +119,8 @@
     "PurpleTentacle": "Mauvaise herbe putride ",
     "RedSeaweed": "Algue rouge",
     "CoralShellPlate": "Plaque de coquille corallien ",
-    "SmallFan": "Pygmy fan",
-    "SmallFanCluster": "Pygmy fan cluster",
+    "SmallFan": "\u00c9ventail pygm\u00e9e",
+    "SmallFanCluster": "Bosquet d'\u00e9ventails pygm\u00e9es",
     "BigCoralTubes": "Tubes de corail g\u00e9ants ",
     "TreeMushroom": "Arbre Champignon",
     "BlueCluster": "Grue cluster",
@@ -304,7 +304,7 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "Tooltip_SmallStorage": "Stockage 4x4 immobile dans l'eau.",
     "Tooltip_StalkerTooth": "Pointu, form\u00e9 de calcium durci",
     "Tooltip_StasisRifle": "G\u00e8le les objets physiques.",
-    "Tooltip_Tank": "O\u00b2 mix. 30 secondes d'air respirable.",
+    "Tooltip_Tank": "M\u00e9lange d'O\u00b2. 60 secondes avant de manquer d'air.",
     "Tooltip_Terraformer": "Alt\u00e8re de mani\u00e8re simple le terrain.",
     "Tooltip_Thermometer": "Capteur de temp\u00e9rature.",
     "Tooltip_Titanium": "Ti. Mat\u00e9riau de construction de base.",
@@ -381,13 +381,13 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "Tooltip_BaseWall": "S\u00e9pare une salle",
     "Tooltip_BaseWindow": "Fen\u00eatre d'observation (-1HP)",
     "Tooltip_PowerGenerator": "A construire sur une fondation pour alimenter la base",
-    "GhostModelRotateInput": "Utilisez la molette pour orienter",
-    "WarningUnsafeDepth": "ATTENTION : Profondeur de s\u00e9curit\u00e9 de {0} m\u00e8tres d\u00e9pass\u00e9e. Toute collision endommagera la coque.",
-    "WarningCrushDepth": "ATTENTION: Vous approchez de la profondeur {0}. La coque risque de subir des d\u00e9g\u00e2ts ! Remontez vite !",
+    "GhostModelRotateInput": "Utilisez la molette pour pivoter",
+    "WarningUnsafeDepth": "ATTENTION : Vous avez d\u00e9pass\u00e9 la profondeur de s\u00e9curit\u00e9 de {0} m\u00e8tres. Profondeur maximale imminente.",
+    "WarningCrushDepth": "ATTENTION : Profondeur maximale de {0} m\u00e8tres imminente. La coque risque de subir des d\u00e9g\u00e2ts ! Remontez vite !",
     "SafeDepthNow": "Nouvelle profondeur de s\u00e9curit\u00e9 : {0} m\u00e8tres ",
     "CrushDepthNow": "Nouvelle profondeur critique : {0} m\u00e8tres",
-    "NewLeakDetected": "D\u00e9g\u00e2ts de coque d\u00e9tect\u00e9s ! {0} br\u00e8che majeure, {1} mineure. ",
-    "LeakWelded": "Soudure achev\u00e9e. {0} br\u00e8che majeure et {1} mineure restante.",
+    "NewLeakDetected": "D\u00e9g\u00e2ts de coque d\u00e9tect\u00e9s ! {0} br\u00e8che(s), {1} mineure(s).",
+    "LeakWelded": "Soudure achev\u00e9e. {0} br\u00e8che(s) et {1} mineure(s) restante(s).",
     "HullRestored": "Int\u00e9grit\u00e9 de la coque restaur\u00e9e. Syst\u00e8me de drainage enclench\u00e9.",
     "AimCloserToGround": "Approchez-vous d'une surface et visez-la.",
     "DiveReelUsage": "Clic droit pour fixer l'ancre au sol. Puis nagez.",
@@ -401,7 +401,7 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "CaveEntrance": "Ouverture de grotte possible",
     "HeatSignature": "Signature thermique",
     "HatchExitBlocked": "L'\u00e9coutille est bloqu\u00e9e !",
-    "RotateCorridorHint": "Rotate",
+    "RotateCorridorHint": "Pivoter",
     "Lead": "Plaque de plomb",
     "Magnesium": "Magn\u00e9sium",
     "NutrientBlock": "Bloc de nutriments",
@@ -412,7 +412,7 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "RadiationHelmet": "Casque anti-radiation",
     "RadiationGloves": "Gants anti-radiations",
     "HullReinforcementModule": "Balance de pression pour Cyclops ",
-    "Tooltip_HullReinforcementModule": "R\u00e9organise la structure atomique de la coque sous-marine afin d'augmenter en toute s\u00e9curit\u00e9 la profondeur de plong\u00e9e",
+    "Tooltip_HullReinforcementModule": "R\u00e9organise la structure atomique de la coque du sous-marin afin d'augmenter en toute s\u00e9curit\u00e9 la profondeur de plong\u00e9e",
     "PowerUpgradeModule": "Module d'am\u00e9lioration de rendement \u00e9nerg\u00e9tique ",
     "Tooltip_PowerUpgradeModule": "Recycle la chaleur d\u00e9riv\u00e9e pour augmenter l'efficacit\u00e9 du moteur de 15%.",
     "SpecimenAnalyzerBlueprint": "Sch\u00e9ma d'analyseur de sp\u00e9cimen",
@@ -454,7 +454,7 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "ReefbackAdvancedStructure": "Carcasse d'oeuf de Chelonian",
     "Tooltip_ReefbackAdvancedStructure": "L'analyse du fonctionnement interne de la structure de la coque avanc\u00e9e peut permettre un \u00e9ventuel renforcement structurel.",
     "HullReinforcementModule2": "Module de renforcement de coque",
-    "Tooltip_HullReinforcementModule2": "Module de renforcement de coque construit gr\u00e2ce \u00e0 la carapace d'un Reefback",
+    "Tooltip_HullReinforcementModule2": "Module de renforcement de coque construit en utilisant une structure de nanite imbriqu\u00e9e.",
     "HullReinforcementModule3": "Module de renfort de coque Chelonian",
     "Tooltip_HullReinforcementModule3": "Module de renforcement de la coque. Construit \u00e0 l'aide d'AFN de Reefback et de carcasse d'\u0153uf de chelonian.",
     "ReefbackEgg": "\u0152uf de Reefback",
@@ -463,7 +463,7 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "UpgradeConsole": "Acc\u00e8s am\u00e9liorations",
     "PowerRatingNow": "Rendement \u00e9nerg\u00e9tique actuel {0}  ",
     "RadiationFixed": "Noyau principal endommag\u00e9. Dissipation totales des radiations d'ici 3 jours. Tentative de t\u00e9l\u00e9chargement de la boite noire de l'Aurora. Rencontre des interf\u00e9rences.",
-    "RemainingRadiationLeaks": "{0} br\u00e8che(s) de radiation restante(s)",
+    "RemainingRadiationLeaks": "Fuites de radiation restantes : {0}",
     "HardcoreGameOver": "Vous \u00eates mort. Partie termin\u00e9e.",
     "WorldArrow_AttackBleeder": "Attaquer ",
     "EscToSkip": "Maintenez \u00c9chap pour quitter",
@@ -495,7 +495,7 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "CuredOculus": "Oculus ass\u00e9ch\u00e9",
     "Decomposing": "Vieux",
     "Ripe": "En d\u00e9composition",
-    "Rotting": "Pourri",
+    "Rotting": "[Pourri]",
     "CookedFood": "Nourriture cuisin\u00e9e",
     "CuredFood": "Nourriture b\u00e9n\u00e9fique",
     "Tooltip_CuredBladderfish": "Impression \u00e9trange de mouvement.",
@@ -530,7 +530,7 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "Tooltip_UltraGlideFins": "Vitesse de natation augment\u00e9e",
     "Tooltip_SwimChargeFins": "Recharge votre \u00e9quipement pendant que vous nagez",
     "Tooltip_RepulsionCannon": "Applique une force aux objets",
-    "Tooltip_Stillsuit": "Recycle l'humidit\u00e9 du corps",
+    "Tooltip_Stillsuit": "Recycle l'humidit\u00e9 du corps.",
     "Tooltip_PowerGlide": "Clic-droit pour activer une surtension",
     "SecsO2": "{0}s",
     "Empty": "vide",
@@ -681,7 +681,7 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "Tooltip_Uranium": "U. Utile en mati\u00e8re de fission nucl\u00e9aire.",
     "PowerTransmitter": "Transmetteur de puissance ",
     "Accumulator": "Accumulateur",
-    "Bioreactor": "Bior\u00e9acteur ",
+    "Bioreactor": "Bior\u00e9acteur",
     "ThermalPlant": "Centrale thermique",
     "NuclearReactor": "R\u00e9acteur nucl\u00e9aire",
     "PowerCellStatus": "PUISSANCE : {0}\/{1} ",
@@ -706,7 +706,7 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "Tooltip_DioramaHullPlate": "Une plaque comm\u00e9morative sp\u00e9ciale en l'honneur d'un unique diorama.",
     "OpenPercent": "POURCENTAGE D'OUVERTURE : {0}% ",
     "LaserCutter": "Cutter laser",
-    "Tooltip_LaserCutter": "Permet d'ouvrir certaines choses",
+    "Tooltip_LaserCutter": "Permet d'ouvrir certaines choses.",
     "Sealed_SupplyCrate": "Caisse de ressources scell\u00e9e",
     "Sealed": "Scell\u00e9",
     "SealedInstructions": "Couper \u00e0 travers pour p\u00e9n\u00e9trer",
@@ -725,7 +725,7 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "Aerogel": "A\u00e9rogel",
     "AluminumOxide": "Cristal d'oxyde d'aluminium",
     "AminoAcids": "Acides amin\u00e9s",
-    "AramidFibers": "Fibres synth\u00e9tiques ",
+    "AramidFibers": "Fibres synth\u00e9tiques",
     "Benzene": "Benz\u00e8ne",
     "BloodOil": "Huile de sang ",
     "BloodRoot": "Racine de sang",
@@ -743,7 +743,7 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "Tooltip_Aerogel": "L\u00e9ger, poreux, gel s\u00e9ch\u00e9. Haute isolation thermique.",
     "Tooltip_AluminumOxide": "Al\u00b2O\u00b3. Thermo-conductivit\u00e9 et \u00e9lectro-conductance notables.",
     "Tooltip_AminoAcids": "Prot\u00e9ines et bloc de construction de neurotransmetteur.",
-    "Tooltip_AramidFibers": "Fibres synth\u00e9tiques \u00e0 hautement r\u00e9sistantes",
+    "Tooltip_AramidFibers": "Fibres synth\u00e9tiques hautement r\u00e9sistantes",
     "Tooltip_Benzene": "C\u2076H\u2076. P\u00e9trole et applications pour solvants.",
     "Tooltip_BloodOil": "Substance gluante grasse",
     "Tooltip_BloodRoot": "Une racine rouge\u00e2tre",
@@ -762,7 +762,7 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "Tooltip_BaseBulkhead": "Soutien structurel pouvant \u00e9galement stopper le d\u00e9bit d'eau (+2HP)",
     "OpenLocker": "Ouvrir l'armoire ",
     "Lubricant": "Lubrifiant",
-    "CreepvineSeedCluster": "Graines de Vigne d'Orin",
+    "CreepvineSeedCluster": "Graine de Vigne d'Orin",
     "Tooltip_CreepvineSeedCluster": "Semences indig\u00e8nes \u00e0 forte teneur en huile.",
     "Tooltip_Lubricant": "Lubrifiant \u00e0 base d'huile d'origine naturelle. A utilisations industrielles.",
     "SeamothReinforcementModule": "Balance de pression pour Seamoth",
@@ -908,7 +908,7 @@ Sch\u00e9ma de Balance de Pression pour Cyclops",
     "BaseFiltrationMachine": "Appareil de filtration de l'eau",
     "Tooltip_BasePlanter": "Feuillage mural. Purement d\u00e9coratif.",
     "Tooltip_BaseFiltrationMachine": "S\u00e9pare l'eau et le sel",
-    "Story_AuroraWarning3": "Avertissement. L'examen des radiations locales indique des caract\u00e9ristiques similaires \u00e0 la d\u00e9t\u00e9rioration totale de la mati\u00e8re noire du noyau principal de l'Aurora. Une d\u00e9tonation quantique risque de se produire avec une probabilit\u00e9 de 85.5%. Nous vous conseillons de maintenir un seuil de s\u00e9curit\u00e9 de 1km.",
+    "Story_AuroraWarning3": "Avertissement. L'examen des radiations locales indique des caract\u00e9ristiques similaires \u00e0 la d\u00e9t\u00e9rioration totale de la mati\u00e8re noire du noyau principal de l'Aurora. Une d\u00e9tonation quantique risque de se produire avec une probabilit\u00e9 de 85.5%. Nous vous conseillons de maintenir un seuil de s\u00e9curit\u00e9 de 1 km.",
     "Story_AuroraWarning2": "Attention. La d\u00e9t\u00e9rioration continue du noyau principal de l'Aurora risque de provoquer une d\u00e9tonation quantique. En cas de br\u00e8che du noyau principal, les risques de mort par exposition \u00e0 des mat\u00e9riaux radioactifs du site du crash augmenteront de 37%.",
     "Story_AuroraWarning1": "D\u00e9tection des niveaux de radiations locales mise \u00e0 jour. Constatation d'une \u00e9volution coh\u00e9rente en lien avec la d\u00e9t\u00e9rioration continue de la mati\u00e8re noire du noyau principal du Vaisseau Minier Aurora, en raison des dommages subis durant l'impact. Reprise de la surveillance.",
     "TabEncyclopedia": "Banque de donn\u00e9es",
@@ -963,7 +963,7 @@ Conseil : Evitez les nuages de sable suspects",
     "ScannerInstanceScanned": "{0} num\u00e9ris\u00e9. Progression : {1}% ({2}\/{3})",
     "ScannerRedundantScanned": "Fragment redondant num\u00e9ris\u00e9.",
     "ScannerInstanceKnown": "Cette instance d'entit\u00e9 a d\u00e9j\u00e0 \u00e9t\u00e9 num\u00e9ris\u00e9e. Trouvez-en une autre pour terminer la recherche.",
-    "ScannerEntityKnown": "Entit\u00e9 '{0} d\u00e9j\u00e0 connue. Num\u00e9risation inutile.",
+    "ScannerEntityKnown": "Entit\u00e9 '{0}' d\u00e9j\u00e0 connue. Num\u00e9risation inutile.",
     "EncyclopediaEntryUnlocked": "{0} entr\u00e9e(s) ajout\u00e9e(s) dans l'encyclop\u00e9die",
     "Scanner": "Scanner",
     "PropulsionCannonBlueprint": "Sch\u00e9ma de canon \u00e0 propulsion",
@@ -1045,10 +1045,8 @@ Conseil : Evitez les nuages de sable suspects",
     "Goal_CookedGarryfish": "S'il est normal d'\u00eatre repouss\u00e9 par la pens\u00e9e de manger un animal mort, il est aussi pr\u00e9f\u00e9rable de se rappeler que les hommes ont surv\u00e9cu de mani\u00e8re ad\u00e9quate sans aliments synth\u00e9tiques pendant de nombreuses ann\u00e9es. Vous pouvez r\u00e9ussir vous aussi.",
     "Goal_CookedHoverfish": "Si vous \u00eates habitu\u00e9s \u00e0 des aliments plut\u00f4t conventionnels, vous devriez envisager de d\u00e9guiser la saveur des viandes indig\u00e8nes, gr\u00e2ce \u00e0 des herbes ou \u00e9pices d'origine locale.",
     "Goal_PurifiedWater": "Pr\u00e9parer votre ration d'eau de la journ\u00e9e, en avance, vous aidera \u00e0 faire face \u00e0 la d\u00e9shydratation et \u00e0 une mort \u00e9ventuelle.",
-    "Goal_Silver": "
-Minerai d'argent : d\u00e9couvert. Les circuits int\u00e9gr\u00e9s \u00e0 base d'argent sont des composants indispensables \u00e0 la fabrication de combinaisons anti-radiation et de constructeurs d'habitat.",
-    "Goal_Lubricant": "
-Le lubrifiant est essentiel \u00e0 la construction de v\u00e9hicules et de centrales \u00e9lectriques. Utiliser des mat\u00e9riaux de substitution aliens de cette mani\u00e8re est une strat\u00e9gie de survie \u00e9prouv\u00e9e.",
+    "Goal_Silver": "Minerai d'argent : d\u00e9couvert. Les circuits int\u00e9gr\u00e9s \u00e0 base d'argent sont des composants indispensables \u00e0 la fabrication de combinaisons anti-radiation et de constructeurs d'habitat.",
+    "Goal_Lubricant": " Le lubrifiant est essentiel \u00e0 la construction de v\u00e9hicules et de centrales \u00e9lectriques. Utiliser des mat\u00e9riaux de substitution aliens de cette mani\u00e8re est une strat\u00e9gie de survie \u00e9prouv\u00e9e.",
     "Goal_Beacon": "L'exploration et la cartographie de l'environnement ne doivent pas \u00eatre entreprises sans l'\u00e9quipement et le mat\u00e9riel n\u00e9cessaires. Nous vous conseillons de rester suffisamment proche d'une capsule de survie ou d'un quelconque habitat \u00e0 tout moment.",
     "Goal_Seaglide": "Le SeaGlide augmente la vitesse maximale sous l'eau jusqu'\u00e0 9.5m\/s, et affiche les donn\u00e9es topographiques des alentours. ",
     "Goal_Builder": "Le constructeur est con\u00e7u pour construire divers habitats capables de r\u00e9sister \u00e0 des conditions environnementales extr\u00eames. ",
@@ -1069,26 +1067,26 @@ Substrat naturel pour la production de verre \u00e9maill\u00e9 : d\u00e9couvert.
     "EncyPath_PlanetaryGeology": "G\u00e9ologie plan\u00e9taire",
     "EncyPath_Advanced": "Th\u00e9ories avanc\u00e9es",
     "Ency_Lifepod": "Capsule de survie d'Urgence Standard 2-Berth",
-    "EncyDesc_Lifepod": "Masse : 576 kg
-Dimensions : 3m x 3m
+    "EncyDesc_Lifepod": "Masse : 576 kg  
+Dimensions : 3 m x 3 m   
 
-Caract\u00e9ristiques standards :
+Caract\u00e9ristiques standards :  
 - Faible densit\u00e9, construction hautement r\u00e9sistante 
-- Air-break int\u00e9gr\u00e9, dispositifs de flottaison et de propulsion, pour redressement sur terre, mer ou espace
-- Relais de communication \u00e0 courte port\u00e9e (250km de port\u00e9e sans interruption) 
-- \u00c9nergie solaire
-- Fabricateur mural 
-- Sorties multiples 
+- Air-break int\u00e9gr\u00e9, dispositifs de flottaison et de propulsion, pour redressement sur terre, mer ou espace  
+- Relais de communication \u00e0 courte port\u00e9e (250 km de port\u00e9e sans interruption)  
+- \u00c9nergie solaire  
+- Fabricateur mural  
+- Sorties multiples   
 
-Provisions standards :
-2x Combinaison de Protection Multi-Environnements
-1x Scanner spectroscope de poche
-3x Rations pr\u00eates \u00e0 manger
-3x 1L d'approvisonnement en eau potable
-1x Kit m\u00e9dical de secours 
+Provisions standards :  
+2x Combinaison de Protection Multi-Environnements  
+1x Scanner spectroscope de poche  
+3x Rations pr\u00eates \u00e0 manger  
+3x 1L d'approvisionnement en eau potable  
+1x Kit m\u00e9dical de secours  
 1x Lampe de poche 
-1x Fus\u00e9e \u00e9clairante d'urgence 
-1x Assortiment de pi\u00e8ces de rechange ",
+1x Fus\u00e9e \u00e9clairante d'urgence  
+1x Assortiment de pi\u00e8ces de rechange",
     "Ency_Readme": "Lisez-moi",
     "EncyDesc_Readme": "Si vous lisez ceci, alors vous avez surv\u00e9cu \u00e0 une \u00e9vacuation d'urgence d'un vaisseau  lourd dot\u00e9 de la technologie Alterra. 
 F\u00e9licitations : le plus dur est pass\u00e9. 
@@ -1114,15 +1112,14 @@ NB : vos fichiers personnels et professionels ont \u00e9t\u00e9 crypt\u00e9s et 
 
 NB : ces informations prennent la forme d'un guide g\u00e9n\u00e9ral. Il est recommand\u00e9 dans un premier temps de suivre les conseils de votre PDA  lesquels prennent les circonstances particuli\u00e8res de votre situation en compte.",
     "Ency_AuroraOverview": "Pr\u00e9sentation du Vaisseau Minier Aurora ",
-    "EncyDesc_AuroraOverview": "Mission : activit\u00e9s mini\u00e8res de prospection pour une dur\u00e9e de 3 ans
+    "EncyDesc_AuroraOverview": "Mission : Op\u00e9ration d'exploration mini\u00e8re d'une dur\u00e9e de 3 ans.
+\u00c9quipage : \u00c9quipe de commandement (11), \u00c9quipe d'ing\u00e9nierie (57), \u00c9quipe de soutien (30), Passagers (3).
 
-\u00c9quipage : \u00c9quipe de Commandement (11), \u00c9quipe sp\u00e9cialis\u00e9e du G\u00e9nie (57), \u00c9quipe de Soutien (30), Passagers (3)
-
-\u00c9quipements :
-- Propulseurs ioniques \u00e0 mati\u00e8re noire V8
-- Section du g\u00e9nie avec installations industrielles de niveau A (incluant un craqueleur de m\u00e9t\u00e9ores primaire, un syst\u00e8me robotique complexe et une gamme compl\u00e8te de scanners)
-- 0.25 kilom\u00e8tres cubes de stockage d\u00e9di\u00e9s aux ressources exploit\u00e9es
-- Zone d'habitation avec espaces de loisirs de niveau C+",
+\u00c9quipements : 
+- Propulseur ionique V8 \u00e0 mati\u00e8re noire .
+- Section d'ing\u00e9nierie avec installations de Niveau A (incluant craqueur de m\u00e9t\u00e9ore primaire, ensemble robotis\u00e9 pilot\u00e9, gamme de scanner compl\u00e8te).
+- 0.25 km de cubes de stockage pour les ressources exploit\u00e9es.
+- Section d'habitation avec \u00e9quipements de loisirs de Niveau C+.",
     "Ency_AEPSuit": "Combinaison de Protection Multi-Environnements",
     "EncyDesc_AEPSuit": "La Combinaison PME Alterra : Une solution unique dans un univers d'infinis dangers
 
@@ -1202,13 +1199,13 @@ Conseil : comestible et nutritif, si vous parvenez \u00e0 l'attraper",
 
 Conseil : comestible, peu nutritif mais sans danger ",
     "Ency_Garryfish": "Garryfish",
-    "EncyDesc_Garryfish": "Herbivore \u00e0 la fois lent et curieux.
+    "EncyDesc_Garryfish": "Herbivore \u00e0 la fois lent et curieux.  
 
-1. Son camouflage semble \u00eatre la cons\u00e9quence \u00e9volutive d'un comportement fuyant dans les fonds oc\u00e9aniques. 
+1. Son camouflage semble \u00eatre la cons\u00e9quence \u00e9volutive d'un comportement fuyant dans les fonds oc\u00e9aniques.   
 
-2. Ses p\u00e9doncules oculaires sont utiles pour rep\u00e9rer des pr\u00e9dateurs \u00e0 partir de cachettes dans les coraux. 
+2. Ses p\u00e9doncules oculaires sont utiles pour rep\u00e9rer des pr\u00e9dateurs \u00e0 partir de cachettes dans les coraux.   
 
-3. Grande cavit\u00e9 d'estomac : se nourrit tous les jours pendant la journ\u00e9e, laissant tr\u00e8s peu de viance comestible.
+3. Grande cavit\u00e9 d'estomac : se nourrit tous les jours pendant la journ\u00e9e, laissant tr\u00e8s peu de viande comestible.  
 
 Conseil : pas aussi comestible qu'on pourrait le croire",
     "Ency_Shuttlebug": "Shuttlebug",
@@ -1300,7 +1297,7 @@ La tige est riche en fibres et en fer, en faisant ainsi \u00e0 la fois un produi
 Pr\u00e9dateurs : Hoverfish, Poisson \u0153il, Raie lapin, Peeper
 
 Conseil : ressource alien fondamentale - comestible - utile \u00e0 la fois en mati\u00e8re m\u00e9dicinale et de construction",
-    "Ency_CreepvineSeeds": "Graines de Vigne d'Orin",
+    "Ency_CreepvineSeeds": "Graine de Vigne d'Orin",
     "EncyDesc_CreepvineSeeds": "Les plantes adultes de Vignes d'Orin qui ont surv\u00e9cu aux petits pr\u00e9dateurs herbivores produisent ces grappes de graines bioluminescentes susceptibles d'\u00eatre arrach\u00e9es par les courants ou pour \u00eatre consomm\u00e9es puis abandonn\u00e9es par la suite par des pr\u00e9dateurs.
 
 L'embryon est entour\u00e9 par une \u00e9paisse couche d'huile qui se disperse dans le sol une fois la peau ext\u00e9rieure d\u00e9grad\u00e9e. Ceci fournit aux jeunes plants tous les nutriments dont ils ont besoin pour survivre dans des conditions de faible luminosit\u00e9 dans les fonds marins.
@@ -1432,24 +1429,22 @@ Mode d'emploi :
 - A contrario, appuyez sur la g\u00e2chette une seconde fois pour propulser l'objet rapidement loin du canon.
 - Utilisation non recommand\u00e9e sur des sujets organiques.",
     "Ency_Seamoth": "Seamoth",
-    "EncyDesc_Seamoth": "Le Seamoth est un submersible con\u00e7u pour une personne poss\u00e8dant un design enti\u00e8rement personnalisable et aliment\u00e9 ind\u00e9pendamment par une batterie haute capacit\u00e9 rempla\u00e7able si n\u00e9cessaire. La plupart des vaisseaux miniers de longue distance comporte au moins deux submersibles de cette classe pour faciliter l'exploration et l'exploitation de plan\u00e9to\u00efdes aquif\u00e8res. 
+    "EncyDesc_Seamoth": "Le Seamoth est un submersible con\u00e7u pour une personne poss\u00e9dant un design enti\u00e8rement personnalisable et aliment\u00e9 ind\u00e9pendamment par une batterie haute capacit\u00e9 rempla\u00e7able si n\u00e9cessaire. La plupart des vaisseaux miniers de longue distance comporte au moins deux submersibles de cette classe pour faciliter l'exploration et l'exploitation de plan\u00e9to\u00efdes aquif\u00e8res.   
 
-Notes : 
-- Vitesse maximale : 13m\/s
-- Acc\u00e9r\u00e9ration : 5m\/s\/s
-- Distance par batterie haute capacit\u00e9 : 10km
-- Profondeur maximale : 225m sous le niveau de la mer
-- Emplacements pour modules d'am\u00e9lioration : 4
-- Dimensions : 3m x 1.5m x 1m
-- Personnes : 1
+Notes :  
+- Vitesse maximale : 13 m\/s 
+- Acc\u00e9l\u00e9ration : 5 m\/s\/s 
+- Distance par batterie haute capacit\u00e9 : 10 km 
+- Profondeur maximale : 225 m sous le niveau de la mer 
+- Emplacements pour modules d'am\u00e9lioration : 4 
+- Dimensions : 3 m x 1.5 m x 1 m - Personnes : 1  
 
-Le Seamoth peut \u00eatre modifi\u00e9 en installant des modules d'am\u00e9lioration au point d'acc\u00e8s mont\u00e9 par d\u00e9faut sur l'aile sup\u00e9rieure gauche. Ceux-ci comprennent : 
+Le Seamoth peut \u00eatre modifi\u00e9 en installant des modules d'am\u00e9lioration au point d'acc\u00e8s mont\u00e9 par d\u00e9faut sur l'aile sup\u00e9rieure gauche. Ceux-ci comprennent :  
 
-- Capacit\u00e9 de stockage de cargaison augment\u00e9e
-- Puissance sup\u00e9rieure 
-- Compensation de pression et de collisions
-- Sonar am\u00e9lior\u00e9 
-- Capacit\u00e9s d\u00e9fensives 
+- Capacit\u00e9 de stockage de cargaison augment\u00e9e 
+- Puissance sup\u00e9rieure  
+- Compensation de pression et de collisions 
+- Sonar am\u00e9lior\u00e9  - Capacit\u00e9s d\u00e9fensives   
 
 NB : Ces modules peuvent uniquement \u00eatre fabriqu\u00e9s dans une chambre d'immersion \u00e9quip\u00e9e ad\u00e9quatement ou dans une baie submersible.",
     "Ency_SeamothConfigs": "Catalogue des Configurations de Seamoth",
@@ -1498,7 +1493,7 @@ Notes :
     "PurpleRattle": "Hochet violet ",
     "PurpleRattleSpore": "Spores de Hochet violet ",
     "PurpleVasePlant": "Plante Vase violette ",
-    "PurpleVasePlantSeed": "Semence de Plante Vase violette ",
+    "PurpleVasePlantSeed": "Graine de Plante Vase violette ",
     "WhiteMushroomSpore": "Spores de Champi Profond ",
     "Tooltip_AcidMushroomSpore": "",
     "Tooltip_BulboTreePiece": "",
@@ -1517,9 +1512,9 @@ Notes :
     "Tooltip_LEDLight": "\u00c9clairage d\u00e9ployable aliment\u00e9 par des piles ",
     "Ency_LEDLight": "B\u00e2ton Lumineux ",
     "EncyDesc_LEDLight": "Lumi\u00e8re LED mobile et aliment\u00e9e par batteries fournissant un faible \u00e9clairage dans une zone \u00e0 360 degr\u00e9s. Peut \u00eatre fix\u00e9 \u00e0 la plupart des surfaces.",
-    "LoadingMessage": "Chargement en cours...
+    "LoadingMessage": "Chargement en cours...  
 
-NOTE : Cet \u00e9cran peut prendre plusieurs minutes pour charger et peut sembler avoir crash pendant cette p\u00e9riode. Soyez patient s'il vous plait.",
+NOTE : Cet \u00e9cran peut prendre plusieurs minutes pour charger et peut sembler avoir plant\u00e9 pendant cette p\u00e9riode. Soyez patient s'il vous plait.",
     "Dead": "Mort",
     "CyclopsHullFragment": "Fragment de coque de Cyclops",
     "CyclopsBridgeFragment": "Fragment de pont de Cyclops",
@@ -1533,7 +1528,7 @@ NOTE : Cet \u00e9cran peut prendre plusieurs minutes pour charger et peut semble
     "Tooltip_CyclopsBridgeBlueprint": "Sch\u00e9ma de construction d'un Cyclops",
     "Tooltip_CyclopsEngineBlueprint": "Sch\u00e9ma de construction d'un Cyclops",
     "Tooltip_CyclopsDockingBayBlueprint": "Sch\u00e9ma de construction d'un Cyclops",
-    "FiberMesh": "Maille de fibre ",
+    "FiberMesh": "Maille de fibre",
     "Tooltip_FiberMesh": "Fibre naturelle forte. Moelleuse.",
     "PlanterPot2": "Pot de fleur 2",
     "PlanterPot3": "Pot de fleur 3",
@@ -1552,86 +1547,86 @@ NOTE : Cet \u00e9cran peut prendre plusieurs minutes pour charger et peut semble
     "Ency_WaterFilter": "Appareil de filtration de l'eau",
     "EncyDesc_WaterFilter": "Le syst\u00e8me de filtration puise l'eau impropre \u00e0 la consommation humaine provenant d'une source externe quelconque, fractionne atomiquement ses parties constitutives afin de produire une eau liquide consommable et sal\u00e9e tout en se d\u00e9barrassant de possibles sous-produits nocifs. Il peut \u00eatre construit dans n'importe quel module d'habitat compatible, mais n\u00e9cessite d'\u00eatre aliment\u00e9 pr\u00e9alablement.",
     "BluePalm": "Palmier bleu",
-    "BluePalmSeed": "Graines de Palmier bleu",
+    "BluePalmSeed": "Graine de Palmier bleu",
     "EyesPlant": "Plante oculaire ",
-    "EyesPlantSeed": "Graines de Plante oculaire",
+    "EyesPlantSeed": "Graine de Plante oculaire",
     "FernPalm": "Palmier foug\u00e8re",
-    "FernPalmSeed": "Graines de Palmier foug\u00e8re",
+    "FernPalmSeed": "Graine de Palmier foug\u00e8re",
     "GabeSFeather": "Plume de Gabe",
     "GabeSFeatherSeed": "Graine de Plume de Gabe",
-    "JellyPlantSeed": "Graines de Plante m\u00e9duse ",
+    "JellyPlantSeed": "Graine de Plante m\u00e9duse",
     "MelonPlant": "Plant de melons marbr\u00e9s",
     "Melon": "Melon marbr\u00e9",
-    "MembrainTreeSeed": "Membrain tree seed",
+    "MembrainTreeSeed": "Graine d'arbre cerbrane",
     "SeaCrown": "Couronne de mer",
-    "SeaCrownSeed": "Graines de couronne de mer",
+    "SeaCrownSeed": "Graine de couronne de mer",
     "SmallMelon": "Petit melon marbr\u00e9",
     "OrangePetalsPlant": "Plante \u00e0 p\u00e9tales oranges",
     "OrangePetalsPlantSeed": "Graine de plante \u00e0 p\u00e9tales orange",
     "PinkFlower": "Fleur rose",
     "PinkFlowerSeed": "Graine de fleur rose",
-    "PurpleBrainCoral": "Purple brain coral",
-    "PurpleBrainCoralPiece": "Purple brain coral sample",
+    "PurpleBrainCoral": "Corail cerveau violet",
+    "PurpleBrainCoralPiece": "\u00c9chantillon de corail cerveau violet ",
     "PurpleBranches": "Branches violettes",
     "PurpleBranchesSeed": "Graine de branches violette",
-    "PurpleFanSeed": "Purple fan seed",
-    "PurpleStalk": "Purple stalk",
-    "PurpleStalkSeed": "Purple stalk seed",
+    "PurpleFanSeed": "Graine d'\u00e9ventail violet",
+    "PurpleStalk": "Brin pourpre ",
+    "PurpleStalkSeed": "Graine de Brin pourpre",
     "PurpleTentacleSeed": "Graine de mauvaise herbe",
     "PurpleVegetable": "L\u00e9gume violet",
-    "PurpleVegetablePlant": "Vegetable plant",
-    "RedBasketPlant": "Red basket plant",
-    "RedBasketPlantSeed": "Red basket plant seed",
+    "PurpleVegetablePlant": "Plante v\u00e9g\u00e9tale",
+    "RedBasketPlant": "Plante panier rouge",
+    "RedBasketPlantSeed": "Graine de plante panier rouge",
     "RedBush": "Buisson rouge",
     "RedBushSeed": "Graine de buisson rouge",
-    "RedConePlant": "Red cone plant",
-    "RedConePlantSeed": "Red cone plant seed",
+    "RedConePlant": "Plante cornet rouge",
+    "RedConePlantSeed": "Graine de plante cornet rouge ",
     "RedGreenTentacle": "Tentacule rouge verd\u00e2tre",
     "RedGreenTentacleSeed": "Graine de tentacule rouge verd\u00e2tre",
-    "RedRollPlant": "Red roll plant",
-    "RedRollPlantSeed": "Red roll plant seed",
-    "ShellGrass": "Shell grass",
-    "ShellGrassSeed": "Shell grass seed",
-    "SpikePlantSeed": "Tiger plant seed",
-    "SmallFanSeed": "Pygmy fan seed",
+    "RedRollPlant": "Plante rouleau rouge ",
+    "RedRollPlantSeed": "Graine de plante rouleau rouge ",
+    "ShellGrass": "Coquille herbe",
+    "ShellGrassSeed": "Graine de coquille herbe",
+    "SpikePlantSeed": "Graine de plante tigr\u00e9e",
+    "SmallFanSeed": "Graine d'\u00e9ventail pygm\u00e9e",
     "SnakeMushroom": "Champignon serpent",
     "SnakeMushroomSpore": "Spore de champignon serpent",
-    "SpottedLeavesPlant": "Spotted leaves plant",
-    "SpottedLeavesPlantSeed": "Spotted leaves plant seed",
-    "Tooltip_BluePalmSeed": "Graines de Palmier bleu",
-    "Tooltip_EyesPlantSeed": "Graines de Plante oculaire",
-    "Tooltip_FernPalmSeed": "Graines de Plante foug\u00e8re ",
+    "SpottedLeavesPlant": "Plante \u00e0 feuilles mouchet\u00e9es",
+    "SpottedLeavesPlantSeed": "Graine de plante \u00e0 feuilles mouchet\u00e9es",
+    "Tooltip_BluePalmSeed": "Graine de Palmier bleu",
+    "Tooltip_EyesPlantSeed": "Graine de Plante oculaire",
+    "Tooltip_FernPalmSeed": "Graine de Plante foug\u00e8re",
     "Tooltip_GabeSFeatherSeed": "Graine de Plume de Gabe",
     "Tooltip_JellyPlant": "Plante m\u00e9duse ",
-    "Tooltip_JellyPlantSeed": "Graines de Plante m\u00e9duse ",
+    "Tooltip_JellyPlantSeed": "Graine de Plante m\u00e9duse",
     "Tooltip_Melon": "",
-    "Tooltip_MembrainTreeSeed": "Membrain tree seed",
+    "Tooltip_MembrainTreeSeed": "Graine d'arbre cerbrane ",
     "Tooltip_SmallMelon": "",
-    "Tooltip_OrangePetalsPlantSeed": "Orange petals plant seed",
-    "Tooltip_PinkFlowerSeed": "Pink flower seed",
-    "Tooltip_PurpleBrainCoralPiece": "Purple brain coral sample",
-    "Tooltip_PurpleBranchesSeed": "Purple branches seed",
-    "Tooltip_PurpleFanSeed": "Purple fan seed",
-    "Tooltip_PurpleStalkSeed": "Purple stalk seed",
+    "Tooltip_OrangePetalsPlantSeed": "Graine de plante \u00e0 p\u00e9tales oranges",
+    "Tooltip_PinkFlowerSeed": "Graine de fleur rose ",
+    "Tooltip_PurpleBrainCoralPiece": "\u00c9chantillon de corail c\u00e9r\u00e9bral violet ",
+    "Tooltip_PurpleBranchesSeed": "Graine de branches violettes",
+    "Tooltip_PurpleFanSeed": "Graine d'\u00e9ventail violet",
+    "Tooltip_PurpleStalkSeed": "Graine de brin pourpre ",
     "Tooltip_PurpleTentacleSeed": "Graine de mauvaise herbe",
     "Tooltip_PurpleVegetable": "",
-    "Tooltip_RedBasketPlantSeed": "Red basket plant seed",
-    "Tooltip_RedBushSeed": "Red bush seed",
-    "Tooltip_RedConePlantSeed": "Red cone plant seed",
-    "Tooltip_RedGreenTentacleSeed": "Red green tentacle seed",
-    "Tooltip_RedRollPlantSeed": "Red roll plant seed",
-    "Tooltip_SeaCrownSeed": "Sea crown seed",
-    "Tooltip_ShellGrassSeed": "Shell grass seed",
-    "Tooltip_SnakeMushroomSpore": "Snake mushroom spore",
+    "Tooltip_RedBasketPlantSeed": "Graine de plante panier rouge ",
+    "Tooltip_RedBushSeed": "Graine de buisson rouge",
+    "Tooltip_RedConePlantSeed": "Graine de plante cornet rouge ",
+    "Tooltip_RedGreenTentacleSeed": "Graine de tentacule rouge verd\u00e2tre",
+    "Tooltip_RedRollPlantSeed": "Graine de plante rouleau rouge ",
+    "Tooltip_SeaCrownSeed": "Graine de couronne de mer",
+    "Tooltip_ShellGrassSeed": "Graine de coquille herbe",
+    "Tooltip_SnakeMushroomSpore": "Spores de champignon serpent",
     "Tooltip_SpikePlantSeed": "",
-    "Tooltip_SpottedLeavesPlantSeed": "Spotted leaves plant seed",
-    "Tooltip_SmallFan": "Pygmy fan",
-    "Tooltip_SmallFanSeed": "Pygmy fan seed",
-    "Ency_HangingFruitTree": "Hanging Fruit Tree",
+    "Tooltip_SpottedLeavesPlantSeed": "Graine de plante \u00e0 feuilles mouchet\u00e9es",
+    "Tooltip_SmallFan": "\u00c9ventail pygm\u00e9e",
+    "Tooltip_SmallFanSeed": "Graine d'\u00e9ventail pygm\u00e9e",
+    "Ency_HangingFruitTree": "Arbre de fruits suspendus",
     "EncyDesc_HangingFruitTree": "Un arbre donnant de gros fruits oranges",
     "Ency_BulboTree": "Arbre bulbe",
     "EncyDesc_BulboTree": "On dirait un arbre ",
-    "Ency_WhiteMushroom": "Deep Shroom",
+    "Ency_WhiteMushroom": "Champi des profondeurs",
     "EncyDesc_WhiteMushroom": "",
     "Ency_PinkMushroom": "Champignon rose",
     "EncyDesc_PinkMushroom": "C'est sans aucun doute un champignon",
@@ -1649,7 +1644,7 @@ NOTE : Cet \u00e9cran peut prendre plusieurs minutes pour charger et peut semble
     "EncyDesc_KooshBush": "",
     "Ency_BluePalm": "Palmier bleu",
     "EncyDesc_BluePalm": "",
-    "Ency_SmallFan": "Pygmy Fan",
+    "Ency_SmallFan": "\u00c9ventail pygm\u00e9e",
     "EncyDesc_SmallFan": "",
     "Ency_PurpleFan": "\u00c9ventail violet",
     "EncyDesc_PurpleFan": "",
@@ -1659,7 +1654,7 @@ NOTE : Cet \u00e9cran peut prendre plusieurs minutes pour charger et peut semble
     "EncyDesc_GabeSFeather": "",
     "Ency_SeaCrown": "Couronne de mer",
     "EncyDesc_SeaCrown": "",
-    "Ency_MembrainTree": "Membrain Tree",
+    "Ency_MembrainTree": "Arbre Cerbrane ",
     "EncyDesc_MembrainTree": "",
     "Ency_PinkFlower": "Fleur rose",
     "EncyDesc_PinkFlower": "",
@@ -1671,25 +1666,25 @@ NOTE : Cet \u00e9cran peut prendre plusieurs minutes pour charger et peut semble
     "EncyDesc_EyesPlant": "",
     "Ency_RedGreenTentacle": "Tentacule rouge verd\u00e2tre",
     "EncyDesc_RedGreenTentacle": "",
-    "Ency_PurpleStalk": "Purple Stalk",
+    "Ency_PurpleStalk": "Brin pourpre ",
     "EncyDesc_PurpleStalk": "",
-    "Ency_RedBasketPlant": "Red Basket Plant",
+    "Ency_RedBasketPlant": "Plante panier rouge ",
     "EncyDesc_RedBasketPlant": "",
-    "Ency_RedBush": "Red Bush",
+    "Ency_RedBush": "Buisson rouge",
     "EncyDesc_RedBush": "",
-    "Ency_RedConePlant": "Red Cone Plant",
+    "Ency_RedConePlant": "Plante cornet rouge ",
     "EncyDesc_RedConePlant": "",
-    "Ency_ShellGrass": "Shell Grass",
+    "Ency_ShellGrass": "Coquille Herbe ",
     "EncyDesc_ShellGrass": "",
-    "Ency_SpottedLeavesPlant": "Spotted Leaves Plant",
+    "Ency_SpottedLeavesPlant": "Plante \u00e0 feuilles mouchet\u00e9es",
     "EncyDesc_SpottedLeavesPlant": "",
-    "Ency_RedRollPlant": "Red Roll Plant",
+    "Ency_RedRollPlant": "Plante rouleau rouge ",
     "EncyDesc_RedRollPlant": "",
     "Ency_PurpleBranches": "Branches violettes",
     "EncyDesc_PurpleBranches": "",
     "Ency_SnakeMushroom": "Champignon serpent",
     "EncyDesc_SnakeMushroom": "",
-    "Ency_BloodVine": "BloodVine",
+    "Ency_BloodVine": "Vigne de Sang ",
     "EncyDesc_BloodVine": "",
     "FeedbackNewReply": "Vous avez re\u00e7u une nouvelle r\u00e9ponse de d\u00e9veloppeur.
 Appuyez sur F8 pour le lire.",
@@ -1714,7 +1709,6 @@ Appuyez sur F8 pour le lire.",
     "ConstructorFragment": "Fragment de baie \u00e0 v\u00e9hicules mobiles ",
     "PowerTransmitterFragment": "Fragment de transmetteur de puissance",
     "RadioFragment": "Fragment de radio",
-    "ScannerRoomFragment": "Fragment de salle de scanner",
     "SeaglideFragment": "Fragment de Seaglide ",
     "SolarPanelFragment": "Fragment de panneau solaire ",
     "SpecimenAnalyzerFragment": "Fragment d'analyseur de sp\u00e9cimens ",
@@ -1730,7 +1724,7 @@ Appuyez sur F8 pour le lire.",
     "OxygenWarning30": "Attention : 30 secondes d'oxyg\u00e8ne restantes.",
     "GrowingProgress": "Croissance : {0:P0}",
     "GrowingPlant": "{0} croissant ",
-    "MelonSeed": "Marblemelon seed",
+    "MelonSeed": "Graine de melon marbr\u00e9",
     "Tooltip_SmallKoosh": "",
     "Tooltip_MediumKoosh": "",
     "Tooltip_LargeKoosh": "",
@@ -1796,7 +1790,7 @@ Appuyez sur F8 pour le lire.",
     "Weld": "Souder ",
     "Tooltip_MedicalCabinet": "Produit un kit m\u00e9dical toutes les 30 minutes.",
     "Tooltip_FireExtinguisher": "Maintient les incendies en \u00e9chec.",
-    "Damaged": "Endommag\u00e9 ",
+    "Damaged": "[Endommag\u00e9] ",
     "Pickup_FireExtinguisher": "Ramasser Extincteur  ",
     "FireExtinguisher_Douse": "\u00c9teindre l'incendie ",
     "MedicalCabinet": "Fabricateur de Kits m\u00e9dicaux ",
@@ -1881,7 +1875,7 @@ Statut : Perdu dans l'espace, Ariadne Arm
 - Digi-form\u00e9 en biochimie avanc\u00e9e et en sciences \u00e9conomiques stellaires
 - L'\u00e9missaire mongol Khasar a signal\u00e9 dans son rapport que Baat accompagnait son p\u00e8re, Paal, jusqu'\u00e0 une station spatiale nouvellement construite pour remplir un mandat de cinq ans en tant que Directeur des op\u00e9rations
 ",
-    "Ency_MargueritMaidaBio": "Recherche & Sauvetage : Paal Torgal",
+    "Ency_MargueritMaidaBio": "Recherche & Sauvetage : Marguerit Maida",
     "EncyDesc_MargueritMaidaBio": "CADRES SUP\u00c9RIEURS UNIQUEMENT
 
 Cible auxiliaire de Recherche & Sauvetage : Marguerit Maida 
@@ -1913,57 +1907,58 @@ La c\u00e9r\u00e9monie de lancement s'est vue entour\u00e9e de la fanfare habitu
 Nous avons surv\u00e9cu gr\u00e2ce \u00e0 la culture de la flore indig\u00e8ne pr\u00e9sente sur cette plan\u00e8te.  L'empreinte biochimique que j'avais command\u00e9e pour mon fils a d\u00e9j\u00e0 port\u00e9 ses fruits. Elle s'est suffisamment d\u00e9velopp\u00e9e pour nous garantir de la nourriture pour un mois. 
 
 Mais je crains maintenant pour notre s\u00e9curit\u00e9. Une mercenaire que j'avais embauch\u00e9e pour notre p\u00e9riple, Marguerit Maida, semble de plus en plus perturb\u00e9e. Elle insiste pour que nous abandonnions ce site et pour que nous \u00e9tablissions un nouvel habitat mais cette fois, sous l'eau. Je crains qu'elle ne prenne des mesures pour saboter notre habitat ici afin de poursuivre ses propres motivations. N\u00e9anmoins, et malgr\u00e9 ce que me dicte mon bon sens, j'ai consenti \u00e0 sa demande de reconnaissance pour un site aquatique convenable. J'ai espoir qu'elle se rende  rapidement compte \u00e0 quel point l'oc\u00e9an est impitoyable pour qu'elle puisse enfin renoncer \u00e0 cette folle ambition. ",
-    "Ency_IslandsPDABase1a": "Journal de Baal Torgal #6 ?",
+    "Ency_IslandsPDABase1a": "Journal de Baat Torgal #6",
     "EncyDesc_IslandsPDABase1a": "J'ai foir\u00e9. Et pas qu'un peu cette fois. Cela fait maintenant deux jours depuis que c'est arriv\u00e9. Nous n'aurions pas d\u00fb quitter cette \u00eele. Je n'aurais jamais d\u00fb les \u00e9couter. Nous n'aurions pas d\u00fb nous aventurer si profond\u00e9ment. Ils ne veulent pas nous ici. Ils ne nous font pas confiance. Je le savais et pourtant je n'ai rien dit. Je pouvais le voir, mais pas eux, et maintenant ils sont coinc\u00e9s l\u00e0-bas, et moi, je me retrouve ici, tout seul. Je le m\u00e9rite. ",
     "Ency_IslandsPDABase1bDesk": "Journal Audio du Degasi #1",
-    "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT: It won't work, Chief. We salvaged enough scrap from the Degasi for, what, a couple of observatories?
-PAAL: It'll be enough.
-MARGUERIT: For now. And then we'll run out. Ain't no building materials on this island. We're gonna have to get our feet wet. No other way. 
-PAAL: This island is safe. There's fertile land. No predators. Shelter from the elements.
-MARGUERIT: All we'd need is a water filtration system, some hull reinforcements, maybe a thermal plant or two...
-PAAL: I've made my decision. You want to forfeit your commision just to take a swim?
-MARGUERIT: Believe me, I'm thinking on it.
-BAAT: Those mountains look like they get the most of the sun. If we built observatories up there I think I could grow enough food to keep us all alive. I think this could work.
-PAAL: You hear that? You think you know better than 10 million credits of biochem training?
-MARGUERIT: It's not the kid I doubt. All I'm sayin' is, ocean's got us surrounded. No use hiding.
-PAAL: No. This is where we build. This is how we survive.",
+    "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT : \u00c7a ne fonctionnera pas, Chef. Nous avons suffisamment r\u00e9cup\u00e9r\u00e9 de ferraille du Degasi pour quoi, un ou deux observatoires ?
+PAAL : \u00c7a sera suffisant.
+MARGUERIT : Pour l'instant. Puis nous commencerons \u00e0 en manquer. Il n'y a aucun mat\u00e9riaux de construction sur cette \u00eele. On va devoir se mouiller les pieds. Je ne vois pas d'autres moyens.
+PAAL : Cette \u00eele est s\u00fbre. Il a de la terre fertile. Aucun pr\u00e9dateurs. Un abri contre les \u00e9l\u00e9ments. 
+MARGUERIT : Tout ce dont nous aurions besoin est un syst\u00e8me de filtration d'eau, quelques renforcements de la coque, peut-\u00eatre une centrale thermique ou deux...
+PAAL : J'ai d\u00e9j\u00e0 pris ma d\u00e9cision. Vous souhaitez renoncer \u00e0 votre commission pour prendre un bain ?
+MARGUERIT : Croyez-moi, j'y r\u00e9fl\u00e9chis.
+BAAT : Ces montagnes absorbent la plupart du soleil. Si nous construisions des observatoires l\u00e0-haut, je pense \u00eatre capable de produire suffisamment de nourriture pour nous garder tous en vie. Je pense que cela pourrait marcher.
+PAAL : Vous entendez \u00e7a ? Vous pensez en savoir plus qu'une formation biochem \u00e0 10 millions de cr\u00e9dits ?
+MARGUERIT : Ce n'est pas le gamin envers qui j'ai des doutes. Tout ce que je dis, c'est que l'oc\u00e9an nous entoure. Aucun int\u00e9r\u00eat de se cacher.
+PAAL : Non. Nous construirons ici. C'est de cette mani\u00e8re que nous survivrons.",
     "Ency_IslandsPDABase1Desk": "Journal Audio du Degasi #2",
-    "EncyDesc_IslandsPDABase1Desk": "PAAL: Your life is worth more. I forbid you go out there.
-BAAT: I stopped needing your permission when the ship you were captaining sunk.
-PAAL: You will stop needing my permission the day I cease to be your father!
-MAIDA: Say, Chief. Chief! 
-PAAL: What?
-MAIDA: Do you know how to drain those grow beds out there of 40 tons of storm water? Or where we'll find food for three people for the next two weeks?
-PAAL: You know I don't.
-MAIDA: So what's your boy's life worth to you today, if next week you're gonna be so hungry you start wondering what he tastes like? Let him go cover the plants.
-PAAL: Son, go cover the plants.
-CPU: Baat Torgal is no longer aboard the habitat.
-PAAL: Interfere with my family again and when the rescue team arrives I will leave you here. You understand me?
-MAIDA: No rescue coming, Chief. Not in time. And no stayin' here, neither. This rain keeps falling, and sooner or later this place'll be buried. Only choice we've got is whether we get buried with it.
-PAAL: Stay away from my boy.",
+    "EncyDesc_IslandsPDABase1Desk": "
+PAAL : Votre vie a plus de valeur. Je vous interdis de sortir l\u00e0-dehors.
+BAAT : Je n'ai plus eu besoin de votre permission \u00e0 partir du moment o\u00f9 le vaisseau sous votre commandement a sombr\u00e9.
+PAAL : Vous n'aurez plus besoin de ma permission le jour o\u00f9 je cesserai d'\u00eatre votre p\u00e8re ! 
+MAIDA : Dites-moi, Chef. Chef !
+PAAL : Quoi ?
+MAIDA : Connaissez-vous un moyen pour drainer ces lits de plantation \u00e0 l'ext\u00e9rieur de 40 tonnes d'eau de temp\u00eate ? Ou \u00e0 quel endroit pourrions-nous \u00e9ventuellement trouver suffisamment de nourriture pour trois personnes pour les deux prochaines semaines ?
+PAAL : Vous savez pertinemment que non.
+MAIDA : Alors quelle est la valeur de votre fils aujourd'hui, si dans une semaine, vous serez si affam\u00e9 que vous commencerez \u00e0 vous demander quel go\u00fbt il peut bien avoir ? Laissez-le aller couvrir les plants.
+PAAL : Tr\u00e8s bien, mon fils, fais ce que tu as faire. 
+CPU : Baat Torgal n'est plus \u00e0 bord de l'habitat. 
+PAAL : Interf\u00e9rez encore une fois avec ma famille et quand l'\u00e9quipe de secours arrivera, je vous laisserai ici. Vous m'avez bien compris ?
+MAIDA : Aucun secours ne viendra, Chef. Pas \u00e0 temps. Et inutile de rester ici non plus. La pluie continue de tomber et t\u00f4t ou tard, cet endroit sera enseveli. L'unique choix \u00e0 prendre est celui de savoir si nous voulons nous aussi finir enterr\u00e9s.
+PAAL : Restez loin de mon gar\u00e7on.",
     "Ency_IslandsPDAExterior": "Journal Audio du Degasi #3",
-    "EncyDesc_IslandsPDAExterior": "MARGUERIT: You see, Chief? You brought us to this fracking planet. You told us we'd see a lush payday. Now what do we got? Half of us dead. A pile of fracking dirt in our front room. Rain coming in the through the windows.
-PAAL: And you would have avoided this how?
-MARGEURIT: I woulda started by not taking an unscheduled detour. You NEVER go off course. That's something you gotta learn the hard way. Now you know.
-PAAL: What exactly do you propose?
-MARGEURIT: You want to waste what time you have left lugging titanium up from the seabed? Or you want to hit this thing head on?
-PAAL: If we build underwater, what will we do for food? Drinking water? Power?
-MARGEURIT: We'll go fishing. Build water filters. We go deep enough we gotta find thermal vents - we'll have more power than we could ever use. Chief, we'll eat fracking seaweed salad if that's what it takes. Or you got something better?
-BAAT: I think I could make a good seaweed salad.
-PAAL: Son, the adults are talking.
-BAAT: I'm serious, father. If I can grow fruit on the land, I can grow seaweed underwater. We can farm fish. Father, I kept us alive this long. I can keep on doing it.",
+    "EncyDesc_IslandsPDAExterior": "MARGUERIT : Voyez-vous, Chef ? Vous nous avez conduit sur cette fichue plan\u00e8te. Vous nous aviez dit que nous obtiendrions un riche salaire. Et qu'avons-nous d\u00e9sormais ? La moiti\u00e9 d'entre nous sont morts. Une pile de crasse dans la salle de s\u00e9jour. La pluie qui p\u00e9n\u00e8tre \u00e0 travers les fen\u00eatres. 
+PAAL : Et de quelle fa\u00e7on auriez-vous \u00e9vit\u00e9 cela ?
+MARGUERIT : J'aurais d\u00e9j\u00e0 commenc\u00e9 par ne pas prendre un d\u00e9tour impr\u00e9vu. Vous ne quittez JAMAIS votre route. Voil\u00e0 quelque chose que vous devez apprendre \u00e0 la dure. J'esp\u00e8re que vous l'aurez compris maintenant.
+PAAL : Que proposez-vous exactement ? 
+MARGUERIT : Vous voulez perdre le temps qu'il vous reste \u00e0 trimballer le titane des fonds marins ? Ou vous voulez enfin vous d\u00e9cider \u00e0 vous bouger ?
+PAAL : Si nous construisons sous l'eau, que ferons-nous en ce qui concerne la nourriture ? Pour boire de l'eau ? Produire de l'\u00e9nergie ? 
+MARGUERIT : Nous irons p\u00eacher. Construire des filtres \u00e0 eau. Si nous allons suffisamment profond, nous trouverons des chemin\u00e9es hydrothermales, nous d\u00e9nicherons davantage d'\u00e9nergie que nous ne pourrions jamais utiliser. Chef, nous mangerons de fichues salades d'algues si nous devons en arriver l\u00e0. Vous avez une meilleure id\u00e9e ?
+BAAT : Je pense que je pourrais me faire une bonne salade d'algues.
+PAAL : Fiston, les adultes sont en train de parler. 
+BAAT : Je suis s\u00e9rieux, p\u00e8re. Si je peux cultiver des fruits sur terre, je peux faire pousser des algues sous-marines. Nous pouvons exploiter des poissons. P\u00e8re, je nous ai gard\u00e9 en vie jusqu'\u00e0 maintenant. Je peux continuer \u00e0 le faire.",
     "Ency_JellyPDABrokenCorridor": "Journal Audio du Degasi #4 - Arriv\u00e9e aux cavernes de Jellyshroom",
-    "EncyDesc_JellyPDABrokenCorridor": "BAAT: This place is rad.
-PAAL: It's not what I expected. Have you factored in the pressure on the hull construction?
-MARGUERIT: I reinforced the hull, installed bulkhead doors.
-PAAL: Of course.
-BAAT: We could build an observatory deck. We could learn a lot here.
-MARGUERIT: Now, the foundations... they're not in the best of shape. But I guarantee you, if this place comes loose it won't be the fall that kills us.",
+    "EncyDesc_JellyPDABrokenCorridor": "BAAT : Cet endroit est vraiment cool.
+PAAL : Ce n'est pas ce \u00e0 quoi je m'attendais. Avez-vous pris en compte la pression pour la construction de la coque ?
+MARGUERIT : J'ai renforc\u00e9 la coque, et install\u00e9 des portes d'int\u00e9rieur. 
+PAAL : Tr\u00e8s bien.
+BAAT : Nous devrions construire un observatoire. Nous pourrions apprendre beaucoup de choses ici. 
+MARGUERIT : Maintenant, les fondations... elles ne sont pas au meilleur de leur forme. Mais je peux vous garantir que si cet endroit nous l\u00e2che, ce n'est pas la chute qui nous tuera. ",
     "Ency_JellyPDARoom2Desk": "Journal Audio du Degasi #5 - Plus profond\u00e9ment ?!",
-    "EncyDesc_JellyPDARoom2Desk": "PAAL: We're already 300m below sea level! You want to go DEEPER?!
-MARGUERIT: Look around us, Chief. You know what I see? Water. Water leaking through the hull. Water outside the hatch. Water above me, water below me. It's all freaking water, Chief. We're drowning. Real slow. You want to live out your few remaining days eating fruit on the beach afraid to get your toes wet? 
-PAAL: What is it YOU want?
-MARGUERIT: I want to know how to get off this freaking planet.",
+    "EncyDesc_JellyPDARoom2Desk": "PAAL : Nous sommes d\u00e9j\u00e0 \u00e0 300m sous le niveau de la mer ! Vous voulez vous enfoncer davantage ?!
+MARGUERIT : Regardez autour de vous, Chef. Vous savez ce que je vois ? De l'eau. De l'eau s'infiltrant \u00e0 travers la coque. De l'eau \u00e0 l'ext\u00e9rieur de l'\u00e9coutille. De l'eau au-dessus de moi, de l'eau en-dessous. De la putain d'eau partout, Chef. Nous sommes en train de nous noyer. Tr\u00e8s lentement. Vous voulez vivre le peu de jours qu'il vous reste \u00e0 manger des fruits sur la plage de peur de mouiller vos orteils ? 
+PAAL : Qu'est-ce que VOUS voulez au juste ?
+MARGUERIT : Je veux savoir comment quitter cette foutue plan\u00e8te. ",
     "Ency_JellyPDAObservatory": "Journal de Baal Torgal #1",
     "EncyDesc_JellyPDAObservatory": "OK, \u00e9coutez-\u00e7a. Nous sommes tomb\u00e9s \u00e0 court de verre \u00e9maill\u00e9 que nous avions r\u00e9cup\u00e9r\u00e9 de l'\u00e9pave ce qui nous a amen\u00e9 \u00e0 penser que nous ne serions pas capable de construire l'obervatoire. Et Marguerit, voil\u00e0 ce qu'elle fait, elle emprunte le Seamoth pour rejoindre les for\u00eats d'algues, et ce, uniquement arm\u00e9e d'une lame chauff\u00e9e, et commence \u00e0 se d\u00e9batttre dangeureusement avec un r\u00f4deur dans les fonds marins avec pour objectif de nous ramener ses dents.
 
@@ -1999,16 +1994,16 @@ J'ai commenc\u00e9 \u00e0 me pr\u00e9parer pour l'op\u00e9ration. La mini-ferme 
  
 Quand de satan\u00e9s monstres marins te chassent, tu ne fuis pas et tu ne te caches pas. Tu chasses ces saloperies en retour. Ensuite, tu construis un plus gros navire \u00e0 partir des os des cr\u00e9atures vaincues et tu pars chasser de plus gros monstres. Et puis tu recommences jusqu'\u00e0 ce qu'il n'y ait plus aucun monstre pour te chasser.",
     "Ency_JellyPDARoom2Locker": "Journal Audio du Degasi #6 - Curieuse D\u00e9couverte",
-    "EncyDesc_JellyPDARoom2Locker": "PAAL : Qu'est-ce que c'est que \u00e7a ?
-MARGUERIT : Je ne sais pas.
-PAAL : Un morceau d'un autre vaisseau ?
-MARGUERIT : Ca ne ressemble \u00e0 aucun vaisseau que je connaisse.
-BAAT : Il est en parfait \u00e9tat. Pas une seule rayure. Peut-\u00eatre qu'il vient de cette plan\u00e8te ?
-PAAL : N'y touche pas, il a peut-\u00eatre beaucoup de valeur. Je t'ai dit de ne pas y toucher !
-MARGUERIT : Calmez-vous, Chef. Je fais que le regarder. S'il allait s'ecrouler en morceaux il l'aurait fait quand je l'ai ramass\u00e9.
-BAAT : \u00c7a emet de la lumi\u00e8re !
-PAAL : Il est encore aliment\u00e9 ? Il devait y avoir quelqu'un ici r\u00e9cemment.
-BAAT : R\u00e9cemment, ou le monde a oubli\u00e9 cette chose depuis trop longtemps.",
+    "EncyDesc_JellyPDARoom2Locker": "PAAL : Quelle est cette chose ? 
+MARGUERIT : Aucune id\u00e9e. 
+PAAL : Serait-ce un fragment d'un autre vaisseau ? 
+MARGUERIT : De m\u00e9moire, je ne connais aucun vaisseau semblable. 
+BAAT : Il est en si bon \u00e9tat. Pas une seule \u00e9raflure. Il pourrait provenir d'ici, de cette plan\u00e8te. 
+PAAL : N'y touchez pas, cela pourrait s'av\u00e9rer utile. Je vous ai dit de ne pas y toucher ! 
+MARGUERIT : Calmez-vous, Chef. Je ne fais que le regarder. S'il devait tomber en morceaux, il l'aurait d\u00e9j\u00e0 fait quand je l'ai ramass\u00e9.
+BAAT : \u00c7a brille ! 
+PAAL : Il est toujours aliment\u00e9 ? Quelqu'un d'autre \u00e9tait ici r\u00e9cemment. 
+BAAT : R\u00e9cemment oui, ou abandonn\u00e9 depuis si longtemps que tout le monde l'a oubli\u00e9.",
     "Ency_DeepPDABase3": "Journal Audio du Degasi #7",
     "EncyDesc_DeepPDABase3": "BAAT : \u00c7a suffit, vous deux ! Nous sommes malades.
 MARGUERIT : Hein ?
@@ -2028,143 +2023,148 @@ MARGUERIT : Donc si elle est partout elle ne doit pas \u00eatre si m\u00e9chante
 BAAT : Les formes de vie locales ont probablement d\u00e9velopp\u00e9 des m\u00e9canismes de d\u00e9fense. Que nous n'avons pas.
 PAAL : Pas encore. J'ai foi en toi, fils. Tu vas nous trouver ce rem\u00e8de.
 MARGUERIT : Dis moi si tu as besoin de quelque chose, petit.",
-    "BaseMapRoomFragment": "Sch\u00e9ma de salle de scanner",
+    "BaseMapRoomFragment": "Fragment de salle de scanner ",
     "BaseMapRoom": "Salle de scanner",
     "Tooltip_BaseMapRoom": "Salle de scanner",
     "RecipeUnlocked": "{0} formule(s) d\u00e9verrouill\u00e9e(s)",
     "TechTypeUnlocked": "{0} d\u00e9verrouill\u00e9(s)",
     "MapRoomCameraInfo": "Cam\u00e9ra {0}",
-    "MapRoomCameraControls": "Appuyez sur les boutons de la souris pour passer d'une cam\u00e9ra \u00e0 une autre",
+    "MapRoomCameraControls": "Utilisez {0} et {1} pour alterner entre les cam\u00e9ras",
     "MapRoomCameraDistance": "DISTANCE : {0}",
     "MapRoomCameraDepth": "PROFONDEUR : {0}",
     "EncyPath_DownloadedData\/Lifepods": "Capsules de survie ",
     "EncyPath_DownloadedData\/AuroraSurvivors": "Survivants de l'Aurora",
     "Ency_Lifepod1": "Enregistreur de bord de Danby",
-    "EncyDesc_Lifepod1": "This is medical officer Danby, I'm breaking atmosphere at high velocity, planetfall in 20 seconds! *Explosion* Taking fire! Going into a spin! Attempting- *Static*",
+    "EncyDesc_Lifepod1": "Ici l'officier m\u00e9dical Danby, je p\u00e9n\u00e8tre dans l'atmosph\u00e8re \u00e0 une vitesse trop \u00e9lev\u00e9e, je vais m'\u00e9craser sur la plan\u00e8te dans 20 secondes ! *Explosion* La capsule a pris feu ! Tout part en vrille ! Tentative- *Statique*",
     "Ency_Lifepod2": "Enregistreur de bord de la capsule de survie #1",
-    "EncyDesc_Lifepod2": "PASSENGER: We're sinking!
-CREW: Ma'am, I'm doing everything that I can!
-PASSENGER: Where are the support teams?!
-CREW: They're on their way, Ma'am!
-PASSENGER: That's not what he said on the radio!
-CREW: Ma'am, I have to ask you to stay where you are! The computer hasn't completed situational analysis, we've no idea what's out there!
-PASSENGER: I will not drown in here!
-CREW: Ma'am, come back, it's not safe!
-*Reaper sounds*",
+    "EncyDesc_Lifepod2": "PASSAG\u00c8RE : Nous sommes en train de couler !  
+MEMBRE D'\u00c9QUIPAGE : Je fais tout mon possible, m'dame !  
+PASSAG\u00c8RE : O\u00f9 sont les \u00e9quipes de secours ?!  
+MEMBRE D'\u00c9QUIPAGE : Elles sont en route, m'dame !  
+PASSAG\u00c8RE : Ce n'est pas ce qu'il disait dans votre radio !  
+MEMBRE D'\u00c9QUIPAGE : M'dame, restez o\u00f9 vous \u00eates ! L'ordinateur n'a pas termin\u00e9 son analyse de la situation, nous ne savons pas ce qui se trouve l\u00e0-dehors !  
+PASSAG\u00c8RE : Je ne me mourrai pas noy\u00e9e ici !  
+MEMBRE D'\u00c9QUIPAGE : Revenez m'dame, c'est dangereux !  
+*Bruits de Reaper*",
     "Ency_Lifepod3": "Enregistreur de bord d'Ing\u00e9nieurs",
-    "EncyDesc_Lifepod3": "PDA: Situational analysis complete. Communications relay offline.
-ENGINEER 1: Frack it! How are we going to make the rendezvous without a radio signal?
-ENGINEER 2: We have a compass bearing. We'll have to do it the old fashioned way.
-ENGINEER 1: You want to fabricate a compass?
-ENGINEER 2: Why stop there? If we find the others, we can build stillsuits. Construct habitats. Maybe even make it to the Aurora and reactivate the interstellar communications. You have a welder?
-ENGINEER 1: Yeah I- Damn it, I left it in the exo bay.
-ENGINEER 2: Don't sweat.
-ENGINEER 1: No, I fracked up.
-ENGINEER 2: No, we can do this. All we need is some basic materials. This planet can't be barren. Let's get out there and find out.",
+    "EncyDesc_Lifepod3": "
+PDA : Analyse de la situation termin\u00e9e. Relais de communication hors-ligne.
+ING\u00c9NIEUR 1 : Bordel ! Comment sommes-nous cens\u00e9s atteindre le point de rendez-vous sans signal radio ? 
+ING\u00c9NIEUR 2 : Nous avons un compas de rel\u00e8vement. Nous allons devoir le faire \u00e0 l'ancienne. 
+ING\u00c9NIEUR 1 : Tu veux fabriquer une boussole ? 
+ING\u00c9NIEUR 2 : Pourquoi s'arr\u00eater ici ? Si nous trouvons les autres, nous pourrons construire des distilles. Construire des habitats. Peut-\u00eatre m\u00eame atteindre l'Aurora et r\u00e9activer les communications interstellaires. Tu as une soudeuse ?
+ING\u00c9NIEUR 1 : Ouaip, je...Merde, je l'ai laiss\u00e9 dans l'exo bay.
+ING\u00c9NIEUR 2 : Ne t'en fais pas. 
+ING\u00c9NIEUR 1 : Non, je vais craquer.
+ING\u00c9NIEUR 2 : Non, on peut le faire. Nous avons juste besoin de quelques mat\u00e9riaux de base. Cette plan\u00e8te ne peut pas \u00eatre st\u00e9rile. Sortons d'ici et commen\u00e7ons \u00e0 chercher.",
     "Ency_Lifepod4": "Enregistreur de bord de l'\u00c9missaire Khasar",
-    "EncyDesc_Lifepod4": "Blackbox Data #345
-00:00 Lifepod systems online.
-00:03 Passenger 07 'Emissary Jochi Khasar' has boarded the lifepod.
-00:07 Lifepod launch sequence initiated.
-00:15 Lifepod detached from Aurora OK.
-00:17 Onboard microphones detecting voice communications, recording:
-'Our creators, who art gracious and merciful, hallowed be thy names. Praise be to you, the glorious one, the cherisher and sustainer of worlds. Give us this day our daily goods, and allow us our pleasures, as we allow those who seek pleasure from us.'
+    "EncyDesc_Lifepod4": "Donn\u00e9es Boite Noire #345 
+00:00 Syst\u00e8mes de la capsule connect\u00e9s.
+00:03 Passager 07 \"\u00c9missaire Jochi Khasar\" est mont\u00e9 \u00e0 bord de la capsule.
+00:07 S\u00e9quence de lancement de la capsule initi\u00e9e.
+00:15 Capsule de survie d\u00e9tach\u00e9e de l'Aurora OK.
+00:17 Microphones embarqu\u00e9s d\u00e9tectent communications vocales, enregistrement :
+\"Cr\u00e9ateurs, qui \u00eates compatissant et mis\u00e9ricordieux, que vos noms soient sanctifi\u00e9s. Lou\u00e9s soyez-vous, glorieux, seigneur et pourvoyeur de mondes. Donnez-nous aujourd'hui notre pain quotidien, et autorisez-nous nos plaisirs, comme nous autorisons ceux qui cherchent du plaisir de nous.\"
 
-00:33 Entering planetary atmosphere.
-00:35 External temperature approaching critical levels.
+00:33 Entr\u00e9e dans atmosph\u00e8re plan\u00e9taire. 
+00:35 Temp\u00e9ratures externes approchant niveaux critiques.
 
-00:37 'Show us the straight path, the path of those you favor. In Life, Truth, Love, the wholeness of reality. In Substance, Principle and Mind, man is its image and likeness. For ours is the power, we are the one. For ever and ever. Athem.'
+00:37 \"Montrez-nous le droit chemin, le chemin de ceux que vous privil\u00e9giez. Dans la Vie, l'Amour, la pl\u00e9nitude de la r\u00e9alit\u00e9. En Substance, Principe et Esprit, l'Homme est son image et sa ressemblance. Car le pouvoir est pour le n\u00f4tre, nous sommes l'un. Pour toujours et \u00e0 jamais. Athem.\"
 
-01:02 Exterior hull damage sustained.
-01:05 Life support systems failed.
-01:06 Impact imminent.",
+01:02 Dommages sur coque externe soutenus. 
+01:05 Syst\u00e8mes de survie hors-ligne. 
+01:06 Impact imminent. ",
     "Ency_LifepodSeaglide": "Journal Audio de la capsule de survie #1",
-    "EncyDesc_LifepodSeaglide": "This may be my last report. The lifepod made planetfall intact, but now it's surrounded by some kind of aquatic alien predator. They're encased in a carapace armour, and attack the moment I open the hatches. The first one that came at me I attacked with the survival knife, but it got lodged in the armor layers. Tried distracting them with flares - no effect. No propulsion cannon available. No stasis rifle. No chance. 
+    "EncyDesc_LifepodSeaglide": "Il se peut que ce rapport soit le dernier. Ma capsule de survie est sortie intacte du crash sur la plan\u00e8te, mais est maintenant entour\u00e9e par une sorte de pr\u00e9dateur aquatique alien. Ils sont recouverts d'une armure de carapace, et attaquent d\u00e8s que j'ouvre les \u00e9coutilles. Le premier qui a essay\u00e9 de m'atteindre, je l'ai attaqu\u00e9 avec mon couteau de survie mais celui-ci s'est log\u00e9 dans les nappes d'armure. J'ai essay\u00e9 de le distraire avec des fus\u00e9es \u00e9clairantes... sans effet. Je n'ai aucun canon \u00e0 propulsion de disponible. Aucun fusil \u00e0 stase. Aucune chance. 
 
-I've stripped some of the lifepod electrics to manufacture a seaglide. My only hope is I can outrun them. Wish me luck.",
+J'ai recycl\u00e9 certains composants \u00e9lectriques de la capsule de survie pour fabriquer un seaglide. Mon seul espoir est de les distancer. Souhaitez-moi bonne chance.",
     "Ency_LifepodKeenDialog": "Enregistreur de bord du Capitaine Keen",
-    "EncyDesc_LifepodKeenDialog": "CAPTAIN: Keen! This is Aurora, come in!
-KEEN: I hear you, Captain!
-CAPTAIN: The computer has identified a landmass at the attached coordinates! I want you to regroup the crew there!
-KEEN: Understood, but-
-CAPTAIN: They're your responsibility now, don't let me down!
-KEEN: Captain, you need to evacuate!
-*Explosion aboard the Aurora*
-KEEN: Captain?!",
+    "EncyDesc_LifepodKeenDialog": "CAPITAINE : Keen ! Ici l'Aurora, r\u00e9pondez !
+KEEN : Je vous re\u00e7ois, Capitaine !
+CAPITAINE : L'ordinateur a identifi\u00e9 une masse continentale aux coordonn\u00e9es jointes ! Je veux que vous regroupiez l'\u00e9quipage l\u00e0-bas !
+KEEN : Entendu, mais...
+CAPITAINE : Ils sont sous votre responsabilit\u00e9 d\u00e9sormais, ne me laissez pas tomber  !
+KEEN : Capitaine, vous devez \u00e9vacuer !
+*Explosion \u00e0 bord de l'Aurora*
+KEEN : Capitaine ?!
+",
     "Ency_LifepodKeenLog": "Journal du Capitaine Keen #1",
-    "EncyDesc_LifepodKeenLog": "To all crew - If you are reading this then you have followed the automatic distress signal broadcast by this lifepod's onboard computer, contrary to protocol. My lifepod was damaged on impact and I am forced to evacuate. Your orders are to disregard my safety and attempt to reach the designated regroup co-ordinates at the nearest landmass. I hope to see you there.
+    "EncyDesc_LifepodKeenLog": "
+\u00c0 tout l'\u00e9quipage, si vous lisez ceci, cela signifie que vous avez suivi le signal de d\u00e9tresse automatique diffus\u00e9 par l'ordinateur de bord de cette capsule de survie, contrairement au protocole. Ma capsule fut endommag\u00e9e lors de l'impact et je fut oblig\u00e9 d'\u00e9vacuer. Vous avez pour ordres de ne pas tenir compte de ma s\u00e9curit\u00e9 et de tenter d'atteindre les coordonn\u00e9es de regroupement fix\u00e9es \u00e0 la masse continentale la plus proche. J'esp\u00e8re vous y retrouver.
 
-- Second Officer Keen",
+- Second capitaine Keen",
     "Ency_LifepodCrashZone1": "Journal Audio de la capsule de survie #2",
-    "EncyDesc_LifepodCrashZone1": "CREW: I need you to stay calm. The hull's secure. We're not in immediate danger.
-PASSENGER: Where are the rescue teams?!
-CREW: The Aurora didn't make it, Ma'am.
-PASSENGER: What do you mean?
-CREW: They're dead, ma'am. They're all dead.
-PASSENGER: What do you intend to do about it?
-CREW: We can't wait here for rescue. We're going to have to fabricate radiation suits and make for the crash site.
-PDA: Detecting local metal deposits.
-CREW: The PDA's interfacing with the fabricator okay. We'll have to go outside for the materials.
-PASSENGER: We?! It's your job, isn't it? To look after the passengers!
-CREW: Within reasonable parameters.
-PASSENGER: I beg your pardon?
-CREW: Forget it, I'll go. Just don't assume I'll find enough materials for the both of us.",
+    "EncyDesc_LifepodCrashZone1": "MEMBRE D'\u00c9QUIPAGE : Vous devez rester calme. La coque est s\u00e9curis\u00e9e. Nous ne sommes pas en danger imm\u00e9diat. 
+PASSAG\u00c8RE : O\u00f9 sont les \u00e9quipes de secours ?!
+MEMBRE D'\u00c9QUIPAGE : L'Aurora n'a pas r\u00e9ussi, m'dame.
+PASSAG\u00c8RE : Que voulez-vous dire ?
+MEMBRE D'\u00c9QUIPAGE : Ils sont morts, m'dame.  Ils sont tous morts.
+PASSAG\u00c8RE : Et que comptez-vous faire \u00e0 ce sujet ?
+MEMBRE D'\u00c9QUIPAGE : Nous ne pouvons pas attendre les secours ici. Nous allons devoir fabriquer des combinaisons anti-radiation et atteindre le site du crash. 
+PDA : D\u00e9p\u00f4ts m\u00e9talliques locaux d\u00e9tect\u00e9s. 
+MEMBRE D'\u00c9QUIPAGE : Le PDA s'interface avec le fabricateur correctement. Nous devrons nous rendre \u00e0 l'ext\u00e9rieur pour trouver les mat\u00e9riaux.
+PASSAG\u00c8RE : Nous ?! C'est votre job, n'est-ce pas ? De veiller sur la s\u00e9curit\u00e9 des passagers !
+MEMBRE D'\u00c9QUIPAGE : Dans la limite du raisonnable. 
+PASSAG\u00c8RE : Je vous demande pardon ?
+MEMBRE D'\u00c9QUIPAGE : Oubliez \u00e7a, je vais m'en occuper. Mais ne pr\u00e9sumez pas que je trouverai suffisamment de mat\u00e9riaux pour nous deux. ",
     "Ency_LifepodCrashZone2": "Journal Audio de la capsule de survie #3",
-    "EncyDesc_LifepodCrashZone2": "*Hatch closes*
-CREW: *Coughing* Here, take this.
-PASSENGER: What do I do?!
-CREW: I pre-programmed the fabricator, just plug in the materials!
-FABRICATOR: Radiation suit fabricated.
-PASSENGER: It says there's only enough materials for one.
-CREW: It's all I could find. You'll have to take it.
-PASSENGER: To be clear, you want me to leave you here?
-CREW: Frack me, no! Find Officer Keen at the rendezvous, and send someone back for me with anti-rad meds, you incompetent, ungrateful-
-PASSENGER: Well if that's going to be your attitude-
-CREW: *Violent coughing*
-PASSENGER: OK, OK, I'm going!
-*Hatch opens*
-CREW: And stay clear of the crash zone in case the drive core goes up!",
+    "EncyDesc_LifepodCrashZone2": "*L'\u00e9coutille se ferme*
+MEMBRE D'\u00c9QUIPAGE : *Toussant* Tenez, prenez \u00e7a.
+PASSAG\u00c8RE : Que dois-je en faire ?!
+MEMBRE D'\u00c9QUIPAGE : J'ai pr\u00e9programm\u00e9 le fabricateur, il suffit d'ins\u00e9rer les mat\u00e9riaux !  
+FABRICATEUR : Combinaison anti-radiation fabriqu\u00e9e.
+PASSAG\u00c8RE : \u00c7a dit qu'il y a suffisamment de mat\u00e9riaux pour un seul.
+MEMBRE D'\u00c9QUIPAGE : C'est tout ce que j'ai pu trouver. Vous devez la prendre.
+PASSAG\u00c8RE : Qu'on soit clairs, vous voulez que je vous laisse ici ?
+MEMBRE D'\u00c9QUIPAGE : Putain, non ! Trouvez le Capitaine Keen au point de rendez-vous, et envoyez quelqu'un me r\u00e9cup\u00e9rer avec des m\u00e9dicaments anti-radiation, esp\u00e8ce d'incomp\u00e9tente, ingrate...
+PASSAG\u00c8RE : Tr\u00e8s bien, si vous le prenez comme \u00e7a...
+MEMBRE D'\u00c9QUIPAGE :  *Toussant violemment*
+PASSAG\u00c8RE : OK, OK, j'y vais ! 
+*L'\u00e9coutille s'ouvre*
+MEMBRE D'\u00c9QUIPAGE : Et restez \u00e0 l'\u00e9cart de la zone du crash au cas o\u00f9 le noyau principal s'emballe !",
     "Ency_LifepodCTODialog1": "Journal Audio du CTO #1",
-    "EncyDesc_LifepodCTODialog1": "CTO: We're sinking! The flotation devices must have failed!
-TECHNICIAN: Should we evacuate?!
-CTO: No! The seafloor shouldn't be more than a couple hundred meters down. We're safer in here than out there.
-TECHNICIAN: There's water coming in!
-CTO: Wait, I can reconfigure the O2 system to act as a bilge!
-TECHNICIAN: It's working!
+    "EncyDesc_LifepodCTODialog1": "CTO : Nous sommes en train de couler ! Les dispositifs de flottaison doivent avoir dysfonctionn\u00e9s. 
+TECHNICIEN : Devons-nous \u00e9vacuer ?!
+CTO : Non ! Le fond marin ne devrait pas \u00eatre \u00e0 plus de quelques centaines de m\u00e8tres plus bas. Nous sommes davantage en s\u00e9curit\u00e9 ici que l\u00e0-bas.
+TECHNICIEN : Il y a de l'eau qui rentre ! 
+CTO : Attendez, je peux r\u00e9utiliser le syst\u00e8me d'O\u00b2 pour en faire une cale ! 
+TECHNICIEN : \u00c7a fonctionne ! 
 *Crash*
-CTO: You okay?!
-TECHNICIAN: I think so...
-CTO: OK, good news or bad?
-TECHNICIAN: Good.
-CTO: We're alive, and we've stopped sinking.
-TECHNICIAN: Bad?
-CTO: The O2's going to run out in 30 minutes!
-TECHNICIAN: Frack! What do we do?
-CTO: Let me think.",
+CTO : Vous allez bien ?!
+TECHNICIEN : Je pense que oui...
+CTO : OK, vous voulez la bonne ou la mauvaise nouvelle ?
+TECHNICIEN : La bonne.
+CTO : Nous sommes en vie, et nous avons arr\u00eat\u00e9 de couler.
+TECHNICIEN : Et la mauvaise ?
+CTO : Nous n'aurons plus suffisamment d'O\u00b2 d'ici 30 minutes !
+TECHNICIEN : Merde ! Qu'est-ce qu'on fait ?
+CTO : Laissez-moi r\u00e9fl\u00e9chir. ",
     "Ency_LifepodCTODialog2": "Journal Audio du CTO #2",
-    "EncyDesc_LifepodCTODialog2": "*Sound of water inside the lifepod*
-CTO: According to these pressure readings we've sunk more than 400m.
-TECHNICIAN: So let's just build a flotation device, or a seaglide, and make for the surface.
-CTO: We'll never make it without air tanks. It's too far.
-TECHNICIAN: *Spluttering* I don't want to pressure you, but my feet aren't touching the floor anymore.
-CTO: I've got it! There's another lifepod nearby, a hundred meters from here. If we can make it there, we can resupply our O2 tanks then head for the surface!
-TECHNICIAN: What if that pod's screwed too?!
-CTO: Then we're screwed too, but no more than we are already!
-TECHNICIAN: I'm ready.",
+    "EncyDesc_LifepodCTODialog2": "*Bruit d'eau \u00e0 l'int\u00e9rieur de la capsule*
+CTO : D'apr\u00e8s ces mesures de la pression d'air, nous avons coul\u00e9 \u00e0 plus de 400 m. 
+TECHNICIEN : Bon, construisons simplement un dispositif de flottaison, ou un seaglide, et atteignons la surface. 
+CTO : Nous ne r\u00e9ussirons jamais sans r\u00e9servoirs d'air. C'est beaucoup trop loin.
+TECHNICIEN : *Crachant* Je ne veux pas vous mettre la pression, mais mes pieds ne touchent plus le sol.
+CTO : J'ai trouv\u00e9 ! Il y a une autre capsule de survie \u00e0 proximit\u00e9, \u00e0 une centaine de m\u00e8tres d'ici. Si nous pouvions l'atteindre, nous pourrions r\u00e9approvisionner nos r\u00e9servoirs d'O\u00b2 puis nous diriger vers la surface ! 
+TECHNICIEN : Et que fera-t-on si cette capsule est elle aussi \u00e0 sec ?! 
+CTO : Alors nous serons foutus, mais pas plus qu'on ne l'est d\u00e9j\u00e0 !
+TECHNICIEN : Je suis pr\u00eat.
+",
     "Ency_LifepodCTOLog1": "Journal du CTO #1",
-    "EncyDesc_LifepodCTOLog1": "Entry 1
-Screw this planet! Technician Berkeley and I were forced to abandon our lifepod when it hit the ocean floor. We swam for this pod, but Berkeley ran out of air on the way here. And I don't know how, but we're not in open water. There's no natural light here. There's a roof overhead, and no obvious way out. Lifepod must have rolled down into a cave system of some kind. Might be I can use a dive reel and compass to chart a way out. Might be I'm going to breathe my last down here.
+    "EncyDesc_LifepodCTOLog1": "Entr\u00e9e 1 
+J'emmerde cette plan\u00e8te ! Technicien Berkeley et moi-m\u00eame avons \u00e9t\u00e9 contraints d'abandonner notre capsule de survie quand celle-ci a frapp\u00e9 le fond de l'oc\u00e9an. Nous avons tent\u00e9 de nager jusqu'\u00e0 cette capsule, mais Berkeley a manqu\u00e9 d'air sur le trajet. Et je ne sais pas comment cela est possible mais je ne suis pas en eau libre. Il n'y a aucune lumi\u00e8re naturelle l\u00e0-dessous. Il y a l'air d'avoir un plafond au-dessus de moi mais aucune sortie visible a priori. La capsule a probablement roul\u00e9 et atterri  dans une galerie de grottes ou quelque chose dans le genre. Je pourrais peut-\u00eatre utiliser du fil d'Ariane et une boussole pour tracer une voie de sortie. C'est peut-\u00eatre la derni\u00e8re fois que je reprends ma respiration ici.
 
-Entry 2
-Two hours since the first pod sunk. I've tried exploring the area. There's no air pockets. No overhead exit. If I had plasteel I could build an air tank, a submersible, anything! But as it is I can only explore so far before I'm forced back to this lifepod. I have to find another way.
+Entr\u00e9e 2
+Deux heures depuis que la premi\u00e8re capsule a coul\u00e9. J'ai essay\u00e9 d'explorer la r\u00e9gion.  Aucune poche d'air. Pas de sortie au-dessus de moi. Si j'avais du plastacier, je pourrais construire un r\u00e9servoir d'air, un submersible, n'importe quoi ! Mais dans les conditions actuelles, je ne peux pas m'enfoncer davantage avant d'\u00eatre forc\u00e9 \u00e0 rebrousser chemin jusqu'\u00e0 la capsule. Je dois trouver un autre moyen.
 
-Entry 3
-I've managed to cobble together a rebreather and explore a bit further. I've found an incline heading up. Not clear whether it's part of the cave wall, or the way out. One way to know for sure.
+Entr\u00e9e 3
+Je suis parvenu \u00e0 bricoler un recycleur et \u00e0 explorer un peu plus loin. J'ai trouv\u00e9 une pente qui semble se diriger vers le haut. Je ne suis pas capable de d\u00e9terminer s'il s'agit du mur de la grotte, ou de la sortie. Il n'y a qu'une fa\u00e7on de le savoir.
+ 
+Entr\u00e9e 4 
+La lumi\u00e8re du jour ! Je jure que c'\u00e9tait la lumi\u00e8re du jour, aucun doute l\u00e0-dessus. J'ai nag\u00e9 aussi loin que possible. La prochaine fois, je devrai aller au-del\u00e0 du point de non-retour et mettre toutes les chances de mon c\u00f4t\u00e9. Si une \u00e9quipe de secours tombe sur ceci, s'il vous pla\u00eet, r\u00e9cup\u00e9rez le corps de Berkeley, si les poissons ne l'ont pas trouv\u00e9 en premier. Je vais maintenant tenter d'atteindre la surface et me regrouper avec Keen ou toute personne qui aura r\u00e9ussir \u00e0 survivre.
 
-Entry 4
-Daylight! It was definitely daylight, I'm sure of it. I swam as far as I could. Next time I have to go past the point of no return and take my chances. If any rescue party finds this, please retrieve Berkeley's body, if the fish don't get to it first. I will now attempt to make it to the surface and regroup with Keen and anyone else that made it. 
-
-- Chief Technical Officer Yu",
+- Directeur Technique Yu
+",
     "Ency_LifepodCTOLog2": "Journal du CTO #2",
     "EncyDesc_LifepodCTOLog2": "Cette balise marque le commencement d'un r\u00e9seau de grottes important. De forts courants ont attir\u00e9 notre capsule de survie. Ne franchissez pas ce point si vous tenez \u00e0 votre vie.
 
@@ -2180,16 +2180,16 @@ Daylight! It was definitely daylight, I'm sure of it. I swam as far as I could. 
     "VerticalSensitivity": "Sensibilit\u00e9 verticale",
     "InvertLook": "Vision invers\u00e9e ",
     "EnableController": "Activer le contr\u00f4leur",
-    "ResetToDefault": "R\u00e9initialiser les param\u00e8tres par d\u00e9faut",
+    "ResetToDefault": "Param\u00e8tres par d\u00e9faut",
     "Deconstruct": "D\u00e9monter ",
     "Construct": "Construire ",
     "CyclopsWelcomeNoPower": "Cyclops : Attention, alimentation d'urgence fonctionnelle uniquement. Production d'oxyg\u00e8ne hors-ligne.",
-    "AssignQuickSlot": "assigner un emplacement rapide",
+    "AssignQuickSlot": "assigner \u00e0 un emplacement rapide",
     "Eat": "manger ",
-    "Use": "utiliser ",
+    "Use": "Utiliser",
     "Place": "placer ",
     "Drop": "d\u00e9poser ",
-    "SwitchContainer": "switch container",
+    "SwitchContainer": "d\u00e9placer ",
     "SeamothWelcomeNoPower": "Seamoth : Attention, alimentation d'urgence fonctionnelle uniquement. Production d'oxyg\u00e8ne hors-ligne.",
     "BaseWelcomeNoPower": "Base : Attention, alimentation d'urgence fonctionnelle uniquement. Production d'oxyg\u00e8ne hors-ligne.",
     "MapRoomCameraConnecting": "CONNEXION EN COURS",
@@ -2197,5 +2197,40 @@ Daylight! It was definitely daylight, I'm sure of it. I swam as far as I could. 
     "StarshipChair3": "Chaise 3",
     "Tooltip_StarshipChair2": "\u00c9tonnamment confortable",
     "Tooltip_StarshipChair3": "\u00c9tonnamment confortable",
+    "UseMapRoomFabricator": "Utiliser Fabricateur ",
+    "MapRoomUpgrades": "Am\u00e9liorations de salle de scanner ",
+    "MapRoomHUDChip": "Puce de HUD pour salle de scanner ",
+    "Tooltip_MapRoomHUDChip": "Transf\u00e8re des donn\u00e9es \u00e0 partir des salles de scanner vers le HUD",
+    "MapRoomUpgradeScanRange": "Am\u00e9lioration de port\u00e9e pour salle de scanner",
+    "MapRoomUpgradeScanSpeed": "Am\u00e9lioration de vitesse pour salle de scanner ",
+    "Tooltip_MapRoomUpgradeScanRange": "",
+    "Tooltip_MapRoomUpgradeScanSpeed": "",
+    "FireExtinguisher": "Extincteur d'incendie",
+    "DamagedSavedGame": "<color='#000000FF'>Partie sauvegard\u00e9e endommag\u00e9e<\/color>",
+    "MapRoomCameraInfoScreen": "CAM\u00c9RA {0}",
+    "ControlCamera": "Cam\u00e9ra de contr\u00f4le ",
+    "MapRoomScanningText": "NUM\u00c9RISATION",
+    "BindQuickSlot": "lier \u00e0 un raccourci",
+    "Equip": "\u00e9quiper ",
+    "Unequip": "d\u00e9s\u00e9quiper",
+    "CyclopsHullModule1": "Balance de pression pour Cyclops",
+    "Tooltip_CyclopsHullModule1": "R\u00e9organise la structure atomique de la coque du sous-marin afin d'augmenter en toute s\u00e9curit\u00e9 la profondeur de plong\u00e9e.",
+    "CyclopsHullModule2": "Ultra module de renforcement de coque",
+    "Tooltip_CyclopsHullModule2": "R\u00e9organise par d'extr\u00eames quantit\u00e9s la structure atomique de la coque du sous-marin afin d'augmenter en toute s\u00e9curit\u00e9 la profondeur de plong\u00e9e.",
+    "WorkbenchMenu_CyclopsMenu": "Am\u00e9liorations pour Cyclops",
+    "CyclopsLightingToggle": "Basculer \u00c9clairage Interne On\/Off",
+    "CyclopsPowerToggle": "Basculer Alimentation Cyclops On\/Off",
+    "CyclopsFloodlightsToggle": "Basculer Projecteurs Externes On\/Off",
+    "SeamothHullModule1": "Balance de pression Mark 1 pour Seamoth",
+    "Tooltip_SeamothHullModule1": "Durcit le ch\u00e2ssis du Seamoth sous de fortes pressions.",
+    "SeamothHullModule2": "Balance de pression Mark 2 pour Seamoth",
+    "Tooltip_SeamothHullModule2": "Durcit le ch\u00e2ssis du Seamoth sous d'extr\u00eames pressions.",
+    "SeamothHullModule3": "Balance de pression Mark 3 pour Seamoth",
+    "Tooltip_SeamothHullModule3": "Durcit le ch\u00e2ssis du Seamoth sous les plus profondes pressions de la plan\u00e8te.",
+    "SeamothDepthWarning": "ATTENTION ! Le Seamoth se trouve en-dessous de sa profondeur maximale actuelle !",
+    "UraniniteCrystal": "Uraninite crystal",
+    "ReactorRod": "Reactor rod",
+    "Tooltip_ReactorRod": "Used to power nuclear reactors.",
+    "Tooltip_UraniniteCrystal": "A highly radioactive and interesting mineral.",
     "1": "2"
 }

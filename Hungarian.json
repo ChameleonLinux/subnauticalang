@@ -124,7 +124,7 @@
     "BigCoralTubes": "\u00d3ri\u00e1s korallcs\u00f6vek",
     "TreeMushroom": "Gombafa",
     "BlueCluster": "Ny\u00fajt\u00f3z\u00f3 f\u00fcrt",
-    "BrownTubes": "Earthen coral tubes",
+    "BrownTubes": "F\u00f6ldes korallcs\u00f6vek",
     "BloodGrass": "V\u00e9rf\u0171",
     "JeweledDiskPiece": "T\u00e1blakorall minta",
     "CoralChunk": "K\u00f6z\u00f6ns\u00e9ges korall minta",
@@ -229,7 +229,7 @@
     "TRANSFUSER SERUM": "TRANSZF\u00daZI\u00d3S K\u00c9SZ\u00dcL\u00c9K SZ\u00c9RUM",
     "PLAYER EFFECTS": "J\u00c1T\u00c9KOSRA HATNAK",
     "CREATURE DEBUG": "L\u00c9NY HIBAKERES\u00c9S",
-    "PickUp": "Felvesz",
+    "PickUp": "Felvesz:",
     "PickedUp": "Felv\u00e9ve: {0}",
     "Needs": "Sz\u00fcks\u00e9ges",
     "Tooltip_AcidMushroom": "Lila gombaf\u00e9le. Savas h\u00fasa v\u00e9delmez\u0151 szerepet t\u00f6lt be.",
@@ -303,7 +303,7 @@
     "Tooltip_SmallStorage": "4x4-es rakt\u00e1r, amely megtartja poz\u00edci\u00f3j\u00e1t a v\u00edzben.",
     "Tooltip_StalkerTooth": "Egy \u00e9les, kem\u00e9ny\u00edtett kalcium-k\u00e9pz\u0151dm\u00e9ny.",
     "Tooltip_StasisRifle": "Megfagyasztja a fizikai c\u00e9lpontokat.",
-    "Tooltip_Tank": "O\u00b2 kever\u00e9k. 30 m\u00e1sodpercnyi bel\u00e9legezhet\u0151 leveg\u0151t t\u00e1rol.",
+    "Tooltip_Tank": "O\u00b2 mix. 60 seconds of breathable air.",
     "Tooltip_Terraformer": "Hozz\u00e1f\u00e9rhet\u0151 terepform\u00e1l\u00f3 eszk\u00f6z.",
     "Tooltip_Thermometer": "Szemmagass\u00e1g\u00fa kijelz\u0151 h\u0151m\u00e9r\u0151 szenzora.",
     "Tooltip_Titanium": "Ti. Alapvet\u0151 \u00e9p\u00edt\u0151anyag.",
@@ -366,7 +366,7 @@
     "BaseWall": "Fal",
     "BaseWindow": "Ablak",
     "PowerGenerator": "\u00c1ramfejleszt\u0151",
-    "Tooltip_BaseFoundation": "El\u0151sz\u00f6r ezt \u00e9p\u00edtsd meg (+2\u00c9P)",
+    "Tooltip_BaseFoundation": "El\u0151sz\u00f6r ezt \u00e9p\u00edtsd meg (+2 \u00c9P)",
     "Tooltip_BaseCorridor": "Alap folyos\u00f3 (-1\u00c9P)",
     "Tooltip_BaseCorridorI": "Alap folyos\u00f3 (-1\u00c9P)",
     "Tooltip_BaseCorridorT": "Bal \u00e9s jobb (-1\u00c9P)",
@@ -381,7 +381,7 @@
     "Tooltip_BaseWindow": "Megfigyel\u0151 ablak (-1 \u00c9P)",
     "Tooltip_PowerGenerator": "Az alapoz\u00e1sra \u00e9p\u00edtsd, hogy energi\u00e1val l\u00e1thassa el a lak\u00f3helyet",
     "GhostModelRotateInput": "Eg\u00e9rg\u00f6rg\u0151vel forgathat\u00f3",
-    "WarningUnsafeDepth": "FIGYELEM: Biztons\u00e1gos mer\u00fcl\u00e9si m\u00e9lys\u00e9g elhagy\u00e1sa {0} m\u00e9terrel. Az \u00fctk\u00f6z\u00e9sek k\u00e1rt fognak tenni a burkolatban.",
+    "WarningUnsafeDepth": "WARNING: Passing safe depth of {0} meters. Approaching crush depth.",
     "WarningCrushDepth": " FIGYELEM: V\u00e9gzetes mer\u00fcl\u00e9si m\u00e9lys\u00e9g el\u00e9r\u00e9se {0} m\u00e9ter m\u00falva. A burkolat megs\u00e9r\u00fcl\u00e9se elker\u00fclhetetlen! Azonnal emelkedjen!",
     "SafeDepthNow": "A biztons\u00e1gos mer\u00fcl\u00e9si m\u00e9lys\u00e9g jelenleg {0} m\u00e9ter",
     "CrushDepthNow": "A v\u00e9gzetes mer\u00fcl\u00e9si m\u00e9lys\u00e9g jelenleg {0} m\u00e9ter",
@@ -400,7 +400,7 @@
     "CaveEntrance": "Lehets\u00e9ges barlang bej\u00e1rat",
     "HeatSignature": "H\u0151k\u00e9p",
     "HatchExitBlocked": "A zsilip kij\u00e1rata blokkolva!",
-    "RotateCorridorHint": "Rotate",
+    "RotateCorridorHint": "Forgat\u00e1s",
     "Lead": "\u00d3lomg\u00f6mb\u00f6k",
     "Magnesium": "Magn\u00e9zium",
     "NutrientBlock": "T\u00e1panyag r\u00fad",
@@ -415,7 +415,7 @@
     "PowerUpgradeModule": "Energiahat\u00e9konys\u00e1g fejleszt\u0151 modul",
     "Tooltip_PowerUpgradeModule": "\u00dajrahasznos\u00edtja a keletkez\u0151 hullad\u00e9kh\u0151t hogy 15%-kal n\u00f6velje a motor hat\u00e9konys\u00e1g\u00e1t",
     "SpecimenAnalyzerBlueprint": "Fajanaliz\u00e1l\u00f3 tervrajz",
-    "FirstAidKit": "Els\u0151seg\u00e9ly k\u00e9szlet",
+    "FirstAidKit": "Els\u0151seg\u00e9ly csomag",
     "Tooltip_FirstAidKit": "Kezelt k\u00f6tszer. V\u00e9rz\u00e9s el\u00e1ll\u00edt\u00e1s\u00e1ra \u00e9s sebek fert\u0151tlen\u00edt\u00e9s\u00e9re.",
     "Tooltip_Lead": "Pb. Sug\u00e1rz\u00e1s ellen szigetel.",
     "Tooltip_NutrientBlock": "S\u0171r\u0171, feldolgozott \u00e9lelmiszer az Aur\u00f3r\u00e1r\u00f3l.",
@@ -453,7 +453,7 @@
     "ReefbackAdvancedStructure": "Tekn\u0151sp\u00e1nc\u00e9l-szerkezet",
     "Tooltip_ReefbackAdvancedStructure": "Elemezve a r\u00e9szletes bels\u0151 m\u0171k\u00f6d\u00e9s\u00e9t, ez a fejlett h\u00e9jszerkezet tal\u00e1n tov\u00e1bbi szerkezeti er\u0151s\u00edt\u00e9st tesz lehet\u0151v\u00e9.",
     "HullReinforcementModule2": "Kagyl\u00f3szer\u0171 burkolat-meger\u0151s\u00edt\u0151 modul",
-    "Tooltip_HullReinforcementModule2": "Burkolat-meger\u0151s\u00edt\u0151 modul, amely a Z\u00e1tonyh\u00e1t kagyl\u00f3-szerkezet\u00e9n alapul",
+    "Tooltip_HullReinforcementModule2": "Hull reinforcement module built using an interwoven nanite structure",
     "HullReinforcementModule3": "Tekn\u0151sp\u00e1nc\u00e9l burkolat-meger\u0151s\u00edt\u0151 modul",
     "Tooltip_HullReinforcementModule3": "Burkolat-er\u0151s\u00edt\u0151 modul, mely a Z\u00e1tonyh\u00e1t tekn\u0151sp\u00e1nc\u00e9l-szer\u0171 sejtjein alapul",
     "ReefbackEgg": "Z\u00e1tonyh\u00e1t toj\u00e1s",
@@ -462,10 +462,10 @@
     "UpgradeConsole": "Hozz\u00e1f\u00e9r\u00e9s a fejleszt\u00e9sekhez",
     "PowerRatingNow": "A jelenlegi hat\u00e1sfok {0}",
     "RadiationFixed": "A hajt\u00f3m\u0171 sziv\u00e1rg\u00f3 magja lez\u00e1rva. A sug\u00e1rz\u00e1s 3 nap alatt eloszlik. K\u00eds\u00e9rlet az Aur\u00f3ra fekete doboz\u00e1ban t\u00e1rolt adatok let\u00f6lt\u00e9s\u00e9re. Interferenci\u00e1ba \u00fctk\u00f6ztem.",
-    "RemainingRadiationLeaks": "{0} sug\u00e1rz\u00f3 sziv\u00e1rg\u00e1s maradt",
+    "RemainingRadiationLeaks": "Radiation leaks remaining: {0}",
     "HardcoreGameOver": "Meghalt\u00e1l. J\u00e1t\u00e9k v\u00e9ge.",
     "WorldArrow_AttackBleeder": "T\u00e1mad\u00e1s",
-    "EscToSkip": "Hold ESC to skip",
+    "EscToSkip": "Tartsd lenyomva az ESC-et az \u00e1tvezet\u0151 \u00e1tugr\u00e1s\u00e1hoz",
     "InventoryLabel": "ESZK\u00d6ZT\u00c1R",
     "StorageLabel": "T\u00c1ROL\u00d3",
     "EquipmentLabel": "VISELVE",
@@ -530,14 +530,14 @@
     "Tooltip_SwimChargeFins": "\u00dasz\u00e1s k\u00f6zben vezet\u00e9k n\u00e9lk\u00fcl t\u00f6lti a n\u00e1lad l\u00e9v\u0151 elemes eszk\u00f6zt",
     "Tooltip_RepulsionCannon": "Er\u0151t gyakorol a c\u00e9lpontokra",
     "Tooltip_Stillsuit": "Visszanyeri a kiizzadt vizet",
-    "Tooltip_PowerGlide": "Right-mouse to activate power surge",
+    "Tooltip_PowerGlide": "Jobb eg\u00e9rgombbal aktiv\u00e1lhat\u00f3 az energia\u00e1ram",
     "SecsO2": "{0} m\u00e1sodperc",
     "Empty": "\u00fcres",
     "Tooltip_PropulsionCannon": "M\u00f3dos\u00edtja a gravit\u00e1ci\u00f3t, hogy mag\u00e1hoz h\u00fazzon vagy ell\u00f6kj\u00f6n c\u00e9lpontokat.",
     "Tooltip_PropulsionCannonBlueprint": "Tervek a Vonz\u00f3-\u00e1gy\u00fa \u00e9p\u00edt\u00e9s\u00e9hez",
     "InventoryOverflow": "Az eszk\u00f6zt\u00e1r megtelt. Szabad\u00edts fel helyet a felv\u00e9tel\u00e9hez: {0}",
     "CrashPowder": "Robban\u00f3-por",
-    "Tooltip_CrashPowder": "SO\u2074Tr. K\u00e9n-alap\u00fa por. V\u00edz alatt is \u00e9ghet\u0151.",
+    "Tooltip_CrashPowder": "SO\u2084Tr. K\u00e9n-alap\u00fa por. V\u00edz alatt is \u00e9ghet\u0151.",
     "LoadGame": "J\u00e1t\u00e9k bet\u00f6lt\u00e9se",
     "Quit": "Kil\u00e9p\u00e9s",
     "SurvivalDescription": "Ker\u00fcld el a vesz\u00e9lyes l\u00e9nyeket, tal\u00e1lj forr\u00e1sokat, csillap\u00edtsd \u00e9hs\u00e9ged \u00e9s szomj\u00fas\u00e1god a t\u00fal\u00e9l\u00e9shez.",
@@ -631,7 +631,7 @@
     "MouseSensitivity": "Eg\u00e9r \u00e9rz\u00e9kenys\u00e9ge",
     "OculusRift": "Oculus Rift",
     "OculusRecenter": "K\u00f6z\u00e9ppont \u00fajradefini\u00e1l\u00e1sa (F2)",
-    "DisableMousePitch": "Disable mouse pitch",
+    "DisableMousePitch": "Eg\u00e9rrel b\u00f3lint\u00e1s letilt\u00e1sa",
     "ArmFollowsGaze": "A kar k\u00f6veti a tekintetet",
     "capacity": "kapacit\u00e1s",
     "ClimbUpLadder": "Felm\u00e1sz\u00e1s a l\u00e9tr\u00e1n",
@@ -714,13 +714,13 @@
     "EnterBase": "Bel\u00e9p\u00e9s a b\u00e1zisra",
     "ExitBase": "B\u00e1zis elhagy\u00e1sa",
     "MarkiplierHullPlate": "Markiplier burkolati lemez",
-    "Tooltip_MarkiplierHullPlate": "I'm not scared. Not even a little bit.",
+    "Tooltip_MarkiplierHullPlate": "Nem f\u00e9lek. M\u00e9g egy kicsit sem.",
     "MuyskermHullPlate": "Muyskerm burkolati lemez",
     "Tooltip_MuyskermHullPlate": "Vizsg\u00e1ld fel\u00fcl a YouTube feliratkoz\u00e1si elv\u00e1r\u00e1saidat.",
     "LordMinionHullPlate": "LordMinion burkolati lemez",
     "Tooltip_LordMinionHullPlate": "Minden id\u0151k legj\u00f3k\u00e9p\u0171bb Subnautica burkolati lemeze.",
     "JackSepticEyeHullPlate": "JackSepticEye burkolati lemez",
-    "Tooltip_JackSepticEyeHullPlate": "Jack creates clean, swearing-free videos appropriate for viewing by all ages.",
+    "Tooltip_JackSepticEyeHullPlate": "Jack tiszta, k\u00e1romkod\u00e1s mentes vide\u00f3kat k\u00e9sz\u00edt, melyeket minden koroszt\u00e1ly megtekinthet.",
     "Aerogel": "Aerog\u00e9l",
     "AluminumOxide": "Alum\u00ednium-oxid krist\u00e1ly",
     "AminoAcids": "Aminosavak",
@@ -854,7 +854,7 @@
     "SeamothTorpedoStorage": "Csik\u00f3hal torped\u00f3-raktere",
     "SeamothTorpedoNoAmmo": "L\u0151szer kifogyott. Sz\u00e1llj ki a j\u00e1rm\u0171b\u0151l \u00e9s t\u00f6ltsd \u00fajra a torped\u00f3-rakteret.",
     "WhirlpoolTorpedo": "Csik\u00f3hal \u00f6rv\u00e9ny-torped\u00f3ja",
-    "Tooltip_WhirlpoolTorpedo": "Load this to the torpedo bay on the forward section of your Seamoth.",
+    "Tooltip_WhirlpoolTorpedo": "T\u00f6ltse be a Csik\u00f3hala els\u0151 r\u00e9sz\u00e9n tal\u00e1lhat\u00f3 torped\u00f3-rakt\u00e9rbe.",
     "SeamothArmorPlating": "Csik\u00f3hal meger\u0151s\u00edtett burkolata",
     "Tooltip_SeamothArmorPlating": "Norm\u00e1l k\u00f6r\u00fclm\u00e9nyek k\u00f6z\u00f6tt \u00fctk\u00f6z\u00e9s el\u0151tt a v\u00e1zat meger\u0151s\u00edtve elimin\u00e1lja a k\u00e1rokat.",
     "SeamothUpgradesMenu_ModuleMenu": "Csik\u00f3hal fejleszt\u00e9si modulok",
@@ -877,7 +877,7 @@
     "ScreenshotUpload": "Felt\u00f6lt\u00e9s",
     "ScreenshotAddToSteamLibrary": "Hozz\u00e1ad\u00e1s a Steam-hez",
     "ScreenshotDelete": "T\u00f6rl\u00e9s",
-    "PDAGalleryTabInstructions": "Press {0} to take a screenshot",
+    "PDAGalleryTabInstructions": "Nyomjon {0}-t k\u00e9perny\u0151k\u00e9p k\u00e9sz\u00edt\u00e9s\u00e9hez",
     "PDAGalleryThumbnailSize": "M\u00e9ret",
     "PDAGalleryUpload": "K\u00e9p felt\u00f6lt\u00e9se a K\u00e9pkeretbe",
     "PDAGalleryAddToSteam": "K\u00e9p hozz\u00e1ad\u00e1sa a Steam K\u00f6nyvt\u00e1rhoz",
@@ -901,7 +901,7 @@
     "Tooltip_FarmingTray": "Mesters\u00e9ges n\u00f6v\u00e9ny\u00e1gy, alkalmas sz\u00e1razf\u00f6ldi \u00e9s v\u00edz alatti haszn\u00e1latra.",
     "Tooltip_FiltrationMachine": "V\u00edztiszt\u00edt\u00f3 berendez\u00e9s",
     "Tooltip_ReinforcedDiveSuit": "Neh\u00e9z, aramidsz\u00e1las b\u00fav\u00e1rruha: 50% fizikai v\u00e9delmet biztos\u00edt.",
-    "FiltrationComplete": "Filtration complete",
+    "FiltrationComplete": "Sz\u0171r\u00e9s k\u00e9sz",
     "FiltrationProgress": "Sz\u0171r\u00e9s folyamatban: v\u00edz {0:P0}, s\u00f3 {1:P0}",
     "BasePlanter": "\u00c9l\u0151 fal",
     "BaseFiltrationMachine": "V\u00edztiszt\u00edt\u00f3 berendez\u00e9s",
@@ -1108,14 +1108,14 @@ Ut\u00f3lagos megjegyz\u00e9s: Az \u00d6n szem\u00e9lyes \u00e9s munkaf\u00e1jlj
 
 FONTOS: Ezek az inform\u00e1ci\u00f3k \u00e1ltal\u00e1nos ir\u00e1nymutat\u00e1st jelentenek. Els\u0151k\u00e9nt mindig \u00e9rdemes k\u00f6vetni a PDA tan\u00e1csait, mivel az figyelembe veszi az adott helyzetet.",
     "Ency_AuroraOverview": "Aur\u00f3ra B\u00e1ny\u00e1szhaj\u00f3 \u00c1ttekint\u00e9s",
-    "EncyDesc_AuroraOverview": "K\u00fcldet\u00e9s: 3 \u00e9ves b\u00e1ny\u00e1szati felm\u00e9r\u0151-k\u00fcldet\u00e9s
-Leg\u00e9nys\u00e9g: Parancsnoki csapat (11 f\u0151), M\u00e9rn\u00f6k csapat (57 f\u0151), Kiszolg\u00e1l\u00f3 szem\u00e9lyzet (30 f\u0151), Utasok (3 f\u0151)
+    "EncyDesc_AuroraOverview": "Mission: 3 year exploratory mining operation
+Crew: Command Team (11), Engineering Team (57), Support Crew (30), Passengers (3)
 
-L\u00e9tes\u00edtm\u00e9nyek:
-- S\u00f6t\u00e9t-anyaggal m\u0171k\u00f6d\u0151 V8-as ion-hajt\u00f3m\u0171
-- M\u00e9rn\u00f6ki szekci\u00f3 A kateg\u00f3ri\u00e1s al-l\u00e9tes\u00edtm\u00e9nyekkel (tartalmaz meteor-z\u00faz\u00f3t, ir\u00e1ny\u00edtott robotokat \u00e9s szkennerek sz\u00e9les v\u00e1laszt\u00e9k\u00e1t)
-- 0,25 n\u00e9gyzetkilom\u00e9teres rakt\u00e9r a kib\u00e1ny\u00e1szott nyersanyagoknak
-- Lak\u00f3hely szekci\u00f3 C+ kateg\u00f3ri\u00e1s szabadid\u0151 al-l\u00e9tes\u00edtm\u00e9nyekkel;",
+Facilities:
+- Dark-matter ion drive V8
+- Engineering section with A Grade facilities (incl primary meteor cracker, manned robotics suite and full scanner range)
+- 0.25 cubic kilometers storage for mined resources
+- Habitation section with C+ Grade leisure facilities.",
     "Ency_AEPSuit": "K\u00f6rnyezetf\u00fcggetlen V\u00e9d\u0151 (b\u00fav\u00e1r)Ruha",
     "EncyDesc_AEPSuit": "Alterra K.V. (b\u00fav\u00e1r)Ruha: Egys\u00e9ges megold\u00e1s az univerzum v\u00e9gtelen vesz\u00e9lyforr\u00e1saira
 
@@ -1494,15 +1494,15 @@ M\u0171szaki adatok:
     "Tooltip_PurpleRattleSpore": "",
     "Tooltip_PurpleVasePlantSeed": "",
     "Tooltip_WhiteMushroomSpore": "",
-    "LEDLight": "F\u00e9nyr\u00fad",
-    "LEDLightBlueprint": "F\u00e9nyr\u00fad tervrajz",
-    "Tooltip_LEDLightBlueprint": "Tervek f\u00e9nyr\u00fad \u00e9p\u00edt\u00e9s\u00e9hez",
+    "LEDLight": "LED-r\u00fad",
+    "LEDLightBlueprint": "LED-r\u00fad tervrajz",
+    "Tooltip_LEDLightBlueprint": "Tervek LED-r\u00fad \u00e9p\u00edt\u00e9s\u00e9hez",
     "Tooltip_LEDLight": " Lehelyezhet\u0151, elemes f\u00e9nyforr\u00e1s",
-    "Ency_LEDLight": "F\u00e9nyr\u00fad",
+    "Ency_LEDLight": "LED-r\u00fad",
     "EncyDesc_LEDLight": "Hordozhat\u00f3, elemes LED vil\u00e1g\u00edt\u00e1s, amely alacsony-f\u00e9nyerej\u0171, 360 fokos megvil\u00e1g\u00edt\u00e1st biztos\u00edt \u00e9s a legt\u00f6bb felsz\u00ednre lehelyezhet\u0151.",
-    "LoadingMessage": "Loading...
+    "LoadingMessage": "Bet\u00f6lt\u00e9s... 
 
-NOTE: This screen may take some minutes to load and may look as if it has crashed during that time. Please be patient.",
+MEGJEGYZ\u00c9S: A bet\u00f6lt\u00e9s eltarthat n\u00e9h\u00e1ny percig \u00e9s ezalatt \u00fagy t\u0171nhet, mintha a j\u00e1t\u00e9k lefagyott volna. K\u00e9rlek, l\u00e9gy t\u00fcrelemmel.",
     "Dead": "Halott",
     "CyclopsHullFragment": "K\u00fcklopsz burkolat-t\u00f6red\u00e9k",
     "CyclopsBridgeFragment": "K\u00fcklopsz parancsnoki h\u00edd-t\u00f6red\u00e9k",
@@ -1697,7 +1697,6 @@ Nyomj F8-at az elolvas\u00e1s\u00e1hoz.",
     "ConstructorFragment": "Hordozhat\u00f3 j\u00e1rm\u0171k\u00e9sz\u00edt\u0151 t\u00f6red\u00e9k",
     "PowerTransmitterFragment": "Energia tov\u00e1bb\u00edt\u00f3 t\u00f6red\u00e9k",
     "RadioFragment": "R\u00e1di\u00f3 t\u00f6red\u00e9k",
-    "ScannerRoomFragment": "Ir\u00e1ny\u00edt\u00f3 szoba t\u00f6red\u00e9k",
     "SeaglideFragment": "Elemes Sikl\u00f3 t\u00f6red\u00e9k",
     "SolarPanelFragment": "Napelem t\u00f6red\u00e9k",
     "SpecimenAnalyzerFragment": "Fajanaliz\u00e1l\u00f3 t\u00f6red\u00e9k",
@@ -1711,7 +1710,7 @@ Nyomj F8-at az elolvas\u00e1s\u00e1hoz.",
     "EncyDesc_Spotlight": "",
     "OxygenWarning10": "V\u00e9szhelyzet: 10 m\u00e1sodpercre elegend\u0151 oxig\u00e9n maradt.",
     "OxygenWarning30": "Figyelem: 30 m\u00e1sodpercre elegend\u0151 oxig\u00e9n maradt.",
-    "GrowingProgress": "Growth: {0:P0}",
+    "GrowingProgress": "N\u00f6v\u00e9sben: {0:P0}",
     "GrowingPlant": "N\u00f6v\u00e9sben {0}",
     "MelonSeed": "M\u00e1rv\u00e1nydinnye-mag",
     "Tooltip_SmallKoosh": "",
@@ -1753,15 +1752,15 @@ Nyomj F8-at az elolvas\u00e1s\u00e1hoz.",
     "Tooltip_TreeMushroom": "",
     "Tooltip_BigCoralTubes": "",
     "Tooltip_CoralShellPlate": "",
-    "Goal_HolyDiver": "You've been down too long in the midnight sea. Oh don't you see what I mean?",
-    "RadioBounceBack": "This is an automated bounce back from the Aurora Mining Vessel. Your distress signal has been received. An emergency relief team will be dispatched to your location. *Static* Estimated arrival time: 9...9...9...9...9 hours.",
-    "RadioLifepod17": "This is an automated distress signal from Aurora Lifepod 17. Co-ordinates attached. Please send immediate emergency relief team.",
-    "RadioSecondOfficer": "This is Second Officer Keen, broadcasting to all surviving Aurora crew! Captain Hollister is gone. I have assumed command. The computer has identified dry land approximately 750m south of the crash site. Your orders are to stay together, ensure your immediate safety, and then regroup at the attached rendezvous co-ordinates. Good luck. Over and out.",
-    "RadioWarper1": "Nine new biological subjects designated. Mode switch: hunting\/analyzing. Sharing subject locations with other agents.",
-    "RadioLifepod7": "This is Aurora Senior Engineer LaFette, broadcasting from Lifepod 7! We have survived impact, but flotation devices have failed to deploy and we are sinking! Co-ordinates attached! Will attempt repair! Anticipate losing radio contact at- *Static*",
-    "RadioWarper2": "Subject 11783 destroyed. Mode switch: patrol. New targets unaccounted for: 1.",
+    "Goal_HolyDiver": "T\u00fal sok\u00e1ig volt\u00e1l lenn az \u00e9jf\u00e9li tengerben \u00d3, mi lett bel\u0151lem?",
+    "RadioBounceBack": "Ez egy automatikus visszajelz\u00e9s az Aur\u00f3ra b\u00e1ny\u00e1szhaj\u00f3r\u00f3l. V\u00e9szjelz\u00e9s\u00e9t fogadtuk. Egy v\u00e9szhelyzeti ment\u0151csapat fog kik\u00fcld\u00e9sre ker\u00fclni a tart\u00f3zkod\u00e1si hely\u00e9re. * statikus zaj* V\u00e1rhat\u00f3 \u00e9rkez\u00e9s: 9...9...9...9...9 \u00f3ra m\u00falva.",
+    "RadioLifepod17": "Ez egy automatikus v\u00e9szjelz\u00e9s az Aur\u00f3ra 17-es ment\u0151kabinj\u00e1t\u00f3l. Koordin\u00e1t\u00e1k mell\u00e9kelve. K\u00e9rem, halad\u00e9ktalanul k\u00fcldjenek egy v\u00e9szhelyzeti ment\u0151csapatot.",
+    "RadioSecondOfficer": "Itt Keen m\u00e1sodtiszt, \u00fczenetem van az Aur\u00f3ra minden t\u00fal\u00e9l\u0151j\u00e9nek! Hollister kapit\u00e1ny halott. \u00c1tveszem a parancsnoks\u00e1got. A sz\u00e1m\u00edt\u00f3g\u00e9p azonos\u00edtott egy sz\u00e1razf\u00f6ldet 750m-re a roncsokt\u00f3l, d\u00e9li ir\u00e1nyban. A parancsom, hogy maradjanak egy\u00fctt, gondoskodjanak a k\u00f6zvetlen biztons\u00e1gukr\u00f3l, majd gy\u00fclekezzenek a mell\u00e9kelt tal\u00e1lkoz\u00e1si ponton. Sok sikert. V\u00e9ge.",
+    "RadioWarper1": "Kilenc \u00faj biol\u00f3giai alany kijel\u00f6lve. \u00dczemm\u00f3d v\u00e1lt\u00e1s: vad\u00e1szat\/analiz\u00e1l\u00e1s. Az alanyok tart\u00f3zkod\u00e1si hely\u00e9nek megoszt\u00e1sa a t\u00f6bbi \u00fcgyn\u00f6kkel.",
+    "RadioLifepod7": "Itt az Aur\u00f3ra f\u0151m\u00e9rn\u00f6ke, LaFette besz\u00e9l, a 7-es ment\u0151kabinb\u00f3l! T\u00fal\u00e9lt\u00fck a becsap\u00f3d\u00e1st, de a lebegtet\u0151 rendszerek nem ny\u00edltak ki, ez\u00e9rt s\u00fcllyed\u00fcnk! Koordin\u00e1t\u00e1k mell\u00e9kelve! Megk\u00eds\u00e9relj\u00fck a jav\u00edt\u00e1st! Hamarosan elvesz\u00edtj\u00fck a r\u00e1di\u00f3kapacsolatot a - *Statikus zaj*",
+    "RadioWarper2": "Kilenc \u00faj biol\u00f3giai alany kijel\u00f6lve. \u00dczemm\u00f3d v\u00e1lt\u00e1s: vad\u00e1szat\/analiz\u00e1l\u00e1s. Az alanyok tart\u00f3zkod\u00e1si hely\u00e9nek megoszt\u00e1sa a t\u00f6bbi \u00fcgyn\u00f6kkel.",
     "RadioPrecursor1": "Karflaget gertrupop flayra. Troflagot e aitrart. Trankeboop. Askrinol forlaget yarma aquit e flyra e aitrart escimay.",
-    "RadioPassingShip": "This is trade vessel Sunbeam. Aurora, we've received your emergency transmission and your co-ordinates have been recorded. Wish we had better news for you, but we just aren't equipped to assist you at this time. We're anticipating arrival at the nearest starbase in approximately 461 earth days, that's four, six, one days. We will at that time pass on your emergency message to the appropriate corporate authority. You hold on in there, alright? Sunbeam out.",
+    "RadioPassingShip": "Itt a Napsug\u00e1r kereskedelmi \u0171rhaj\u00f3. Aur\u00f3ra, fogtuk a v\u00e9szjelz\u00e9s\u00e9t \u00e9s koordin\u00e1t\u00e1i r\u00f6gz\u00edt\u00e9sre ker\u00fcltek. B\u00e1rcsak jobb h\u00edrekkel szolg\u00e1lhatn\u00e1nk, de jelenleg nem vagyunk kell\u0151en felszerelve ahhoz, hogy seg\u00edthess\u00fcnk. El\u0151rel\u00e1that\u00f3lag a legk\u00f6zelebbi csillagb\u00e1zist 461 nap m\u00falva \u00e9rj\u00fck el, ism\u00e9tlem, n\u00e9gy-hat-egy nap m\u00falva. Ekkor \u00e1t fogjuk adni seg\u00e9lyk\u00e9r\u0151 \u00fczenet\u00e9t a megfelel\u0151 szerveknek. Addig tartsanak ki, rendben? Napsug\u00e1r, v\u00e9ge.",
     "HintMouseLook": "Eg\u00e9rrel n\u00e9zhet k\u00f6r\u00fcl",
     "HintWSADToMove": "WSAD gombokkal mozoghat",
     "HintLMBToPickupFireExtinguisher": "Bal eg\u00e9rgombbal vegye fel a porolt\u00f3t",
@@ -1772,23 +1771,23 @@ Nyomj F8-at az elolvas\u00e1s\u00e1hoz.",
     "PDABootingLoading": "BET\u00d6LT\u00c9S
 [ {0}% ]",
     "EscapePodStorageOpen": "Ell\u00e1tm\u00e1nyl\u00e1da kinyit\u00e1sa",
-    "EscapePodMedKitOpen": "Open med cabinet",
-    "EscapePodMedKitClose": "Close med cabinet",
+    "EscapePodMedKitOpen": "Orvosi faliszekr\u00e9ny kinyit\u00e1sa",
+    "EscapePodMedKitClose": "Orvosi faliszekr\u00e9ny becsuk\u00e1sa",
     "EnergyPercent": "Energia: {0:P0}",
     "FuelPercent": "\u00dczemanyag: {0:P0}",
     "Weld": "Hegeszt\u00e9s",
     "Tooltip_MedicalCabinet": "30 percenk\u00e9nt el\u0151\u00e1ll\u00edt egy els\u0151seg\u00e9ly k\u00e9szletet",
-    "Tooltip_FireExtinguisher": "Keeps fires in check.",
+    "Tooltip_FireExtinguisher": "Megf\u00e9kezi a t\u00fczeket.",
     "Damaged": "S\u00e9r\u00fclt",
-    "Pickup_FireExtinguisher": "Pickup Fire Extinguisher",
+    "Pickup_FireExtinguisher": "Vedd fel a porolt\u00f3t",
     "FireExtinguisher_Douse": "T\u0171z elolt\u00e1sa",
-    "MedicalCabinet": "Medical Kit Fabricator",
+    "MedicalCabinet": "Els\u0151seg\u00e9ly csomag-k\u00e9sz\u00edt\u0151",
     "MedicalCabinet_DoorClose": "Bez\u00e1r",
     "MedicalCabinet_DoorOpen": "Kinyit",
-    "MedicalCabinet_PickupMedKit": "Pick Up First Aid Kit",
+    "MedicalCabinet_PickupMedKit": "Vedd fel az els\u0151seg\u00e9ly csomagot",
     "DamagedWires": "S\u00e9r\u00fclt ment\u0151kabin rendszerek",
     "WeldToFix": "Haszn\u00e1ljon hegeszt\u0151t a jav\u00edt\u00e1shoz",
-    "IntroEscapePod1Header": "LAUNCH SEQUENCE ACTIVE!",
+    "IntroEscapePod1Header": "KIL\u00d6V\u00c9SI FOLYAMAT AKT\u00cdV!",
     "IntroEscapePod1Content": "Detachment from Aurora: OK.
 Crew restraints: secure.
 Entering planetary atmosphere.
@@ -1817,8 +1816,8 @@ Gravity anchor: online.
 Lifepod hull integrity: OK.
 Scanning all emergency frequencies.",
     "IntroEscapePod4Power": "ELS\u0150DLEGES ENERGIAFORR\u00c1S \u00dcZEMEL",
-    "EncyPath_DownloadedData\/Degasi": "Degasi Survivors",
-    "Ency_WreckAuxOrders": "Aurora Auxiliary Mission Orders",
+    "EncyPath_DownloadedData\/Degasi": "A Degasi t\u00fal\u00e9l\u0151i",
+    "Ency_WreckAuxOrders": "Aur\u00f3ra m\u00e1sodlagos k\u00fcldet\u00e9s utas\u00edt\u00e1sai",
     "EncyDesc_WreckAuxOrders": "SENIOR PERSONNEL ONLY
 
 Mission type: Search & Rescue
@@ -1835,7 +1834,7 @@ Degasi crew manifesto has been distributed to senior officers in a separate data
 
 Mission classification:
 Aurora crew should not be informed of this mission until such time as their co-operation in locating or retrieving Degasi crew is required. It should be stressed that humanitarian auxiliary missions fall outside normal remuneration structures.",
-    "Ency_PaalTorgalBio": "Search & Rescue: Paal Torgal ",
+    "Ency_PaalTorgalBio": "Kutat\u00e1s-ment\u00e9s: Paal Torgal",
     "EncyDesc_PaalTorgalBio": "SENIOR PERSONNEL ONLY
 
 Auxiliary Search & Rescue Target: Paal Torgal
@@ -1851,7 +1850,7 @@ Paal Torgal and his crew fell out of contact with Mongolian authorities ten year
     - Accompanied by his only child, Baat Torgal (19), heir to the Torgaljin Coproration
     - Mongolian emissary Khasar reports Torgal frequently travelled with fewer than the minimum skeleton crew
     - Inadequate systems maintenence may account for the ship's disappearance",
-    "Ency_BaatTorgalBio": "Search & Rescue: Baat Torgal",
+    "Ency_BaatTorgalBio": "Kutat\u00e1s-ment\u00e9s: Baat Torgal",
     "EncyDesc_BaatTorgalBio": "SENIOR PERSONNEL ONLY
 
 Auxiliary Search & Rescue Target: Baat Torgal
@@ -1863,7 +1862,7 @@ Age at time of disappearance: 19
     - Beneficiary of enhanced learning techniques and cerebral implants
     - Digi-trained in advanced biochemistry and stellar economics
     - Mongolian emissary Khasar reports Baat was accompanying his father, Paal, to a newly constructed space station where he was to serve a five year term as Chief Operating Officer",
-    "Ency_MargueritMaidaBio": "Search & Rescue: Paal Torgal",
+    "Ency_MargueritMaidaBio": "Search & Rescue: Marguerit Maida",
     "EncyDesc_MargueritMaidaBio": "SENIOR PERSONNEL ONLY
 
 Auxiliary Search & Rescue Target: Marguerit Maida
@@ -1876,7 +1875,7 @@ Age at time of disappearance: 42
     - Tours of duty with the Mongolian Defense Force and the Trans-Federation Military Police
     - Dishonourably discharged from the TSA 15 years ago for going off mission (details classified)
     - Mongolian emissary Khasar reports Maida was hired to accompany Paal Torgal onboard the Degasi into uncharted space and defend the ship in case of pirate assault",
-    "Ency_AuroraLaunchNews": "Alterra Launches the Aurora",
+    "Ency_AuroraLaunchNews": "Az Alterra elind\u00edtotta az Aur\u00f3r\u00e1t",
     "EncyDesc_AuroraLaunchNews": "PHASEGATE ANNOUNCED FOR THE ARIADNE ARM: ALTERRA LAUNCHES THE AURORA
 
 The furthest reaches of inhabited space are due to expand, as Alterra Technologies launches the Aurora, a newly-constructed capital ship carrying state-of-the-art phasegate technology, bound for the Ariadne Arm. 
@@ -1894,7 +1893,7 @@ The launch ceremony proceeded with the usual fanfare...",
 We constructed a habitat using materials reclaimed from the ship. We survived by cultivating indigenous flora. The biochemistry imprint I commissioned for my son has already paid for itself. He has grown enough food to last us a month.
 
 Now I fear for our safety. A mercenary I hired for the journey, Marguerit Maida, is increasingly disturbed. She insists we abandon this site and establish a habitat underwater. I fear she may take steps to sabotage our habitat here to enforce her own agenda. Nonetheless, and against my better judgement, I have acquiesced to her request to scout for a suitable aquatic site. My hope is she will quickly realize how unforgiving the ocean is, and abandon this foolish ambition.",
-    "Ency_IslandsPDABase1a": "Baat Torgal bejegyz\u00e9se #6?",
+    "Ency_IslandsPDABase1a": "Baat Torgal's Log #6",
     "EncyDesc_IslandsPDABase1a": "I messed up. Real bad this time.  It's been two days since what happened. We never should have left this island. I shouldn't have listened to them. We shouldn't have gone so deep. They don't want us down there. They don't trust us. I knew it and I didn't say. I could see it, and they couldn't, and now they're stuck down there, and I'm up here, alone. I deserve this.",
     "Ency_IslandsPDABase1bDesk": "Degasi Hang\u00fczenet #1",
     "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT: It won't work, Chief. We salvaged enough scrap from the Degasi for, what, a couple of observatories?
@@ -2009,20 +2008,20 @@ MARGUERIT: How bad can it be if everything's got it?
 BAAT: The local lifeforms must have developed coping mechanisms. We haven't.
 PAAL: Yet. You have my full faith, son, that you'll figure this out for us.
 MARGUERIT: Tell me what you need, kid.",
-    "BaseMapRoomFragment": "Ir\u00e1ny\u00edt\u00f3 Szoba tervrajz",
+    "BaseMapRoomFragment": "Scanner room fragment",
     "BaseMapRoom": "Ir\u00e1ny\u00edt\u00f3 Szoba",
     "Tooltip_BaseMapRoom": "Ir\u00e1ny\u00edt\u00f3 Szoba",
-    "RecipeUnlocked": "{0} recipe unlocked",
-    "TechTypeUnlocked": "{0} unlocked",
+    "RecipeUnlocked": "{0} \u00f6sszetev\u0151i felfedezve",
+    "TechTypeUnlocked": "{0} felfedezve",
     "MapRoomCameraInfo": "Kamera {0}",
-    "MapRoomCameraControls": "Eg\u00e9rgombokkal v\u00e1lthat a kamer\u00e1k k\u00f6z\u00f6tt",
+    "MapRoomCameraControls": "Use {0} and {1} to cycle cameras",
     "MapRoomCameraDistance": "T\u00c1VOLS\u00c1G: {0}",
     "MapRoomCameraDepth": "M\u00c9LYS\u00c9G: {0}",
     "EncyPath_DownloadedData\/Lifepods": "Ment\u0151kabinok",
-    "EncyPath_DownloadedData\/AuroraSurvivors": "Aurora Survivors",
-    "Ency_Lifepod1": "Danby's Flight Recorder",
+    "EncyPath_DownloadedData\/AuroraSurvivors": "Az Aur\u00f3ra t\u00fal\u00e9l\u0151i",
+    "Ency_Lifepod1": "Danby fed\u00e9lzeti adatr\u00f6gz\u00edt\u0151je",
     "EncyDesc_Lifepod1": "This is medical officer Danby, I'm breaking atmosphere at high velocity, planetfall in 20 seconds! *Explosion* Taking fire! Going into a spin! Attempting- *Static*",
-    "Ency_Lifepod2": "Lifepod Flight Recorder #1",
+    "Ency_Lifepod2": "Ment\u0151kabin fed\u00e9lzeti adatr\u00f6gz\u00edt\u0151 #1",
     "EncyDesc_Lifepod2": "PASSENGER: We're sinking!
 CREW: Ma'am, I'm doing everything that I can!
 PASSENGER: Where are the support teams?!
@@ -2032,7 +2031,7 @@ CREW: Ma'am, I have to ask you to stay where you are! The computer hasn't comple
 PASSENGER: I will not drown in here!
 CREW: Ma'am, come back, it's not safe!
 *Reaper sounds*",
-    "Ency_Lifepod3": "Engineers' Flight Recorder",
+    "Ency_Lifepod3": "M\u00e9rn\u00f6k\u00f6k fed\u00e9lzeti adatr\u00f6gz\u00edt\u0151je",
     "EncyDesc_Lifepod3": "PDA: Situational analysis complete. Communications relay offline.
 ENGINEER 1: Frack it! How are we going to make the rendezvous without a radio signal?
 ENGINEER 2: We have a compass bearing. We'll have to do it the old fashioned way.
@@ -2042,7 +2041,7 @@ ENGINEER 1: Yeah I- Damn it, I left it in the exo bay.
 ENGINEER 2: Don't sweat.
 ENGINEER 1: No, I fracked up.
 ENGINEER 2: No, we can do this. All we need is some basic materials. This planet can't be barren. Let's get out there and find out.",
-    "Ency_Lifepod4": "Emissary Khasar's Flight Recorder",
+    "Ency_Lifepod4": "Khasar k\u00fcld\u00f6tt fed\u00e9lzeti adatr\u00f6gz\u00edt\u0151je",
     "EncyDesc_Lifepod4": "Blackbox Data #345
 00:00 Lifepod systems online.
 00:03 Passenger 07 'Emissary Jochi Khasar' has boarded the lifepod.
@@ -2063,7 +2062,7 @@ ENGINEER 2: No, we can do this. All we need is some basic materials. This planet
     "EncyDesc_LifepodSeaglide": "This may be my last report. The lifepod made planetfall intact, but now it's surrounded by some kind of aquatic alien predator. They're encased in a carapace armour, and attack the moment I open the hatches. The first one that came at me I attacked with the survival knife, but it got lodged in the armor layers. Tried distracting them with flares - no effect. No propulsion cannon available. No stasis rifle. No chance. 
 
 I've stripped some of the lifepod electrics to manufacture a seaglide. My only hope is I can outrun them. Wish me luck.",
-    "Ency_LifepodKeenDialog": "Officer Keen's Flight Recorder",
+    "Ency_LifepodKeenDialog": "Keen tiszt fed\u00e9lzeti adatr\u00f6gz\u00edt\u0151je",
     "EncyDesc_LifepodKeenDialog": "CAPTAIN: Keen! This is Aurora, come in!
 KEEN: I hear you, Captain!
 CAPTAIN: The computer has identified a landmass at the attached coordinates! I want you to regroup the crew there!
@@ -2072,7 +2071,7 @@ CAPTAIN: They're your responsibility now, don't let me down!
 KEEN: Captain, you need to evacuate!
 *Explosion aboard the Aurora*
 KEEN: Captain?!",
-    "Ency_LifepodKeenLog": "Officer Keen's Log #1",
+    "Ency_LifepodKeenLog": "Keen tiszt bejegyz\u00e9se #1",
     "EncyDesc_LifepodKeenLog": "To all crew - If you are reading this then you have followed the automatic distress signal broadcast by this lifepod's onboard computer, contrary to protocol. My lifepod was damaged on impact and I am forced to evacuate. Your orders are to disregard my safety and attempt to reach the designated regroup co-ordinates at the nearest landmass. I hope to see you there.
 
 - Second Officer Keen",
@@ -2153,30 +2152,65 @@ Daylight! It was definitely daylight, I'm sure of it. I swam as far as I could. 
     "MapRoomCameraNoSignal": "NINCS JEL",
     "MapRoomCamera": "Dr\u00f3n",
     "Tooltip_MapRoomCamera": "Vez\u00e9relhet\u0151 kamera",
-    "Presentation": "Presentation",
+    "Presentation": "Megjelen\u00edt\u00e9s",
     "Quality": "Min\u0151s\u00e9g",
     "VRRenderScale": "VR render scale",
-    "Apply": "Apply",
+    "Apply": "Elfogad\u00e1s",
     "HorizontalSensitivity": "V\u00edzszintes \u00e9rz\u00e9kenys\u00e9g",
     "VerticalSensitivity": "F\u00fcgg\u0151leges \u00e9rz\u00e9kenys\u00e9g",
-    "InvertLook": "Invert look",
+    "InvertLook": "Ford\u00edtott megjelen\u00edt\u00e9s",
     "EnableController": "Kontroller enged\u00e9lyez\u00e9se",
     "ResetToDefault": "Vissza\u00e1ll\u00edt\u00e1s alaphelyzetbe",
     "Deconstruct": "Lebont\u00e1s",
     "Construct": "\u00c9p\u00edt\u00e9s",
-    "CyclopsWelcomeNoPower": "Cyclops: Warning: Emergency power only. Oxygen production offline.",
-    "AssignQuickSlot": "assign quick slot",
+    "CyclopsWelcomeNoPower": "K\u00fcklopsz: Figyelem: Csak a v\u00e9szhelyzeti energia m\u0171k\u00f6dik. Oxig\u00e9n-el\u0151\u00e1ll\u00edt\u00f3 nem el\u00e9rhet\u0151.",
+    "AssignQuickSlot": "hozz\u00e1rendel\u00e9s a gyorslist\u00e1hoz",
     "Eat": "megev\u00e9s",
     "Use": "haszn\u00e1l",
-    "Place": "place",
+    "Place": "lehelyez\u00e9s",
     "Drop": "eldob",
-    "SwitchContainer": "kont\u00e9ner cser\u00e9je",
-    "SeamothWelcomeNoPower": "Seamoth: Warning: Emergency power only. Oxygen production offline.",
-    "BaseWelcomeNoPower": "Base: Warning: Emergency power only. Oxygen production offline.",
+    "SwitchContainer": "\u00e1thelyez",
+    "SeamothWelcomeNoPower": "Csik\u00f3hal: Figyelem: Csak a v\u00e9szhelyzeti energia m\u0171k\u00f6dik. Oxig\u00e9n-el\u0151\u00e1ll\u00edt\u00f3 nem el\u00e9rhet\u0151.",
+    "BaseWelcomeNoPower": "B\u00e1zis: Figyelem: Csak a v\u00e9szhelyzeti energia m\u0171k\u00f6dik. Oxig\u00e9n-el\u0151\u00e1ll\u00edt\u00f3 nem el\u00e9rhet\u0151.",
     "MapRoomCameraConnecting": "KAPCSOL\u00d3D\u00c1S",
     "StarshipChair2": "2-es t\u00edpus\u00fa sz\u00e9k",
     "StarshipChair3": "3-as t\u00edpus\u00fa sz\u00e9k",
     "Tooltip_StarshipChair2": "Meglep\u0151en k\u00e9nyelmes.",
     "Tooltip_StarshipChair3": "Meglep\u0151en k\u00e9nyelmes.",
+    "UseMapRoomFabricator": "Fabrik\u00e1tor haszn\u00e1lata",
+    "MapRoomUpgrades": "Ir\u00e1ny\u00edt\u00f3 szoba fejleszt\u00e9sek",
+    "MapRoomHUDChip": "Ir\u00e1ny\u00edt\u00f3 Szoba HUD chipje",
+    "Tooltip_MapRoomHUDChip": "Adatokat k\u00f6zvet\u00edt a megfigyel\u0151 szob\u00e1b\u00f3l a szemmagass\u00e1g\u00fa kijelz\u0151re.",
+    "MapRoomUpgradeScanRange": "Scanner room range upgrade",
+    "MapRoomUpgradeScanSpeed": "Scanner room speed upgrade",
+    "Tooltip_MapRoomUpgradeScanRange": "",
+    "Tooltip_MapRoomUpgradeScanSpeed": "",
+    "FireExtinguisher": "Porolt\u00f3",
+    "DamagedSavedGame": "<color='#000000FF'>Damaged saved game<\/color>",
+    "MapRoomCameraInfoScreen": "KAMERA {0}",
+    "ControlCamera": "Control camera",
+    "MapRoomScanningText": "SZKENNEL\u00c9S",
+    "BindQuickSlot": "bind quick slot",
+    "Equip": "equip",
+    "Unequip": "unequip",
+    "CyclopsHullModule1": "Cyclops pressure compensator",
+    "Tooltip_CyclopsHullModule1": "Atomi szinten rendezi \u00e1t a tengeralattj\u00e1r\u00f3 szerkezet\u00e9t, hogy n\u00f6velje a biztons\u00e1gos mer\u00fcl\u00e9si m\u00e9lys\u00e9get.",
+    "CyclopsHullModule2": "Ultra hull reinforcement module",
+    "Tooltip_CyclopsHullModule2": "Rearranges the submarine hull's atomic structure to increase safe diving depth by extreme amounts.",
+    "WorkbenchMenu_CyclopsMenu": "K\u00fcklopsz fejleszt\u00e9sek",
+    "CyclopsLightingToggle": "Toggle Internal Lighting On\/Off",
+    "CyclopsPowerToggle": "Toggle Cyclops Power On\/Off",
+    "CyclopsFloodlightsToggle": "Toggle External Floodlights On\/Off",
+    "SeamothHullModule1": "Seamoth pressure compensator mark 1",
+    "Tooltip_SeamothHullModule1": "Hardens the Seamoth chassis under high pressures.",
+    "SeamothHullModule2": "Seamoth pressure compensator mark 2",
+    "Tooltip_SeamothHullModule2": "Hardens the Seamoth chassis under extreme pressures.",
+    "SeamothHullModule3": "Seamoth pressure compensator mark 3",
+    "Tooltip_SeamothHullModule3": "Hardens the Seamoth chassis under the planet's deepest pressures.",
+    "SeamothDepthWarning": "WARNING! Seamoth is below its current crush depth!",
+    "UraniniteCrystal": "Uraninite crystal",
+    "ReactorRod": "Reactor rod",
+    "Tooltip_ReactorRod": "Used to power nuclear reactors.",
+    "Tooltip_UraniniteCrystal": "A highly radioactive and interesting mineral.",
     "1": "2"
 }

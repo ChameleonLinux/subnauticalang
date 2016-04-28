@@ -303,7 +303,7 @@
     "Tooltip_SmallStorage": "Skrzynka 4x4 zachowuj\u0105ca pozycj\u0119 w wodzie.",
     "Tooltip_StalkerTooth": "Ostra, utwardzona formacja wapienna.",
     "Tooltip_StasisRifle": "Unieruchamia obiekty fizyczne.",
-    "Tooltip_Tank": "Mieszanina O\u00b2. 30 sekund powietrza zdatnego do oddychania.",
+    "Tooltip_Tank": "Wype\u0142niona mieszanin\u0105 tlenow\u0105. Zapas na 60 sekund nurkowania.",
     "Tooltip_Terraformer": "Por\u0119czny przerabiacz terenu.",
     "Tooltip_Thermometer": "Czujnik temperatury na wy\u015bwietlaczu.",
     "Tooltip_Titanium": "Ti. Podstawowy materia\u0142 budowlany.",
@@ -381,7 +381,7 @@
     "Tooltip_BaseWindow": "Okno obserwacyjne (-1 PW).",
     "Tooltip_PowerGenerator": "Wybuduj na fundamencie, aby zasili\u0107 baz\u0119.",
     "GhostModelRotateInput": "U\u017cyj rolki myszki, aby obraca\u0107",
-    "WarningUnsafeDepth": "OSTRZE\u017bENIE: Mini\u0119to bezpieczn\u0105 g\u0142\u0119boko\u015b\u0107 - {0} metr\u00f3w. Zderzenia b\u0119d\u0105 uszkadza\u0107 kad\u0142ub.",
+    "WarningUnsafeDepth": "OSTRZE\u017bENIE: Mijasz bezpieczn\u0105 g\u0142\u0119boko\u015b\u0107 {0} metr\u00f3w. Zbli\u017casz si\u0119 do g\u0142\u0119boko\u015bci zgniotu.",
     "WarningCrushDepth": "UWAGA: Zbli\u017casz si\u0119 do g\u0142\u0119boko\u015bci zgniotu {0} metr\u00f3w. Nieuniknione uszkodzenia kad\u0142uba! Jak najszybciej zmniejsz zanurzenie!",
     "SafeDepthNow": "Bezpieczna g\u0142\u0119boko\u015b\u0107 to teraz {0} metr\u00f3w",
     "CrushDepthNow": "G\u0142\u0119boko\u015b\u0107 zgniotu to teraz {0} metr\u00f3w",
@@ -400,7 +400,7 @@
     "CaveEntrance": "Mo\u017cliwy otw\u00f3r jaskini",
     "HeatSignature": "Sygnatura cieplna",
     "HatchExitBlocked": "W\u0142az jest zablokowany!",
-    "RotateCorridorHint": "Rotate",
+    "RotateCorridorHint": "Obr\u00f3\u0107",
     "Lead": "O\u0142owiana p\u0142yta",
     "Magnesium": "Magnez",
     "NutrientBlock": "Kostka obiadowa",
@@ -453,7 +453,7 @@
     "ReefbackAdvancedStructure": "P\u0142yta skorupy",
     "Tooltip_ReefbackAdvancedStructure": "Analiza struktury wewn\u0119trznej tej rozwini\u0119tej skorupy wskazuje na jej mo\u017cliwe wykorzystanie przy zaawansowanych wzmocnieniach.",
     "HullReinforcementModule2": "Chrz\u0119stny modu\u0142 wzmocnienia kad\u0142uba",
-    "Tooltip_HullReinforcementModule2": "Modu\u0142 wzmocnienia kad\u0142uba stworzony z u\u017cyciem skorupy chrz\u0119stnej wielogrzyba",
+    "Tooltip_HullReinforcementModule2": "Modu\u0142 wzmocnienia kad\u0142uba stworzony z przeplataj\u0105cej si\u0119 struktury nanit\u00f3w.",
     "HullReinforcementModule3": "P\u0142ytowy modu\u0142 wzmocnienia kad\u0142uba",
     "Tooltip_HullReinforcementModule3": "Modu\u0142 wzmocnienia kad\u0142uba oparty na zaawansowanej budowie kom\u00f3rkowej skorupy p\u0142ytowej wielogrzyba",
     "ReefbackEgg": "Jajo wielogrzyba",
@@ -462,7 +462,7 @@
     "UpgradeConsole": "Otw\u00f3rz konsol\u0119 ulepsze\u0144",
     "PowerRatingNow": "Efektywno\u015b\u0107 zasilania {0}",
     "RadiationFixed": "Zatamowano wyciek z rdzenia nap\u0119dowego. Promieniowanie zaniknie w ci\u0105gu 3 dni. Pr\u00f3ba po\u0142\u0105czenia z czarn\u0105 skrzynk\u0105 Aurory. Wyst\u0105pi\u0142y zak\u0142\u00f3cenia.",
-    "RemainingRadiationLeaks": "Pozosta\u0142e wycieki promieniowania: {0}",
+    "RemainingRadiationLeaks": "Pozosta\u0142o wyciek\u00f3w promieniowania: {0}",
     "HardcoreGameOver": "Twoja posta\u0107 zgin\u0119\u0142a. Koniec gry.",
     "WorldArrow_AttackBleeder": "Zaatakuj",
     "EscToSkip": "Przytrzymaj ESC, aby pomin\u0105\u0107.",
@@ -1116,13 +1116,13 @@ PS twoje pliki prywatne i zwi\u0105zane z prac\u0105 zosta\u0142y zaszyfrowane. 
 
 PS traktuj te informacje jako wytyczne og\u00f3lne. Zawsze jako pierwsze powinno bra\u0107 si\u0119 pod uwag\u0119 wskaz\u00f3wki wy\u015bwietlane przez PDA, kt\u00f3re bierze pod uwag\u0119 twoj\u0105 aktualn\u0105 sytuacj\u0119.",
     "Ency_AuroraOverview": "Statek G\u00f3rniczy Aurora \u2013 podsumowanie",
-    "EncyDesc_AuroraOverview": "Zadanie: trzyletnia misja g\u00f3rniczo-rekonesansowa.
+    "EncyDesc_AuroraOverview": "Zadanie: trzyletnia misja g\u00f3rnicza.
 Za\u0142oga: grupa dow\u00f3dcza (11), zesp\u00f3\u0142 in\u017cynieryjny (57), cz\u0142onkowie obs\u0142ugi (30), pasa\u017cerowie (3).
 
 Wyposa\u017cenie:
 \u2013 silniki jonone V8 zasilane ciemn\u0105 materi\u0105;
-\u2013 sekcja in\u017cynieryjna z aparatur\u0105 klasy A (m.in. g\u0142\u00f3wny rozbijacz meteoroid\u00f3w, za\u0142ogowy wydzia\u0142 robotyki i skanery przestrzeni dalekiego zasi\u0119gu);
-\u2013 \u0142adownia na zasoby kopalne o pojemno\u015bci 0.25 kilometra sze\u015bciennego;
+\u2013 sekcja in\u017cynieryjna z aparatur\u0105 klasy A (m.in. g\u0142\u00f3wny rozbijacz meteoroid\u00f3w, za\u0142ogowy wydzia\u0142 robotyki i pe\u0142en zestaw skaner\u00f3w przestrzeni);
+\u2013 \u0142adownia na urobek kopalny o pojemno\u015bci 0.25 kilometra sze\u015bciennego;
 \u2013 sekcja mieszkalna z wyposa\u017ceniem wypoczynkowym klasy C+.",
     "Ency_AEPSuit": "Og\u00f3lno\u015brodowiskowy skafander ochronny",
     "EncyDesc_AEPSuit": "Skafander Alterra OSO: rozwi\u0105zanie na wszech\u015bwiat pe\u0142en niebezpiecze\u0144stw.
@@ -1709,7 +1709,6 @@ Wci\u015bnij F8, aby odczyta\u0107.",
     "ConstructorFragment": "Fragment przeno\u015bnej konsoli pojazd\u00f3w",
     "PowerTransmitterFragment": "Fragment przeka\u017anika energii",
     "RadioFragment": "Fragment radia",
-    "ScannerRoomFragment": "Fragment sterowni dron\u00f3w",
     "SeaglideFragment": "Fragment skutera podwodnego",
     "SolarPanelFragment": "Fragment panelu fotowoltaicznego",
     "SpecimenAnalyzerFragment": "Fragment analizatora gatunk\u00f3w",
@@ -1834,24 +1833,23 @@ Skanuj\u0119 wszystkie cz\u0119stotliwo\u015bci awaryjne.
     "Ency_WreckAuxOrders": "Wytyczne misji dodatkowej Aurory",
     "EncyDesc_WreckAuxOrders": "TYLKO DO STARSZYCH OFICER\u00d3W
 
-Rodzaj misji: ratunkowa.
+Rodzaj misji: poszukiwawczo-ratownicza.
 Cel misji: za\u0142oga statku 'Degasi' Imperium Mongolskiego.
 Miejsce misji: Rami\u0119 Ariadny, 3 lata \u015bwietlne za najdalsz\u0105 bram\u0105 podr\u00f3\u017cn\u0105.
 Kontakt misji: emisariusz Jochi Khasar, kwatery pasa\u017cerskie Aurory, pok\u00f3j 4.
 
-Odprawa:
-Aurora po oko\u0142o 13 miesi\u0105cach od startu przeleci przez System 2001. Statek planowo ma odby\u0107 manewr asysty grawitacyjnej dooko\u0142a planety 4546B. To zbli\u017cy was do ostatniego znanego po\u0142o\u017cenia Degasi.
+Odprawa: Aurora po oko\u0142o 13 miesi\u0105cach od startu przeleci przez System 2001. Statek planowo ma odby\u0107 manewr asysty grawitacyjnej dooko\u0142a planety 4546B. To zbli\u017cy was do ostatniego znanego po\u0142o\u017cenia Degasi.
 
 Imperium Mongolskie straci\u0142o \u0142\u0105czno\u015b\u0107 ze statkiem prywatnym Degasi po 18 miesi\u0105cach od opuszczenia zamieszka\u0142ej przestrzeni kosmicznej. Imperium wykupi\u0142o miejsce na pok\u0142adzie Aurory dla emisariusza Khasara, a waszym rozkazem jest umo\u017cliwienie mu odnalezienie i, w razie potrzeby, udzielenie pomocy przy transporcie za\u0142ogi Degasi, bez zaniedbywania cel\u00f3w g\u0142\u00f3wnej misji.
 
-Zawiadomienie o za\u0142odze Degasi zosta\u0142o rozes\u0142ane do wszystkich starszych oficer\u00f3w w osobnych pakietach danych.
+Lista za\u0142ogi Degasi zosta\u0142a rozes\u0142ana do wszystkich starszych oficer\u00f3w jako osobny pakiet informacji.
 
 Klauzula tajno\u015bci:
 Za\u0142oga Aurory nie mo\u017ce zosta\u0107 poinformowana o istnieniu tej misji do czasu, gdy b\u0119dzie potrzebna pomoc przy odbiorze ludzi z Degasi. Nale\u017cy podkre\u015bli\u0107, \u017ce humanitarne misje dodatkowe nie zaliczaj\u0105 si\u0119 do normalnych przelicznik\u00f3w wynagrodze\u0144.",
-    "Ency_PaalTorgalBio": "Znajd\u017a i ocal: Paal Torgal",
+    "Ency_PaalTorgalBio": "Akcja poszukiwawczo-ratownicza: Paal Torgal",
     "EncyDesc_PaalTorgalBio": "TYLKO DO STARSZYCH OFICER\u00d3W
 
-Dodatkowy cel ratunkowy: Paal Torgal.
+Dodatkowy cel misji poszukiwawczo-ratunkowej: Paal Torgal.
 Zaw\u00f3d: dyrektor korporacji Torgaljin, kapitan 'Degasi'.
 Po\u0142o\u017cenie: zagubiony w kosmosie, Rami\u0119 Ariadny.
 Wiek w momencie zagini\u0119cia: 79 lat.
@@ -1859,15 +1857,15 @@ Wiek w momencie zagini\u0119cia: 79 lat.
 Paal Torgal wraz z za\u0142og\u0105 utracili kontakt z w\u0142adzami mongolskimi 10 lat temu, podczas podr\u00f3\u017cy przez System 2001. Polisa statku pokrywa\u0142a koszty nieplanowanych akcji ratunkowych, ale ani jeden z przelatuj\u0105cych przez system statk\u00f3w, pomimo pr\u00f3b, nie napotka\u0142 \u017cadnego \u015bladu po Degasi.
 
 \u2013 zosta\u0142 mianowany g\u0142\u00f3wnym udzia\u0142owcem korporacji Torgaljin przez przechodz\u0105c\u0105 na emerytur\u0119 matk\u0119;
-\u2013 wsp\u00f3\u0142praca z Alterr\u0105 ogranicza\u0142a si\u0119 do niezbyt cz\u0119stych dostaw amunicji;
-\u2013 korzysta z technologii wyd\u0142u\u017caj\u0105cych \u017cycie;
+\u2013 wsp\u00f3\u0142praca z Alterr\u0105 ogranicza\u0142a si\u0119 do niezbyt cz\u0119stych dostaw amunicji; 
+\u2013 korzysta z technologii przed\u0142u\u017caj\u0105cych \u017cycie;
 \u2013 podr\u00f3\u017cuje ze swoim jedynym dzieckiem, Baatem Torgalem (19 l.), spadkobierc\u0105 korporacji Torgaljin;
 \u2013 mongolski emisariusz Khasar zg\u0142asza\u0142, \u017ce Torgal cz\u0119sto podr\u00f3\u017cowa\u0142 z niewystarczaj\u0105c\u0105 ilo\u015bci\u0105 za\u0142ogi;
-\u2013 niewystarczaj\u0105ca konserwacja system\u00f3w statku mog\u0142a przyczyni\u0107 si\u0119 do jego zagini\u0119cia. ",
-    "Ency_BaatTorgalBio": "Znajd\u017a i ocal: Baat Torgal",
+\u2013 niewystarczaj\u0105ca konserwacja system\u00f3w statku mog\u0142a przyczyni\u0107 si\u0119 do jego zagini\u0119cia.",
+    "Ency_BaatTorgalBio": "Akcja poszukiwawczo-ratownicza: Baat Torgal",
     "EncyDesc_BaatTorgalBio": "TYLKO DO STARSZYCH OFICER\u00d3W
 
-Dodatkowy cel ratunkowy: Baat Torgal.
+Dodatkowy cel misji poszukiwawczo-ratunkowej: Baat Torgal.
 Zaw\u00f3d: wicedyrektor korporacji Torgaljin.
 Po\u0142o\u017cenie: zagubiony w kosmosie, Rami\u0119 Ariadny.
 Wiek w momencie zagini\u0119cia: 19 lat.
@@ -1876,9 +1874,10 @@ Wiek w momencie zagini\u0119cia: 19 lat.
 \u2013 korzysta z implant\u00f3w m\u00f3zgowych i technik wspomagaj\u0105cych nauk\u0119;
 \u2013 cyfrowo przeszkolony w zaawansowanej biochemii i ekonomii gwiezdnej;
 \u2013 mongolski emisariusz Khasar zg\u0142asza\u0142, \u017ce Baat towarzyszy\u0142 ojcu w podr\u00f3\u017cy do nowo wybudowanej stacji kosmicznej, gdzie mia\u0142 odby\u0107 pi\u0119cioletni sta\u017c jako zast\u0119pca kapitana.",
-    "Ency_MargueritMaidaBio": "Znajd\u017a i ocal: Paal Torgal",
+    "Ency_MargueritMaidaBio": "Akcja poszukiwawczo-ratownicza: Marguerit Maida",
     "EncyDesc_MargueritMaidaBio": "TYLKO DO STARSZYCH OFICER\u00d3W
-Dodatkowy cel ratunkowy: Marguerit Maida.
+
+Dodatkowy cel misji poszukiwawczo-ratunkowej: Marguerit Maida.
 Zaw\u00f3d: najemniczka.
 Po\u0142o\u017cenie: zagubiona w kosmosie, Rami\u0119 Ariadny.
 Wiek w momencie zagini\u0119cia: 42 lata.
@@ -1906,7 +1905,7 @@ Procedura startowa przebieg\u0142a z typow\u0105 pomp\u0105...",
 Zbudowali\u015bmy baz\u0119 u\u017cywaj\u0105c materia\u0142\u00f3w odzyskanych ze statku. Prze\u017cyli\u015bmy uprawiaj\u0105c miejscowe ro\u015bliny. Szkolenie biochemiczne, kt\u00f3re zleci\u0142em dla swojego syna ju\u017c odp\u0142aci\u0142o si\u0119 z nawi\u0105zk\u0105. Wyhodowa\u0142 do\u015b\u0107 jedzenia na ca\u0142y miesi\u0105c.
 
 Obawiam si\u0119 jednak o nasze bezpiecze\u0144stwo. Najemniczka, kt\u00f3r\u0105 zatrudni\u0142em na t\u0105 podr\u00f3\u017c, Marguerit Maida, staje si\u0119 niestabilna emocjonalnie. Nalega na opuszczenie tego miejsca i na przeniesienie si\u0119 pod wod\u0119. Boj\u0119 si\u0119, \u017ce do wprowadzenia swojego pomys\u0142u w \u017cycie, mo\u017ce uciec si\u0119 do sabota\u017cu tej bazy. Mimo wszystko jednak i wbrew w\u0142asnej woli, przysta\u0142em na jej \u017c\u0105dania dokonania zwiadu w poszukiwaniu odpowiedniego miejsca pod wod\u0105. Mam nadziej\u0119, \u017ce szybko przekona si\u0119, \u017ce ocean nie jest bezpiecznym miejscem i zrezygnuje z tego nieodpowiedzialnego pomys\u0142u.",
-    "Ency_IslandsPDABase1a": "Dziennik Baata Torgala cz. 6?",
+    "Ency_IslandsPDABase1a": "Dziennik Baata Torgala cz. 6.",
     "EncyDesc_IslandsPDABase1a": "Schrzani\u0142em. Tym razem naprawd\u0119 mocno. Od tego, co si\u0119 sta\u0142o, min\u0119\u0142y ju\u017c dwa dni. Nigdy nie powinni\u015bmy opuszcza\u0107 tej wyspy. \u0179le zrobi\u0142em, s\u0142uchaj\u0105c ich. Niepotrzebnie schodzili\u015bmy tak g\u0142\u0119boko. Nie chc\u0105 nas tam, nie ufaj\u0105 nam. Wiedzia\u0142em to i nic nie powiedzia\u0142em. Widzia\u0142em, \u017ce to si\u0119 stanie, a oni nie i przez to nie mog\u0105 si\u0119 teraz stamt\u0105d wydosta\u0107, a mnie przysz\u0142o siedzie\u0107 tu samemu. Zas\u0142u\u017cy\u0142em na taki los.",
     "Ency_IslandsPDABase1bDesk": "Dziennik audio Degasi cz. 1",
     "EncyDesc_IslandsPDABase1bDesk": " MARGUERIT: To nie jest dobry pomys\u0142, szefie. Z Degasi odzyskali\u015bmy materia\u0142u na ile, kilka obserwatori\u00f3w?
@@ -2021,13 +2020,13 @@ MARGUERIT: To chyba nie mo\u017ce by\u0107 a\u017c tak z\u0142e, skoro wszystko 
 BAAT: Miejscowe formy \u017cycia, w przeciwie\u0144stwie do nas, musia\u0142y chyba wykszta\u0142ci\u0107 jakie\u015b mechanizmy kopiuj\u0105ce.
 PAAL: Pomimo tego wierz\u0119 w ciebie, synu i w to, \u017ce znajdziesz na to jakie\u015b rozwi\u0105zanie.
 MARGUERIT: Powiedz, czego potrzebujesz, m\u0142ody.",
-    "BaseMapRoomFragment": "Schemat sterowni dron\u00f3w",
+    "BaseMapRoomFragment": "Scanner room fragment",
     "BaseMapRoom": "Sterownia dron\u00f3w",
     "Tooltip_BaseMapRoom": "Sterownia podwodnych dron\u00f3w.",
     "RecipeUnlocked": "{0} \u2013 schemat odblokowany",
     "TechTypeUnlocked": "Odblokowano: {0}",
     "MapRoomCameraInfo": "Dron {0}",
-    "MapRoomCameraControls": "Drony zmieniasz przyciskami myszy",
+    "MapRoomCameraControls": "Klawiszami {0} i {1} zmieniasz drony",
     "MapRoomCameraDistance": "DYSTANS: {0}",
     "MapRoomCameraDepth": "G\u0141\u0118BOKO\u015a\u0106: {0}",
     "EncyPath_DownloadedData\/Lifepods": "Kapsu\u0142y ratunkowe",
@@ -2193,5 +2192,40 @@ Wpis 4
     "StarshipChair3": "Krzes\u0142o 3",
     "Tooltip_StarshipChair2": "Zaskakuj\u0105co wygodne.",
     "Tooltip_StarshipChair3": "Zaskakuj\u0105co wygodne.",
+    "UseMapRoomFabricator": "U\u017cyj fabrykatora",
+    "MapRoomUpgrades": "Scanner room upgrades",
+    "MapRoomHUDChip": "Scanner room HUD chip",
+    "Tooltip_MapRoomHUDChip": "Streams data from scanner rooms to the HUD",
+    "MapRoomUpgradeScanRange": "Scanner room range upgrade",
+    "MapRoomUpgradeScanSpeed": "Scanner room speed upgrade",
+    "Tooltip_MapRoomUpgradeScanRange": "",
+    "Tooltip_MapRoomUpgradeScanSpeed": "",
+    "FireExtinguisher": "Ga\u015bnica",
+    "DamagedSavedGame": "<color='#000000FF'>Damaged saved game<\/color>",
+    "MapRoomCameraInfoScreen": "CAMERA {0}",
+    "ControlCamera": "Control camera",
+    "MapRoomScanningText": "SKANOWANIE",
+    "BindQuickSlot": "bind quick slot",
+    "Equip": "wyposa\u017c",
+    "Unequip": "schowaj",
+    "CyclopsHullModule1": "Kompensator ci\u015bnieniowy Cyklopa",
+    "Tooltip_CyclopsHullModule1": "Przekszta\u0142ca struktur\u0119 atomow\u0105 kad\u0142uba \u0142odzi podwodnej w celu zwi\u0119kszenia bezpiecznej g\u0142\u0119boko\u015bci zanurzenia.",
+    "CyclopsHullModule2": "Ultra modu\u0142 wzmocnienia kad\u0142uba",
+    "Tooltip_CyclopsHullModule2": "Przekszta\u0142ca struktur\u0119 atomow\u0105 kad\u0142uba \u0142odzi podwodnej w celu znacznego zwi\u0119kszenia bezpiecznej g\u0142\u0119boko\u015bci zanurzenia.",
+    "WorkbenchMenu_CyclopsMenu": "Ulepszenia Cyklopa",
+    "CyclopsLightingToggle": "W\u0142. \/ wy\u0142. o\u015bwietlenie wewn\u0119trzne",
+    "CyclopsPowerToggle": "W\u0142. \/ wy\u0142. zasilanie Cyklopa",
+    "CyclopsFloodlightsToggle": "W\u0142. \/ wy\u0142. o\u015bwietlenie zewn\u0119trzne",
+    "SeamothHullModule1": "Kompensator ci\u015bnieniowy Seamotha wz. 1",
+    "Tooltip_SeamothHullModule1": "Wzmacnia kad\u0142ub Seamotha, zabezpieczaj\u0105c go przed wp\u0142ywem wysokiego ci\u015bnienia.",
+    "SeamothHullModule2": "Kompensator ci\u015bnieniowy Seamotha wz. 2",
+    "Tooltip_SeamothHullModule2": "Wzmacnia kad\u0142ub Seamotha, zabezpieczaj\u0105c go przed wp\u0142ywem ekstremalnego ci\u015bnienia.",
+    "SeamothHullModule3": "Kompensator ci\u015bnieniowy Seamotha wz. 3",
+    "Tooltip_SeamothHullModule3": "Wzmacnia kad\u0142ub Seamotha, zabezpieczaj\u0105c go przed wp\u0142ywem nawet najwy\u017cszego ci\u015bnienia na planecie.",
+    "SeamothDepthWarning": "UWAGA! Seamoth znajduje si\u0119 poni\u017cej swojej granicy g\u0142\u0119boko\u015bci zgniotu!",
+    "UraniniteCrystal": "Uraninite crystal",
+    "ReactorRod": "Reactor rod",
+    "Tooltip_ReactorRod": "Used to power nuclear reactors.",
+    "Tooltip_UraniniteCrystal": "A highly radioactive and interesting mineral.",
     "1": "2"
 }

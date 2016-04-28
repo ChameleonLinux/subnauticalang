@@ -303,7 +303,7 @@
     "Tooltip_SmallStorage": "4x4 \u00falo\u017en\u00fd prostor, kter\u00fd udr\u017euje svou pozici ve vod\u011b",
     "Tooltip_StalkerTooth": "Ostr\u00e1, tvrd\u00e1 v\u00e1pn\u00edkov\u00e1 struktura.",
     "Tooltip_StasisRifle": "Do\u010dasn\u011b zastavuje fyzick\u00e9 objekty.",
-    "Tooltip_Tank": "Kysl\u00edkov\u00e1 sm\u011bs na 30 sekund d\u00fdch\u00e1n\u00ed.",
+    "Tooltip_Tank": "Sm\u011bs kysl\u00edku. 60 sekund d\u00fdchateln\u00e9ho vzduchu.",
     "Tooltip_Terraformer": "P\u0159\u00edstupn\u00e1 \u00faprava ter\u00e9nu.",
     "Tooltip_Thermometer": "Zobrazuje okoln\u00ed teplotu.",
     "Tooltip_Titanium": "Ti. Titan. Z\u00e1kladn\u00ed stavebn\u00ed materi\u00e1l.",
@@ -453,7 +453,7 @@
     "ReefbackAdvancedStructure": "Krun\u00fd\u0159ov\u00e1 stavba",
     "Tooltip_ReefbackAdvancedStructure": "Podrobn\u00e1 anal\u00fdza vnit\u0159n\u00edch pochod\u016f t\u00e9to pokro\u010dil\u00e9 konstrukce umo\u017en\u00ed dal\u0161\u00ed pos\u00edlen\u00ed staveb.",
     "HullReinforcementModule2": "Krun\u00fd\u0159ov\u00e1 v\u00fdztuha",
-    "Tooltip_HullReinforcementModule2": "V\u00fdztuha trupu vyroben\u00e1 pou\u017eit\u00edm krun\u00fd\u0159e Reefbacka",
+    "Tooltip_HullReinforcementModule2": "Hull reinforcement module built using an interwoven nanite structure",
     "HullReinforcementModule3": "Chelonian Hull reinforcement module",
     "Tooltip_HullReinforcementModule3": "Hull reinforcement module built using advanced Reefback chelonian cellular structure",
     "ReefbackEgg": "Vejce Reefbacka",
@@ -525,7 +525,7 @@
     "Tooltip_HeatBlade": "Roz\u017ehaven\u00e1 \u010depel",
     "Tooltip_LithiumIonBattery": "Dvojn\u00e1sobn\u00e1 kapacita energie",
     "Tooltip_PlasteelTank": "Odleh\u010den\u00e1 l\u00e1hev",
-    "Tooltip_HighCapacityTank": "Velkokapacitn\u00ed l\u00e1hev +60 sekund",
+    "Tooltip_HighCapacityTank": "Sm\u011bs kysl\u00edku. 120 sekund d\u00fdchateln\u00e9ho vzduchu.",
     "Tooltip_UltraGlideFins": "Umo\u017e\u0148uj\u00ed plavat rychleji",
     "Tooltip_SwimChargeFins": "P\u0159i plav\u00e1n\u00ed bezdr\u00e1tov\u011b dob\u00edj\u00ed ru\u010dn\u00ed za\u0159\u00edzen\u00ed.",
     "Tooltip_RepulsionCannon": "P\u016fsob\u00ed silou na p\u0159edm\u011bty.",
@@ -953,7 +953,7 @@ Ko\u0159ist: B\u00fdlo\u017eravci do dvojn\u00e1sobku vlastn\u00ed velikosti
 Z\u00e1v\u011br: vyhnout se mra\u010dn\u016fm p\u00edsku
 ",
     "Locked_Door": "Zam\u010den\u00e9 dve\u0159e",
-    "Sealed_Door": "Zape\u010det\u011bn\u00e9 dve\u0159e",
+    "Sealed_Door": "Zablokovan\u00e9 dv\u011b\u0159e",
     "DoorInstructions_Powercell": "P\u0159ipojte nap\u00e1jen\u00ed ke konzoli otev\u00edr\u00e1n\u00ed",
     "DoorInstructions_Keycard": "Najd\u011bte spr\u00e1vnou p\u0159\u00edstupovou kartu",
     "GenericLocked": "Door is unlocked from elsewhere",
@@ -964,7 +964,7 @@ Z\u00e1v\u011br: vyhnout se mra\u010dn\u016fm p\u00edsku
     "ScannerRedundantScanned": "P\u0159ebyte\u010dn\u00fd fragment oskenov\u00e1n.",
     "ScannerInstanceKnown": "Tato entita ji\u017e byla oskenov\u00e1na. Mus\u00edte naj\u00edt jinou k dokon\u010den\u00ed v\u00fdzkumu.",
     "ScannerEntityKnown": "Entita '{0}' ji\u017e byla zkoum\u00e1na. Net\u0159eba dal\u0161\u00edho skenu.",
-    "EncyclopediaEntryUnlocked": "{0} entry added to encyclopedia",
+    "EncyclopediaEntryUnlocked": "p\u0159id\u00e1n z\u00e1znam do encyklopedie: {0}",
     "Scanner": "Skener",
     "PropulsionCannonBlueprint": "Pl\u00e1nek propulsn\u00edho d\u011bla",
     "Tooltip_Scanner": "Ru\u010dn\u00ed spektroskopick\u00fd skener pro z\u00e1znam informac\u00ed na atom\u00e1rn\u00ed \u00farovni ze zam\u011b\u0159en\u00e9ho objektu.",
@@ -1718,7 +1718,6 @@ Zm\u00e1\u010dkn\u011bte F8 k p\u0159e\u010dten\u00ed.",
     "ConstructorFragment": "Fragment mobiln\u00ed lod\u011bnice",
     "PowerTransmitterFragment": "Power transmitter fragment",
     "RadioFragment": "Radio fragment",
-    "ScannerRoomFragment": "Fragment monitorovac\u00ed m\u00edstnosti",
     "SeaglideFragment": "Fragment podmo\u0159sk\u00e9ho kluz\u00e1ku",
     "SolarPanelFragment": "Solar panel fragment",
     "SpecimenAnalyzerFragment": "Specimen analyzer fragment",
@@ -1839,7 +1838,7 @@ Integrita z\u00e1chrann\u00e9ho modulu: OK
 Sledov\u00e1n\u00ed v\u0161ech nouzov\u00fdch frekvenc\u00ed",
     "IntroEscapePod4Power": "HLAVN\u00cd ZDROJ ZAPNUTO",
     "EncyPath_DownloadedData\/Degasi": "Degasi Survivors",
-    "Ency_WreckAuxOrders": "Aurora Auxiliary Mission Orders",
+    "Ency_WreckAuxOrders": "Vedlej\u0161\u00ed \u00fakoly mise Aurora",
     "EncyDesc_WreckAuxOrders": "POUZE PRO VEDOUC\u00cd PRACOVN\u00cdKY
 
 Typ mise: Hled\u00e1n\u00ed & z\u00e1chrana
@@ -1872,7 +1871,7 @@ Paal Torgal a jeho pos\u00e1dka ztratili kontakt s Mongolsk\u00fdmi \u00fa\u0159
 - doprov\u00e1zen\u00fd sv\u00fdm jedin\u00fdm d\u00edt\u011btem, Baatem Torgalem (19), d\u011bdicem spole\u010dnosti Torgaljin
 - Mongolsk\u00fd emisar Khasar ozn\u00e1mil, \u017ee Torgal \u010dasto cestoval s men\u0161\u00edm ne\u017e minim\u00e1ln\u00edm mno\u017estv\u00edm pos\u00e1dky
 - neadekv\u00e1tn\u00ed \u00fadr\u017eba syst\u00e9m\u016f se m\u016f\u017ee pod\u00edlet na zmizen\u00ed lodi",
-    "Ency_BaatTorgalBio": "Search & Rescue: Baat Torgal",
+    "Ency_BaatTorgalBio": "Naj\u00edt a zachr\u00e1nit: Baat Torgal",
     "EncyDesc_BaatTorgalBio": "POUZE PRO VEDOUC\u00cd PRACOVN\u00cdKY
 
 Vedlej\u0161\u00ed c\u00edl Hled\u00e1n\u00ed & z\u00e1chrany: Baat Torgal
@@ -1884,7 +1883,7 @@ V\u011bk v dob\u011b zmizen\u00ed: 19
 - p\u0159\u00edjemce vylep\u0161en\u00fdch technik v\u00fduky a mozkov\u00fdch implant\u00e1t\u016f
 - digit\u00e1ln\u011b tr\u00e9novan\u00fd v pokro\u010dil\u00e9 biochemii a hv\u011bzdn\u00e9 ekonomice
 - mongolsk\u00fd emisar Khasar ozn\u00e1mil, \u017ee Baat doprov\u00e1zel sv\u00e9ho otce Paala na nov\u011b vybudovanou vesm\u00edrnou stanici, kde m\u011bl p\u011bt let pracovat jako provozn\u00ed \u0159editel",
-    "Ency_MargueritMaidaBio": "Search & Rescue: Paal Torgal",
+    "Ency_MargueritMaidaBio": "Naj\u00edt a zachr\u00e1nit: Marguerit Maida",
     "EncyDesc_MargueritMaidaBio": "POUZE PRO VEDOUC\u00cd PRACOVN\u00cdKY
 
 Vedlej\u0161\u00ed c\u00edl Hled\u00e1n\u00ed & z\u00e1chrany: Marguerit Maida
@@ -1915,7 +1914,7 @@ Slavnostn\u00ed zah\u00e1jen\u00ed pokra\u010duje obvyklou fanf\u00e1rou ...",
 Postavili jsme obydl\u00ed s pou\u017eit\u00edm materi\u00e1l\u016f ze zbytk\u016f lodi. P\u0159e\u017eili jsme t\u00edm, \u017ee p\u011bstujeme m\u00edstn\u00ed rostliny. Biochemick\u00e9 vzd\u011bl\u00e1n\u00ed m\u00e9ho syna rozhodn\u011b nejsou vyhozen\u00e9 pen\u00edze. Vyp\u011bstoval dostatek potravy, aby n\u00e1m vydr\u017eel dal\u0161\u00ed m\u011bs\u00edc.
 
 Te\u010f m\u00e1m strach o na\u0161i bezpe\u010dnost. Ochranka, kterou jsem najal na cestu, Marguerite Maida, je neust\u00e1le rozru\u0161en\u00e1. Trv\u00e1 na tom, \u017ee mus\u00edme opustit toto m\u00edsto a vytvo\u0159it stanovi\u0161t\u011b pod hladinou. Ob\u00e1v\u00e1m se, \u017ee m\u016f\u017ee podniknout kroky k sabot\u00e1\u017ei na\u0161eho stanovi\u0161t\u011b, a prosadit tak sv\u00e9 rozhodnut\u00ed. Nicm\u00e9n\u011b i proti sv\u00e9mu p\u0159esv\u011bd\u010den\u00ed jsem se sm\u00ed\u0159il s jej\u00ed \u017e\u00e1dost\u00ed, aby se hledalo vhodn\u00e9 m\u00edsto pro podmo\u0159skou z\u00e1kladnu. Douf\u00e1m, \u017ee si brzy uv\u011bdom\u00ed, jak nemilosrdn\u00fd oce\u00e1n je a opust\u00ed tuto po\u0161etilou my\u0161lenku.",
-    "Ency_IslandsPDABase1a": "Baat Torgal: z\u00e1znam \u010d.6?",
+    "Ency_IslandsPDABase1a": "Baat Torgal: z\u00e1znam \u010d.6",
     "EncyDesc_IslandsPDABase1a": "Zkazil jsem to. Tentokr\u00e1t docela dost. Bylo to dva dny od t\u00e9 doby, co se to stalo. Nikdy jsme nem\u011bli opustit ostrov. Nem\u011bl jsem je poslouchat. Nem\u011bli jsme j\u00edt tak hluboko. Necht\u011bj\u00ed n\u00e1s tam dole. Nev\u011b\u0159\u00ed n\u00e1m. V\u011bd\u011bl jsem to a nic jsem ne\u0159ekl. Vid\u011bl jsem to, ale oni ne, a te\u010f tam z\u016fstali, a j\u00e1 jsem tady, s\u00e1m. Zaslou\u017e\u00edm si to.",
     "Ency_IslandsPDABase1bDesk": "Degasi hlasov\u00fd z\u00e1znam \u010d.1",
     "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT: To nebude dost, \u0161\u00e9fe. Zachr\u00e1n\u011bno m\u00e1me dostatek \u0161rotu z Degasi, pro p\u00e1r observato\u0159\u00ed?
@@ -2028,13 +2027,13 @@ MARGUERIT: Jak zl\u00e9 to m\u016f\u017ee b\u00fdt, jestli to m\u00e1me v\u0161i
 BAAT: M\u00edstn\u00ed organismy maj\u00ed vyvinut\u00fd obrann\u00e9 mechanismy. To my nem\u00e1me.
 PAAL: No. M\u00e1\u0161 mou plnou d\u016fv\u011bru, synu, \u017ee na to p\u0159ijde\u0161 a zbav\u00ed\u0161 n\u00e1s toho.
 MARGUERIT: \u0158ekni si, co bude\u0161 pot\u0159ebovat, chlap\u010de.",
-    "BaseMapRoomFragment": "Pl\u00e1n monitorovac\u00ed m\u00edstnosti",
+    "BaseMapRoomFragment": "Scanner room fragment",
     "BaseMapRoom": "Monitorovac\u00ed m\u00edstnost",
     "Tooltip_BaseMapRoom": "Scanner Room",
-    "RecipeUnlocked": "{0} recipe unlocked",
-    "TechTypeUnlocked": "{0} unlocked",
+    "RecipeUnlocked": "{0} recept odem\u010den",
+    "TechTypeUnlocked": "{0} odem\u010deno",
     "MapRoomCameraInfo": "Kamera {0}",
-    "MapRoomCameraControls": "Tla\u010d\u00edtkem my\u0161i p\u0159ep\u00edn\u00e1te kamery",
+    "MapRoomCameraControls": "Use {0} and {1} to cycle cameras",
     "MapRoomCameraDistance": "VZD\u00c1LENOST: {0}",
     "MapRoomCameraDepth": "HLOUBKA: {0}",
     "EncyPath_DownloadedData\/Lifepods": "Z\u00e1chrann\u00e9 moduly",
@@ -2142,29 +2141,30 @@ CTO: The O2's going to run out in 30 minutes!
 TECHNICIAN: Frack! What do we do?
 CTO: Let me think.",
     "Ency_LifepodCTODialog2": "CTO Voicelog #2",
-    "EncyDesc_LifepodCTODialog2": "*Sound of water inside the lifepod*
-CTO: According to these pressure readings we've sunk more than 400m.
-TECHNICIAN: So let's just build a flotation device, or a seaglide, and make for the surface.
-CTO: We'll never make it without air tanks. It's too far.
-TECHNICIAN: *Spluttering* I don't want to pressure you, but my feet aren't touching the floor anymore.
-CTO: I've got it! There's another lifepod nearby, a hundred meters from here. If we can make it there, we can resupply our O2 tanks then head for the surface!
-TECHNICIAN: What if that pod's screwed too?!
-CTO: Then we're screwed too, but no more than we are already!
-TECHNICIAN: I'm ready.",
+    "EncyDesc_LifepodCTODialog2": "*zvuky vody v modulu*
+CTO: Podle tlakov\u00fdch z\u00e1znam\u016f jsme se potopili do hloubky p\u0159es 400 metr\u016f.
+TECHNIK: Tak si vybudujeme plov\u00e1k nebo kluz\u00e1k a jednodu\u0161e doplaveme na povrch!
+CTO: Bez kysl\u00edkov\u00fdch lahv\u00ed to ned\u00e1me. Je to moc daleko.
+TECHNIK: *Prsk\u00e1* Nechci na tebe tla\u010dit, ale u\u017e se nedot\u00fdk\u00e1m podlahy!
+CTO: M\u00e1m to! Bl\u00edzko, asi sto metr\u016f, je dal\u0161\u00ed modul. Kdy\u017e se tam dostaneme, budeme si moct doplnit kysl\u00edkov\u00e9 lahve a dostat se na hladinu!
+TECHNIK: Co kdy\u017e je ten modul taky v prdeli?
+CTO: Tak budem v prdeli i my, ale o nic v\u00edc ne\u017e te\u010f.
+TECHNIK: Jsem p\u0159ipraven.
+",
     "Ency_LifepodCTOLog1": "CTO Log #1",
-    "EncyDesc_LifepodCTOLog1": "Entry 1
-Screw this planet! Technician Berkeley and I were forced to abandon our lifepod when it hit the ocean floor. We swam for this pod, but Berkeley ran out of air on the way here. And I don't know how, but we're not in open water. There's no natural light here. There's a roof overhead, and no obvious way out. Lifepod must have rolled down into a cave system of some kind. Might be I can use a dive reel and compass to chart a way out. Might be I'm going to breathe my last down here.
+    "EncyDesc_LifepodCTOLog1": "Z\u00e1znam 1
+Do prdele s touhle planetou! Technik Berkley a j\u00e1 jsme byli nuceni opustil modul, kdy\u017e narazil na dno oce\u00e1nu. Plavali jsme k tomuto 'podu', ale Berkleyovi do\u0161el cestou vzduch. A nev\u00edm, jak je to mo\u017en\u00e9, ale nejsme na \u0161ir\u00e9m mo\u0159i. Nen\u00ed tu \u017e\u00e1dn\u00e9 p\u0159irozen\u00e9 sv\u011btlo. Nade mnou je strop a nevid\u00edm odsud \u017e\u00e1dnou cestu. Modul se asi skut\u00e1lel do n\u011bjak\u00e9ho jeskynn\u00edho syst\u00e9mu. Mo\u017en\u00e1 s lankem a kompasem najdu cestu pry\u010d. Mo\u017en\u00e1 zde vydechnu naposled.  
 
-Entry 2
-Two hours since the first pod sunk. I've tried exploring the area. There's no air pockets. No overhead exit. If I had plasteel I could build an air tank, a submersible, anything! But as it is I can only explore so far before I'm forced back to this lifepod. I have to find another way.
+Z\u00e1znam 2
+Dv\u011b hodiny od doby, co se prvn\u00ed modul potopil. Zkoumal jsem okol\u00ed. \u017d\u00e1dn\u00e9 vzduchov\u00e9 kapsy, \u017e\u00e1dn\u00fd v\u00fdchod nahoru. Kdybych m\u011bl plastocel, mohl bych si ud\u011blat vzduchovou l\u00e1hev, ponorku, cokoli! Zat\u00edm ale mohu zkoumat jen takhle daleko, a pak se mus\u00edm vr\u00e1tit. Mus\u00edm naj\u00edt jin\u00fd zp\u016fsob!
 
-Entry 3
-I've managed to cobble together a rebreather and explore a bit further. I've found an incline heading up. Not clear whether it's part of the cave wall, or the way out. One way to know for sure.
+Z\u00e1znam 3
+Povedlo se mi sl\u00e1tat regul\u00e1tor a tak zkoumat trochu d\u00e1le. Na\u0161el jsem v\u011btev jeskyn\u011b, kter\u00e1 m\u00ed\u0159\u00ed nahoru. Nev\u00edm, jestli kon\u010d\u00ed slep\u011b, nebo jestli je to m\u00e1 cesta ven. Je jedin\u00fd zp\u016fsob, jak to zjistit.
 
-Entry 4
-Daylight! It was definitely daylight, I'm sure of it. I swam as far as I could. Next time I have to go past the point of no return and take my chances. If any rescue party finds this, please retrieve Berkeley's body, if the fish don't get to it first. I will now attempt to make it to the surface and regroup with Keen and anyone else that made it. 
+Z\u00e1znam 4
+Denn\u00ed sv\u011btlo! Na sto procent to bylo denn\u00ed sv\u011btlo, t\u00edm jsem si jist\u00fd. Plaval jsem tak daleko, jak jsem jen mohl. P\u0159\u00ed\u0161t\u011b mus\u00edm j\u00edt tak daleko, \u017ee nebude mo\u017en\u00e9 se vr\u00e1tit a zkus\u00edm \u0161t\u011bst\u00ed. Jestli toto najde z\u00e1chrann\u00e1 mise, vyzvedn\u011bte Berkleyovo t\u011blo, jestli ho tedy nedostaly ryby. Te\u010f se zkus\u00edm dostat k hladin\u011b a spojit se s Keenem, pop\u0159\u00edpad\u011b ostatn\u00edmi p\u0159e\u017eiv\u0161\u00edmi.
 
-- Chief Technical Officer Yu",
+- CTO Yu.",
     "Ency_LifepodCTOLog2": "CTO Log #2",
     "EncyDesc_LifepodCTOLog2": "This beacon marks the beginning of a major cave system. Strong currents dragged our lifepod down. Do not pass this point for fear of death.
 
@@ -2193,9 +2193,44 @@ Daylight! It was definitely daylight, I'm sure of it. I swam as far as I could. 
     "SeamothWelcomeNoPower": "Seamoth: Pozor: Nouzov\u00fd zdroj energie. Produkce vzduchu nen\u00ed v provozu.",
     "BaseWelcomeNoPower": "Z\u00e1kladna: Pozor: Nouzov\u00fd zdroj energie. Produkce vzduchu nen\u00ed v provozu.",
     "MapRoomCameraConnecting": "P\u0158IPOJUJI",
-    "StarshipChair2": "Chair 2",
-    "StarshipChair3": "Chair 3",
-    "Tooltip_StarshipChair2": "Surprisingly comfy.",
-    "Tooltip_StarshipChair3": "Surprisingly comfy.",
+    "StarshipChair2": "\u017didle 2",
+    "StarshipChair3": "\u017didle 3",
+    "Tooltip_StarshipChair2": "P\u0159ekvapiv\u011b pohodln\u00e1.",
+    "Tooltip_StarshipChair3": "P\u0159ekvapiv\u011b pohodln\u00e1.",
+    "UseMapRoomFabricator": "Pou\u017e\u00edt fabrik\u00e1tor",
+    "MapRoomUpgrades": "Vylep\u0161en\u00ed monitorovac\u00ed mistnosti",
+    "MapRoomHUDChip": "Scanner room HUD chip",
+    "Tooltip_MapRoomHUDChip": "Streams data from scanner rooms to the HUD",
+    "MapRoomUpgradeScanRange": "Scanner room range upgrade",
+    "MapRoomUpgradeScanSpeed": "Scanner room speed upgrade",
+    "Tooltip_MapRoomUpgradeScanRange": "",
+    "Tooltip_MapRoomUpgradeScanSpeed": "",
+    "FireExtinguisher": "hasic\u00ed p\u0159\u00edstroj",
+    "DamagedSavedGame": "<color='#000000FF'>Damaged saved game<\/color>",
+    "MapRoomCameraInfoScreen": "KAMERA {0}",
+    "ControlCamera": "Ovl\u00e1d\u00e1n\u00ed kamery",
+    "MapRoomScanningText": "SKENUJI",
+    "BindQuickSlot": "bind quick slot",
+    "Equip": "vybaveno",
+    "Unequip": "nevybaveno",
+    "CyclopsHullModule1": "Cyclops pressure compensator",
+    "Tooltip_CyclopsHullModule1": "Rearranges the submarine hull's atomic structure to increase safe diving depth.",
+    "CyclopsHullModule2": "Ultra hull reinforcement module",
+    "Tooltip_CyclopsHullModule2": "Rearranges the submarine hull's atomic structure to increase safe diving depth by extreme amounts.",
+    "WorkbenchMenu_CyclopsMenu": "Cyclops Upgrades",
+    "CyclopsLightingToggle": "Toggle Internal Lighting On\/Off",
+    "CyclopsPowerToggle": "Toggle Cyclops Power On\/Off",
+    "CyclopsFloodlightsToggle": "Toggle External Floodlights On\/Off",
+    "SeamothHullModule1": "Seamoth pressure compensator mark 1",
+    "Tooltip_SeamothHullModule1": "Hardens the Seamoth chassis under high pressures.",
+    "SeamothHullModule2": "Seamoth pressure compensator mark 2",
+    "Tooltip_SeamothHullModule2": "Hardens the Seamoth chassis under extreme pressures.",
+    "SeamothHullModule3": "Seamoth pressure compensator mark 3",
+    "Tooltip_SeamothHullModule3": "Hardens the Seamoth chassis under the planet's deepest pressures.",
+    "SeamothDepthWarning": "POZOR: Seamoth p\u0159ekro\u010dil deforma\u010dn\u00ed hloubku!",
+    "UraniniteCrystal": "Uraninite crystal",
+    "ReactorRod": "Reactor rod",
+    "Tooltip_ReactorRod": "Used to power nuclear reactors.",
+    "Tooltip_UraniniteCrystal": "A highly radioactive and interesting mineral.",
     "1": "2"
 }

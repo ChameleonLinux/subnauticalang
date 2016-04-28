@@ -303,7 +303,7 @@
     "Tooltip_SmallStorage": "4x4 lokero, joka pit\u00e4\u00e4 sijaintinsa vedess\u00e4.",
     "Tooltip_StalkerTooth": "Ter\u00e4v\u00e4, kovettunut kalsiummuodostuma.",
     "Tooltip_StasisRifle": "Pys\u00e4ytt\u00e4\u00e4 fyysiset kappaleet.",
-    "Tooltip_Tank": "O\u00b2-sekoitus. 30 sekuntia hengitett\u00e4v\u00e4\u00e4 ilmaa.",
+    "Tooltip_Tank": "O\u00b2 mix. 60 seconds of breathable air.",
     "Tooltip_Terraformer": "Accessible terrain alteration.",
     "Tooltip_Thermometer": "HUD temperature sensor.",
     "Tooltip_Titanium": "Ti. Normaali rakennusmateriaali.",
@@ -381,7 +381,7 @@
     "Tooltip_BaseWindow": "Tarkkailuikkuna (-1HP)",
     "Tooltip_PowerGenerator": "Tuottaa s\u00e4hk\u00f6\u00e4 asumuksiin",
     "GhostModelRotateInput": "K\u00e4yt\u00e4 hiiren rullaa py\u00f6ritt\u00e4miseen",
-    "WarningUnsafeDepth": "VAROITUS: Alitetaan {0} metrin turvasyvyys. T\u00f6rm\u00e4ykset vahingoittavat runkoa.",
+    "WarningUnsafeDepth": "WARNING: Passing safe depth of {0} meters. Approaching crush depth.",
     "WarningCrushDepth": "VAROITUS: L\u00e4hestyt\u00e4\u00e4n {0} metrin murskautumissyvyytt\u00e4. Runkovaurio v\u00e4\u00e4j\u00e4\u00e4m\u00e4t\u00f6n! Nouse pian!",
     "SafeDepthNow": "Turvallinen syvyys nyt {0} metri\u00e4",
     "CrushDepthNow": "Murskautumissyvyys nyt {0} metri\u00e4",
@@ -453,7 +453,7 @@
     "ReefbackAdvancedStructure": "Chelonian Structure",
     "Tooltip_ReefbackAdvancedStructure": "Analyzing the detailed inner workings this advanced shell structure may allow further structural strengthening.",
     "HullReinforcementModule2": "Shell hull reinforcement module",
-    "Tooltip_HullReinforcementModule2": "Hull reinforcement module built using Reefback shell structure",
+    "Tooltip_HullReinforcementModule2": "Hull reinforcement module built using an interwoven nanite structure",
     "HullReinforcementModule3": "Chelonian Hull reinforcement module",
     "Tooltip_HullReinforcementModule3": "Hull reinforcement module built using advanced Reefback chelonian cellular structure",
     "ReefbackEgg": "Riutankantajan muna",
@@ -462,7 +462,7 @@
     "UpgradeConsole": "Hallinnoi p\u00e4ivityksi\u00e4",
     "PowerRatingNow": "Energiatehokkuus nyt {0}",
     "RadiationFixed": "Ajoytimen murtumat korjattu. S\u00e4teilyn h\u00e4vi\u00e4miseen 3 p\u00e4iv\u00e4\u00e4. Yritet\u00e4\u00e4n ladata Auroran mustaa laatikkoa. H\u00e4iri\u00f6it\u00e4 havaittu.",
-    "RemainingRadiationLeaks": "{0} s\u00e4teilyvuotoa j\u00e4ljell\u00e4",
+    "RemainingRadiationLeaks": "Radiation leaks remaining: {0}",
     "HardcoreGameOver": "Kuolit. Peli Ohi.",
     "WorldArrow_AttackBleeder": "Attack",
     "EscToSkip": "Hold ESC to skip",
@@ -1118,7 +1118,7 @@ Facilities:
 - Dark-matter ion drive V8
 - Engineering section with A Grade facilities (incl primary meteor cracker, manned robotics suite and full scanner range)
 - 0.25 cubic kilometers storage for mined resources
-- Habitation section with C+ Grade leisure facilities;",
+- Habitation section with C+ Grade leisure facilities.",
     "Ency_AEPSuit": "All-Environment Protection Suit",
     "EncyDesc_AEPSuit": "The Alterra AEP Suit: A single solution for a universe of infinite danger
 
@@ -1709,7 +1709,6 @@ Press F8 to read.",
     "ConstructorFragment": "Mobile Vehicle Bay fragment",
     "PowerTransmitterFragment": "Power transmitter fragment",
     "RadioFragment": "Radio fragment",
-    "ScannerRoomFragment": "Scanner room fragment",
     "SeaglideFragment": "Seaglide fragment",
     "SolarPanelFragment": "Solar panel fragment",
     "SpecimenAnalyzerFragment": "Specimen analyzer fragment",
@@ -1875,7 +1874,7 @@ Age at time of disappearance: 19
     - Beneficiary of enhanced learning techniques and cerebral implants
     - Digi-trained in advanced biochemistry and stellar economics
     - Mongolian emissary Khasar reports Baat was accompanying his father, Paal, to a newly constructed space station where he was to serve a five year term as Chief Operating Officer",
-    "Ency_MargueritMaidaBio": "Search & Rescue: Paal Torgal",
+    "Ency_MargueritMaidaBio": "Search & Rescue: Marguerit Maida",
     "EncyDesc_MargueritMaidaBio": "SENIOR PERSONNEL ONLY
 
 Auxiliary Search & Rescue Target: Marguerit Maida
@@ -1906,7 +1905,7 @@ The launch ceremony proceeded with the usual fanfare...",
 We constructed a habitat using materials reclaimed from the ship. We survived by cultivating indigenous flora. The biochemistry imprint I commissioned for my son has already paid for itself. He has grown enough food to last us a month.
 
 Now I fear for our safety. A mercenary I hired for the journey, Marguerit Maida, is increasingly disturbed. She insists we abandon this site and establish a habitat underwater. I fear she may take steps to sabotage our habitat here to enforce her own agenda. Nonetheless, and against my better judgement, I have acquiesced to her request to scout for a suitable aquatic site. My hope is she will quickly realize how unforgiving the ocean is, and abandon this foolish ambition.",
-    "Ency_IslandsPDABase1a": "Baat Torgal's Log #6?",
+    "Ency_IslandsPDABase1a": "Baat Torgal's Log #6",
     "EncyDesc_IslandsPDABase1a": "I messed up. Real bad this time.  It's been two days since what happened. We never should have left this island. I shouldn't have listened to them. We shouldn't have gone so deep. They don't want us down there. They don't trust us. I knew it and I didn't say. I could see it, and they couldn't, and now they're stuck down there, and I'm up here, alone. I deserve this.",
     "Ency_IslandsPDABase1bDesk": "Degasi Voice Log #1",
     "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT: It won't work, Chief. We salvaged enough scrap from the Degasi for, what, a couple of observatories?
@@ -2021,13 +2020,13 @@ MARGUERIT: How bad can it be if everything's got it?
 BAAT: The local lifeforms must have developed coping mechanisms. We haven't.
 PAAL: Yet. You have my full faith, son, that you'll figure this out for us.
 MARGUERIT: Tell me what you need, kid.",
-    "BaseMapRoomFragment": "Scanner Room Blueprint",
+    "BaseMapRoomFragment": "Scanner room fragment",
     "BaseMapRoom": "Scanner room",
     "Tooltip_BaseMapRoom": "Scanner Room",
     "RecipeUnlocked": "{0} recipe unlocked",
     "TechTypeUnlocked": "{0} unlocked",
     "MapRoomCameraInfo": "Camera {0}",
-    "MapRoomCameraControls": "Press mouse buttons to cycle between cameras",
+    "MapRoomCameraControls": "Use {0} and {1} to cycle cameras",
     "MapRoomCameraDistance": "DISTANCE: {0}",
     "MapRoomCameraDepth": "DEPTH: {0}",
     "EncyPath_DownloadedData\/Lifepods": "Lifepods",
@@ -2190,5 +2189,40 @@ Daylight! It was definitely daylight, I'm sure of it. I swam as far as I could. 
     "StarshipChair3": "Chair 3",
     "Tooltip_StarshipChair2": "Surprisingly comfy.",
     "Tooltip_StarshipChair3": "Surprisingly comfy.",
+    "UseMapRoomFabricator": "Use fabricator",
+    "MapRoomUpgrades": "Scanner room upgrades",
+    "MapRoomHUDChip": "Scanner room HUD chip",
+    "Tooltip_MapRoomHUDChip": "Streams data from scanner rooms to the HUD",
+    "MapRoomUpgradeScanRange": "Scanner room range upgrade",
+    "MapRoomUpgradeScanSpeed": "Scanner room speed upgrade",
+    "Tooltip_MapRoomUpgradeScanRange": "",
+    "Tooltip_MapRoomUpgradeScanSpeed": "",
+    "FireExtinguisher": "Fire Extinguisher",
+    "DamagedSavedGame": "<color='#000000FF'>Damaged saved game<\/color>",
+    "MapRoomCameraInfoScreen": "CAMERA {0}",
+    "ControlCamera": "Control camera",
+    "MapRoomScanningText": "SCANNING",
+    "BindQuickSlot": "bind quick slot",
+    "Equip": "equip",
+    "Unequip": "unequip",
+    "CyclopsHullModule1": "Cyclops pressure compensator",
+    "Tooltip_CyclopsHullModule1": "Rearranges the submarine hull's atomic structure to increase safe diving depth.",
+    "CyclopsHullModule2": "Ultra hull reinforcement module",
+    "Tooltip_CyclopsHullModule2": "Rearranges the submarine hull's atomic structure to increase safe diving depth by extreme amounts.",
+    "WorkbenchMenu_CyclopsMenu": "Cyclops Upgrades",
+    "CyclopsLightingToggle": "Toggle Internal Lighting On\/Off",
+    "CyclopsPowerToggle": "Toggle Cyclops Power On\/Off",
+    "CyclopsFloodlightsToggle": "Toggle External Floodlights On\/Off",
+    "SeamothHullModule1": "Seamoth pressure compensator mark 1",
+    "Tooltip_SeamothHullModule1": "Hardens the Seamoth chassis under high pressures.",
+    "SeamothHullModule2": "Seamoth pressure compensator mark 2",
+    "Tooltip_SeamothHullModule2": "Hardens the Seamoth chassis under extreme pressures.",
+    "SeamothHullModule3": "Seamoth pressure compensator mark 3",
+    "Tooltip_SeamothHullModule3": "Hardens the Seamoth chassis under the planet's deepest pressures.",
+    "SeamothDepthWarning": "WARNING! Seamoth is below its current crush depth!",
+    "UraniniteCrystal": "Uraninite crystal",
+    "ReactorRod": "Reactor rod",
+    "Tooltip_ReactorRod": "Used to power nuclear reactors.",
+    "Tooltip_UraniniteCrystal": "A highly radioactive and interesting mineral.",
     "1": "2"
 }

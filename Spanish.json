@@ -9,10 +9,10 @@
     "Back": "Atr\u00e1s",
     "LatestNews": "\u00daltimas novedades",
     "NewsLoading": "Cargando...",
-    "Language": "Language",
-    "Resolution": "Resolution",
-    "FieldOfView": "Field of view",
-    "Vsync": "Vsync",
+    "Language": "Idioma",
+    "Resolution": "Resoluci\u00f3n",
+    "FieldOfView": "Campo de visi\u00f3n",
+    "Vsync": "Sincronizaci\u00f3n Vertical",
     "Options": "Opciones",
     "OptionsTooltip": "ANTES DE EMBARCAR",
     "DevelopmentVersion": "Versi\u00f3n en desarrollo",
@@ -20,7 +20,7 @@
     "RadiationDetected": "RADIACI\u00d3N DETECTADA",
     "Quartz": "Cuarzo",
     "ScrapMetal": "Fragmento de Metal",
-    "Limestone": "Afloramiento calizo",
+    "Limestone": "Piedra caliza",
     "Copper": "Mineral de Cobre",
     "CopperWire": "Alambre de cobre",
     "Salt": "Dep\u00f3sito de sal",
@@ -40,11 +40,11 @@
     "MODULES": "M\u00d3DULOS",
     "Energy": "Energ\u00eda",
     "AddedToInventory": "A\u00f1adido al inventario.",
-    "BreakLimestone": "Romper afloramiento de esquito",
-    "BreakSandstone": "Romper afloramiento de arenisca",
-    "BreakShale": "Romper afloramiento de esquito",
-    "BreakBasalt": "Romper afloramiento de basalto",
-    "BreakObsidian": "Romper afloramiento de obsidiana",
+    "BreakLimestone": "Romper piedra caliza",
+    "BreakSandstone": "Romper arenisca",
+    "BreakShale": "Romper esquito",
+    "BreakBasalt": "Romper basalto",
+    "BreakObsidian": "Romper obsidiana",
     "Fabricator": "Fabricador",
     "UseFabricator": "Usar Fabricador",
     "Locker": "Taquilla",
@@ -56,7 +56,7 @@
     "DiveSuit": "Traje de buceo",
     "ShipComputer": "Ordenador de abordo",
     "Fins": "Aletas",
-    "RadiationSuit": "Traje antiradiaci\u00f3n",
+    "RadiationSuit": "Traje anti-radiaci\u00f3n",
     "Tank": "Tanque de Ox\u00edgeno",
     "Battery": "Bater\u00eda",
     "Builder": "Constructor de h\u00e1bitats",
@@ -101,10 +101,10 @@
     "BlueCoralTubes": "Jordi Tung",
     "RedGrass": "Hierba roja",
     "GreenGrass": "Hierba verde",
-    "CreepvinePiece": "Muestra de enredadera",
+    "CreepvinePiece": "Muestra de alga enredadera",
     "Mohawk": "Mohicano",
     "GreenReeds": "Ca\u00f1as manchadas",
-    "JellyPlant": "Planta Gelatinosa",
+    "JellyPlant": "Gelaplanta",
     "BlueJeweledDisk": "Tabla de coral azul",
     "GreenJeweledDisk": "Tabla de coral verde",
     "PurpleJeweledDisk": "Tabla de coral morado",
@@ -114,10 +114,10 @@
     "LargeKoosh": "Koosh grande",
     "HugeKoosh": "Koosh enorme",
     "MembrainTree": "\u00c1rbol Membrana",
-    "PurpleFan": "Abanico morado",
+    "PurpleFan": "Abanico p\u00farpura",
     "AcidMushroom": "Hongo \u00e1cido",
     "PurpleTentacle": "Alga retorcida",
-    "RedSeaweed": "Alga roja como la sangre",
+    "RedSeaweed": "Alga sangre",
     "CoralShellPlate": "Placa de Coral",
     "SmallFan": "Abanico diminuto",
     "SmallFanCluster": "Racimo de abanicos diminutos",
@@ -165,7 +165,7 @@
     "CookedEyeye": "VeoVeo Cocinado",
     "CookedOculus": "Ocular Cocinado",
     "Unobtanium": "Unobtanium",
-    "Creepvine": "Enredadera",
+    "Creepvine": "Alga enredadera",
     "HoleFish": "Pez Hueco",
     "Jumper": "Saltador",
     "Peeper": "Mir\u00f3n",
@@ -189,7 +189,7 @@
     "Grabcrab": "Agarrenjo",
     "Floater": "Flotador",
     "Gasopod": "Gas\u00f3podo",
-    "Sandshark": "Tibur\u00f3n arenero",
+    "Sandshark": "Tibur\u00f3n de las arenas",
     "Player": "Jugador",
     "AirBladder": "Nadadera",
     "DEPTH": "PROFUNDIDAD",
@@ -303,7 +303,7 @@
     "Tooltip_SmallStorage": "Almac\u00e9n de 4x4 que mantiene su posici\u00f3n en el agua.",
     "Tooltip_StalkerTooth": "Formaci\u00f3n afilada y endurecida de calcio.",
     "Tooltip_StasisRifle": "Congela objetos f\u00edsicos.",
-    "Tooltip_Tank": "O\u00b2 mezclado. 30 segundos de aire respirable.",
+    "Tooltip_Tank": "Mezcla de O\u00b2. 60 segundos de aire respirable.",
     "Tooltip_Terraformer": "Accesorio para la alteraci\u00f3n del terreno.",
     "Tooltip_Thermometer": "Sensor de temperatura del HUD.",
     "Tooltip_Titanium": "Ti. Material de construcci\u00f3n b\u00e1sico.",
@@ -330,7 +330,7 @@
     "Tooltip_WorkbenchBlueprint": "Planos para construir una estaci\u00f3n de modificaci\u00f3n",
     "WorldArrow_EquipFlashlight": "Equipar Linterna",
     "WorldArrow_EquipKnife": "Equipar Cuchillo",
-    "WorldArrow_CutCreepvine": "Corta la enredadera con el cuchillo",
+    "WorldArrow_CutCreepvine": "Corta la alga enredadera con el cuchillo",
     "WorldArrow_EquipSeaglide": "Equipar Deslizador submarino",
     "WorldArrow_TurnOnFlashlight": "Encender linterna",
     "WorldArrow_EquipConstructor": "Equipar Bah\u00eda de veh\u00edculos",
@@ -342,7 +342,7 @@
     "WorldArrow_BreakLimestone": "Romper piedra caliza",
     "WorldArrow_BoardEscapePod": "Subir a la C\u00e1psula de evacuaci\u00f3n",
     "WorldArrow_UseFabricator": "Usar Fabricador",
-    "WorldArrow_OpenPDA": "Open PDA",
+    "WorldArrow_OpenPDA": "Abrir PDA",
     "WorldArrow_CatchPeeper": "Atrapar Mir\u00f3n",
     "WorldArrow_SwimToSurface": "\u00a1Nada a la superficie!",
     "WorldArrow_EnterSeamoth": "Entrar al Seamoth",
@@ -381,7 +381,7 @@
     "Tooltip_BaseWindow": "Ventana de observaci\u00f3n (1HP)",
     "Tooltip_PowerGenerator": "Construir sobre cimientos para dar energ\u00eda a una base",
     "GhostModelRotateInput": "Usa la rueda del rat\u00f3n para rotar",
-    "WarningUnsafeDepth": "PRECAUCI\u00d3N: Sobrepasando profundidad segura de {0} metros. Las colisiones podr\u00edan da\u00f1ar el casco.",
+    "WarningUnsafeDepth": "AVISO: Sobrepasando la profundidad segura de {0} metros. Aproxim\u00e1ndose a la profundidad de aplastamiento.",
     "WarningCrushDepth": "ADVERTENCIA: Aproxim\u00e1ndose a profundidad de aplastamiento de {0} metros. \u00a1Da\u00f1o al casco inminente! \u00a1Asciende lo antes posible!",
     "SafeDepthNow": "Profundidad segura actual: {0} metros",
     "CrushDepthNow": "Profundidad de aplastamiento actual: {0} metros",
@@ -400,7 +400,7 @@
     "CaveEntrance": "Posible entrada de cueva",
     "HeatSignature": "Lectura de calor",
     "HatchExitBlocked": "\u00a1La escotilla de salida est\u00e1 bloqueada!",
-    "RotateCorridorHint": "Rotate",
+    "RotateCorridorHint": "Rotar",
     "Lead": "Placa de Plomo",
     "Magnesium": "Magnesio",
     "NutrientBlock": "Bloque de nutrientes",
@@ -453,7 +453,7 @@
     "ReefbackAdvancedStructure": "Estructura de quelonio",
     "Tooltip_ReefbackAdvancedStructure": "Analizando el detallado trabajo interno, esta estructura de escamas avanzadas podr\u00eda permitir mayor refuerzo estructural.",
     "HullReinforcementModule2": "M\u00f3dulo placa de refuerzo de casco",
-    "Tooltip_HullReinforcementModule2": "M\u00f3dulo de refuerzo del casco construido usando la estructura de escamas del Reefback",
+    "Tooltip_HullReinforcementModule2": "M\u00f3dulo de refuerzo de casco construido utilizando una estructura de nanitos entrelazados",
     "HullReinforcementModule3": "M\u00f3dulo de quelonio de refuerzo de casco",
     "Tooltip_HullReinforcementModule3": "M\u00f3dulo de refuerzo del casco construido usando la avanzada estructura celular de quelonio del Reefback.",
     "ReefbackEgg": "Huevo de Reefback",
@@ -461,10 +461,10 @@
     "ReefbackDNA": "Muestra de ADN de Reefback",
     "UpgradeConsole": "Acceder a mejoras",
     "PowerRatingNow": "Eficiencia energ\u00e9tica actual {0}",
-    "RadiationFixed": "Fuga del reactor motriz sellada. Disipaci\u00f3n de la radiaci\u00f3n en 3 d\u00edas. Intentando descargar datos de la caja negra de la Aurora. Interferencias encontradas.",
-    "RemainingRadiationLeaks": "Quedan {0} fugas de radiaci\u00f3n",
+    "RadiationFixed": "Fuga del n\u00facleo motriz sellada. Disipaci\u00f3n de la radiaci\u00f3n en 3 d\u00edas. Intentando descargar datos de la caja negra de la Aurora. Encontrando interferencias.",
+    "RemainingRadiationLeaks": "Fugas de radiaci\u00f3n restantes: {0}",
     "HardcoreGameOver": "Has muerto. Fin de la partida",
-    "WorldArrow_AttackBleeder": "Attack",
+    "WorldArrow_AttackBleeder": "Atacar",
     "EscToSkip": "Mantener ESC para saltar",
     "InventoryLabel": "INVENTARIO",
     "StorageLabel": "CONTENEDOR",
@@ -620,8 +620,8 @@
     "Tooltip_Spotlight": "Iluminaci\u00f3n fija.",
     "DeconstructAttachedError": "Los componentes unidos deben ser deconstruidos primero",
     "Pause": "Pausa",
-    "BackToGame": "Back to Game",
-    "GiveFeedback": "Give Feedback",
+    "BackToGame": "Volver a la partida",
+    "GiveFeedback": "Enviar reporte",
     "Save": "Guardar",
     "QuitToDesktop": "Salir al Escritorio",
     "AreYouSure": "\u00bfEst\u00e1s seguro?",
@@ -671,7 +671,7 @@
     "WorkbenchMenu_PropulsionCannonMenu": "Ca\u00f1\u00f3n de Propulsi\u00f3n",
     "Uranium": "Uranio",
     "RegenPowerCell": "C\u00e9lula de energ\u00eda autorrecargable",
-    "CompostCreepvine": "Abono de Enredadera",
+    "CompostCreepvine": "Descomponer alga enredadera",
     "Tooltip_CompostCreepvine": "Deshace Enredaderas con el tiempo para energ\u00eda reutilizable",
     "ProcessUranium": "Procesar uranio",
     "Tooltip_ProcessUranium": "Una reacci\u00f3n de fisi\u00f3n altamente controlada",
@@ -693,7 +693,7 @@
     "NuclearReactorProcessingStatus": "Reactor Nuclear (procesando: {0} carga: {0}\/{1})",
     "Tooltip_PowerTransmitter": "Ampl\u00eda el alcance de la red el\u00e9ctrica",
     "Tooltip_Accumulator": "Almacena energ\u00eda",
-    "Tooltip_Bioreactor": "Convierte materia vegetal en energ\u00eda (40 de energ\u00eda por minuto)",
+    "Tooltip_Bioreactor": "Descompone materia vegetal en energ\u00eda (40 de energ\u00eda por minuto)",
     "Tooltip_ThermalPlant": "Convierte calor en energ\u00eda (> 15 \u00b0C) (50 de energ\u00eda por minuto)",
     "Tooltip_NuclearReactor": "Procesa uranio en potente energ\u00eda (150 de energ\u00eda por minuto)",
     "SmallLockerDefaultLabel": "Taquilla",
@@ -728,7 +728,7 @@
     "Benzene": "Benceno",
     "BloodOil": "Hemoaceite",
     "BloodRoot": "Hemora\u00edz",
-    "BloodVine": "Hemoenredadera",
+    "BloodVine": "Alga sangre enredadera",
     "Graphene": "Grafeno",
     "HydrochloricAcid": "\u00c1cido clorh\u00eddrico",
     "Magnetite": "Magnetita",
@@ -761,7 +761,7 @@
     "Tooltip_BaseBulkhead": "Soporte estructural y puede detener el avance del agua (+2HP)",
     "OpenLocker": "Abrir taquilla",
     "Lubricant": "Lubricante",
-    "CreepvineSeedCluster": "Semillas de Enredadera",
+    "CreepvineSeedCluster": "Semilla de alga enredadera",
     "Tooltip_CreepvineSeedCluster": "Semillas ind\u00edgenas con un alto contenido en aceite.",
     "Tooltip_Lubricant": "Lubricante con base de aceite natural. Aplicaciones industriales.",
     "SeamothReinforcementModule": "Compensador de presi\u00f3n del Seamoth",
@@ -836,12 +836,12 @@
     "Goal_Intro2": "Las c\u00e1psulas de supervivencia est\u00e1n equipadas con un fabricador programado para construir herramientas, y generar sustancias org\u00e1nicas comestibles.",
     "Goal_CookedPeeper": "El fabricador cocina peque\u00f1os organismos, eliminando la estructura esquel\u00e9tica, fluidos corporales y \u00f3rganos internos, gener\u00e1ndolos as\u00ed seguros para el consumo humano.",
     "Goal_LocationAuroraEntry": "Advertencia, integridad estructural desconocida. No se recomienda explorar.",
-    "Goal_LocationAuroraFurtherIn": "Rastro de restos humanos detectados en los sistemas digestivos org\u00e1nicos pr\u00f3ximos: No se recomienda explorar m\u00e1s lejos.",
-    "Goal_BiomeCrashedShip": "Detectado una zona amplia de escombros.",
+    "Goal_LocationAuroraFurtherIn": "Rastro de restos humanos detectados en los sistemas digestivos org\u00e1nicos pr\u00f3ximos: No se recomienda una exploraci\u00f3n mayor.",
+    "Goal_BiomeCrashedShip": "Detectando una zona amplia de escombros.",
     "Goal_LocationAuroraInterior": "El 87% de las secciones habitables de la nave se han vuelto inhabitables durante la explosi\u00f3n.",
-    "Goal_LocationAuroraHallway": "Valorando da\u00f1os internos. Patr\u00f3n de da\u00f1os inconsistente con funcionamiento defectuoso interno. Caja negra de la Aurora no encontrada.",
+    "Goal_LocationAuroraHallway": "Valorando da\u00f1os internos. El patr\u00f3n de da\u00f1os no coincide con un funcionamiento defectuoso interno. Caja negra de la Aurora no encontrada.",
     "Goal_LocationAuroraDriveEntry": "Comprobando da\u00f1os del n\u00facleo motriz con la velocidad del impacto de la Aurora. Los c\u00e1lculos sugieren que la colisi\u00f3n no tuvo suficiente magnitud para causar una fuga del n\u00facleo.",
-    "Goal_Location AuroraDriveInterior": "Caja negra de la Aurora encontrada. Intentando descargar. Interferencias encontradas. Aviso, radiaci\u00f3n al nivel m\u00e1ximo tolerable.",
+    "Goal_Location AuroraDriveInterior": "Caja negra de la Aurora encontrada. Intentando descargar. Encontrando interferencias. Aviso, radiaci\u00f3n al nivel m\u00e1ximo tolerable.",
     "SeamothStorageOpen": "Abrir compartimento",
     "SeamothSonarModule": "S\u00f3nar del Seamoth",
     "Tooltip_SeamothSonarModule": "Un sistema dedicado a la detecci\u00f3n y despliegue de la informaci\u00f3n topogr\u00e1fica en la interfaz.",
@@ -877,7 +877,7 @@
     "ScreenshotUpload": "Cargar",
     "ScreenshotAddToSteamLibrary": "A\u00f1adir a Steam",
     "ScreenshotDelete": "Borrar",
-    "PDAGalleryTabInstructions": "Press {0} to take a screenshot",
+    "PDAGalleryTabInstructions": "Pulsa {0} para hacer una captura",
     "PDAGalleryThumbnailSize": "Tama\u00f1o",
     "PDAGalleryUpload": "Cargar imagen en el Marco de fotos",
     "PDAGalleryAddToSteam": "A\u00f1adir imagen a la \u00c1lbum de Steam",
@@ -888,7 +888,7 @@
     "BreakPurplePinecone": "Romper Pi\u00f1a morada",
     "PlanterPot": "Maceta",
     "PlanterBox": "Jardinera de interior",
-    "PlanterShelf": "Maceta de pared",
+    "PlanterShelf": "Maceta estante",
     "FarmingTray": "Jardinera exterior",
     "FiltrationMachine": "Depuradora de agua",
     "FullyCharged": "Carga completa",
@@ -907,50 +907,48 @@
     "BaseFiltrationMachine": "Depuradora de agua",
     "Tooltip_BasePlanter": "Follaje montado por pared. Puramente decorational.",
     "Tooltip_BaseFiltrationMachine": "Separa el agua de la sal",
-    "Story_AuroraWarning3": "Aviso: Lecturas locales de radiaci\u00f3n exhiben caracter\u00edsticas compatibles con una total degradaci\u00f3n del n\u00facleo de materia oscura de la Aurora. Una detonaci\u00f3n cu\u00e1ntica ocurrir\u00e1 con una probabilidad del 85.5%. Se recomienda observar desde una distancia segura de 1 kil\u00f3metro.",
-    "Story_AuroraWarning2": "Precauci\u00f3n: La degradaci\u00f3n continua de n\u00facleo de la Aurora podr\u00eda causar una detonaci\u00f3n cu\u00e1ntica. Si el n\u00facleo sufre fugas, la probabilidad de muerte por exposici\u00f3n a la radiactividad de los materiales de la zona del impacto aumentan al 37%.",
-    "Story_AuroraWarning1": "Detectando aumento de los niveles locales de radiaci\u00f3n. El aumento es compatible con una degradaci\u00f3n en curso del n\u00facleo de materia oscura de la nave minera Aurora, debido al da\u00f1o sustancial producido durante la colisi\u00f3n. Prosigue la monitorizaci\u00f3n.",
+    "Story_AuroraWarning3": "Aviso: Las lecturas locales de radiaci\u00f3n exhiben caracter\u00edsticas compatibles con una total degradaci\u00f3n del n\u00facleo motriz de materia oscura de la Aurora. Ocurrir\u00e1 una detonaci\u00f3n cu\u00e1ntica con una probabilidad del 85.5%. Se recomienda observar desde una distancia segura de 1 kil\u00f3metro.",
+    "Story_AuroraWarning2": "Precauci\u00f3n: La degradaci\u00f3n continua del n\u00facleo motriz de la Aurora podr\u00eda causar una detonaci\u00f3n cu\u00e1ntica. Si el n\u00facleo motriz sufre fugas, la probabilidad de fallecimiento por exposici\u00f3n a la radiactividad de los materiales de la zona del impacto aumenta al 37%.",
+    "Story_AuroraWarning1": "Detectando aumento de los niveles de radiaci\u00f3n locales. El aumento es compatible con una degradaci\u00f3n en curso del n\u00facleo motriz de materia oscura de la nave minera Aurora, debido al da\u00f1o sustancial producido durante la colisi\u00f3n. Prosigue la monitorizaci\u00f3n.",
     "TabEncyclopedia": "Banco de datos",
     "Ency_CuteFish": "Pez Monada",
     "EncyDesc_CuteFish": "Descripci\u00f3n del Pez Monada",
     "Ency_Gasopod": "Gas\u00f3podo",
     "EncyDesc_Gasopod": "Una lenta forma de vida capaz de llenar el agua con un compuesto venenoso y corrosivo capaz de disolver hasta fibras sint\u00e9ticas.
 
-1. Gl\u00e1ndula de algas - Una protuberancia con forma de bolsa en la parte posterior de su cuerpo. Una especie de alga amarilla bioluminiscente crece dentro de la bolsa y produce el compuesto venenoso.
+1. Gl\u00e1ndula de algas - Una protuberancia con forma de bolsa en la parte posterior de su cuerpo. Una especie de alga amarilla bioluminiscente crece dentro de la bolsa y produce el compuesto venesoso.
 
 2. M\u00fasculos abdominales: Se contraen cuando la criatura se siente amenazada, provocando que la gl\u00e1ndula libere el compuesto corrosivo en el agua circundante.
 
 3. Sistema de filtraci\u00f3n: Las m\u00faltiples capas de las branquias parecen conferir impermeabilidad a la criatura frente a las nubes nocivas que produce.
 
-Recomendaci\u00f3n: Evitar",
+Evaluaci\u00f3n: Evitar",
     "Ency_Biter": "Biter",
     "EncyDesc_Biter": "Esp\u00e9cimen peque\u00f1o, agresivo. 94% m\u00fasculo, 4% tejido conectivo, 2% cerebro.
 
 - La aleta caudal superdesarrollada favorece que sobrepasen a sus presas en capacidad y n\u00famero, por encima de su capacidad de maniobra
-- La membrana olfatoria sobre su cabeza est\u00e1 especializada en la detecci\u00f3n de fluidos corporales en el agua
-- Posiblemente indiferente cuando caza: cualquier cosa herida es presa f\u00e1cil
+- La membrana olfatoria sobre su cabeza est\u00e1 especializada en la detecci\u00f3n de fluidos corporales en el agua - Posiblemente indiferente cuando caza: cualquier cosa herida es presa f\u00e1cil
 - El segundo par de ojos guarda similitudes con los del Tibur\u00f3n arenero. Posiblemente est\u00e9 dedicado a la detecci\u00f3n del movimiento perif\u00e9rico de depredadores m\u00e1s grandes.
 
 Presas: Herb\u00edvoros peque\u00f1os, pero de acuerdo con los c\u00e1lculos, criaturas 100 veces m\u00e1s grande que el Biter podr\u00edan sucumbir ante un ataque concentrado.
 
-Recomendaci\u00f3n: Letal sin las precauciones apropiadas - Evitar los grupos - Intentar no sangrar",
+Evaluaci\u00f3n: Letal sin las precauciones apropiadas - Evitar los grupos - Intentar no sangrar",
     "Ency_Stalker": "Acechante",
     "EncyDesc_Stalker": "Un \u00e1gil depredador con una inteligencia y fuerza desarrolladas.
 
-- Localizado en los bosques de algas, a la espera de presas que abandonan la seguridad de las zonas poco profundas
-- La estratificaci\u00f3n retinal sugiere adaptaci\u00f3n para cazar durante la noche
+- Localizado en los bosques de algas, a la espera de presas que abandonan la seguridad de las zonas poco profundas - La estratificaci\u00f3n retinal sugiere adaptaci\u00f3n para cazar durante la noche
 - Las v\u00edas neuronales indican una habilidad innata para el aprendizaje mediante recompensas; la explicaci\u00f3n evolutiva sigue sin ser clara por el momento
 - Le atraen los metales. Combatir\u00e1 feroz mente sobre su alijo. No hay explicaci\u00f3n disponible para este comportamiento. Se requiere m\u00e1s investigaci\u00f3n.
 
 Presas: El perfil evolutivo lo sit\u00faa como el depredador natural del Mir\u00f3n
 
-Recomendaci\u00f3n: Forzar o evitar",
+Evaluaci\u00f3n: Ahuyentar o evitar",
     "Ency_SandShark": "Tibur\u00f3n arenero",
     "EncyDesc_SandShark": "Un exoesqueleto segmentado lo convierte en un depredador lento pero poderoso. Las filas de pies bajo esta forma de vida no est\u00e1n dise\u00f1adas para caminar - en su lugar son usadas para remover la superficie de la arena, de modo que la forma de vida puede ocultarse en el suelo, desde donde podr\u00eda emboscar a sus presas.
 
 Presas: Herb\u00edvoros hasta dos veces su tama\u00f1o
 
-Recomendaci\u00f3n: Evitar nubes de arena sospechosas",
+Evaluaci\u00f3n: Evitar nubes de arena sospechosas",
     "Locked_Door": "Puerta cerrada",
     "Sealed_Door": "Puerta sellada",
     "DoorInstructions_Powercell": "Enciende la consola cercana para abrir",
@@ -966,7 +964,7 @@ Recomendaci\u00f3n: Evitar nubes de arena sospechosas",
     "EncyclopediaEntryUnlocked": "Informaci\u00f3n de {0} a\u00f1adida a la enciclopedia",
     "Scanner": "Esc\u00e1ner",
     "PropulsionCannonBlueprint": "Plano del Ca\u00f1\u00f3n Propulsor",
-    "Tooltip_Scanner": "Un esc\u00e1ner espectrosc\u00f3pico de mano para analizar informaci\u00f3n a nivel at\u00f3mico en las entidades a las que se dirige.",
+    "Tooltip_Scanner": "Un esc\u00e1ner espectrosc\u00f3pico port\u00e1til para analizar informaci\u00f3n a nivel at\u00f3mico en las entidades a las que se dirige.",
     "Tooltip_MoonpoolBlueprint": "Planos para construir una Piscina Lunar",
     "WaterParkPlanterStorageLabel": "PLANTAS DE ACUARIO",
     "UnknownEgg1": "Huevo de criatura",
@@ -999,7 +997,7 @@ Recomendaci\u00f3n: Evitar nubes de arena sospechosas",
     "ShockerEgg": "Huevo de Shocker",
     "SpadefishEgg": "Huevo de Pez pala",
     "StalkerEgg": "Huevo de Acechante",
-    "SandsharkEgg": "Huevo de Tibur\u00f3n arenero",
+    "SandsharkEgg": "Huevo de tibur\u00f3n de las arenas",
     "Tooltip_BonesharkEgg": "Los Tiburones \u00f3seos salen de aqu\u00ed",
     "Tooltip_CrabsnakeEgg": "Los Crabsnake salen de aqu\u00ed",
     "Tooltip_GasopodEgg": "Los Gas\u00f3podos salen de aqu\u00ed",
@@ -1010,7 +1008,7 @@ Recomendaci\u00f3n: Evitar nubes de arena sospechosas",
     "Tooltip_ShockerEgg": "Los Shockers salen de aqu\u00ed",
     "Tooltip_SpadefishEgg": "Los Peces pala salen de aqu\u00ed",
     "Tooltip_StalkerEgg": "Los Acechantes salen de aqu\u00ed",
-    "Tooltip_SandsharkEgg": "Los Tiburones areneros salen de aqu\u00ed",
+    "Tooltip_SandsharkEgg": "Los tiburones de las arenas salen de aqu\u00ed",
     "EggDiscovered": "{0} descubierto",
     "BaseWaterPark": "Acuario grande",
     "Tooltip_BaseWaterPark": "Proporciona condiciones \u00f3ptimas para flora y fauna. A\u00f1adir escotilla para entrar.",
@@ -1028,18 +1026,18 @@ Recomendaci\u00f3n: Evitar nubes de arena sospechosas",
     "Tooltip_CookedSpinefish": "No comer las antenas.",
     "Tooltip_CuredSpinefish": "Este pez realmente sabe a pescado.",
     "Tooltip_Spinefish": "Pez de aguas profundas emparentado con el Pez Aro, sus marcas blancas distintivas tienen la apariencia de un costillar, usadas para aparentar estar muerto sobre el suelo oce\u00e1nico cuando se acercan depredadores.",
-    "Story_AuroraWarning4": "Emergencia: Las lecturas s\u00edsmicas sugieren que una detonaci\u00f3n cu\u00e1ntica ha ocurrido en el n\u00facleo de la Aurora. El reactor alcanzar\u00e1 un estado cr\u00edtico en T - 10, 9, 8, 7, 6, 5, 4, 3, 2, 1-",
+    "Story_AuroraWarning4": "Emergencia: Las lecturas s\u00edsmicas sugieren una detonaci\u00f3n cu\u00e1ntica en el n\u00facleo motriz de la  Aurora. El reactor alcanzar\u00e1 un estado super cr\u00edtico en T - 10, 9, 8, 7, 6, 5, 4, 3, 2, 1-",
     "Goal_Lifepod6": "Informaci\u00f3n de referencia ha sido a\u00f1adida al banco de datos de la PDA. Se emitir\u00e1n emergencias cuando sean necesarias. Buena suerte.",
-    "Goal_Airsack": "An\u00e1lisis espectrosc\u00f3pico de los organismos es altamente recomendado antes del contacto.",
+    "Goal_Airsack": "Un an\u00e1lisis espectrosc\u00f3pico de los organismos es altamente recomendado antes del contacto.",
     "Goal_Titanium": "Titanio descubierto. El titanio es un material de construcci\u00f3n vers\u00e1til y esencial.",
     "Goal_Quartz": "Cuarzo: descubierto. El cuarzo es usado en la fabricaci\u00f3n de equipamiento b\u00e1sico de supervivencia y h\u00e1bitats a largo plazo.",
     "Goal_Copper": "Mineral de cobre: descubierto. El cobre es el componente esencial de todo el equipamiento electr\u00f3nico. Sus posibilidades de supervivencia han aumentado un 7.6%.",
     "Goal_FilteredWater": "Las formas de vida ind\u00edgenas pueden haber desarrollados m\u00e9todos pr\u00e1cticos para filtrar contaminantes del suministro de agua.",
-    "Goal_Scanner": "El esc\u00e1ner espectrosc\u00f3pico de mano puede ser usado para sintetizar planos de tecnolog\u00eda recuperada, y para grabar informaci\u00f3n biol\u00f3gica alien\u00edgena.",
+    "Goal_Scanner": "El esc\u00e1ner espectrosc\u00f3pico port\u00e1til puede ser usado para sintetizar planos de tecnolog\u00eda recuperada, y para grabar informaci\u00f3n biol\u00f3gica alien\u00edgena.",
     "Goal_Fins": "El fabricador utiliza la informaci\u00f3n disponible para proporcionar equipamiento acorde a la situaci\u00f3n usando materiales locales disponibles. Para su seguridad esta configuraci\u00f3n no puede ser anulada.",
     "Goal_Knife": "El cuchillo ha sido una herramienta esencial para la raza humana durante m\u00e1s de dos millones de a\u00f1os. Es recomendable que consiga uno.",
-    "Goal_Tank": "Llevar m\u00faltiples tanques de ox\u00edgeno aumentar\u00e1 su tiempo de exposici\u00f3n a entornos hostiles.",
-    "Goal_Battery": "El fabricador ha sustituido el \u00e1cido est\u00e1ndar de la bater\u00eda por un compuesto \u00e1cido de la flora loca.",
+    "Goal_Tank": "Llevar m\u00faltiples tanques de ox\u00edgeno aumentar\u00e1 tu tiempo de exposici\u00f3n a entornos hostiles.",
+    "Goal_Battery": "El fabricador ha sustituido el \u00e1cido est\u00e1ndar de la bater\u00eda por un compuesto \u00e1cido de la flora local.",
     "Goal_Bleach": "La lej\u00eda es un qu\u00edmico esencial usado para limpiar heridas y purificar el agua.",
     "Goal_CookedGarryfish": "Es normal sentir repulsi\u00f3n ante la idea de comer un animal muerto. Pero es mejor recordar que los humanos sobrevivieron adecuadamente sin comida sint\u00e9tica durante muchos a\u00f1os. T\u00fa tambi\u00e9n puedes.",
     "Goal_CookedHoverfish": "Si est\u00e1s acostumbrado a la comida convencional, considera disimular el sabor de la carne ind\u00edgena con hierbas y especias locales.",
@@ -1066,7 +1064,7 @@ Recomendaci\u00f3n: Evitar nubes de arena sospechosas",
     "EncyPath_Advanced": "Teor\u00edas avanzadas",
     "Ency_Lifepod": "Camarote est\u00e1ndar para 2 de c\u00e1psula de emergencia.",
     "EncyDesc_Lifepod": "Peso: 576 kg
-Miensiones: 3m x 3m
+Dimensiones: 3m x 3m
 
 Caracter\u00edsticas est\u00e1ndar:
 - Construcci\u00f3n resistente y poco densa
@@ -1077,8 +1075,8 @@ Caracter\u00edsticas est\u00e1ndar:
 - M\u00faltiples salidas
 
 Provisiones est\u00e1ndar:
-2x Traje de protecci\u00f3n
-1x Esc\u00e1ner espectrosc\u00f3pico de mano
+2x Traje de protecci\u00f3n multientorno
+1x Esc\u00e1ner espectrosc\u00f3pico port\u00e1til
 3x Raciones listas parar comer
 3x 1L de agua potable
 1x Medkit de emergencia
@@ -1099,402 +1097,402 @@ Siga las indicaciones y le llevaremos a casa con vida.
 
 Preste atenci\u00f3n: Sus archivos personales y laborales han sido encriptados y podr\u00edan ser recuperados m\u00e1s adelante por un ingeniero licenciado.",
     "Ency_SurvivalChecklist": "Lista de supervivencia",
-    "EncyDesc_SurvivalChecklist": "1. Administer first aid if required
-2. Survey the environment
-3. Locate other survivors
-4. Assess food and water availability and decide on rations
-5. Check lifepod for damage, and repair as necessary
-6. Broadcast local distress signal using lifepod's short-range communications relay
-7. Gather and take stock of available materials
-8. Use survival equipment to render the local environment habitable
-9. Maintain physical and psychological health until rescue
+    "EncyDesc_SurvivalChecklist": "1. Administre primeros auxilios si es requerido
+2. Analice el entorno
+3. Localice otros supervivientes
+4. Eval\u00fae la disponibilidad de provisiones y decida las raciones
+5. Compruebe la c\u00e1psula de salvamento en busca de da\u00f1os y repare cuanto sea necesario
+6. Emita una se\u00f1al de emergencia usando las comunicaciones de corto alcance de la c\u00e1psula
+7. Recoja y haga inventario de los materiales disponibles
+8. Use el equipo de supervivencia para procesar el entorno local habitable
+9. Mantenga la salud f\u00edsica y psicol\u00f3gica hasta el rescate
 
-NB This information is meant as a general guide. In the first instance you should always follow the advice of your PDA, which has taken your particular circumstances into account.",
-    "Ency_AuroraOverview": "Aurora Mining Vessel Overview",
-    "EncyDesc_AuroraOverview": "Mission: 3 year exploratory mining operation
-Crew: Command Team (11), Engineering Team (57), Support Crew (30), Passengers (3)
+Preste atenci\u00f3n: Esta informaci\u00f3n est\u00e1 pensada como una gu\u00eda general. En primera instancia deber\u00eda siempre de seguir las advertencias de su PDA, que ha tomado en cuenta sus circunstancias particulares.",
+    "Ency_AuroraOverview": "Resumen de la Nave Minera Aurora",
+    "EncyDesc_AuroraOverview": "Misi\u00f3n: Operaci\u00f3n de exploraci\u00f3n y miner\u00eda de 3 a\u00f1os
+Tripulaci\u00f3n: Equipo de Mando (11), Equipo de Ingenier\u00eda (57), Equipo de Apoyo (30), Pasajeros (3)
 
-Facilities:
-- Dark-matter ion drive V8
-- Engineering section with A Grade facilities (incl primary meteor cracker, manned robotics suite and full scanner range)
-- 0.25 cubic kilometers storage for mined resources
-- Habitation section with C+ Grade leisure facilities;",
-    "Ency_AEPSuit": "All-Environment Protection Suit",
-    "EncyDesc_AEPSuit": "The Alterra AEP Suit: A single solution for a universe of infinite danger
+Instalaciones:
+- Motor de iones V8 de materia oscura
+- Secci\u00f3n de ingenier\u00eda con instalaciones de nivel A (incluye triturador primario de meteoritos, traje rob\u00f3tico tripulado y esc\u00e1ner de largo alcance)
+- 0.25 kil\u00f3metros c\u00fabicos de almacenamiento para recursos extra\u00eddos
+- Secci\u00f3n de camarotes con instalaciones de ocio de nivel C+.",
+    "Ency_AEPSuit": "Traje de protecci\u00f3n multientorno",
+    "EncyDesc_AEPSuit": "El traje PME Alterra: Una \u00fanica soluci\u00f3n para un universo de infinidad de peligros
 
-You are currently wearing the AEP suit - a hermetically-sealed personal environment, designed to withstand the most extreme conditions in the known universe.
+Usted est\u00e1 vistiendo actualmente el traje PME - un entorno personal herm\u00e9ticamente sellado, dise\u00f1ado para resister las condiciones m\u00e1s extremas del universo conocido.
 
-- Onboard temperature and hydration regulation
-- Compatible with a range of modifications for particular environments
-- Slimline build for maximum freedom of movement
-- Biometric sensors
-- Contextual heads-up display
+- Regulaci\u00f3n integrada de temperatura e hidrataci\u00f3n
+- Compatible con una amplia variedad de modificaciones para entornos particulares
+- Dise\u00f1o ajustado para una m\u00e1xima libertad de movimiento
+- Sensores biom\u00e9tricos
+- Pantalla de avisos contextuales
 
-AEP suits should always be equipped BEFORE lifepod launch in case of hull breach.",
-    "Ency_MetalSalvage": "Structural Analysis: Scattered Wreckage",
-    "EncyDesc_MetalSalvage": "Analysis confirms this wreckage is from the Aurora. 
+Los trajes PME deber\u00edan de estar equipados siempre ANTES del lanzamiento de la c\u00e1psula de salvamento en caso de que se produzca una brecha en el casco.",
+    "Ency_MetalSalvage": "An\u00e1lisis estructural: Restos dispersos",
+    "EncyDesc_MetalSalvage": "El an\u00e1lisis confirma que estos restos son de la Aurora.
 
-Outer layers of the material have oxidized, suggesting it has been heated to over 1200 Celsius. This pattern is consistent with hull disintegration during atmospheric entry. Inner layers contain enough residual titanium to be reclaimed at the fabricator.",
+Las capas exteriores del material se han oxidado, sugiriendo que se ha calentado por encima de 1200 grados Celsius. Este patr\u00f3n concuerda con la desintegraci\u00f3n del casco durante la entrada atmosf\u00e9rica. Las capas interiores contienen suficiente titanio residual para ser utilizado en el fabricador.",
     "Ency_Airsack": "Aerosaco",
-    "EncyDesc_Airsack": "1. Semi-permeable membrane: Body consists of an oxygen- and water-filled, semi-permeable membrane. No oral cavity detected. Membrane may filter plant matter from the water.
+    "EncyDesc_Airsack": "1. Membrana semipermeable: El cuerpo consiste en una membrana semipermeable llena de agua y ox\u00edgeno. No se detecta una cavidad oral. La membrana podr\u00eda filtrar materias vegetales del agua.
 
-2. Open-ended vascular tubing: Can be angled and contracted to pump out water and achieve low-velocity, guided propulsion. No fins identified.
+2. Sistema vascular abierto: Puede ser curvado y contra\u00eddo para bombear agua y moverse a poca velocidad mediante propulsi\u00f3n. No se identifican aletas.
 
-3. Mostly oblivious to threats, its only identified defense mechanism: it is 95% cartilage.
+3. Mayormente inconsciente de las amenazas, su \u00fanico mecanismo de defensa detectado: es cart\u00edlago en un 95%.
 
-Assessment: Membrane may have applications as a natural water filter",
-    "Ency_RabbitRay": "Rabbit Ray",
-    "EncyDesc_RabbitRay": "A herbivorous aquatic lifeform with highly poisonous flesh.
+Evaluaci\u00f3n: La membrana podr\u00eda tener aplicaciones como filtro natural de agua",
+    "Ency_RabbitRay": "Rayanejo",
+    "EncyDesc_RabbitRay": "Un herb\u00edvoro acu\u00e1tico con gran cantidad de carne venenosa.
 
-1. Undulating wings: Main mode of transportation.
+1. Aletas ondulatorias: Mecanismo principal de desplazamiento.
 
-2. Poisonous flesh: Large and without other defense mechanisms, the rabbit ray appears to have evolved poisonous flesh to ward off predators.
+2. Carne venenosa: Grande y sin otro mecanismo de defensa, la rayanejo parece haber desarrollado veneno para ahuyentar a los depredadores.
 
-3. Diet: Grasses and kelps.
+3. Dieta: Hierbas y algas.
 
-Assessment: Inedible but friendly",
+Evaluaci\u00f3n: Incomible pero amigable",
     "Ency_AcidMushroom": "Hongo \u00c1cido",
-    "EncyDesc_AcidMushroom": "A common, spore-bearing fungi species, with developed defense mechanisms. The flesh contains a highly acidic compound which leaches into the water if the outer skin is penetrated. Fluctuations in the local water pressure may also cause it to shrink. 
+    "EncyDesc_AcidMushroom": "Una especie de hongo de esporas com\u00fan con un mecanismos de defensa desarrollados. La carne contiene un compuesto altamente \u00e1cido que se filtra al agua si la piel exterior es penetrada. Las fluctuaciones en la presi\u00f3n del agua pueden causar que se contraiga.
 
-It is not clear which predator species necessitated such extreme counter-measures, but the acid mushroom's numbers suggest it has successfully deterred most of them.
+No est\u00e1 claro que especies depredadoras necesitar\u00edan contramedidas tan extremas, pero el n\u00famero de hongos \u00e1cidos sugiere que ha conseguido disuadir a la mayor\u00eda de ellos.
 
-Assessment: Inedible, but exploitable in battery fabrication if picked carefully",
-    "Ency_LimestoneOutcrops": "Limestone Outcrops",
-    "EncyDesc_LimestoneOutcrops": "These unusual geological structures often form around titanium and copper deposits, and are distinct to this planet. Closer analysis reveals the stone around the metal has been hardened against erosion, but the mechanism remains unknown.
+Evaluaci\u00f3n: Incomible pero utilizable para la fabricaci\u00f3n de bater\u00edas si se coge con precauci\u00f3n",
+    "Ency_LimestoneOutcrops": "Piedra caliza",
+    "EncyDesc_LimestoneOutcrops": "Est\u00e1s inusuales estructuras geol\u00f3gicas se forman frecuentemente alrededor de dep\u00f3sitos de cobre y titanio y son ajenas al planeta. Un an\u00e1lisis m\u00e1s detallado revela que la piedra entorno al metal se ha reforzado contra la erosi\u00f3n, pero se desconoce el mecanismo.
 
-Assessment: Titanium and copper source",
-    "Ency_SandstoneOutcrops": "Sandstone Outcrops",
-    "EncyDesc_SandstoneOutcrops": "These common, porous outcrops seem to form around small amounts of precious metals, or otherwise these metals are part of a sedimentary buildup over time.
+Evaluaci\u00f3n: Fuente de titanio y cobre",
+    "Ency_SandstoneOutcrops": "Arenisca",
+    "EncyDesc_SandstoneOutcrops": "Estos comunes afloramientos porosos parecen formarse alrededor de peque\u00f1os dep\u00f3sitos de metales preciosos o, de lo contrario, estos metales son parte de una acumulaci\u00f3n de sedimentos a lo largo del tiempo.
 
-Assessment: Silver and gold source",
-    "Ency_ShaleOutcrops": "Shale Outcrops",
-    "EncyDesc_ShaleOutcrops": "This sedimentary rock is formed from flakes of clay minerals, inside of which rare metals such as lithium can be found. Geological conditions on this planet mean it tends to be found in deeper biomes.
+Evaluaci\u00f3n: Fuente de plata y oro",
+    "Ency_ShaleOutcrops": "Esquito",
+    "EncyDesc_ShaleOutcrops": "Esta roca sedimentaria se forma a partir de fragmentos de minerales de arcilla, dentro de los cuales se pueden encontrar metales raros como litio. Las condiciones geol\u00f3gicas de este planeta indican que tiende a encontrarse en biomas m\u00e1s profundos.
 
-Assessment: Gold and lithium source",
-    "Ency_BasaltOutcrops": "Basalt Outcrops",
-    "EncyDesc_BasaltOutcrops": "Hard, igneous rock, formed by past volcanic activity. Likely to contain very rare minerals, such as diamond and uranium, which cannot be found elsewhere.
+Evaluaci\u00f3n: Fuente de oro y litio",
+    "Ency_BasaltOutcrops": "Basalto",
+    "EncyDesc_BasaltOutcrops": "Una roca \u00edgnea y dura, formada anteriormente por actividad volc\u00e1nica. Parece contener metales muy poco comunes, como diamante y uranio, los cuales no se pueden encontrar en ning\u00fan otro lugar.
 
-Assessment: Gold, diamond and uranium source",
-    "Ency_BrainCoral": "Purple Brain Coral",
-    "EncyDesc_BrainCoral": "A permanent, growing colony of microscopic organisms. This coral species has adapted to filter carbon dioxide from the environment, using the carbon to build the colony, and expelling the oxygen from specialized exhaust funnels.
+Evaluaci\u00f3n: Fuente de oro, diamante y uranio",
+    "Ency_BrainCoral": "Coral cerebral p\u00farpura",
+    "EncyDesc_BrainCoral": "Una colonia de organismos microsc\u00f3picos en permanente crecimiento. Esta especie de coral se ha adaptado para filtrar di\u00f3xido de carbono del entorno, usando el carbono para construir la colonia y expulsando el ox\u00edgeno desde embudos especializados de expulsi\u00f3n.
 
-Assessment: Exploitable",
-    "Ency_Peeper": "Peeper",
-    "EncyDesc_Peeper": "1. Overdeveloped, side-mounted eyes: Well-adapted to recognize and flee its many predators. Also rich in protein.
+Evaluaci\u00f3n: Utilizable",
+    "Ency_Peeper": "Mir\u00f3n",
+    "EncyDesc_Peeper": "1. Ojos laterales superdesarrollados: Est\u00e1n bien adaptados para reconocer y huir de sus m\u00faltiples depredadores. Tambi\u00e9n son ricos en prote\u00ednas.
 
-2. Powerful tail fin: Enables rapid acceleration, and the ability to leap meters out of the water. 
+2. Aleta caudal poderosa: Permite una r\u00e1pida aceleraci\u00f3n y la habilidad de saltar varios metros por encima del agua.
 
-3. Narrow dorsal fins: Enhance maneuverability.
+3. Aletas dorsales estrechas: Mejoran la maniobrabilidad.
 
-Reliance on visually identifying predators may leave it vulnerable in low-light environments.
+La dependencia en su capacidad visual para identificar depredadores podr\u00eda dejarlo vulnerable en entornos de escasa iluminaci\u00f3n.
 
-Assessment: Edible and substantial - if you can catch it",
+Evaluaci\u00f3n: Comestible y sustancial - si puedes atraparlo",
     "Ency_Boomerang": "Boomerang",
-    "EncyDesc_Boomerang": "1. Twin-fins: Unusually, this species' two fins are a cartilaginous extension of its skeleton. Less prone to damage, harder to grow back.
+    "EncyDesc_Boomerang": "1. Aletas gemelas: Inusualmente, las aletas de esta especie son extensiones cartilaginosas de su esqueleto. Son menos propensas al da\u00f1o, pero m\u00e1s dif\u00edcil de regenerar.
 
-2. Serrated teeth: Suggests adaptation for grinding coral. 
+2. Dientes serrados: Sugiere una adaptaci\u00f3n para despiezar el coral.
 
-3. More active during daylight hours, and prone to flee on approach.
+3. Es m\u00e1s activo durante las horas diurnas y m\u00e1s propenso a huir en los acercamientos.
 
-Assessment: Edible, meager but reliable",
+Evaluaci\u00f3n: Comestible, pobre pero fiable",
     "Ency_Garryfish": "Garryfish",
-    "EncyDesc_Garryfish": "Slow-moving and curious herbivore.
+    "EncyDesc_Garryfish": "Herb\u00edvoro lento y curioso.
 
-1. Camouflage indicates adaptation for evasive behavior on the ocean floor.
+1. El camuflaje indica una adaptaci\u00f3n para un comportamiento evasivo en el suelo oce\u00e1nico.
 
-2. Eye stalks may be beneficial when watching for predators from hiding places amongst the coral.
+2. Los ojos elevados podr\u00edan ser beneficiosos cuando busca depredadores desde escondites dentro del coral.
 
-3. Large stomach cavity: Feeds all day during daylight hours, leaving very little edible meat.
+3. Cavidad estomacal grande: Come durante todo el d\u00eda durante las horas diurnas, dejando poca carne comestible.
 
-Assessment: Not as edible as it looks",
-    "Ency_Shuttlebug": "Shuttlebug",
-    "EncyDesc_Shuttlebug": "1. Three legs: High strength muscles can propel the lifeform great distances through the water, as well as ambulating them across the sea floor.
+Evaluaci\u00f3n: Menos comestible de lo que parece",
+    "Ency_Shuttlebug": "Hormiga lanzadera",
+    "EncyDesc_Shuttlebug": "1. Tres patas: Los m\u00fasculos desarrollados pueden propulsar esta forma de vida grandes distancias a trav\u00e9s del agua, as\u00ed como usarlas para caminar por el suelo marino.
 
-2. Three mandibles: Used to orient themselves when drifting, and to filter through detritus on cave floors. Their presence may indicate a nearby cave system.
+2. Tres mand\u00edbulas: Usadas para orientarse a si mismos cuando flotan y para filtrar restos de otras especies sobre el suelo de las cavernas. Su presencia podr\u00eda indicar un sistema de cavernas pr\u00f3ximo.
 
-Assessment: Essential recycler in the food chain",
-    "Ency_Floater": "Floater",
-    "EncyDesc_Floater": "Evolutionary abnormality. Further research required.
+Evaluaci\u00f3n: Carro\u00f1ero esencial en la cadena alimenticia",
+    "Ency_Floater": "Flotador",
+    "EncyDesc_Floater": "Anomal\u00eda evolutiva. Se requiere mayor investigaci\u00f3n.
 
-1. Dominant lifeform: Structural analysis reveals that this entity is made up of two separate species. The pink main body and inner jaws are the dominant creature.
+1. Forma de vida dominante: El an\u00e1lisis estructural revela que esta entidad est\u00e1 hecha de dos especies distintas. El cuerpo rosa y la mand\u00edbula interna son de la criatura dominante.
 
-2. Microorganism membrane: The outer, gel-like substance is a mesh of microorganisms capable of forming a sealed vacuum around the creature's jaws.
+2. Membrana de microorganismos: La sustancia exterior gelatinosa es una acumulaci\u00f3n de microorganismos capaces de formar un sello al vac\u00edo alrededor de las mand\u00edbulas de la criatura.
 
-3. Air buffer: A thin layer of helium is stored within the outer membrane, providing buoyancy.
+3. Regulador de aire: Una capa fina de helio est\u00e1 almacenada dentro de la membrana externa, confiri\u00e9ndole flotabilidad.
 
-Lifeform has been observed almost exclusively attaching to large boulders. Appears entirely vulnerable to artificial detachment, and indiscriminate in what it is re-attached to.
+Est\u00e1 forma de vida se ha observado mayormente pegada a grandes pe\u00f1ascos. Parece completamente vulnerable a ser despegada artificialmente y no discrimina a qu\u00e9 se vuelve a adherir.
 
-Assessment: More information needed",
-    "Ency_Holefish": "Holefish",
-    "EncyDesc_Holefish": "1. Coloration suggests adaptation for cave environments.
+Evaluaci\u00f3n: Se necesita m\u00e1s informaci\u00f3n",
+    "Ency_Holefish": "Pez Hueco",
+    "EncyDesc_Holefish": "1. La coloraci\u00f3n sugiere una adaptaci\u00f3n para entornos cavernosos.
 
-2. Bored-out Tail Fin: By manipulating the size and shape of the hole in its tail it can perform unpredictable maneuvers.
+2. Aleta caudal escariada: Manipulando el tama\u00f1o y la forma del agujero de su cola puede llevar a cabo maniobras impredecibles.
 
-Smaller than most other herbivores, presumably due to lack of vegetation in low-light environments. Shows little fear of predators. 
+Es m\u00e1s peque\u00f1o que la mayor\u00eda de los herb\u00edvoros, posiblemente debido a la falta de vegetaci\u00f3n en los ambientes oscuros. No muestra casi temor por los depredadores.
 
-Assessment: Edible, reliable cave food",
-    "Ency_CaveCrawler": "Cave Crawler",
-    "EncyDesc_CaveCrawler": "Agile, territorial carrion-feeder. 
+Evaluaci\u00f3n: Comestible, comida de cavernas fiable.",
+    "Ency_CaveCrawler": "Merodeador de cuevas",
+    "EncyDesc_CaveCrawler": "Un carro\u00f1ero \u00e1gil y territorial.
 
-1. Four legs: Used to walk along the seabed and cling to walls. Equally well adapted for land. 
+1. Cuatro patas: Usadas para caminar a lo largo del suelo marino y trepar por las paredes. Est\u00e1n bien adaptadas tambi\u00e9n para tierra firme.
 
-2. Gas exchange membrane: Absorbs essential gases from the air or water.
+2. Membrana de intercambio de gases: Absorbe los gases esenciales del aire y el agua.
 
-This species seeks out corpses in packs, before defending its claim while the corpse is devoured.
+Esta especie busca cad\u00e1veres en grupos, y proteger\u00e1n su trofeo mientras lo devoran.
 
-Assessment: Inconvenient, particularly at funerals",
-    "Ency_TableCoral": "Table Coral",
-    "EncyDesc_TableCoral": "Each disk is an individual colony of microorganisms, filtering nutrients from the water flowing past. 
+Evaluaci\u00f3n: Inconveniente, particularmente en funerales",
+    "Ency_TableCoral": "Tabla de coral",
+    "EncyDesc_TableCoral": "Cada disco es una colonia de microorganismos independiente que filtra nutrientes de las corrientes.
 
-Growth patterns indicate the colonies are in direct competition for positions with superior current or light. Unlike other coral species its structure is malleable, softly pulsating as it pumps nutrients to its extremities, and only turning rigid when it senses physical assault.
+Los patrones de crecimiento indican que las colonias est\u00e1n en competici\u00f3n directa para conseguir posiciones mejor expuestas a las corrientes o la luz. Al contrario que otras especies de coral, su estructura es maleable, palpita suavemente mientras bombea nutrientes a sus extremidades y solo se vuelve r\u00edgida cuando siente un ataque f\u00edsico.
 
-The jewel-like nodes in the surface are concentrated build-ups of rare minerals the coral is unable to process.
+Los nodos enjoyados en su superficie son concentraciones formadas de minerales raros que el coral es incapaz de procesar.
 
-Assessment: Exploitable in computer chip fabrication",
-    "Ency_HangingStinger": "Drooping Stinger",
-    "EncyDesc_HangingStinger": "1. Zero photosynthetic cells detected. Implies carnivorous adaptation to low-light environments. 
+Evaluaci\u00f3n: Utilizable para la fabricaci\u00f3n de chips de ordenador",
+    "Ency_HangingStinger": "Aguij\u00f3n colgante",
+    "EncyDesc_HangingStinger": "1. No se detectan c\u00e9lulas fotosensibles. Implica una adaptaci\u00f3n carn\u00edvora a los entornos oscuros.
 
-2. Follicles along the tentacles capable of detecting contact with foreign bodies, triggering an electromagentic charge in the 600 watt range. Prey is likely paralyzed and consumed over many weeks.
+2. Los fol\u00edculos a lo largo de los tent\u00e1culos son capaces de detectar el contacto con cuerpos extra\u00f1os, liberando una descarga electromagn\u00e9tica de 600 vatios. La presa queda paralizada y es consumida a lo largo de varias semanas.
 
-Prey: Small fish
+Presa: Peces peque\u00f1os
 
-Assessment: Avoid",
-    "Ency_Hoopfish": "Hoopfish",
-    "EncyDesc_Hoopfish": "1. Small size, school mentality, prey fish.
+Evaluaci\u00f3n: Evitar",
+    "Ency_Hoopfish": "Pez aro",
+    "EncyDesc_Hoopfish": "1. Pez de presa peque\u00f1o que suele nadar en bancos.
 
-2. Antennae: Rather than swimming this lifeform uses the fine green antennae which encircle its body to alter the composition of the water in front of it, allowing it to 'sail' into the low density space created.
- 
-Assessment: Edible but meager",
-    "Ency_CoralSample": "Common Corals",
-    "EncyDesc_CoralSample": "The giant coral tubes and slanted shell plates appear to be different solutions to the same problem of maximizing water and nutrient flow throughout the colony. Despite external differences these structures are built by very similar organisms on similar principles. Samples are rich in calcium.
+2. Antena: M\u00e1s que nadar, esta forma de vida una la fina antena verde que rodea su cuerpo para alterar la composici\u00f3n del agua que tiene delante, permiti\u00e9ndole \"deslizarse\" a los espacios de baja densidad que crea.
 
-Assessment: Exploitable in bleach fabrication",
+Evaluaci\u00f3n: Comestible pero escaso.",
+    "Ency_CoralSample": "Corales comunes",
+    "EncyDesc_CoralSample": "Los tubos de coral gigantes y las placas escalonadas parecen ser diferentes soluciones al mismo problema de maximizar las corrientes de agua y nutrientes que fluyen a trav\u00e9s de las colonias. A pesar de las diferencias externas, estas estructuras est\u00e1n construidas por organismos muy similares sobre principios similares. Las muestras son ricas en calcio.
+
+Evaluaci\u00f3n: Utilizable para la fabricaci\u00f3n de lej\u00eda",
     "Ency_Crash": "Crash",
-    "EncyDesc_Crash": "1. Impact-sensitive spikes: If the lifeform collides with something at sufficient speed these spikes are impacted, triggering an internal chemical reaction.
+    "EncyDesc_Crash": "1. Espinas sensibles al impacto: Si la forma de vida colisiona con algo a suficiente velocidad, las espinas desencadenan una reacci\u00f3n qu\u00edmica interna.
 
-2. Suction snout: Likely adapted to vacuum up small insects and grubs in cave systems.
+2. Hocico de succi\u00f3n: Parece adaptado para aspirar peque\u00f1os insectos y larvas en sistemas cavernosos.
 
-3. Chemical storage organ: concentrations of sulfur build up in this organ over time, and can be deployed as an explosive last line of defense during the nesting phase.
+3. \u00d3rgano de almacenamiento qu\u00edmico: A lo largo del tiempo se van formando concentraciones de sulfuro que pueden ser desplegadas como una \u00faltima explosiva linea de defensa durante la fase de anidaci\u00f3n.
 
-Data points to an evolved symbiosis with the crash plant. Hypothesis: the plant evolved to feed on sulphuric compounds secreted by the crash. Stronger, more protective plants provided superior nesting grounds, which in turn benefited the plant with more nutrients, and the co-operative cycle continued.
+Los datos apuntan a una evoluci\u00f3n en simbiosis con la planta crash. Hip\u00f3tesis: la planta evolucion\u00f3 para alimentarse de los compuestos sulf\u00faricos secretados por el crash. Las plantas m\u00e1s fuertes y protectoras proporcionan una mayor superficie de anidaci\u00f3n, lo que a cambio beneficia a la planta con m\u00e1s nutrientes. As\u00ed contin\u00faa el ciclo cooperativo.
 
-Assessment: Avoid or incapacitate",
-    "Ency_CrashLair": "Crash Plant",
-    "EncyDesc_CrashLair": "This plant species appears to share a symbiotic relationship with the aquatic lifeform that nests inside it. The petal-like structures appear undamaged when the lifeform emerges, and likely remain open until the nest is reclaimed by the original owner, or another.
+Evaluaci\u00f3n: Evitar o incapacitar",
+    "Ency_CrashLair": "Planta Crash",
+    "EncyDesc_CrashLair": "Esta especie vegetal parece compartir una relaci\u00f3n simbi\u00f3tica con la criatura acu\u00e1tica que anida en su interior. La estructura con forma de p\u00e9talo parece intacta cuando la criatura emerge y permanence abierta hasta que el nido es reclamado por el propietario original o uno nuevo.
 
-Further information on this relationship is not possible from studying the plant in isolation.
+No es posible obtener informaci\u00f3n m\u00e1s detallada de esta relaci\u00f3n de un estudio de la planta en aislamiento.
 
-Trace amounts of a sulphuric residue have been detected on the inner leaves.
+Rastros de un residuo sulf\u00farico han sido detectados en las hojas interiores.
 
-Assessment: Exploitable",
-    "Ency_Creepvine": "Creepvine",
-    "EncyDesc_Creepvine": "A kelp species concentrated in large forests, in shallow, sandy waters. Loose roots anchor the plant to the sea floor, from where it grows steadily toward the surface in pursuit of sunlight.
+Evaluaci\u00f3n: Utilizable",
+    "Ency_Creepvine": "Alga enredadera",
+    "EncyDesc_Creepvine": "Una especie de alga concentrada en grandes bosques en aguas poco profundas y arenosas. Ra\u00edces flojas mantienen la planta anclada al suelo marino, desde donde crece hacia la superficie en busca de luz solar.
 
-The stem is fibrous and rich in iron, making it both a viable food stuff, and base material for fabrication of textiles such as rope and bandages.
+El tallo es fibroso y rico en hierro, haci\u00e9ndolo tanto un alimento viable como un material base para la fabricaci\u00f3n de textiles como cuerdas y vendajes.
 
-Predators: Hoverfish, eyeye, rabbit ray, peeper
+Depredadores: Pez deslizante, veoveo, rayanejo, mir\u00f3n
 
-Assessment: Vital alien resource - Edible - Medicinal - Construction Applications",
-    "Ency_CreepvineSeeds": "Creepvine Seeds",
-    "EncyDesc_CreepvineSeeds": "Mature creepvine plants that have survived the predation of small herbivores produce these bioluminescent seed clusters, which may be knocked loose by currents or consumed and later deposited by predators. 
+Evaluaci\u00f3n: Recurso vital alien\u00edgena - Comestible - Medicinal - Aplicaciones para la construcci\u00f3n",
+    "Ency_CreepvineSeeds": "Semillas de alga enredadera",
+    "EncyDesc_CreepvineSeeds": "Las algas enredaderas maduras que han sobrevivido a la depredaci\u00f3n de los peque\u00f1os herb\u00edvoros producen estos racimos de semillas bioluminiscentes. Pueden ser arrancadas por las corrientes o consumidas por depredadores y m\u00e1s tarde depositadas.
 
-The embryo is surrounded by a thick oil layer which would disperse into the ground as the outer skin deteriorated. This may provide the seedling with the nutrients it needs to survive the low-light conditions on the sea bed.
+El embri\u00f3n est\u00e1 rodeado por una gruesa capa de aceite que se dispersa en el suelo cuando la piel exterior se deteriora. Esto podr\u00eda proveer a la siembra de nutrientes necesarios para sobrevivir a las condiciones de poca iluminaci\u00f3n del suelo marino.
 
-Assessment: Exploitable oils",
-    "Ency_Eyeye": "Eyeye",
-    "EncyDesc_Eyeye": "An extreme evolutionary adaptation where 90% of the body mass is dedicated to the ocular cavity. 
+Evaluaci\u00f3n: Aceites utilizables",
+    "Ency_Eyeye": "VeoVeo",
+    "EncyDesc_Eyeye": "Una adaptaci\u00f3n evolutiva extrema donde el 90% del cuerpo est\u00e1 dedicado a la actividad ocular.
 
-- Specialized in identifying its predators in low-light environments long before they come into range
-- No brain, just a nervous system
-- Too stupid to avoid predators at close range
-- Vulnerable to surprise attack, implies natural prey of the sand shark
+- Especializado en identificar depredadores en entornos oscuros mucho antes de estar al alcance
+- Sin cerebro, solamente tiene un sistema nervioso
+- Demasiado est\u00fapido para evitar depredadores a corta distancia
+- Vulnerable a los ataques por sorpresa, lo que implica ser la presa natural del tibur\u00f3n arenero
 
-Assessment: Edible and easy to catch once spotted",
-    "Ency_Hoverfish": "Hoverfish",
-    "EncyDesc_Hoverfish": "Six unique limb appendages feature charged pads capable of ionizing the surrounding water. The hoverfish appears to use this ability to maintain its position against the current as it feeds from kelp and lichen.
+Evaluaci\u00f3n: Comestible y f\u00e1cil de atrapar una vez avistado",
+    "Ency_Hoverfish": "Pez deslizante",
+    "EncyDesc_Hoverfish": "Seis ap\u00e9ndices \u00fanicos de las extremidades cuentan con almohadillas cargadas capaces de ionizar el agua de los alrededores. El pez lanzadera parece usar esta habilidad para mantener su posici\u00f3n contra la corriente mientras se alimenta de algas y liquen.
 
-Assessment: Edible, a healthy staple",
+Evaluaci\u00f3n: Comestible, un bocado saludable",
     "Ency_Bleeder": "Bleeder",
-    "EncyDesc_Bleeder": "A simple parasitic organism, little more evolved than the common tick. 
+    "EncyDesc_Bleeder": "Un organismo parasitario simple,  poco m\u00e1s evolucionado que la garrapata com\u00fan.
 
-Identifying features include a ductile sack on its rear end for collection and digestion of blood; and a jaw with rows of teeth and mandibles used to attach to the skin of its victims.
+Las caracter\u00edsticas identificativas incluyen una vejiga d\u00factil en la parte trasera para la recolecci\u00f3n y digesti\u00f3n de sangre, y una mand\u00edbula con filas de dientes usados para adherirse a la piel de sus v\u00edctimas.
 
-Prey: Known to target live organisms, the bleeder's low speed and poor defenses suggest they have evolved primarily as carrion feeders.
+Presas: Sabiendo que elige organismos vivos, la baja velocidad del bleeder y sus escasas defensas sugieren que han evolucionado como depredadores carro\u00f1eros.
 
-Assessment: Inconvenient and unhygienic",
-    "Ency_StalkerTooth": "Stalker Behavior & Physiology",
-    "EncyDesc_StalkerTooth": "Extended analysis of stalker dental samples has been completed.
+Evaluaci\u00f3n: Inconveniente y antihigi\u00e9nico",
+    "Ency_StalkerTooth": "Comportamiento y Fisiolog\u00eda del Acechante",
+    "EncyDesc_StalkerTooth": "El an\u00e1lisis completo de las muestras dentales del acechante se ha completando.
 
-In other local lifeforms tooth composition follows a familiar biological process whereby a calcified structure is grown in the gum.
+En otras formas de vida locales, la composici\u00f3n del diente sigue un proceso biol\u00f3gico similar a trav\u00e9s del cual crece una estructura calcificada en la enc\u00eda.
 
-Stalker teeth are unique in exhibiting extraordinary lightness and strength, and containing only trace amounts of calcium. They gain their structural integrity from a titanium\/iron compound somehow produced in the stalker's body.
+Los dientes del acechante exhiben una \u00fanica y extraordinaria ligereza y resistencia, y apenas conteniendo unos pocos rastros de calcio. De alguna forma  su integridad estructura est\u00e1 basada en compuestos de hierro y titanio producidos por el cuerpo del acechante.
 
-This suggests some possible explanations for the creature's metal-gathering behavior, but raises more questions:
+Esto sugiere algunas posibles explicaciones para el comportamiento recolector de metal de la criatura, pero genera m\u00e1s preguntas:
 
-- By what process can the stalker convert raw metals into dental structure?
-- What explains this seemingly costly evolutionary adaptation? An armored opponent? A calcium shortage?
+- \u00bfA trav\u00e9s de qu\u00e9 proceso puede el acechante convertir metales brutos en su estructura dental?
+- \u00bfQu\u00e9 explica esta aparentemente costosa adaptaci\u00f3n evolutiva? \u00bfUn oponente resistente? \u00bfUna falta de calcio?
 
-Assessment: More research required.",
-    "Ency_Spadefish": "Spadefish",
-    "EncyDesc_Spadefish": "A common herbivore that seems to avoid shallower waters in favor of swimming near to the seabed from where it can keep its one eye on would-be predators in the water above it. Recently observed specimens have high concentrations of a poisonous enzyme - may be a seasonal stage of their lifecycle. Continue to observe.
+Evaluaci\u00f3n: Se requiere m\u00e1s investigaci\u00f3n.",
+    "Ency_Spadefish": "Pez Pala",
+    "EncyDesc_Spadefish": "Un  herb\u00edvoro com\u00fan que parece evitar las aguas poco profundas para nadar cerca del lecho marino desde donde puede mantener su \u00fanico ojo en los posibles depredadores que nadan sobre \u00e9l. Espec\u00edmenes recientemente observados tienen altas concentraciones de una enzima venenosa - podr\u00eda ser parte de una fase de su ciclo de vida. Prosigue la observaci\u00f3n.
 
-Assessment: Edible, substantial",
+Evaluaci\u00f3n: Comestible y sustancial",
     "Ency_Reginald": "Reginald",
-    "EncyDesc_Reginald": "A common prey fish. Dull green coloration for deep water camouflage. Luminescent tail coloration likely part of mating behavior. Filters loose algae and other plant material from the water via four gill-like, front-mounted orifices.
+    "EncyDesc_Reginald": "Una presa com\u00fan. De color verde mate para camuflarse en las aguas profundas. La coloraci\u00f3n luminiscente de la cola parece ser parte de un comportamiento para buscar pareja. Filtra algas sueltas y otras plantas del agua a trav\u00e9s de cuatro especies de branquias de los orificios frontales.
 
-Assessment: Edible, substantial",
-    "Ency_TigerPlant": "Tiger Plant",
-    "EncyDesc_TigerPlant": "This plant has adapted to sense fluctuations in the water at up to 15m, and is capable both of prehensile movement of its tubes, as well as the propelling of thorns at speeds of up to 10m\/s.
+Evaluaci\u00f3n: Comestible y sustancial",
+    "Ency_TigerPlant": "Planta Tigre",
+    "EncyDesc_TigerPlant": "Est\u00e1 planta se ha adaptado para sentir las fluctuaciones del agua en un radio de 15 metros, y es capaz tanto de contorsionar sus tubos como de lanzar proyectiles hasta a 10 m\/s.
 
-Although capable of incapacitating small herbivores, this plant lacks carnivorous digestive organs. Would-be predators caught in its defensive perimeter serve as a warning to other herbivores not to approach; and then as they decompose they serve as fertilizer for the tiger plant.
+A pesar de que es capaz de incapacitar peque\u00f1os herb\u00edvoros, esta planta carece de \u00f3rganos digestivos carn\u00edvoros. Posiblemente los depredadores que son alcanzados en su per\u00edmetro defensivo sirven que advertencia a otros herb\u00edvoros para no acercarse, y, cuando se descomponen, sirve como fertilizante para la planta tigre.
 
-Assessment: Avoid or incapacitate",
-    "Ency_BloodGrass": "Blood Grass",
-    "EncyDesc_BloodGrass": "A common sea grass adapted to shallow, sandy environments. 
+Evaluaci\u00f3n: Evitar o incapacitar",
+    "Ency_BloodGrass": "Hierba sangre",
+    "EncyDesc_BloodGrass": "Una hierba marina com\u00fan adaptada a los entornos poco profundos y arenosos.
 
-- Likely to grow wherever the ground is too loose or the ocean surface too far for creepvines to take hold
-- Commonly found growing on the crests of dunes and atop raised plateaus for superior access to sunlight
-- Distinctive red coloration may be an adaptation to low wavelength light on the seabed, a deterrent against predators, or both
-- Insufficient calories for human consumption
+- Suele crecer donde el suelo es demasiado movedizo o en las superficies oce\u00e1nicas que est\u00e1n demasiado alejadas de las algas enredaderas para que arraiguen
+- Com\u00fanmente encontrada creciendo en las crestas de las dunas y mesetas elevadas para tener acceso a la luz del sol
+- La distintiva coloraci\u00f3n roja puede ser una adaptaci\u00f3n a la baja longitud de onda lum\u00ednica en el suelo marino, un disuasor contra depredadores o ambos
+- Calor\u00edas insuficientes para el consumo humano
 
-Predators: Reginald, spadefish, boomerang
+Depredadores: Reginald, Pez Pala, Boomerang
 
-Assessment: Presence supports healthy biodiversity",
-    "Ency_TreeLeech": "Tree Leech",
-    "EncyDesc_TreeLeech": "Parasitic, fungus-like growth found attached to other fauna. An enzyme is released by the organism which dissolves a hole in the skin of the host, from which it leeches nutrients directly.
+Evaluaci\u00f3n: Su presencia mantiene una biodiversidad saludable",
+    "Ency_TreeLeech": "Sanguijuela arb\u00f3rea",
+    "EncyDesc_TreeLeech": "Crecimiento fungoso parasitario encontrado adherido a otras especies. Una encima es liberada por el organismo que disuelve un agujero en la piel del anfitri\u00f3n, desde donde extrae los nutrientes directamente.
 
-Outer, tooth-lined jaw serves no identified purpose. May be used during a different stage of the organism's lifecycle?
+No se ha identificado un uso a la mand\u00edbula exterior. \u00bfPodr\u00eda ser utilizado durante una fase diferente del ciclo vital del  organismo?
 
-Assessment: Exploitable fungal enzymes",
-    "Ency_TreeMushroom": "Tree Mushrooms",
-    "EncyDesc_TreeMushroom": "Analysis of these large organic structures reveals a microcosm of co-operating, co-habiting and competing lifeforms.
+Evaluaci\u00f3n: Enzimas fungosas utilizables",
+    "Ency_TreeMushroom": "\u00c1rboles seta",
+    "EncyDesc_TreeMushroom": "El an\u00e1lisis de estas enormes estructuras org\u00e1nicas revela un microcosmos de formas de vida en cooperaci\u00f3n, coexistencia y competici\u00f3n.
 
-The main trunk is a species of coral, some colonies up to 50,000 years old. The caps which line it share more in common with earth fungi. Other organisms grow on the structure wherever there is space and light.
+El tronco principal es una especie de coral, algunas colonias tienen m\u00e1s de 50.000 a\u00f1os. Las capas que lo revisten tienen mucho en com\u00fan con los hongos terrestres. Otros organismos crecen sobre la estructura dondequiera que haya espacio y luz.
 
-Surrounding waters are dense with herbivorous lifeforms in the 1mm - 10mm range, to the extent that larger herbivores appear to have mostly abandoned the area.
+En la aguas de los alrededores abundan formas de vida herb\u00edvoras con tama\u00f1os desde 1mm hasta 10mm, mientras que los grandes herb\u00edvoros parecen haber abandonado la zona.
 
-Assessment: Exploitable",
-    "Ency_Jellyray": "Jellyray",
-    "EncyDesc_Jellyray": "Shares some evolutionary traits with the rabbit ray, including highly poisonous flesh. This species has adapted to low-light environments with a translucent, luminescent body. This may help to:
+Evaluaci\u00f3n: Utilizable",
+    "Ency_Jellyray": "Gelarraya",
+    "EncyDesc_Jellyray": "Comparte algunos rasgos evolutivos con la rayanejo, incluyendo la carne venenosa. Esta especie se ha adaptado a los entornos oscuros con un cuerpo traslucido y luminiscente. Esto podr\u00eda ayudar a:
 
-- Light up the surrounding area for foraging
-- Ward away predators
-- Identify the organism to others of its kind
+- Iluminar el area circundante para buscar alimento
+- Ahuyentar depredadores
+- Identificar otros organismos de su especie
 
-Smaller creatures have been seen swimming in the jellyray's wake to take advantage of the light source for their own ends.
+Se han visto peque\u00f1as criaturas nadando en la estela de la gelarraya para aprovechar su luz para sus propios fines.
 
-Assessment: Inedible",
-    "Ency_Mesmer": "Mesmer",
-    "EncyDesc_Mesmer": "Small, carnivorous lifeform with a unique hunting mechanism that allows it to catch prey twice its size. 
+Evaluaci\u00f3n: Incomestible",
+    "Ency_Mesmer": "Hipnotizador",
+    "EncyDesc_Mesmer": "Una forma de vida peque\u00f1a y carn\u00edvora con un mecanismo de caza \u00fanico que le permite atrapar presas el doble de grandes que \u00e9l.
 
-The mesmer waits until a larger carnivore approaches before opening its outer wings. Predators become transfixed by the shimmering pattern, at which point the mesmer opens the jawlike recess in its protective shell and attempts to eat its victim alive, or incapacitate it long enough to escape.
+El hipnotizador espera hasta que un carn\u00edvoro m\u00e1s grande se acerca antes de abrir sus aletas exteriores. Los depredadores se quedan paralizados por los colores relucientes de las mismas, momento en el cual el hipnotizador libera sus fauces de su concha protectora para intentar devorar a su v\u00edctima viva o incapacitarla el tiempo suficiente para escapar.
 
-Assessment: Avoid",
+Evaluaci\u00f3n: Evitar",
     "Ency_Reefback": "Reefback",
-    "EncyDesc_Reefback": "Armor plating on these huge lifeforms is thick enough to interfere with the spectroscope scanner. Limited data available.
+    "EncyDesc_Reefback": "El blindaje de estas enormes formas de vida es lo bastante grueso para interferir con el esc\u00e1ner espectrosc\u00f3pico. Escasa informaci\u00f3n disponible.
 
-Size ranges upwards of 20m. Tentacles provide low speed propulsion. Sociable, seen traveling in small pods. Profile consistent with a herbivore near the top of the food chain.
+El tama\u00f1o alcanza hasta los 20m. Los tent\u00e1culos proporcionan una propulsi\u00f3n lenta. Es sociable, se lo ha visto viajando en peque\u00f1os grupos. El perfil concuerda con el de un herb\u00edvoro cerca de la cima de la cadena alimenticia.
 
-Predators: Unknown
+Depredadores: Desconocido
 
-Assessment: None at this time",
-    "Ency_ModificationStation": "Modification Station",
-    "EncyDesc_ModificationStation": "Where the standard fabricator atomically rearranges raw materials to form complex devices, the mod station is able to combine complex devices to enhance their function.
+Evaluaci\u00f3n: Nada por el momento",
+    "Ency_ModificationStation": "Estaci\u00f3n de modificaci\u00f3n",
+    "EncyDesc_ModificationStation": "Mientras que el fabricador est\u00e1ndar reordena materias primas at\u00f3micamente para formar dispositivos complejos, la estaci\u00f3n de modificaci\u00f3n es capaz de combinar dispositivos complejos para mejorar sus funciones.
 
-Most industrial vessels are fitted with a complement of equipment modification stations, which enable engineers to adapt their tools for emergent situations on the fly.
+La mayor\u00eda de naves industriales cuentan con un complemento de estaciones de modificaci\u00f3n de equipo, las cuales permiten a los ingenieros adaptar sus herramientas para situaciones emergentes durante el vuelo.
 
-To conserve hard drive space the modification station is excluded by default from most personal emergency blueprint libraries; however extreme environments such as ocean and desert class planets may necessitate the adaptation of basic survival tools (such as the knife and oxygen tanks) for unanticipated applications. For this reason access to a mod station is always recommended.",
-    "Ency_StasisRifle": "Stasis Rifle",
-    "EncyDesc_StasisRifle": "The stasis rifle uses patented technology to slow time in a specified area to as near to a full stop as the laws of physics will permit. It is an advanced, handheld tool designed to facilitate scientific and engineering operations by expanding the window of opportunity for action in time-sensitive scenarios.
+Para conservar espacio en el disco duro, la estaci\u00f3n de modificaci\u00f3n es excluida de la mayor\u00eda de bibliotecas de dise\u00f1os de emergencia; sin embargo, entornos extremos como planetas oce\u00e1nicos o des\u00e9rticos podr\u00edan necesitar la adaptaci\u00f3n de herramientas b\u00e1sicas de supervivencia (como el cuchillo y los tanques de ox\u00edgeno) para aplicaciones inesperadas. Por esta raz\u00f3n acceder a una estaci\u00f3n de modificaci\u00f3n es siempre recomendable.",
+    "Ency_StasisRifle": "Rifle de estasis",
+    "EncyDesc_StasisRifle": "El rifle de estasis usa tecnolog\u00eda patentada para ralentizar el tiempo en un area espec\u00edfica, tan pr\u00f3ximo a detenerlo como permiten las leyes de la f\u00edsica. Es una herramienta avanzada dise\u00f1ada para facilitar operaciones cient\u00edficas e ingenieras abriendo una ventana de oportunidad a la acci\u00f3n en escenarios donde el tiempo es clave.
 
-Common applications include:
+La aplicaciones comunes incluyen:
 
- - Slowing fast-moving mechanisms, such as fan belts, to facilitate maintenance operations
- - Pausing the biological processes of organisms for closer study
- - Halting the progress of fires and flooding
- - Navigating perilous spaces by freezing potential threats
+- Ralentizaci\u00f3n de mecanismos veloces, como correas de ventiladores, para facilitar las labores de mantenimiento
+- Pausar los procesos biol\u00f3gicos de los organismos para un estudio m\u00e1s cercano
+- Detener el progreso de incendios e inundaciones
+- Moverse por espacios peligrosos deteniendo amenazas potenciales
 
-The stasis rifle features an independent, replaceable power cell, and the trigger may be held down to increase the area of effect and duration.
+Las caracter\u00edsticas del rifle de estasis incluyen una c\u00e9lula de energ\u00eda independiente y reemplazable y el gatillo, que debe mantenerse para aumentar el \u00e1rea de efecto y la duraci\u00f3n.
 
-Due to high power consumption and non-lethality, conventional weapons are recommended for personal defense.",
-    "Ency_PropulsionCannon": "PropulsionCannon",
-    "EncyDesc_PropulsionCannon": "The propulsion cannon allows technicians to manipulate gravitational forces at ranges of up to 20m. It is commonly used in construction and mining to move materials.
+Debido al alto consumo energ\u00e9tico y a que no es letal se recomienda llevar armas convencionales para defensa personal.",
+    "Ency_PropulsionCannon": "Ca\u00f1\u00f3n de propulsi\u00f3n",
+    "EncyDesc_PropulsionCannon": "El ca\u00f1\u00f3n de propulsi\u00f3n permite a los t\u00e9cnicos manipular fuerzas gravitatorias en distancias de hasta 20m. Es frecuentemente utilizado en la construcci\u00f3n y miner\u00eda para mover materiales.
 
-Operating Instructions:
+Instrucciones de uso:
 
- - Pull the trigger once to lock onto and attract a single targeted object weighing less than 25kg
- - The object can now safely be retrieved from the gravitational beam
- - Alternatively, pull the trigger a second time to propel the object at speed away from the device
- - Not recommended for use on organic subjects",
+- Accionar el disparador una vez para fijar y atraer un objeto fijado que pese menos de 25kg
+- El objeto puede ser ahora recuperado con seguridad del rayo gravitatorio
+- En caso contrario, accionar nuevamente el disparador para para lanzar r\u00e1pidamente el objeto
+- No se recomienda usar en sujetos org\u00e1nicos",
     "Ency_Seamoth": "Seamoth",
-    "EncyDesc_Seamoth": "The seamoth is a one-person submersible with an independent, replaceable power cell and a fully customizable design. Most long-range mining vessels carry at least two submersibles of this class to facilitate the exploration and exploitation of water-bearing planetoids.
+    "EncyDesc_Seamoth": "El Seamoth es un sumergible unipersonal con una c\u00e9lula de energ\u00eda independiente y reemplazable y un dise\u00f1o completamente personalizable. La mayor\u00eda de naves mineras de largo alcance llevan al menos dos sumergibles de esta clase para facilitar la exploraci\u00f3n y explotaci\u00f3n de planetoides acu\u00e1ticos.
 
-Ratings: 
- - Top Speed: 13m\/s
- - Acceleration: 5m\/s\/s
- - Distance per power cell: 10km
- - Crush depth: 225m below sea level 
- - Upgrade module slots: 4
- - Dimensions: 3m x 1.5m x 1m
- - Persons: 1
+Especificaciones:
+- Velocidad m\u00e1xima: 13m\/s
+- Aceleraci\u00f3n: 5m\/s\/s
+- Distancia por c\u00e9lula de energ\u00eda: 10km
+- Profundidad de aplastamiento: 225m bajo el nivel del mar
+- Ranuras para m\u00f3dulos de mejora: 4
+- Dimensiones: 3m x 1.5m x 1m
+- Personas: 1
 
-Seamoths may be modified by installing upgrade modules to the access point mounted by default on the upper left wing. These include:
+Los Seamoth pueden ser modificados instalando m\u00f3dulos de mejora en el punto de acceso instalado por defecto en la parte superior del ala izquierda. Estos incluyen:
 
- - Increased cargo storage
- - Superior power 
- - Pressure and collision compensation
- - Enhanced sonar
- - Defensive capabilities
- 
-NB These modules may only be manufactured at an appropriately outfitted moonpool or submersible bay.",
-    "Ency_SeamothConfigs": "Seamoth Configurations Catalog",
-    "EncyDesc_SeamothConfigs": "Cargo Hauler: 3x storage; 1x solar charger
-Scout: 1x pressure compensator; 1x power efficiency; 1x perimeter defense; 1x sonar;
-Tank: 1x perimeter defense; 1x torpedo system; 2x hull reinforcement",
-    "Ency_Builder": "All-terrain Quick-build Habitats",
-    "EncyDesc_Builder": "The Alterra handheld habitat builder has been an essential tool of xenoscientists, colonists and emergency relief crews across seven different empires for more than 50 years.
+- Aumento de capacidad de carga
+- Aumento de eficiencia energ\u00e9tica
+- Compensaci\u00f3n de presi\u00f3n y colisi\u00f3n
+- S\u00f3nar mejorado
+- Capacidades defensivas
 
-Habitat modules are hermetically sealed from the outside environment, and may be built on land, underwater, or in a vacuum. Oxygen and power systems are not fitted as standard and must be built separately. Most capital ships carry a full complement of advanced modules and reactors for quick deployment in the field.
+Preste atenci\u00f3n: Estos m\u00f3dulos solo pueden ser fabricados en una bah\u00eda de sumergibles o piscina lunar apropiadamente equipados.",
+    "Ency_SeamothConfigs": "Cat\u00e1logo de modelos de Seamoth",
+    "EncyDesc_SeamothConfigs": "Nave de carga: 3x m\u00f3dulo de carga; 1x cargador solar
+Explorador: 1x compensador de presi\u00f3n; 1x m\u00f3dulo de eficiencia energ\u00e9tica; 1x dispositivo de defensa perimetral; 1x s\u00f3nar
+Tanque: 1x dispositivo de defensa perimetral; 1x sistema de torpedos; 2x refuerzo de casco",
+    "Ency_Builder": "H\u00e1bitats todoterreno de construcci\u00f3n r\u00e1pida",
+    "EncyDesc_Builder": "El constructor de h\u00e1bitats de Alterra ha  sido una herramienta esencial para xenocient\u00edficos, colonos y equipos de emergencia a lo largo de siete imperios diferentes durante m\u00e1s de 50 a\u00f1os.
 
-Habitats can be enhanced to become long-term homes, remote research stations, defensive outposts and more.",
-    "Ency_Moonpool": "Moonpool",
-    "EncyDesc_Moonpool": "The moonpool is an essential habitat module for long-term exploration of oceanic environments. Its primary function is as a dry dock for the seamoth submersible (seamoth not included).
+Los h\u00e1bitats est\u00e1n herm\u00e9ticamente sellados del ambiente exterior, y pueden ser construidos en tierra, bajo el agua o en el vac\u00edo. Los sistemas de ox\u00edgeno y energ\u00eda no est\u00e1n incorporados por defecto y deben ser construidos a parte. La mayor\u00eda de las naves de mando cuentan con un complemento completo de m\u00f3dulos avanzados y reactores para un despliegue r\u00e1pido en el campo.
 
-The large central chamber contains a pressurized pool which provides ready access to the surrounding waters, and comes as standard with equipment for raising and recharging the seamoth.
+Los habitats pueden ser mejorados para convertirse en hogares a largo plazo, estaciones de investigaci\u00f3n remotas, avanzadas de defensa y m\u00e1s.",
+    "Ency_Moonpool": "Piscina lunar",
+    "EncyDesc_Moonpool": "La piscina lunar es un habitat esencial para exploraciones oce\u00e1nicas duraderas. Su funci\u00f3n principal es ser un dique seco para el Seamoth (no incluido).
 
-It is recommended the builder tool be used to outfit the moonpool with a seamoth modification station at your earliest convenience. This will enable the fabrication of seamoth upgrade modules, amongst other things.
+La amplia c\u00e1mara central contiene una piscina presurizada que proporciona un acceso r\u00e1pido a las aguas cercanas, y viene por defecto con equipamiento para atracar y recargar el seamoth.
 
-Ratings:
- - Dimensions: 16m x 10m x 5m
- - Connection points: 6
- - Habitat hull strength liability at sea level: -5 (equivalent 4 rooms)
- - Capacity: 1 seamoth
- - High power consumption",
-    "NoKeyExchangeBattery": "Exchange battery",
-    "NoKeyExchangePowerCell": "Exchange power cell",
-    "CyclopsWelcomeAboard": "Cyclops: Welcome aboard captain.",
-    "CyclopsHullBreach": "Cyclops: Hull breach detected.",
-    "CyclopsHullRestored": "Cyclops: Hull integrity restored. Draining systems initiated.",
-    "SeamothWelcomeAboard": "Seamoth: Welcome aboard captain.",
-    "BaseWelcomeAboard": "Base: Welcome aboard captain.",
-    "BasePowerUp": "Base: Power restored. All primary systems online.",
-    "BasePowerDown": "Base: Warning, emergency power only.",
-    "BaseHullBreach": "Base: Hull breach detected.",
-    "BaseHullRestored": "Base: Hull integrity restored. Draining systems initiated.",
-    "AcidMushroomSpore": "Acid mushroom spore",
-    "BulboTree": "Bulbo tree",
-    "BulboTreePiece": "Bulbo tree sample",
-    "HangingFruitTree": "Hanging fruit tree",
-    "HangingFruit": "Hanging fruit",
-    "OrangeMushroom": "Orange mushroom",
-    "OrangeMushroomSpore": "Orange mushroom spore",
-    "PinkMushroom": "Pink mushroom",
-    "PinkMushroomSpore": "Pink mushroom spore",
-    "PurpleRattle": "Purple rattle",
-    "PurpleRattleSpore": "Purple rattle spore",
-    "PurpleVasePlant": "Purple vase plant",
-    "PurpleVasePlantSeed": "Purple vase plant seed",
-    "WhiteMushroomSpore": "Deep shroom spore",
+Es recomendable instalar una estaci\u00f3n de modificaci\u00f3n de Seamoth para su conveniencia. Esto permitir\u00e1 la fabricaci\u00f3n de m\u00f3dulos de mejora para el Seamoth, adem\u00e1s de otras cosas.
+
+Informaci\u00f3n:
+- Dimensiones: 16m x 10m x 5m
+- Puntos de conexi\u00f3n: 6
+- Valor a\u00f1adido a la integridad del casco de la base: -5 (equivale a 4 salas)
+- Capacidad: 1 Seamoth
+- Alto consumo de energ\u00eda",
+    "NoKeyExchangeBattery": "Intercambiar bater\u00eda",
+    "NoKeyExchangePowerCell": "Intercambiar c\u00e9lula de energ\u00eda",
+    "CyclopsWelcomeAboard": "Cyclops: Bienvenido a bordo capit\u00e1n.",
+    "CyclopsHullBreach": "Cyclops: Detectada brecha en el casco.",
+    "CyclopsHullRestored": "Cyclops: Restaurada integridad del casco. Iniciados sistemas de drenaje.",
+    "SeamothWelcomeAboard": "Seamoth: Bienvenido a bordo capit\u00e1n.",
+    "BaseWelcomeAboard": "Base: Bienvenido a bordo capit\u00e1n.",
+    "BasePowerUp": "Base: Energ\u00eda restaurada. Todos los sistemas principales operativos.",
+    "BasePowerDown": "Base: Aviso, solo energ\u00eda de emergencia.",
+    "BaseHullBreach": "Base: Detectada brecha en el casco.",
+    "BaseHullRestored": "Base: Restaurada integridad del casco. Iniciados sistemas de drenaje.",
+    "AcidMushroomSpore": "Espora de hongo \u00e1cido",
+    "BulboTree": "\u00c1rbol bulbo",
+    "BulboTreePiece": "Muestra de \u00e1rbol bulbo",
+    "HangingFruitTree": "\u00c1rbol de fruta colgante",
+    "HangingFruit": "Fruta colgante",
+    "OrangeMushroom": "Seta naranja",
+    "OrangeMushroomSpore": "Espora de seta naranja",
+    "PinkMushroom": "Seta rosa",
+    "PinkMushroomSpore": "Espora de seta rosa",
+    "PurpleRattle": "Maraca p\u00farpura",
+    "PurpleRattleSpore": "Espora de maraca p\u00farpura",
+    "PurpleVasePlant": "Planta jarr\u00f3n p\u00farpura",
+    "PurpleVasePlantSeed": "Semilla de planta jarr\u00f3n p\u00farpura",
+    "WhiteMushroomSpore": "Espora de hongo de las profundidades",
     "Tooltip_AcidMushroomSpore": "",
     "Tooltip_BulboTreePiece": "",
     "Tooltip_HangingFruit": "",
@@ -1506,210 +1504,209 @@ Ratings:
     "Tooltip_PurpleRattleSpore": "",
     "Tooltip_PurpleVasePlantSeed": "",
     "Tooltip_WhiteMushroomSpore": "",
-    "LEDLight": "Light stick",
-    "LEDLightBlueprint": "Light stick blueprint",
-    "Tooltip_LEDLightBlueprint": "Plans for building a light stick",
-    "Tooltip_LEDLight": "Deployable battery-powered lighting",
-    "Ency_LEDLight": "Light Stick",
-    "EncyDesc_LEDLight": "A mobile, battery-powered LED light, which provides low-level lighting in a 360 degree area, and can be attached to most surfaces.",
-    "LoadingMessage": "Loading...
+    "LEDLight": "Poste de luz",
+    "LEDLightBlueprint": "Plano del poste de luz",
+    "Tooltip_LEDLightBlueprint": "Planos para construir un poste de luz",
+    "Tooltip_LEDLight": "Iluminaci\u00f3n desplegable con bater\u00eda",
+    "Ency_LEDLight": "Poste de luz",
+    "EncyDesc_LEDLight": "Una luz LED port\u00e1til con una bater\u00eda que proporciona iluminaci\u00f3n de poca intensidad en una zona de 360 grados. Puede acoplarse a la mayor\u00eda de las superficies.",
+    "LoadingMessage": "Cargando...
 
-NOTE: This screen may take some minutes to load and may look as if it has crashed during that time. Please be patient.",
+NOTA: Esta pantalla podr\u00eda necesitar algunos minutos para cargar y podr\u00eda parecer que ha dejado de funcionar durante el proceso. Por favor, ten paciencia.",
     "Dead": "Muerto",
-    "CyclopsHullFragment": "Cyclops hull fragment",
-    "CyclopsBridgeFragment": "Cyclops bridge fragment",
-    "CyclopsEngineFragment": "Cyclops engine fragment",
-    "CyclopsDockingBayFragment": "Cyclops docking bay fragment",
-    "CyclopsHullBlueprint": "Cyclops Hull Blueprint",
-    "CyclopsBridgeBlueprint": "Cyclops Bridge Blueprint",
-    "CyclopsEngineBlueprint": "Cyclops Engine Blueprint",
-    "CyclopsDockingBayBlueprint": "Cyclops Docking Bay Blueprint",
-    "Tooltip_CyclopsHullBlueprint": "Plans for building a Cyclops",
-    "Tooltip_CyclopsBridgeBlueprint": "Plans for building a Cyclops",
-    "Tooltip_CyclopsEngineBlueprint": "Plans for building a Cyclops",
-    "Tooltip_CyclopsDockingBayBlueprint": "Plans for building a Cyclops",
-    "FiberMesh": "Fiber mesh",
-    "Tooltip_FiberMesh": "Strong natural fiber. Comfy.",
-    "PlanterPot2": "Plant pot 2",
-    "PlanterPot3": "Plant pot 3",
-    "Tooltip_PlanterPot2": "Titanium pot containing synthetic soil.",
-    "Tooltip_PlanterPot3": "Titanium pot containing synthetic soil.",
-    "Tooltip_Radio": "Receive short-range outworld communcation.",
-    "Radio": "Communications Relay",
-    "Radio_Play": "Play Message",
-    "EncyPath_DownloadedData": "Data Downloads",
-    "Ency_BasePlanter": "Planters & Pots",
-    "EncyDesc_BasePlanter": "Interior planters come in a variety of configurations, and allow for most plant species to be grown in small numbers. For decorative or botanical use.",
-    "Ency_FarmingTray": "Exterior Growbed",
-    "EncyDesc_FarmingTray": "Advanced synthetic soils allow this growbed to support a huge variety and quantity of alien plantlife, and it can be installed anywhere on land or underwater where there is space.",
-    "Ency_PlanterBox": "Interior Growbed",
-    "EncyDesc_PlanterBox": "Designed for use exclusively inside regulated habitat modules, the interior growbed is more compact than the outdoor version.",
-    "Ency_WaterFilter": "Water Filtration Machine",
-    "EncyDesc_WaterFilter": "The filtration system draws water unfit for human consumption from an external source, atomically splits it into its constituent parts and outputs consumable liquid water and salts while disposing of any harmful by-product. It can be built in any compatible habitat module, but has substantial power requirements.",
-    "BluePalm": "Blue palm",
-    "BluePalmSeed": "Blue palm seed",
-    "EyesPlant": "Eyes plant",
-    "EyesPlantSeed": "Eyes plant seed",
-    "FernPalm": "Fern palm",
-    "FernPalmSeed": "Fern palm seed",
-    "GabeSFeather": "Gabe's feather",
-    "GabeSFeatherSeed": "Gabe's feather seed",
-    "JellyPlantSeed": "Jelly plant seed",
-    "MelonPlant": "Marblemelon plant",
-    "Melon": "Marblemelon",
-    "MembrainTreeSeed": "Membrain tree seed",
-    "SeaCrown": "Sea crown",
-    "SeaCrownSeed": "Sea crown seed",
-    "SmallMelon": "Small marblemelon",
-    "OrangePetalsPlant": "Orange petals plant",
-    "OrangePetalsPlantSeed": "Orange petals plant seed",
-    "PinkFlower": "Pink flower",
-    "PinkFlowerSeed": "Pink flower seed",
-    "PurpleBrainCoral": "Purple brain coral",
-    "PurpleBrainCoralPiece": "Purple brain coral sample",
-    "PurpleBranches": "Purple branches",
-    "PurpleBranchesSeed": "Purple branches seed",
-    "PurpleFanSeed": "Purple fan seed",
-    "PurpleStalk": "Purple stalk",
-    "PurpleStalkSeed": "Purple stalk seed",
-    "PurpleTentacleSeed": "Writhing Weed seed",
-    "PurpleVegetable": "Purple vegetable",
-    "PurpleVegetablePlant": "Vegetable plant",
-    "RedBasketPlant": "Red basket plant",
-    "RedBasketPlantSeed": "Red basket plant seed",
-    "RedBush": "Red bush",
-    "RedBushSeed": "Red bush seed",
-    "RedConePlant": "Red cone plant",
-    "RedConePlantSeed": "Red cone plant seed",
-    "RedGreenTentacle": "Red green tentacle",
-    "RedGreenTentacleSeed": "Red green tentacle seed",
-    "RedRollPlant": "Red roll plant",
-    "RedRollPlantSeed": "Red roll plant seed",
-    "ShellGrass": "Shell grass",
-    "ShellGrassSeed": "Shell grass seed",
-    "SpikePlantSeed": "Tiger plant seed",
-    "SmallFanSeed": "Pygmy fan seed",
-    "SnakeMushroom": "Snake mushroom",
-    "SnakeMushroomSpore": "Snake mushroom spore",
-    "SpottedLeavesPlant": "Spotted leaves plant",
-    "SpottedLeavesPlantSeed": "Spotted leaves plant seed",
-    "Tooltip_BluePalmSeed": "Blue palm seed",
-    "Tooltip_EyesPlantSeed": "Eyes plant seed",
-    "Tooltip_FernPalmSeed": "Fern palm seed",
-    "Tooltip_GabeSFeatherSeed": "Gabe's feather seed",
-    "Tooltip_JellyPlant": "Jelly plant",
-    "Tooltip_JellyPlantSeed": "Jelly plant seed",
+    "CyclopsHullFragment": "Fragmento del casco del Cyclops",
+    "CyclopsBridgeFragment": "Fragmento del puente del  Cyclops",
+    "CyclopsEngineFragment": "Fragmento del motor del Cyclops",
+    "CyclopsDockingBayFragment": "Fragmento de la bah\u00eda de atraque del Cyclops",
+    "CyclopsHullBlueprint": "Plano del casco del Cyclops",
+    "CyclopsBridgeBlueprint": "Plano del puente del Cyclops",
+    "CyclopsEngineBlueprint": "Plano del Motor del Cyclops",
+    "CyclopsDockingBayBlueprint": "Plano de la Estaci\u00f3n de Atraque del Cyclops",
+    "Tooltip_CyclopsHullBlueprint": "Planos para construir un Cyclops",
+    "Tooltip_CyclopsBridgeBlueprint": "Planos para construir un Cyclops",
+    "Tooltip_CyclopsEngineBlueprint": "Planos para construir un Cyclops",
+    "Tooltip_CyclopsDockingBayBlueprint": "Planos para construir un Cyclops",
+    "FiberMesh": "Malla de fibra",
+    "Tooltip_FiberMesh": "Fibra natural resistente. C\u00f3moda.",
+    "PlanterPot2": "Maceta 2",
+    "PlanterPot3": "Maceta 3",
+    "Tooltip_PlanterPot2": "Maceta de titanio con tierra sint\u00e9tica.",
+    "Tooltip_PlanterPot3": "Maceta de titanio con tierra sint\u00e9tica.",
+    "Tooltip_Radio": "Recibe comunicaciones planetarias de corto alcance.",
+    "Radio": "Rel\u00e9 de comunicaciones",
+    "Radio_Play": "Reproducir mensaje",
+    "EncyPath_DownloadedData": "Descargas de datos",
+    "Ency_BasePlanter": "Jardineras y macetas",
+    "EncyDesc_BasePlanter": "Las jardineras de interior vienen con una gran variedad de modelos y permiten plantar la mayor\u00eda de especies vegetales en peque\u00f1as cantidades. Para uso decorativo y bot\u00e1nico.",
+    "Ency_FarmingTray": "Huerto",
+    "EncyDesc_FarmingTray": "La tierra sint\u00e9tica avanzada permite a que en este huerto se pueda plantar una gran variedad y cantidad de plantas alien\u00edgenas. Adem\u00e1s puede instalar en cualquier sitio en tierra firme o bajo el agua que tenga espacio suficiente.",
+    "Ency_PlanterBox": "Jardinera de interior",
+    "EncyDesc_PlanterBox": "Dise\u00f1ada para uso exclusivo en el interior de habitat regulados, la jardinera de interior es m\u00e1s compacta que su versi\u00f3n de exteriores.",
+    "Ency_WaterFilter": "M\u00e1quina de filtrado de agua",
+    "EncyDesc_WaterFilter": "El sistema de filtraci\u00f3n extrae agua no apta para el consumo humano desde una fuente externa, la deshace a nivel at\u00f3mico en sus elementos b\u00e1sicos y la recompone en agua potable y sales mientras la separa de cualquier subproducto da\u00f1ino. Puede ser construida en cualquier m\u00f3dulo de h\u00e1bitat compatible, pero tiene un requisito energ\u00e9tico considerable.",
+    "BluePalm": "Palmera azul",
+    "BluePalmSeed": "Semilla de palmera azul",
+    "EyesPlant": "Planta ocular",
+    "EyesPlantSeed": "Semilla de planta ocular",
+    "FernPalm": "Palmera helecho",
+    "FernPalmSeed": "Semilla de palmera helecho",
+    "GabeSFeather": "Pluma de Gabe",
+    "GabeSFeatherSeed": "Semilla de pluma de Gabe",
+    "JellyPlantSeed": "Semilla de Gelaplanta",
+    "MelonPlant": "Planta melom\u00e1rmol",
+    "Melon": "Melom\u00e1rmol",
+    "MembrainTreeSeed": "Semilla de \u00e1rbol membrana",
+    "SeaCrown": "Corona de mar",
+    "SeaCrownSeed": "Semilla de corona de mar",
+    "SmallMelon": "Peque\u00f1o melom\u00e1rmol",
+    "OrangePetalsPlant": "Planta p\u00e9talos naranja",
+    "OrangePetalsPlantSeed": "Semilla de planta p\u00e9talos naranja",
+    "PinkFlower": "Flor rosa",
+    "PinkFlowerSeed": "Semilla de flor rosa",
+    "PurpleBrainCoral": "Coral cerebral p\u00farpura",
+    "PurpleBrainCoralPiece": "Muestra de coral cerebral p\u00farpura",
+    "PurpleBranches": "Ramificada p\u00farpura",
+    "PurpleBranchesSeed": "Semilla de ramificada p\u00farpura",
+    "PurpleFanSeed": "Semilla de abanico p\u00farpura",
+    "PurpleStalk": "Ca\u00f1a p\u00farpura",
+    "PurpleStalkSeed": "Semilla de ca\u00f1a p\u00farpura",
+    "PurpleTentacleSeed": "Semilla de alga retorcida",
+    "PurpleVegetable": "Vegetal p\u00farpura",
+    "PurpleVegetablePlant": "Planta vegetal",
+    "RedBasketPlant": "Planta canasto rojo",
+    "RedBasketPlantSeed": "Semilla de planta canasto rojo",
+    "RedBush": "Arbusto rojo",
+    "RedBushSeed": "Semilla de arbusto rojo",
+    "RedConePlant": "Planta cono rojo",
+    "RedConePlantSeed": "Semilla de planta cono rojo",
+    "RedGreenTentacle": "Tent\u00e1culo rojiverde",
+    "RedGreenTentacleSeed": "Semilla de tent\u00e1culo rojiverde",
+    "RedRollPlant": "Planta rollo rojo",
+    "RedRollPlantSeed": "Semilla de planta rollo rojo",
+    "ShellGrass": "Hierba concha",
+    "ShellGrassSeed": "Semilla de hierba concha",
+    "SpikePlantSeed": "Semilla de planta tigre",
+    "SmallFanSeed": "Semilla de abanico diminuto",
+    "SnakeMushroom": "Seta serpiente",
+    "SnakeMushroomSpore": "Espora de seta serpiente",
+    "SpottedLeavesPlant": "Planta hoja moteada",
+    "SpottedLeavesPlantSeed": "Semilla de planta hoja moteada",
+    "Tooltip_BluePalmSeed": "Semilla de palmera azul",
+    "Tooltip_EyesPlantSeed": "Semilla de planta ocular",
+    "Tooltip_FernPalmSeed": "Semilla de palmera helecho",
+    "Tooltip_GabeSFeatherSeed": "Semilla de pluma de Gabe",
+    "Tooltip_JellyPlant": "Gelaplanta",
+    "Tooltip_JellyPlantSeed": "Semilla de gelaplanta",
     "Tooltip_Melon": "",
-    "Tooltip_MembrainTreeSeed": "Membrain tree seed",
+    "Tooltip_MembrainTreeSeed": "Semilla de \u00e1rbol membrana",
     "Tooltip_SmallMelon": "",
-    "Tooltip_OrangePetalsPlantSeed": "Orange petals plant seed",
-    "Tooltip_PinkFlowerSeed": "Pink flower seed",
-    "Tooltip_PurpleBrainCoralPiece": "Purple brain coral sample",
-    "Tooltip_PurpleBranchesSeed": "Purple branches seed",
-    "Tooltip_PurpleFanSeed": "Purple fan seed",
-    "Tooltip_PurpleStalkSeed": "Purple stalk seed",
-    "Tooltip_PurpleTentacleSeed": "Writhing Weed seed",
+    "Tooltip_OrangePetalsPlantSeed": "Semilla de planta p\u00e9talo naranja",
+    "Tooltip_PinkFlowerSeed": "Semilla de flor rosa",
+    "Tooltip_PurpleBrainCoralPiece": "Muestra de coral cerebral p\u00farpura",
+    "Tooltip_PurpleBranchesSeed": "Semilla de Enramado p\u00farpura",
+    "Tooltip_PurpleFanSeed": "Semilla de Abanico Morado",
+    "Tooltip_PurpleStalkSeed": "Semilla de Tallo Morado",
+    "Tooltip_PurpleTentacleSeed": "Semilla de Hierba Retorcida",
     "Tooltip_PurpleVegetable": "",
-    "Tooltip_RedBasketPlantSeed": "Red basket plant seed",
+    "Tooltip_RedBasketPlantSeed": "Semilla de Planta de Canasto Rojo",
     "Tooltip_RedBushSeed": "Semilla de Arbusto rojo",
-    "Tooltip_RedConePlantSeed": "Red cone plant seed",
-    "Tooltip_RedGreenTentacleSeed": "Red green tentacle seed",
-    "Tooltip_RedRollPlantSeed": "Red roll plant seed",
-    "Tooltip_SeaCrownSeed": "Sea crown seed",
-    "Tooltip_ShellGrassSeed": "Shell grass seed",
-    "Tooltip_SnakeMushroomSpore": "Snake mushroom spore",
+    "Tooltip_RedConePlantSeed": "Semilla de Planta de cono rojo",
+    "Tooltip_RedGreenTentacleSeed": "Semilla de tent\u00e1culo rojiverde",
+    "Tooltip_RedRollPlantSeed": "Semilla de planta rollo rojo",
+    "Tooltip_SeaCrownSeed": "Semilla de corona de mar",
+    "Tooltip_ShellGrassSeed": "Semilla de hierba concha",
+    "Tooltip_SnakeMushroomSpore": "Espora de Hongo Serpentoso",
     "Tooltip_SpikePlantSeed": "",
-    "Tooltip_SpottedLeavesPlantSeed": "Spotted leaves plant seed",
-    "Tooltip_SmallFan": "Pygmy fan",
-    "Tooltip_SmallFanSeed": "Pygmy fan seed",
+    "Tooltip_SpottedLeavesPlantSeed": "Semilla de planta hoja moteada",
+    "Tooltip_SmallFan": "Abanico diminuto",
+    "Tooltip_SmallFanSeed": "Semilla de Abanico diminuto",
     "Ency_HangingFruitTree": "\u00c1rbol de frutas colgantes",
     "EncyDesc_HangingFruitTree": "\u00c1rbol con grandes frutas naranjas",
     "Ency_BulboTree": "\u00c1rbol bulbo",
     "EncyDesc_BulboTree": "Parece un \u00e1rbol",
-    "Ency_WhiteMushroom": "Deep Shroom",
+    "Ency_WhiteMushroom": "Hongo de las profundidades",
     "EncyDesc_WhiteMushroom": "",
-    "Ency_PinkMushroom": "Pink Mushroom",
-    "EncyDesc_PinkMushroom": "It's definitely a mushroom",
-    "Ency_PurpleRattle": "Purple Rattle",
+    "Ency_PinkMushroom": "Seta rosa",
+    "EncyDesc_PinkMushroom": "Es definitivamente una seta",
+    "Ency_PurpleRattle": "Maraca p\u00farpura",
     "EncyDesc_PurpleRattle": "",
-    "Ency_PurpleVasePlant": "Purple Vase Plant",
+    "Ency_PurpleVasePlant": "Planta jarr\u00f3n p\u00farpura",
     "EncyDesc_PurpleVasePlant": "",
-    "Ency_OrangeMushroom": "Orange Mushroom",
-    "EncyDesc_OrangeMushroom": "Large Orange Mushroom",
-    "Ency_VegetablePlant": "Vegetable Plant",
+    "Ency_OrangeMushroom": "Seta naranja",
+    "EncyDesc_OrangeMushroom": "Seta naranja grande",
+    "Ency_VegetablePlant": "Planta vegetal",
     "EncyDesc_VegetablePlant": "",
-    "Ency_MelonPlant": "Marblemelon Plant",
+    "Ency_MelonPlant": "Planta melom\u00e1rmol",
     "EncyDesc_MelonPlant": "",
-    "Ency_KooshBush": "Koosh Bush",
+    "Ency_KooshBush": "Arbusto Koosh",
     "EncyDesc_KooshBush": "",
-    "Ency_BluePalm": "Blue Palm",
+    "Ency_BluePalm": "Palmera azul",
     "EncyDesc_BluePalm": "",
-    "Ency_SmallFan": "Pygmy Fan",
+    "Ency_SmallFan": "Abanico diminuto",
     "EncyDesc_SmallFan": "",
-    "Ency_PurpleFan": "Purple Fan",
+    "Ency_PurpleFan": "Abanico p\u00farpura",
     "EncyDesc_PurpleFan": "",
-    "Ency_WrithingWeed": "Writhing Weed",
+    "Ency_WrithingWeed": "Alga retorcida",
     "EncyDesc_WrithingWeed": "",
-    "Ency_GabeSFeather": "Gabe's Feather",
+    "Ency_GabeSFeather": "Pluma de Gabe",
     "EncyDesc_GabeSFeather": "",
-    "Ency_SeaCrown": "Sea Crown",
+    "Ency_SeaCrown": "Corona de mar",
     "EncyDesc_SeaCrown": "",
-    "Ency_MembrainTree": "Membrain Tree",
+    "Ency_MembrainTree": "\u00c1rbol membrana",
     "EncyDesc_MembrainTree": "",
     "Ency_PinkFlower": "Flor rosa",
     "EncyDesc_PinkFlower": "",
     "Ency_FernPalm": "Palmera Helecho",
     "EncyDesc_FernPalm": "",
-    "Ency_OrangePetalsPlant": "P\u00e9talos de planta naranja",
+    "Ency_OrangePetalsPlant": "Planta p\u00e9talo naranja",
     "EncyDesc_OrangePetalsPlant": "",
-    "Ency_EyesPlant": "Eyes Plant",
+    "Ency_EyesPlant": "Planta ocular",
     "EncyDesc_EyesPlant": "",
-    "Ency_RedGreenTentacle": "Red Green Tentacle",
+    "Ency_RedGreenTentacle": "Tent\u00e1culo rojiverde",
     "EncyDesc_RedGreenTentacle": "",
-    "Ency_PurpleStalk": "Purple Stalk",
+    "Ency_PurpleStalk": "Ca\u00f1a p\u00farpura",
     "EncyDesc_PurpleStalk": "",
-    "Ency_RedBasketPlant": "Red Basket Plant",
+    "Ency_RedBasketPlant": "Planta canasto rojo",
     "EncyDesc_RedBasketPlant": "",
-    "Ency_RedBush": "Red Bush",
+    "Ency_RedBush": "Arbusto rojo",
     "EncyDesc_RedBush": "",
-    "Ency_RedConePlant": "Red Cone Plant",
+    "Ency_RedConePlant": "Planta cono rojo",
     "EncyDesc_RedConePlant": "",
-    "Ency_ShellGrass": "Shell Grass",
+    "Ency_ShellGrass": "Hierba concha",
     "EncyDesc_ShellGrass": "",
-    "Ency_SpottedLeavesPlant": "Spotted Leaves Plant",
+    "Ency_SpottedLeavesPlant": "Planta hoja moteada",
     "EncyDesc_SpottedLeavesPlant": "",
-    "Ency_RedRollPlant": "Red Roll Plant",
+    "Ency_RedRollPlant": "Planta rollo rojo",
     "EncyDesc_RedRollPlant": "",
-    "Ency_PurpleBranches": "Purple Branches",
+    "Ency_PurpleBranches": "Ramificada p\u00farpura",
     "EncyDesc_PurpleBranches": "",
-    "Ency_SnakeMushroom": "Snake Mushroom",
+    "Ency_SnakeMushroom": "Seta serpiente",
     "EncyDesc_SnakeMushroom": "",
-    "Ency_BloodVine": "BloodVine",
+    "Ency_BloodVine": "Alga sangre enredadera",
     "EncyDesc_BloodVine": "",
-    "FeedbackNewReply": "You have received new developer reply.
-Press F8 to read.",
-    "SurvivorPDA": "Abandoned PDA",
-    "Tooltip_SurvivorPDA": "Download data",
-    "StarshipCargoCrate": "Cargo crate",
-    "StarshipCircuitBox": "Circuit box",
-    "StarshipDesk": "Desk",
-    "StarshipChair": "Chair",
+    "FeedbackNewReply": "Has recibido una nueva respuesta de los desarrolladores. 
+Presiona F8 para leer.",
+    "SurvivorPDA": "PDA abandonado",
+    "Tooltip_SurvivorPDA": "Descargar datos",
+    "StarshipCargoCrate": "Contenedor de carga",
+    "StarshipCircuitBox": "Caja de circuitos",
+    "StarshipDesk": "Escritorio",
+    "StarshipChair": "Silla",
     "StarshipMonitor": "Monitor",
-    "Tooltip_StarshipCargoCrate": "But where's the cargo?!",
-    "Tooltip_StarshipCircuitBox": "Behold, complex wires!",
-    "Tooltip_StarshipDesk": "For white collar workers.",
-    "Tooltip_StarshipChair": "Surprisingly comfy.",
-    "Tooltip_StarshipMonitor": "No signal.",
-    "Techlight": "Floodlight",
-    "Seaglide": "Seaglide",
-    "BaseBulkheadFragment": "Bulkhead fragment",
-    "BaseFiltrationMachineFragment": "Base filtration fragment",
-    "BaseObservatoryFragment": "Observatory fragment",
-    "BaseUpgradeConsoleFragment": "Seamoth upgrade console fragment",
-    "ConstructorFragment": "Mobile Vehicle Bay fragment",
-    "PowerTransmitterFragment": "Power transmitter fragment",
+    "Tooltip_StarshipCargoCrate": "\u00a1\u00bfPero d\u00f3nde est\u00e1 la carga?!",
+    "Tooltip_StarshipCircuitBox": "\u00a1Contemplad, cables complejos!",
+    "Tooltip_StarshipDesk": "Para trabajadores de cuello blanco.",
+    "Tooltip_StarshipChair": "Sorprendentemente c\u00f3modo.",
+    "Tooltip_StarshipMonitor": "Sin se\u00f1al.",
+    "Techlight": "Foco",
+    "Seaglide": "Deslizador submarino",
+    "BaseBulkheadFragment": "Fragmento de mamparo",
+    "BaseFiltrationMachineFragment": "Fragmento de sistema de filtraci\u00f3n",
+    "BaseObservatoryFragment": "Fragmento de observatorio",
+    "BaseUpgradeConsoleFragment": "Fragmento de consola de mejora del Seamoth",
+    "ConstructorFragment": "Fragmento de bah\u00eda de veh\u00edculos m\u00f3vil",
+    "PowerTransmitterFragment": "Fragmento de transmisor de energ\u00eda",
     "RadioFragment": "Fragmento de Radio",
-    "ScannerRoomFragment": "Fragmento de Sala esc\u00e1ner",
     "SeaglideFragment": "Fragmento de Deslizador submarino",
     "SolarPanelFragment": "Fragmento de panel solar",
     "SpecimenAnalyzerFragment": "Fragmento de Analizador de fragmentos",
@@ -1765,19 +1762,19 @@ Press F8 to read.",
     "Tooltip_TreeMushroom": "",
     "Tooltip_BigCoralTubes": "",
     "Tooltip_CoralShellPlate": "",
-    "Goal_HolyDiver": "You've been down too long in the midnight sea. Oh don't you see what I mean?",
-    "RadioBounceBack": "This is an automated bounce back from the Aurora Mining Vessel. Your distress signal has been received. An emergency relief team will be dispatched to your location. *Static* Estimated arrival time: 9...9...9...9...9 hours.",
-    "RadioLifepod17": "This is an automated distress signal from Aurora Lifepod 17. Co-ordinates attached. Please send immediate emergency relief team.",
-    "RadioSecondOfficer": "This is Second Officer Keen, broadcasting to all surviving Aurora crew! Captain Hollister is gone. I have assumed command. The computer has identified dry land approximately 750m south of the crash site. Your orders are to stay together, ensure your immediate safety, and then regroup at the attached rendezvous co-ordinates. Good luck. Over and out.",
-    "RadioWarper1": "Nine new biological subjects designated. Mode switch: hunting\/analyzing. Sharing subject locations with other agents.",
-    "RadioLifepod7": "This is Aurora Senior Engineer LaFette, broadcasting from Lifepod 7! We have survived impact, but flotation devices have failed to deploy and we are sinking! Co-ordinates attached! Will attempt repair! Anticipate losing radio contact at- *Static*",
+    "Goal_HolyDiver": "Has estado demasiado tiempo abajo, en el mar de medianoche. Oh, \u00bfno ves a qu\u00e9 me refiero?",
+    "RadioBounceBack": "Esta es una se\u00f1al de retorno desde la Nave Minera Aurora. Su se\u00f1al de emergencia ha sido recibida. Un equipo de rescate ser\u00e1 desplegado en su posici\u00f3n. *Est\u00e1tica* Tiempo estimado de llegada: 9... 9... 9... 9... 9... horas.",
+    "RadioLifepod17": "Este es un mensaje de emergencia autom\u00e1tico de la C\u00e1psula 17 de la Aurora. Coordenadas adjuntadas. Por favor, env\u00eden inmediatamente un equipo de rescate de emergencia.",
+    "RadioSecondOfficer": "\u00a1Aqu\u00ed el Segundo Oficial Keen, emitiendo a todos los supervivientes de la tripulaci\u00f3n de la Aurora! El Capit\u00e1n Hollister ha fallecido. He asumido el mando. El ordenador ha identificado tierra firme aproximadamente a 750m al sur de la zona del accidente. Vuestras \u00f3rdenes son de permanecer juntos, asegurar vuestro estado y reagruparnos en las coordenadas adjuntas. Buena suerte. Corto y fuera.",
+    "RadioWarper1": "Designados nueve sujetos biol\u00f3gicos nuevos. Cambiando modo: caza\/an\u00e1lisis. Transmitiendo localizaci\u00f3n de los sujetos a otros agentes.",
+    "RadioLifepod7": "\u00a1Aqu\u00ed el ingeniero Jefe de la Aurora LaFette, emitiendo desde la C\u00e1psula 7! \u00a1Hemos sobrevivido al impacto, pero los sistemas de flotaci\u00f3n no se han desplegado y nos estamos hundiendo! \u00a1Adjunto las coordenadas! \u00a1Intentaremos repararlos! \u00a1Prevemos p\u00e9rdida de contacto por radio a las- \"Est\u00e1tica\"",
     "RadioWarper2": "Sujeto 11783 destruido. Modo activado: patrulla. Nuevos objetivos en paradero desconocido: 1.",
     "RadioPrecursor1": "Karflaget gertrupop flayra. Troflagot e aitrart. Trankeboop. Askrinol forlaget yarma aquit e flyra e aitrart escimay.",
     "RadioPassingShip": "Esta es la nave de comercio Sunbeam. Aura, hemos recibido vuestra transmisi\u00f3n de emergencia y vuestras coordenadas han sido registradas. Nos gustar\u00eda tener mejores noticias, pero no disponemos del equipamiento para asistiros en estos momentos. Calculamos llegar a la estaci\u00f3n espacial m\u00e1s pr\u00f3xima en aproximadamente 461 d\u00edas terrestres, cuatro, seis, un d\u00edas. Entonces transmitiremos vuestro mensaje de emergencia a las autoridades corporativas apropiadas. Resistid ah\u00ed, \u00bfde acuerdo? Sunbeam fuera.",
     "HintMouseLook": "Usa el rat\u00f3n para mirar alrededor",
     "HintWSADToMove": "WSAD para moverte",
     "HintLMBToPickupFireExtinguisher": "BIR para coger extintor",
-    "HintRMBToUseFireExtinguisher": "BDR para usar extintor",
+    "HintRMBToUseFireExtinguisher": "BDR para usar el extintor",
     "HintTabToOpenClosePDA": "Pulsa TAB para abrir o cerrar la PDA",
     "HintSuccess": "\u00a1Excelente!",
     "PDABootingEmergency": "INICIANDO EN MODO DE EMERGENCIA",
@@ -1793,7 +1790,7 @@ Press F8 to read.",
     "Tooltip_FireExtinguisher": "Controla los incendios",
     "Damaged": "Da\u00f1ado",
     "Pickup_FireExtinguisher": "Coger Extintor",
-    "FireExtinguisher_Douse": "Apagar el fuego",
+    "FireExtinguisher_Douse": "Apaga el fuego",
     "MedicalCabinet": "Fabricador M\u00e9dico",
     "MedicalCabinet_DoorClose": "Cerrar",
     "MedicalCabinet_DoorOpen": "Abrir",
@@ -1829,366 +1826,401 @@ Ancla gravitatoria: Operativa.
 Integridad del casco de la c\u00e1psula: Correcta.
 Escaneando todas la frecuencias de emergencia.",
     "IntroEscapePod4Power": "ENERG\u00cdA PRINCIPAL OPERATIVA",
-    "EncyPath_DownloadedData\/Degasi": "Degasi Survivors",
-    "Ency_WreckAuxOrders": "Aurora Auxiliary Mission Orders",
-    "EncyDesc_WreckAuxOrders": "SENIOR PERSONNEL ONLY
+    "EncyPath_DownloadedData\/Degasi": "Supervivientes de la Degasi",
+    "Ency_WreckAuxOrders": "\u00d3rdenes de misi\u00f3n auxiliar de la Aurora",
+    "EncyDesc_WreckAuxOrders": "SOLO PERSONAL AUTORIZADO
 
-Mission type: Search & Rescue
-Mission target: Crew of the Mongolian Empire vessel 'Degasi'
-Mission location: Ariadne Arm, 3 light years beyond furthest phasegate
-Mission contact: Emissary Jochi Khasar, Aurora Passenger Quarters, Room 4
+Tipo de misi\u00f3n: B\u00fasqueda y Rescate
+Objetivo de la misi\u00f3n: Tripulaci\u00f3n de la nave del Imperio Mongol 'Degasi'
+Emplazamiento de la misi\u00f3n: Brazo Ariadne, a 3 a\u00f1os luz de la puerta de fase m\u00e1s lejana
+Contacto de la misi\u00f3n: Emisario Jochi Khasar, Alojamientos de Pasajeros de la Aurora, Habitaci\u00f3n 4
 
-Mission brief:
-Aurora is due to pass through System 2001 approximately 13 months post-launch. The Aurora is scheduled to perform a gravity slingshot maneuver around planet 4546B. This will bring you within range of the Degasi's last known position.
+Informe de la misi\u00f3n:
+La Aurora est\u00e1 previsto que pase a trav\u00e9s del Sistema 2001 13 meses despu\u00e9s de su lanzamiento aproximadamente. La Aurora est\u00e1 programada para llevar acabo una maniobra de asistencia gravitatoria propulsada alrededor del planeta 5446B. Esto le posicionar\u00e1 dentro del alcance de la \u00faltima posici\u00f3n conocida de la Degasi.
 
-The Mongolian Empire lost contact with private vessel 'Degasi' 18 months after it left colonized space. The Empire has purchased passage aboard Aurora for Emissary Khasar, and your orders are to afford him every reasonable facility to locate and, if appropriate, retrieve Degasi crewmembers, without compromising the primary mission.
+El Imperio Mongol perdi\u00f3 contacto con la nave privada 'Degasi' 18 meses despu\u00e9s de abandonar el espacio colonizado. El Imperio ha comprado un pasaje abordo de la Aurora para el Emisario Khasar, y sus \u00f3rdenes son de proporcionarle toda instalaci\u00f3n razonable para localizar y, de ser posible, recuperar la tripulaci\u00f3n de la Degasi sin comprometer la misi\u00f3n principal.
 
-Degasi crew manifesto has been distributed to senior officers in a separate data package.
+El manifiesto de la tripulaci\u00f3n de la Degasi se ha distribuido a los oficiales superiores en un banco de datos separado.
 
-Mission classification:
-Aurora crew should not be informed of this mission until such time as their co-operation in locating or retrieving Degasi crew is required. It should be stressed that humanitarian auxiliary missions fall outside normal remuneration structures.",
-    "Ency_PaalTorgalBio": "Search & Rescue: Paal Torgal ",
-    "EncyDesc_PaalTorgalBio": "SENIOR PERSONNEL ONLY
+Clasificaci\u00f3n de la misi\u00f3n:
+La tripulaci\u00f3n de la Aurora no deber\u00eda ser informada de esta misi\u00f3n hasta que se requiera de su cooperaci\u00f3n para localizar o recuperar a la tripulaci\u00f3n de la Degasi. Cabe destacar que las misiones humanitarias auxiliares caen fuera de las estructuras de remuneraci\u00f3n normales.",
+    "Ency_PaalTorgalBio": "B\u00fasqueda y Rescate: Paal Torgal",
+    "EncyDesc_PaalTorgalBio": "SOLO PERSONAL AUTORIZADO
 
-Auxiliary Search & Rescue Target: Paal Torgal
-Position: Chief Executive Officer of Torgaljin Corp, Captain of the 'Degasi'
-Status: Lost in space, Ariadne Arm
-Age at time of disappearance: 79
+Objetivo de b\u00fasqueda y rescate auxiliar: Paal Torgal
+Ocupaci\u00f3n: Director Ejecutivo de Torgaljin Corp., Capit\u00e1n de la 'Degasi'
+Estado: Perdido en el espacio, Brazo Ariadne
+Edad en el momento de la desaparici\u00f3n: 79
 
-Paal Torgal and his crew fell out of contact with Mongolian authorities ten years ago while travelling through System 2001. The vessel was insured for opportunistic search and rescue, and multiple vessels passing through the system have since attempted to trace the ship to no effect.
+Paal Torgal y su tripulaci\u00f3n perdieron el contacto con las autoridades Mongol  hace diez a\u00f1os, mientras viajaban a trav\u00e9s del Sistema 2001. La nave estaba asegurada para labores de b\u00fasqueda y rescate oportunistas, y m\u00faltiples naves que pasaban por el sistema han intentado desde entonces rastrear la nave sin resultados.
 
-    - Made majority shareholder in Torgaljin Corp. by his mother upon her retirement
-    - Interaction with Alterra limited to infrequent chartered munitions deliveries
-    - Beneficiary of life extension technologies
-    - Accompanied by his only child, Baat Torgal (19), heir to the Torgaljin Coproration
-    - Mongolian emissary Khasar reports Torgal frequently travelled with fewer than the minimum skeleton crew
-    - Inadequate systems maintenence may account for the ship's disappearance",
-    "Ency_BaatTorgalBio": "Search & Rescue: Baat Torgal",
-    "EncyDesc_BaatTorgalBio": "SENIOR PERSONNEL ONLY
+- Hecho accionista mayoritario de Torgaljin Corp. por su madre cuando se retir\u00f3
+- Interacci\u00f3n con Alterra limitada a las infrecuentes entregas de munici\u00f3n
+- Beneficiario de tecnolog\u00edas de extensi\u00f3n vital
+- Acompa\u00f1ado por su \u00fanico hijo, Baat Torgal (19), heredero de la Corporaci\u00f3n Torgaljin
+- El emisario mongol Khasar informa que Torgal viajaba frecuentemente con poco m\u00e1s que una tripulaci\u00f3n esencial
+- Sistemas inadecuados de mantenimiento podr\u00edan haber ocasionado la desaparici\u00f3n de la nave",
+    "Ency_BaatTorgalBio": "B\u00fasqueda y Rescate: Baat Torgal",
+    "EncyDesc_BaatTorgalBio": "SOLO PERSONAL AUTORIZADO
+Objetivo de b\u00fasqueda y rescate auxiliar: Baat Torgal
+Ocupaci\u00f3n: Vicepresidente de Torgaljin Corp.
+Estado: Perdido en el espacio, Brazo Ariadne
+Edad en el momento de la desaparici\u00f3n: 19
 
-Auxiliary Search & Rescue Target: Baat Torgal
-Position: Vice President of Torgaljin Corp.
-Status: Lost in space, Ariadne Arm
-Age at time of disappearance: 19
+- El \u00fanico hijo de Paal Torgal
+- Beneficiario de t\u00e9cnicas de aprendizaje mejorado e implantes cerebrales
+- Digi-formado en bioqu\u00edmica avanzada y econom\u00eda estelar
+- El emisario mongol Khasar informa que Baat acompa\u00f1aba a su padre, Paal, a una estaci\u00f3n espacial recientemente construida, donde iba a servir por un periodo de cinco a\u00f1os como Director de Operaciones
+",
+    "Ency_MargueritMaidaBio": "B\u00fasqueda y Rescate: Marguerit Maida",
+    "EncyDesc_MargueritMaidaBio": "SOLO PERSONAL AUTORIZADO
 
-    - The only child of Paal Torgal
-    - Beneficiary of enhanced learning techniques and cerebral implants
-    - Digi-trained in advanced biochemistry and stellar economics
-    - Mongolian emissary Khasar reports Baat was accompanying his father, Paal, to a newly constructed space station where he was to serve a five year term as Chief Operating Officer",
-    "Ency_MargueritMaidaBio": "Search & Rescue: Paal Torgal",
-    "EncyDesc_MargueritMaidaBio": "SENIOR PERSONNEL ONLY
+Objetivo de b\u00fasqueda y rescate auxiliar: Marguerit Maida
+Ocupaci\u00f3n: Seguridad personal
+Estado: Perdida en el espacio, Brazo Ariadne
+Edad en el momento de la desaparici\u00f3n: 42
 
-Auxiliary Search & Rescue Target: Marguerit Maida
-Position: Security Personnel
-Status: Lost in space, Ariadne Arm
-Age at time of disappearance: 42
+- Mercenaria independiente, nacida en el Imperio Mongol
+- Experimentada en el combate nave a nave y t\u00e9cnicas cuerpo a cuerpo
+- Periodos de servicio con la Fuerza de Defensa Mongol y la Polic\u00eda Militar Transfederal.
+- Degradada con deshonor de la TSA hace 15 a\u00f1os por abandono de misi\u00f3n (detalles clasificados)
+- El emisario mongol Khasar informa que Maida fue contratada para acompa\u00f1ar a Paal Torgal abordo de la Degasi en espacio inexplorado y defender la nave en caso de ataque pirata",
+    "Ency_AuroraLaunchNews": "Alterra lanza la Aurora",
+    "EncyDesc_AuroraLaunchNews": "ANUNCIADA UNA PUERTA DE FASE PARA EL BRAZO ARIADNE: ALTERRA LANZA LA AURORA
 
-    - Freelance mercenary, born in the Mongolian Empire
-    - Experienced in ship-to-ship and close quarters combat techniques
-    - Tours of duty with the Mongolian Defense Force and the Trans-Federation Military Police
-    - Dishonourably discharged from the TSA 15 years ago for going off mission (details classified)
-    - Mongolian emissary Khasar reports Maida was hired to accompany Paal Torgal onboard the Degasi into uncharted space and defend the ship in case of pirate assault",
-    "Ency_AuroraLaunchNews": "Alterra Launches the Aurora",
-    "EncyDesc_AuroraLaunchNews": "PHASEGATE ANNOUNCED FOR THE ARIADNE ARM: ALTERRA LAUNCHES THE AURORA
+Las fronteras del espacio conocido est\u00e1n apunto de expandirse con el lanzamiento de la Aurora por parte de Tecnolog\u00edas Alterra, una nave de mando recientemente construida y que transporta la tecnolog\u00eda puntera de la puerta de fase con rumbo al Brazo Ariadne.
 
-The furthest reaches of inhabited space are due to expand, as Alterra Technologies launches the Aurora, a newly-constructed capital ship carrying state-of-the-art phasegate technology, bound for the Ariadne Arm. 
+La Aurora viajar\u00e1 desde el espaciopuerto en los l\u00edmites del espacio Alterra, haciendo 324 saltos a trav\u00e9s de las puertas, cruzando por nueve autoridades fronterizas diferentes, y llegar\u00e1 al lado m\u00e1s alejado de los sistemas solares del Brazo Ariadne en aproximadamente tres meses. Desde ah\u00ed la tripulaci\u00f3n, formada por 100 de los mejores miembros de Alterra, pilotar\u00e1 la nave a trav\u00e9s de la puerta m\u00e1s alejada, llegando al Sistema Solar 84763 aproximadamente 12 meses despu\u00e9s.
 
-The Aurora will travel from spacedock on the edge of Alterra space, making 324 consecutive warpgate jumps through nine different trans-gov authorities, and arrive on the far side of the Ariadne Arm of solar systems in approximately three months. From there the 100-strong crew will pilot the ship beyond the furthest warpgate, arriving in Solar System 84763 approximately 12 months later.
+Ah\u00ed el equipo de \u00e9lite de ingenieros comenzar\u00e1n un proyecto de construcci\u00f3n de 6 meses, que ver\u00e1 la nueva puerta de fase totalmente operativa en menos de dos a\u00f1os desde hoy. La tripulaci\u00f3n estar\u00e1 ansiosa por terminar el trabajo a tiempo, ya que la puerta de fase representa su camino de vuelta a casa m\u00e1s r\u00e1pido.
 
-There the elite team of engineers will begin a 6 month construction project which will see the new phasegate fully operational less than two years from today. The crew will be eager to complete the work on time, since the phasegate represents their fastest route home.
+Tecnolog\u00edas Alterra opera actualmente el 9% de todas las puertas de fase de la galaxia. Si la misi\u00f3n de la Aurora tiene \u00e9xito, Alterra habr\u00e1 superado varios intereses privados en el Imperio Mongol, que ha establecido hasta la fecha varios puestos avanzados y operaciones mineras en la regi\u00f3n.
 
-Alterra Technologies currently operates 9% of all phasegates in the galaxy. If the Aurora's mission is successful Alterra will have outmaneuvered various private interests in the Mongolian Empire, which have to date established a number of outposts and mining operations in the region.
+La ceremonia de lanzamiento se llev\u00f3 a cabo con la acostumbrada fanfarria...",
+    "Ency_IslandsPDABase1Interior": "#1 Registro de Paal Torgal",
+    "EncyDesc_IslandsPDABase1Interior": "Soy Paal Torgal, Director Ejecutivo de la Corporaci\u00f3n Torgaljin. Mi tripulaci\u00f3n y yo nos vimos atrapados aqu\u00ed hace 5 semanas cuando nuestra nave fue alcanzada por alg\u00fan tipo de arma.
 
-The launch ceremony proceeded with the usual fanfare...",
-    "Ency_IslandsPDABase1Interior": "Paal Torgal's Log #1",
-    "EncyDesc_IslandsPDABase1Interior": "I am Paal Torgal, Chief Executive Officer of the Torgaljin Corporation. My crew and I were marooned here 5 weeks ago when our ship was struck by some kind of weapon. 
+Construimos un refugio utilizando materiales reciclados de la nave. Sobrevivimos cultivando flora ind\u00edgena. La ense\u00f1anza bioqu\u00edmica que solicit\u00e9 para mi hijo ya se ha amortizado sola. Ha hecho crecer suficiente comida para resistir un mes.
 
-We constructed a habitat using materials reclaimed from the ship. We survived by cultivating indigenous flora. The biochemistry imprint I commissioned for my son has already paid for itself. He has grown enough food to last us a month.
+Ahora por lo que temo es por nuestra seguridad. Una mercenaria que contrat\u00e9 para el viaje, Marguerit Maida, est\u00e1 cada vez m\u00e1s perturbada. Insiste en que abandonemos este lugar y establezcamos un habitat submarino. Temo que ella tome medidas para sabotear nuestro refugio para forzarnos a seguir sus planes. Sin embargo, y a pesar de mi mejor juicio, he accedido a su petici\u00f3n de explorar en busca de un emplazamiento submarino. Mi esperanza es que se d\u00e9 cuenta r\u00e1pidamente de lo implacable que es el oc\u00e9ano y que abandone su loca ambici\u00f3n.",
+    "Ency_IslandsPDABase1a": "#6 Registro de Baat Torgal",
+    "EncyDesc_IslandsPDABase1a": "La fastidi\u00e9. M\u00e1s a\u00fan esta vez. Han pasado dos d\u00edas desde que ocurri\u00f3. Nunca debimos dejar esta isla. No deb\u00ed escucharles. No debimos ir tan profundo. No nos quer\u00edan ah\u00ed abajo. No conf\u00edan en nosotros. Yo lo sab\u00eda y no lo dije. Pude verlo y ellos no, y ahora est\u00e1n atrapados ah\u00ed abajo y yo estoy aqu\u00ed arriba... solo. Me lo merezco.",
+    "Ency_IslandsPDABase1bDesk": "#1 Registro de voz de la Degasi",
+    "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT: No funcionar\u00e1 Jefe. Hemos recogido suficiente chatarra del Degasi para, \u00bfqu\u00e9? \u00bfUn par de observatorios?
+PAAL: Ser\u00e1 suficiente.
+MARGUERIT: Por ahora. Y despu\u00e9s nos quedaremos sin. No hay suficientes materiales de construcci\u00f3n en esta isla. Tendremos que mojarnos los pies. No hay otra forma.
+PAAL: La isla es segura. Hay tierra f\u00e9rtil, sin depredadores y refugio contra los elementos.
+MARGUERIT: Todo lo que necesitamos es un sistema de filtraci\u00f3n de agua, algunos refuerzos, quiz\u00e1s una planta t\u00e9rmica o dos...
+PAAL: He tomado mi decisi\u00f3n. \u00bfQuieres perder tu comisi\u00f3n solo por darte un ba\u00f1o?
+MARGUERIT: Cr\u00e9eme, he pensado en ello.
+BAAL: Aquellas monta\u00f1as parecen estar m\u00e1s tiempo al sol. Si construimos all\u00ed arriba observatorios creo que podremos cultivar suficiente comida para mantenernos con vida. Creo que esto podr\u00eda funcionar.
+PAAL: \u00bfOyes eso? \u00bfCrees que sabes m\u00e1s que 10 millones de entrenamiento bioqu\u00edmico?
+MARGUERIT: No es del ni\u00f1o de quien dudo. Todo lo que digo es que el oc\u00e9ano nos tiene rodeados. No hay d\u00f3nde esconderse.
+PAAL: No. As\u00ed es d\u00f3nde construimos. As\u00ed es como sobrevivimos.",
+    "Ency_IslandsPDABase1Desk": "#2 Registro de Voz del Degasi",
+    "EncyDesc_IslandsPDABase1Desk": "PAAL: Tu vida vale m\u00e1s. Te proh\u00edbo salir ah\u00ed fuera.
+BAAT: Dej\u00e9 de necesitar tu permiso cuando la nave que capitaneabas se hundi\u00f3.
+PAAL: \u00a1Dejar\u00e1s de necesitar mi permiso el d\u00eda que deje de ser tu padre!
+MARGUERIT: Entonce di, Jefe. \u00a1Jefe!
+PAAL: \u00bfQu\u00e9?
+MARGUERIT: \u00bfSabes c\u00f3mo drenar esas plantaciones de ah\u00ed fuera de 40 toneladas de agua de tormenta? \u00bfO vamos a tener que buscar comida para tres personas durante las pr\u00f3ximas dos semanas?
+PAAL: Sabes que no lo s\u00e9.
+MARGUERIT: \u00bfAs\u00ed que c\u00f3mo es de valiosa su vida para ti hoy, si la semana que viene estar\u00e1s tan hambriento que empezar\u00e1s a preguntarte a qu\u00e9 sabe? D\u00e9jale ir a cubrir las plantas.
+PAAL: Hijo, ve a cubrir las plantas.
+CPU: Baat Torgal ya no est\u00e1 abordo del habitat.
+PAAL: Vuelve a interferir en mi familia y cuando llegue el equipo de rescate te dejar\u00e9 aqu\u00ed. \u00bfMe entiendes?
+MARGUERIT: No vendr\u00e1 ning\u00fan rescate Jefe. No a tiempo. Y tampoco nos quedaremos aqu\u00ed. Si sigue lloviendo, tarde o temprano este lugar se inundar\u00e1. Es la \u00fanica opci\u00f3n que tenemos si nos quedamos enterrados con ellas.
+PAAL: Ap\u00e1rtate de mi hijo.",
+    "Ency_IslandsPDAExterior": "#3 Registro de Voz del Degasi",
+    "EncyDesc_IslandsPDAExterior": "MARGUERIT: \u00bfLo ves Jefe? Nos trajiste a este maldito planeta. Nos dijiste que tendr\u00edamos un gran d\u00eda de paga. \u00bfY qu\u00e9 tenemos? La mitad de nosotros est\u00e1n muertos, un monta\u00f1a de condenada tierra frente a la entrada y la lluvia entrando a trav\u00e9s de las ventanas.
+PAAL: \u00bfY qu\u00e9 habr\u00edas hecho para evitar esto?
+MARGUERIT: Para empezar, no habr\u00eda tomado un desv\u00edo no programado. NUNCA debes de salirte de la ruta. Eso es algo que ten\u00edas que aprender por las malas. Y ahora ya lo sabes.
+PAAL: \u00bfQu\u00e9 es lo que propones exactamente?
+MARGUERIT: \u00bfQuieres malgastar lo que te queda de vida recogiendo titanio del lecho marino? \u00bfO quieres arreglar las cosas?
+PAAL: Si construimos bajo el agua, \u00bfqu\u00e9 haremos con la comida? \u00bfAgua potable? \u00bfEnerg\u00eda?
+MARGUERIT: Iremos a pescar. Construiremos filtros de agua. Iremos a suficiente profundidad para encontrar chimeneas termales - tendremos m\u00e1s energ\u00eda de la que jam\u00e1s podr\u00edamos usar. Jefe, si hace falta comeremos condenadas ensaladas de algas. \u00bfO tienes algo mejor?
+BAAT: Creo que podr\u00eda hacer una buena ensalada de algas.
+PAAL: Hijo, los adultos est\u00e1n hablando.
+BAAT: Est\u00f3y hablando en serio padre. Si puedo hacer crecer fruta en tierra firme, puedo hacer crecer algas bajo el agua. Podemos hacer una granja de peces. Padre, nos he mantenido con vida todo este tiempo, y puedo seguir haci\u00e9ndolo.",
+    "Ency_JellyPDABrokenCorridor": "#4 Registro de voz de la Degasi - Llegada a las Gelasetas",
+    "EncyDesc_JellyPDABrokenCorridor": "BAAT: Este lugar es genial.
+PAAL: No es lo que esperaba. \u00bfHas comprobado los par\u00e1metros de presi\u00f3n en la construcci\u00f3n del casco?
+MARGUERIT: He reforzado el casco e instalado mamparos.
+PAAL: Por supuesto.
+BAAT: Podr\u00edamos construir un observatorio. Podr\u00edamos aprender tanto aqu\u00ed.
+MARGUERIT: Ahora, los cimientos... no est\u00e1n en la mejor de las condiciones. Pero os garantizo que si este lugar se viene abajo no ser\u00e1 la ca\u00edda lo que nos mate.",
+    "Ency_JellyPDARoom2Desk": "#5 Registro de Voz de la Degasi - \u00a1\u00bfM\u00e1s profundo?!",
+    "EncyDesc_JellyPDARoom2Desk": "PAAL: \u00a1Ya estamos a 300 metros de profundidad! \u00a1\u00bfY quieres bajar M\u00c1S?!
+MARGUERIT: Mira a tu alrededor Jefe. \u00bfSabes lo que veo? Agua. Agua filtr\u00e1ndose a trav\u00e9s del casco. Agua fuera de la  escotilla. Agua sobre m\u00ed, agua debajo. Todo es condenada agua Jefe. Nos estamos ahogando. Muy lentamente. \u00bfQuieres vivir tus \u00faltimos d\u00edas comiendo frutas en una playa con miedo de mojarte los dedos de los pies?
+PAAL: \u00bfQu\u00e9 es lo que T\u00da quieres?
+MARGUERIT: Quiero saber c\u00f3mo salir de este condenado planeta.",
+    "Ency_JellyPDAObservatory": "#1 Registro de Baat Torgal",
+    "EncyDesc_JellyPDAObservatory": "Bien, apunta esto. Nos quedamos sin cristal esmaltado que recuperamos de los restos de la nave, as\u00ed que parec\u00eda que no podr\u00edamos construir el observatorio. Y esto es lo que hace Marguerit - coge el Seamoth y se va al bosque de algas, armada solo con una cuchilla t\u00e9rmica y se enfrenta contra un maldito acechante hasta la arena y vuelve con sus dientes.
 
-Now I fear for our safety. A mercenary I hired for the journey, Marguerit Maida, is increasingly disturbed. She insists we abandon this site and establish a habitat underwater. I fear she may take steps to sabotage our habitat here to enforce her own agenda. Nonetheless, and against my better judgement, I have acquiesced to her request to scout for a suitable aquatic site. My hope is she will quickly realize how unforgiving the ocean is, and abandon this foolish ambition.",
-    "Ency_IslandsPDABase1a": "Baat Torgal's Log #6?",
-    "EncyDesc_IslandsPDABase1a": "I messed up. Real bad this time.  It's been two days since what happened. We never should have left this island. I shouldn't have listened to them. We shouldn't have gone so deep. They don't want us down there. They don't trust us. I knew it and I didn't say. I could see it, and they couldn't, and now they're stuck down there, and I'm up here, alone. I deserve this.",
-    "Ency_IslandsPDABase1bDesk": "Degasi Voice Log #1",
-    "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT: It won't work, Chief. We salvaged enough scrap from the Degasi for, what, a couple of observatories?
-PAAL: It'll be enough.
-MARGUERIT: For now. And then we'll run out. Ain't no building materials on this island. We're gonna have to get our feet wet. No other way. 
-PAAL: This island is safe. There's fertile land. No predators. Shelter from the elements.
-MARGUERIT: All we'd need is a water filtration system, some hull reinforcements, maybe a thermal plant or two...
-PAAL: I've made my decision. You want to forfeit your commision just to take a swim?
-MARGUERIT: Believe me, I'm thinking on it.
-BAAT: Those mountains look like they get the most of the sun. If we built observatories up there I think I could grow enough food to keep us all alive. I think this could work.
-PAAL: You hear that? You think you know better than 10 million credits of biochem training?
-MARGUERIT: It's not the kid I doubt. All I'm sayin' is, ocean's got us surrounded. No use hiding.
-PAAL: No. This is where we build. This is how we survive.",
-    "Ency_IslandsPDABase1Desk": "Degasi Voice Log #2",
-    "EncyDesc_IslandsPDABase1Desk": "PAAL: Your life is worth more. I forbid you go out there.
-BAAT: I stopped needing your permission when the ship you were captaining sunk.
-PAAL: You will stop needing my permission the day I cease to be your father!
-MAIDA: Say, Chief. Chief! 
-PAAL: What?
-MAIDA: Do you know how to drain those grow beds out there of 40 tons of storm water? Or where we'll find food for three people for the next two weeks?
-PAAL: You know I don't.
-MAIDA: So what's your boy's life worth to you today, if next week you're gonna be so hungry you start wondering what he tastes like? Let him go cover the plants.
-PAAL: Son, go cover the plants.
-CPU: Baat Torgal is no longer aboard the habitat.
-PAAL: Interfere with my family again and when the rescue team arrives I will leave you here. You understand me?
-MAIDA: No rescue coming, Chief. Not in time. And no stayin' here, neither. This rain keeps falling, and sooner or later this place'll be buried. Only choice we've got is whether we get buried with it.
-PAAL: Stay away from my boy.",
-    "Ency_IslandsPDAExterior": "Degasi Voice Log #3",
-    "EncyDesc_IslandsPDAExterior": "MARGUERIT: You see, Chief? You brought us to this fracking planet. You told us we'd see a lush payday. Now what do we got? Half of us dead. A pile of fracking dirt in our front room. Rain coming in the through the windows.
-PAAL: And you would have avoided this how?
-MARGEURIT: I woulda started by not taking an unscheduled detour. You NEVER go off course. That's something you gotta learn the hard way. Now you know.
-PAAL: What exactly do you propose?
-MARGEURIT: You want to waste what time you have left lugging titanium up from the seabed? Or you want to hit this thing head on?
-PAAL: If we build underwater, what will we do for food? Drinking water? Power?
-MARGEURIT: We'll go fishing. Build water filters. We go deep enough we gotta find thermal vents - we'll have more power than we could ever use. Chief, we'll eat fracking seaweed salad if that's what it takes. Or you got something better?
-BAAT: I think I could make a good seaweed salad.
-PAAL: Son, the adults are talking.
-BAAT: I'm serious, father. If I can grow fruit on the land, I can grow seaweed underwater. We can farm fish. Father, I kept us alive this long. I can keep on doing it.",
-    "Ency_JellyPDABrokenCorridor": "Degasi Voice Log #4 - Jellyshroom Arrival",
-    "EncyDesc_JellyPDABrokenCorridor": "BAAT: This place is rad.
-PAAL: It's not what I expected. Have you factored in the pressure on the hull construction?
-MARGUERIT: I reinforced the hull, installed bulkhead doors.
-PAAL: Of course.
-BAAT: We could build an observatory deck. We could learn a lot here.
-MARGUERIT: Now, the foundations... they're not in the best of shape. But I guarantee you, if this place comes loose it won't be the fall that kills us.",
-    "Ency_JellyPDARoom2Desk": "Degasi Voice Log #5 - Deeper?!",
-    "EncyDesc_JellyPDARoom2Desk": "PAAL: We're already 300m below sea level! You want to go DEEPER?!
-MARGUERIT: Look around us, Chief. You know what I see? Water. Water leaking through the hull. Water outside the hatch. Water above me, water below me. It's all freaking water, Chief. We're drowning. Real slow. You want to live out your few remaining days eating fruit on the beach afraid to get your toes wet? 
-PAAL: What is it YOU want?
-MARGUERIT: I want to know how to get off this freaking planet.",
-    "Ency_JellyPDAObservatory": "Baat Torgal's Log #1",
-    "EncyDesc_JellyPDAObservatory": "OK, get this. We ran out of enamelled glass we salvaged from the shipwreck so it looked like we couldn't build the observatory. And Marguerit, here's what she does - she takes the Seamoth out to the kelp forests, armed with just a heatblade, and freaking wrestles a stalker to the seafloor and brings back its teeth. 
+Se enfrent\u00f3 en un combate mano a mano con un tibur\u00f3n alien\u00edgena y trajo sus DIENTES. Ahora podemos fabricar todo el esmalte que necesitamos.
 
-She entered hand-to-hand combat with an alien shark and brought home it's TEETH. Now we can fabricate all the enamel we need.
+Por un lado, es lo m\u00e1s rudo que he o\u00eddo en mi vida, y ahora estoy sentado en este maravilloso observatorio mirando a los biters golpear el cristal.
 
-On one hand, that is the most badass thing I ever heard, and now I'm sitting in this sweet observatory watching biters tap harmlessly at the glass.
+Por el otro lado, \u00bfmereci\u00f3 la pena? \u00bfSobrevivi\u00f3 esa criatura? \u00bfC\u00f3mo de r\u00e1pido les crecen los dientes? \u00bfHay alguna forma de manufacturar materiales sin da\u00f1ar este ecosistema?
 
-On the other hand, was it worth it? Did that creature survive? How fast do their teeth grow? Is there a way to manufacture materials without harming the ecosystem here?
+Si tuvi\u00e9ramos un acuario decente podr\u00edamos estudiar estas formas de vida de cerca. Encontrar las respuestas.",
+    "Ency_JellyPDARoom1Desk": "#2 Registro de Baat Torgal",
+    "EncyDesc_JellyPDARoom1Desk": "Hemos estado viviendo en este habitat durante un mes. Sol\u00eda ser excitante, pero ahora es m\u00e1s claustrof\u00f3bico de lo que pensaba. Hay tantos depredadores en estas cuevas que Marguerit es la \u00fanica persona que sale ah\u00ed fuera.
 
-If we had a full size aquarium we could study these lifeforms up close. Find the answers.",
-    "Ency_JellyPDARoom1Desk": "Baat Torgal's Log #2",
-    "EncyDesc_JellyPDARoom1Desk": "We've been living in this habitat a month now. It used to be exciting, but it's more claustrophobic than I thought. There are so many predators in these caves that Marguerit is just about the only person that gets to go out there.
+Al mismo tiempo, la vida aqu\u00ed abajo es INCRE\u00cdBLE. Marguerit ha estado trayendo las especies m\u00e1s salvajes que podr\u00edas imaginar. Vale, la flora es incomestible. Aprend\u00ed eso por las malas. Pero los peces... aqu\u00ed abajo BRILLAN. Hay uno que es un 90% globo ocular. Serpientes tan largas como dos secciones de pasillo.
 
-All the same, the life down here is INCREDIBLE. Marguerit has been bringing back the wildest specimens you could imagine. OK, the plantlife is inedible. I learnt that the hard way. But the fish... down here they GLOW. There's one that's 90% eyeball. Snakes the length of two glass corridor sections.
+No es f\u00e1cil sin un laboratorio y equipamiento adecuado, pero algunas veces la antigua usanza - observar, tomar notas, probar teor\u00edas - revela cosas que un an\u00e1lisis espectrosc\u00f3pico jam\u00e1s podr\u00eda.
 
-It's not easy without a proper lab and equipment, but sometimes the old fashioned way - observing, taking notes, testing theories - reveals things a spectroscopic analysis never would. 
+Por ejemplo, he estado mirando las serpientes marinas que hacen sus hogares en las setas moradas que brillan aqu\u00ed. Esperan a sus presas y atacan cuando los peque\u00f1os herb\u00edvoros est\u00e1n demasiado cerca. Lo que no se comen se deposite en el suelo marino, lo que fertiliza las setas, que a su vez alimenta a los herb\u00edvoros y as\u00ed contin\u00faa la cadena alimenticia. La coevoluci\u00f3n simplemente estalla en mi mente.",
+    "Ency_JellyPDARoom1Locker": "#2 Registro de Paal Torgal",
+    "EncyDesc_JellyPDARoom1Locker": "\u00bfSabes lo que me pregunt\u00f3 Maida hoy? '\u00bfHas o\u00eddo algo sobre un Submarino de clase Cyclops?' me pregunta. A M\u00cd. He llevado narvales espaciales a Neptuno, plastiacero a la Federaci\u00f3n... esta familia opera nueve colonias mineras diferentes a lo largo del Brazo Ariadne. \u00a1\u00bfY piensa que no s\u00e9 que es un Cyclops?! \u00bfPiensa que est\u00e1 al mando? Su contrario a\u00fan dice lo contrario.
 
-For example, I've been watching the sea snakes that make their homes in the purple mushrooms that grow here. They await their prey, and strike when small herbivores stray too close. What they don't consume settles on the seabed, which fertilizes the mushrooms, which feed the herbivores, and the chain continues. Co-evolution just blows my mind.",
-    "Ency_JellyPDARoom1Locker": "Paal Torgal's Log #2",
-    "EncyDesc_JellyPDARoom1Locker": "You know what Maida asked me today? 'Have you heard of a Cyclops Submarine?' she asks me. ME. I've hauled starwhals to Neptune, plasteel to the Federation... this family operates nine different mining colonies across the Ariadne Arm. She thinks I don't know what a Cyclops is?! She thinks she's in charge? Her contract still says otherwise.
+As\u00ed que ella quiere construir un habitat a 700 metros bajo el nivel del mar, a un kil\u00f3metros al este de aqu\u00ed. Y nos necesita a Baa y a m\u00ed para conseguirlo. Se le ha metido en la cabeza que no hay ning\u00fan equipo de rescate de camino. Que ella es la \u00fanica que puede salvarnos si es lo bastante temeraria.
 
-So she wants to build a habitat at 700m below sea level, a kilometre east of here. And she needs Baat and I to pull it off. She's got it into her head that there's no rescue coming. That she can save us if she just acts recklessly enough.
+Y yo no puedo simplemente decir si es la mayor estupidez que he escuchado nunca... o mi \u00fanica esperanza. Cumpl\u00ed 80 a\u00f1os la semana pasada. Pensaba que tendr\u00eda a\u00fan otros 80 por delante. Pero atrapado aqu\u00ed, no podr\u00e9 recibir un trasplante de h\u00edgado cuando este viejo falle. Aqu\u00ed abajo soy mortal. Y me estoy quedando sin tiempo.
 
-And I just cannot goddamn tell whether it's the stupidest idea I ever heard, or my only hope. I turned 80 years old last week. I thought I had another 80 in me yet. But stuck here, there's no swapping out my liver when the old one fails. Down here, I'm mortal. And I'm running out of time.
+As\u00ed que es mi responsabilidad tomar una decisi\u00f3n. Regresar a la isla y esperar que lo que quiera que derribase a la Degasi no haga lo mismo con la nave de rescate, o llevarnos a las profundidades en busca de respuestas. Y todo mientras espero que la vejez sea lo que me lleve por delante antes que los monstruos marinos.
 
-So it's my responsibility to make a decision. Return to the island and hope whatever knocked the Degasi out of the sky won't do the same to the rescue ship, or take us deeper in search of answers. And all the while be hoping old age gets me before the seamonsters do.
+Le dar\u00e9 la raz\u00f3n a Maida sobre una cosa. Ten\u00eda raz\u00f3n sobre estas cavernas. Hab\u00eda suficiente litio aqu\u00ed para fabricar toneladas de plastiacero. Suficiente para una maldita FLOTA de submarinos. No hab\u00eda nada que nadie pudiera haber hecho para evitar estrellarnos aqu\u00ed, pero fue acertado ordenar el desv\u00edo. Cuando salgamos de este planeta hablar\u00e1n del precio de la acciones de Torgaljin Corp. hasta en la otra punta de la Federaci\u00f3n.",
+    "Ency_JellyPDAExterior": "#1 Registro de Marguerit Maida",
+    "EncyDesc_JellyPDAExterior": "Estos malditas corporativos, burgueses, endog\u00e1micos, incompetentes, P*** ensimismados no tienen ni P*** idea. Juro que todo lo que sale de esas bocas de idiotas son mentiras narcisistas. Si quiere quedarse aqu\u00ed es su problema. Yo soy la que est\u00e1 haciendo el trabajo sucio. Al cuerno el contrato. Al cuerno la extra. Al cuerno los cargos. Voy a construir ese submarino y me voy a ir a las profundidades.
 
-I'll give Maida just one thing. She was right about these caves. There's enough lithium here to fabricate a hundred tons of plasteel. Enough for a damn FLEET of submarines. There was nothing anyone could have done to avoid crashing here, but I was right to order the detour. When we get off this planet they'll be talking about the Torgaljin Corp. share price on the other side of the Federation.",
-    "Ency_JellyPDAExterior": "Marguerit Maida's Log #1",
-    "EncyDesc_JellyPDAExterior": "These freaking corporate, bourgeois, inbred, incompetent, self-absorbed ASSHOLES don't have a FRIGGING clue. I swear every single thing that comes out of that idiot's face is a narcissistic lie. He wants to stay here, his problem.  I'm the one doing the heavy lifting. Screw the contract. Screw the bonus pay. Screw the charges. I'm building that sub and I'm going deeper.
+He empezado a preparar la operaci\u00f3n. Vali\u00f3 la pena entrar al zoo de mascotas alien\u00edgenas del cr\u00edo. No necesito ir a la superficie a por dientes de acechante cuando tiene a todo un grupo comiendo de la palma de su mano. He empezado a quitarles los dientes cuando los Torgals est\u00e1n durmiendo y a acumular minerales esmaltados y met\u00e1licos para construir el submarino.
 
-I've started preparing for the operation. The kid's alien petting zoo was worth chipping in for. No need to visit the surface for stalker teeth when he's got a whole school of them whipped to eat the fish from the palm of his hand. I've started defanging them when the Torgals are sleeping, and stockpiling enamel and metal ores for construction of the sub.
+Cuando esos malditos monstruos marinos te est\u00e1n cazando no tienes que huir y esconderte. T\u00da eres quien los caza a ellos. Entonces construyes un barco m\u00e1s grande con los huesos de tus trofeos y vas a cazar monstruos m\u00e1s grandes. Y lo repites hasta que no quede ning\u00fan monstruo que pueda cazarte.",
+    "Ency_JellyPDARoom2Locker": "#6 Registro de Voz del Degasi",
+    "EncyDesc_JellyPDARoom2Locker": "PAAL: \u00bfQu\u00e9 es esa cosa?
+MARGUERIT: No lo s\u00e9.
+PAAL: \u00bfParte de otra nave?
+MARGUERIT: De ninguna que haya visto.
+BAAT: Est\u00e1 en bastante buen estado. No est\u00e1 ni agrietado. Podr\u00eda ser originario de aqu\u00ed, de este planeta.
+PAAL: No lo toques, podr\u00eda ser valioso. \u00a1Dije que no lo toques!
+MARGUERIT: C\u00e1lmate Jefe, solo estoy mirando. Si se fuera a hacer polvo lo habr\u00eda hecho en cuando lo cog\u00ed.
+BAAT: Est\u00e1 brillando.
+PAAL: \u00bfTodav\u00eda tiene energ\u00eda? Alguien estuvo aqu\u00ed hace poco.
+BAAT: Eso, o hace tanto que ya nadie se acuerda.",
+    "Ency_DeepPDABase3": "#7 Registro de Voz del Degasi",
+    "EncyDesc_DeepPDABase3": "BAAT: \u00a1Parad los dos! Estamos enfermos.
+MARGUERIT: \u00bfQu\u00e9?
+PAAL: \u00bfC\u00f3mo?
+BAAT: Hab\u00e9is estado tosiendo, \u00bfverdad? Sintiendo un picor?
+MARGUERIT: Si.
+BAAT: Hemos estado enfermos desde que empezamos a respirar el aire.
+PAAL: Las lecturas biom\u00e9tricas del traje nos habr\u00edan avisado.
+BAAT: Es algo nuevo. Una infecci\u00f3n bacteriana.
+MARGUEIT: \u00bfQu\u00e9 es lo que hace?
+BAAT: No mucho por ahora. Pero es lista. Con el tiempo suficiente creo que podr\u00eda empezar a alterar nuestra estructura gen\u00e9tica. Las cosas empeoran despu\u00e9s de eso.
+PAAL: \u00bfQu\u00e9 puedes hacer?
+BAAT: Creo que puedo ralentizarlo?
+PAAL: \u00bfC\u00f3mo lo encontraste?
+BAAT: Estaba en todas partes, solo que no pude verlo. Todo en este planeta est\u00e1 infectado. Es algo que forma parte del ecosistema.
+MARGUERIT: \u00bfC\u00f3mo de malo puede ser si todo lo tiene?
+BAAT: Las formas de vida locales deben haber desarrollado una inmunidad natural que nosotros no tenemos.
+PAAL: A\u00fan. Tengo toda la fe puesta en que encontraras la forma de crearla hijo m\u00edo.
+MARGUERIT: Dinos que necesitas ni\u00f1o.",
+    "BaseMapRoomFragment": "Fragmento de la sala de esc\u00e1ner",
+    "BaseMapRoom": "Sala de esc\u00e1ner",
+    "Tooltip_BaseMapRoom": "Sala de esc\u00e1ner",
+    "RecipeUnlocked": "Receta {0} desbloqueada",
+    "TechTypeUnlocked": "{0} desbloqueado",
+    "MapRoomCameraInfo": "C\u00e1mara {0}",
+    "MapRoomCameraControls": "Usa {0} y {1} para cambiar de c\u00e1mara",
+    "MapRoomCameraDistance": "DISTANCIA: {0}",
+    "MapRoomCameraDepth": "PROFUNDIDAD: {0}",
+    "EncyPath_DownloadedData\/Lifepods": "C\u00e1psulas de salvamento",
+    "EncyPath_DownloadedData\/AuroraSurvivors": "Supervivientes de la Aurora",
+    "Ency_Lifepod1": "Grabadora de Vuelo de Danby",
+    "EncyDesc_Lifepod1": "\u00a1Aqu\u00ed el oficial m\u00e9dico Danby, estoy entrando en la atm\u00f3sfera a gran velocidad, aterrizaje en 20 segundos! *Explosi\u00f3n* \u00a1Recibiendo fuego! \u00a1Cayendo fuera de control! \u00a1Intentando-! *Est\u00e1tica*",
+    "Ency_Lifepod2": "Registrador de vuelo de C\u00e1psula de salvamento",
+    "EncyDesc_Lifepod2": "PASAJERO: \u00a1Nos estamos hundiendo!
+TRIPULANTE: \u00a1Se\u00f1ora, por favor, estoy haciendo todo lo que puedo!
+PASAJERO: \u00a1\u00bfD\u00f3nde est\u00e1n los equipos de apoyo?!
+TRIPULANTE: \u00a1Est\u00e1n de camino se\u00f1ora!
+PASAJERO: \u00a1Eso no es lo que dijo por la radio!
+TRIPULANTE: \u00a1Se\u00f1ora, tengo que pedirle que se quede donde est\u00e1! \u00a1El ordenador no ha completado el an\u00e1lisis de la situaci\u00f3n, no tenemos ni idea de lo que hay ah\u00ed fuera!
+PASAJERO: \u00a1No me ahogar\u00e9 aqu\u00ed dentro!
+TRIPULANTE: \u00a1Se\u00f1ora, vuelva, no es seguro!
+*Sonido de un Segador*",
+    "Ency_Lifepod3": "Grabadora de vuelo de ingenieros",
+    "EncyDesc_Lifepod3": "PDA: An\u00e1lisis de la situaci\u00f3n completo. Rel\u00e9 de comunicaciones desconectado.
+INGENIERO 1: \u00a1Maldita sea! \u00bfC\u00f3mo vamos a llegar al punto de reuni\u00f3n sin una se\u00f1al de radio?
+INGENIERO 2: Tenemos un soporte para br\u00fajula. Tendremos que hacerlo a la vieja usanza.
+INGENIERO 1: \u00bfQuieres fabricar una br\u00fajula?
+INGENIERO 2: \u00bfPor qu\u00e9 parar ah\u00ed? Si encontramos a los dem\u00e1s podemos construir destiltrajes. Construir h\u00e1bitats. Puede que incluso alcancemos la Aurora y reactivemos las comunicaciones interestelares. \u00bfTienes un soldador?
+INGENIERO 1: Si, lo tengo... Maldici\u00f3n, lo dej\u00e9 en la bah\u00eda de exotrajes.
+INGENIERO 2: No te preocupes.
+INGENIERO 1: No, la fastidie.
+INGENIERO 2: No, podemos hacerlo. Todo lo que necesitamos son algunos materiales b\u00e1sicos. Este planeta no puede estar vac\u00edo. Vayamos ah\u00ed fuera y averig\u00fcemoslo.",
+    "Ency_Lifepod4": "Grabadora de Vuelo del Emisario Khasar",
+    "EncyDesc_Lifepod4": "Datos de Caja negra #345
+00:00 Sistemas de la c\u00e1psula de salvamento conectados.
+00:03 Pasajero 07 'Emisario Jochi Khasar' ha abordado la c\u00e1psula.
+00:07 Secuencia de lanzamiento iniciada.
+00:15 C\u00e1psula desacoplada de la Aurora correctamente.
+00:17 Micr\u00f3fonos de abordo detectando comunicaciones de voz, grabando:
+'Nuestros creadores, quienes son clementes y compasivos, santificados sean vuestros nombres. Alabados seas, el glorioso y el sustentador  de los mundos. Danos hoy nuestros bienes de cada y perm\u00edtenos nuestros placeres, as\u00ed como permit\u00edmos a aquellos que buscan placer en nosotros.'
 
-When fracking seamonsters are hunting you, you don't run and hide. You hunt the fracking seamonsters. Then you build a bigger boat out of the bones of your vanquished foes and go hunt bigger monsters. Repeat until there aren't any monsters left to hunt you.",
-    "Ency_JellyPDARoom2Locker": "Degasi Voice Log #6 - Curious Discovery",
-    "EncyDesc_JellyPDARoom2Locker": "PAAL: What is that thing?
-MARGUERIT: I don't know.
-PAAL: Part of another ship?
-MARGUERIT: None I've ever seen.
-BAAT: It's in such good condition. It's not even scratched. It could originate here, on this planet.
-PAAL: Don't touch it, it could be valuable. I said don't touch it!
-MARGUERIT: Stand down, Chief, I'm just lookin'. If it were goin' to crumble to dust it woulda done so when I picked it up.
-BAAT: It's glowing.
-PAAL: It's still powered? Someone else was here recently.
-BAAT: Either that, or so long ago that no one remembers.",
-    "Ency_DeepPDABase3": "Degasi Voice Log #7",
-    "EncyDesc_DeepPDABase3": "BAAT: Stop it, both of you! We're sick.
-MARGUERIT: What?
-PAAL: How?
-BAAT: You've been coughing, right? Feeling itchy?
-MARGUERIT: Yeah.
-BAAT: We've been sick since we started breathing the air.
-PAAL: The suit biometrics would have warned us.
-BAAT: It's something new. A bacterial infection.
-MARGUERIT: What does it do?
-BAAT: Nothing much, so far. But it's smart. With enough time I think it could begin altering our genetic structure. Things get gross after that.
-PAAL: What can you do?
-BAAT: I think I can slow it down. 
-PAAL: How did you find it?
-BAAT: It's everywhere, I just couldn't see it. Everything on this planet is infected. It's pretty much just part of the ecosystem.
-MARGUERIT: How bad can it be if everything's got it?
-BAAT: The local lifeforms must have developed coping mechanisms. We haven't.
-PAAL: Yet. You have my full faith, son, that you'll figure this out for us.
-MARGUERIT: Tell me what you need, kid.",
-    "BaseMapRoomFragment": "Scanner Room Blueprint",
-    "BaseMapRoom": "Scanner room",
-    "Tooltip_BaseMapRoom": "Scanner Room",
-    "RecipeUnlocked": "{0} recipe unlocked",
-    "TechTypeUnlocked": "{0} unlocked",
-    "MapRoomCameraInfo": "Camera {0}",
-    "MapRoomCameraControls": "Press mouse buttons to cycle between cameras",
-    "MapRoomCameraDistance": "DISTANCE: {0}",
-    "MapRoomCameraDepth": "DEPTH: {0}",
-    "EncyPath_DownloadedData\/Lifepods": "Lifepods",
-    "EncyPath_DownloadedData\/AuroraSurvivors": "Aurora Survivors",
-    "Ency_Lifepod1": "Danby's Flight Recorder",
-    "EncyDesc_Lifepod1": "This is medical officer Danby, I'm breaking atmosphere at high velocity, planetfall in 20 seconds! *Explosion* Taking fire! Going into a spin! Attempting- *Static*",
-    "Ency_Lifepod2": "Lifepod Flight Recorder #1",
-    "EncyDesc_Lifepod2": "PASSENGER: We're sinking!
-CREW: Ma'am, I'm doing everything that I can!
-PASSENGER: Where are the support teams?!
-CREW: They're on their way, Ma'am!
-PASSENGER: That's not what he said on the radio!
-CREW: Ma'am, I have to ask you to stay where you are! The computer hasn't completed situational analysis, we've no idea what's out there!
-PASSENGER: I will not drown in here!
-CREW: Ma'am, come back, it's not safe!
-*Reaper sounds*",
-    "Ency_Lifepod3": "Engineers' Flight Recorder",
-    "EncyDesc_Lifepod3": "PDA: Situational analysis complete. Communications relay offline.
-ENGINEER 1: Frack it! How are we going to make the rendezvous without a radio signal?
-ENGINEER 2: We have a compass bearing. We'll have to do it the old fashioned way.
-ENGINEER 1: You want to fabricate a compass?
-ENGINEER 2: Why stop there? If we find the others, we can build stillsuits. Construct habitats. Maybe even make it to the Aurora and reactivate the interstellar communications. You have a welder?
-ENGINEER 1: Yeah I- Damn it, I left it in the exo bay.
-ENGINEER 2: Don't sweat.
-ENGINEER 1: No, I fracked up.
-ENGINEER 2: No, we can do this. All we need is some basic materials. This planet can't be barren. Let's get out there and find out.",
-    "Ency_Lifepod4": "Emissary Khasar's Flight Recorder",
-    "EncyDesc_Lifepod4": "Blackbox Data #345
-00:00 Lifepod systems online.
-00:03 Passenger 07 'Emissary Jochi Khasar' has boarded the lifepod.
-00:07 Lifepod launch sequence initiated.
-00:15 Lifepod detached from Aurora OK.
-00:17 Onboard microphones detecting voice communications, recording:
-'Our creators, who art gracious and merciful, hallowed be thy names. Praise be to you, the glorious one, the cherisher and sustainer of worlds. Give us this day our daily goods, and allow us our pleasures, as we allow those who seek pleasure from us.'
+00:33 Entrando a la atm\u00f3sfera planetaria.
+00:35 Temperatura externa pr\u00f3xima a niveles cr\u00edticos.
 
-00:33 Entering planetary atmosphere.
-00:35 External temperature approaching critical levels.
+00:37 'Mu\u00e9stranos el camino correcto, el camino que agracias. En Vida, Verdad, Amor, la plenitud de la realidad. En Sustancia, Principio y Mente, el hombre es a tu imagen y semejanza. Para nosotros es el poder, somos el \u00danico. Por siempre y para siempre. Ad\u00e9m.'
 
-00:37 'Show us the straight path, the path of those you favor. In Life, Truth, Love, the wholeness of reality. In Substance, Principle and Mind, man is its image and likeness. For ours is the power, we are the one. For ever and ever. Athem.'
+01:02 Da\u00f1o prolongado del casco exterior.
+01:05 Sistemas de soporte vital desconectados.
+01:06 Impacto inminente.",
+    "Ency_LifepodSeaglide": "#1 Registro de voz de C\u00e1psula de salvamento",
+    "EncyDesc_LifepodSeaglide": "Este puede que sea mi \u00faltimo informe. La c\u00e1psula de salvamento llego a la superficie del planeta intacta, pero ahora est\u00e1 rodeada por alg\u00fan tipo de depredador acu\u00e1tico alien\u00edgena. Est\u00e1n cubiertos por una especie de coraza y atacan en el momento que abro las escotillas. Ataqu\u00e9 al primero que se acerc\u00f3 con el cuchillo de supervivencia, pero se atasc\u00f3 en su coraza. Intent\u00e9 distraerlos con bengalas - sin \u00e9xito. Sin ca\u00f1\u00f3n de propulsi\u00f3n... sin rifle de estasis... no tengo ninguna oportunidad.
 
-01:02 Exterior hull damage sustained.
-01:05 Life support systems failed.
-01:06 Impact imminent.",
-    "Ency_LifepodSeaglide": "Lifepod Voicelog #1",
-    "EncyDesc_LifepodSeaglide": "This may be my last report. The lifepod made planetfall intact, but now it's surrounded by some kind of aquatic alien predator. They're encased in a carapace armour, and attack the moment I open the hatches. The first one that came at me I attacked with the survival knife, but it got lodged in the armor layers. Tried distracting them with flares - no effect. No propulsion cannon available. No stasis rifle. No chance. 
+He desmontado algunos componentes de la c\u00e1psula para construir un deslizador submarino. Mi \u00fanica esperanza es que pueda ser m\u00e1s r\u00e1pido que ellos. Deseadme suerte.",
+    "Ency_LifepodKeenDialog": "Grabadora de vuelo del Oficial Keen",
+    "EncyDesc_LifepodKeenDialog": "CAPIT\u00c1N: \u00a1Keen! \u00a1Aqu\u00ed la Aurora, responde!
+KEEN: \u00a1Le escucho Capit\u00e1n!
+CAPIT\u00c1N: \u00a1El ordenador ha identificado una masa de tierra en las coordenadas adjuntas! \u00a1Quiero que reagrupes a la tripulaci\u00f3n all\u00ed!
+KEEN: Entendido, pero-
+CAPIT\u00c1N: \u00a1Ellos son tu responsabilidad ahora, no les decepciones!
+KEEN: \u00a1Capit\u00e1n, debe evacuar!
+*Explosi\u00f3n abordo de la Aurora*
+KEEN: \u00a1\u00bfCapit\u00e1n?!",
+    "Ency_LifepodKeenLog": "#1 Registro del Oficial Keen",
+    "EncyDesc_LifepodKeenLog": "A toda la tripulaci\u00f3n - Si est\u00e1is leyendo esto entonces hab\u00e9is seguido la se\u00f1al de emergencia autom\u00e1tica emitida por el ordenador de abordo de esta c\u00e1psula, desobedeciendo el protocolo. Mi c\u00e1psula se da\u00f1\u00f3 en el impacto y me vi forzado a evacuar. Vuestras \u00f3rdenes son de no preocuparos por mi seguridad y tratar de alcanzar las coordenadas del punto de reuni\u00f3n designado en la masa terrestre m\u00e1s cercana. Espero veros all\u00ed.
 
-I've stripped some of the lifepod electrics to manufacture a seaglide. My only hope is I can outrun them. Wish me luck.",
-    "Ency_LifepodKeenDialog": "Officer Keen's Flight Recorder",
-    "EncyDesc_LifepodKeenDialog": "CAPTAIN: Keen! This is Aurora, come in!
-KEEN: I hear you, Captain!
-CAPTAIN: The computer has identified a landmass at the attached coordinates! I want you to regroup the crew there!
-KEEN: Understood, but-
-CAPTAIN: They're your responsibility now, don't let me down!
-KEEN: Captain, you need to evacuate!
-*Explosion aboard the Aurora*
-KEEN: Captain?!",
-    "Ency_LifepodKeenLog": "Officer Keen's Log #1",
-    "EncyDesc_LifepodKeenLog": "To all crew - If you are reading this then you have followed the automatic distress signal broadcast by this lifepod's onboard computer, contrary to protocol. My lifepod was damaged on impact and I am forced to evacuate. Your orders are to disregard my safety and attempt to reach the designated regroup co-ordinates at the nearest landmass. I hope to see you there.
-
-- Second Officer Keen",
-    "Ency_LifepodCrashZone1": "Lifepod Voicelog #2",
-    "EncyDesc_LifepodCrashZone1": "CREW: I need you to stay calm. The hull's secure. We're not in immediate danger.
-PASSENGER: Where are the rescue teams?!
-CREW: The Aurora didn't make it, Ma'am.
-PASSENGER: What do you mean?
-CREW: They're dead, ma'am. They're all dead.
-PASSENGER: What do you intend to do about it?
-CREW: We can't wait here for rescue. We're going to have to fabricate radiation suits and make for the crash site.
-PDA: Detecting local metal deposits.
-CREW: The PDA's interfacing with the fabricator okay. We'll have to go outside for the materials.
-PASSENGER: We?! It's your job, isn't it? To look after the passengers!
-CREW: Within reasonable parameters.
-PASSENGER: I beg your pardon?
-CREW: Forget it, I'll go. Just don't assume I'll find enough materials for the both of us.",
-    "Ency_LifepodCrashZone2": "Lifepod Voicelog #3",
-    "EncyDesc_LifepodCrashZone2": "*Hatch closes*
-CREW: *Coughing* Here, take this.
-PASSENGER: What do I do?!
-CREW: I pre-programmed the fabricator, just plug in the materials!
-FABRICATOR: Radiation suit fabricated.
-PASSENGER: It says there's only enough materials for one.
-CREW: It's all I could find. You'll have to take it.
-PASSENGER: To be clear, you want me to leave you here?
-CREW: Frack me, no! Find Officer Keen at the rendezvous, and send someone back for me with anti-rad meds, you incompetent, ungrateful-
-PASSENGER: Well if that's going to be your attitude-
-CREW: *Violent coughing*
-PASSENGER: OK, OK, I'm going!
-*Hatch opens*
-CREW: And stay clear of the crash zone in case the drive core goes up!",
-    "Ency_LifepodCTODialog1": "CTO Voicelog #1",
-    "EncyDesc_LifepodCTODialog1": "CTO: We're sinking! The flotation devices must have failed!
-TECHNICIAN: Should we evacuate?!
-CTO: No! The seafloor shouldn't be more than a couple hundred meters down. We're safer in here than out there.
-TECHNICIAN: There's water coming in!
-CTO: Wait, I can reconfigure the O2 system to act as a bilge!
-TECHNICIAN: It's working!
+- Segundo oficial Keen",
+    "Ency_LifepodCrashZone1": "#2 Registro de voz de C\u00e1psula de salvamento",
+    "EncyDesc_LifepodCrashZone1": "TRIPULANTE: Necesito que mantenga la calma. El casco es seguro. No estamos en peligro inmediato.
+PASAJERO: \u00a1\u00bfD\u00f3nde est\u00e1n los equipos de rescate?!
+TRIPULANTE: La Aurora no lo consigui\u00f3 se\u00f1ora.
+PASAJERO: \u00bfQu\u00e9 quiere decir?
+TRIPULANTE: Est\u00e1n muertos se\u00f1ora. Todos est\u00e1n muertos.
+PASAJERO: \u00bfY qu\u00e9 piensa hacer al respecto?
+TRIPULANTE: No podemos esperar el rescate aqu\u00ed. Tendremos que fabricar trajes antirradiaci\u00f3n e ir al lugar del accidente.
+PDA: Detectando dep\u00f3sitos de metal local.
+TRIPULANTE: La conexi\u00f3n de la PDA con el fabricador funciona. Tendremos que ir afuera a por los materiales.
+PASAJERO: \u00a1\u00bfTendremos?! Ese es su trabajo, \u00bfno es cierto? \u00a1Cuidar de sus pasajeros!
+TRIPULANTE: Dentro de unos par\u00e1metros razonables.
+PASAJERO: \u00bfDebo suplicarle perd\u00f3n?
+TRIPULANTE: Olv\u00eddelo, ir\u00e9 yo. Simplemente no espere que encuentre suficiente material para los dos.",
+    "Ency_LifepodCrashZone2": "#3 Registro de voz de C\u00e1psula de salvamento",
+    "EncyDesc_LifepodCrashZone2": "*Escotilla cerr\u00e1ndose*
+TRIPULANTE: *Tosiendo* Tenga, coja esto.
+PASAJERO: \u00a1\u00bfY qu\u00e9 hago?!
+TRIPULANTE: \u00a1He programado el fabricador, simplemente introduzca los materiales!
+FABRICADOR: Traje antirradiaci\u00f3n fabricado.
+PASAJERO: Dice que solo hay suficiente material para uno.
+TRIPULANTE: Es todo lo que pude encontrar. Tendr\u00e1 que cogerlo.
+PASAJERO: Para que quede claro, \u00bfquiere que le deje aqu\u00ed?
+TRIPULANTE: \u00a1Maldita sea, no! Encuentre al oficial en el punto de reuni\u00f3n y env\u00ede a alguien a recogerme con medicina antirradiaci\u00f3n, maldita incompetente, desagradecida-
+PASAJERO: Bueno, si esa va a ser su actitud...
+TRIPULANTE: *Tos violenta*
+PASAJERO: \u00a1Vale, vale, ya voy!
+*Escotilla abri\u00e9ndose*
+TRIPULANTE: \u00a1Y mant\u00e9ngase alejada de la zona del accidente en el caso de que el n\u00facleo motriz explote!",
+    "Ency_LifepodCTODialog1": "#1 Registro de voz del DT",
+    "EncyDesc_LifepodCTODialog1": "DIRECTOR TECNOL\u00d3GICO: \u00a1Nos estamos hundiendo! \u00a1Los sistemas de flotaci\u00f3n deben haber fallado!
+T\u00c9CNICO: \u00a1\u00bfDeber\u00edamos evacuar?!
+DT: \u00a1No! El suelo fondo no deber\u00eda de estar a m\u00e1s de un par de cientos de metros. Estamos m\u00e1s seguros dentro que fuera.
+T\u00c9CNICO: \u00a1El agua est\u00e1 entrando!
+DT: \u00a1Espera, puedo reconfigurar el sistema de ox\u00edgeno para que act\u00fae de sentina!
+T\u00c9CNICO: \u00a1Funciona!
 *Crash*
-CTO: You okay?!
-TECHNICIAN: I think so...
-CTO: OK, good news or bad?
-TECHNICIAN: Good.
-CTO: We're alive, and we've stopped sinking.
-TECHNICIAN: Bad?
-CTO: The O2's going to run out in 30 minutes!
-TECHNICIAN: Frack! What do we do?
-CTO: Let me think.",
-    "Ency_LifepodCTODialog2": "CTO Voicelog #2",
-    "EncyDesc_LifepodCTODialog2": "*Sound of water inside the lifepod*
-CTO: According to these pressure readings we've sunk more than 400m.
-TECHNICIAN: So let's just build a flotation device, or a seaglide, and make for the surface.
-CTO: We'll never make it without air tanks. It's too far.
-TECHNICIAN: *Spluttering* I don't want to pressure you, but my feet aren't touching the floor anymore.
-CTO: I've got it! There's another lifepod nearby, a hundred meters from here. If we can make it there, we can resupply our O2 tanks then head for the surface!
-TECHNICIAN: What if that pod's screwed too?!
-CTO: Then we're screwed too, but no more than we are already!
-TECHNICIAN: I'm ready.",
-    "Ency_LifepodCTOLog1": "CTO Log #1",
-    "EncyDesc_LifepodCTOLog1": "Entry 1
-Screw this planet! Technician Berkeley and I were forced to abandon our lifepod when it hit the ocean floor. We swam for this pod, but Berkeley ran out of air on the way here. And I don't know how, but we're not in open water. There's no natural light here. There's a roof overhead, and no obvious way out. Lifepod must have rolled down into a cave system of some kind. Might be I can use a dive reel and compass to chart a way out. Might be I'm going to breathe my last down here.
+DT: \u00a1\u00bfEst\u00e1s bien?!
+T\u00c9CNICO: Eso creo...
+DT: Vale. \u00bfQuieres las buenas o las malas noticias?
+T\u00c9CNICO: Buenas.
+DT: Seguimos vivos y hemos dejado de hundirnos.
+T\u00c9CNICO: \u00bfY las malas?
+DT: \u00a1El ox\u00edgeno se acabar\u00e1 en 30 minutos!
+T\u00c9CNICO: \u00a1Maldita sea! \u00bfQu\u00e9 hacemos?
+DT: D\u00e9jame pensar.",
+    "Ency_LifepodCTODialog2": "#2 Registro de voz del DT",
+    "EncyDesc_LifepodCTODialog2": "*Sonido de agua dentro de la c\u00e1psula*
+Director de Tecnolog\u00eda: De acuerdo con est\u00e1s lecturas de presi\u00f3n nos hemos hundido m\u00e1s de 400m.
+T\u00c9CNICO: Entonces construyamos un sistema de flotaci\u00f3n, o un deslizador, y salgamos a la superficie.
+DT: Nunca lo conseguiremos sin tanques de ox\u00edgeno. Est\u00e1 demasiado lejos.
+T\u00c9CNICO: *Balbuceando* No quiero presionarte, pero mis pies ya no tocan el suelo.
+DT: \u00a1Lo tengo! Hay otra c\u00e1psula de salvamento cerca, a cien metros de aqu\u00ed. Si podemos llegar all\u00ed, podremos reaprovisionar nuestros tanques de ox\u00edgeno, \u00a1y entonces dirigirnos a la superficie!
+T\u00c9CNICO: \u00a1\u00bfQu\u00e9 pasa si esa c\u00e1psula est\u00e1 destrozada tambi\u00e9n?!
+DT: Entonces estaremos en problemas, \u00a1pero no m\u00e1s de los que ya tenemos!
+T\u00c9CNICO: Estoy listo.",
+    "Ency_LifepodCTOLog1": "#1 Registro de voz del DT",
+    "EncyDesc_LifepodCTOLog1": "Entrada 1
+\u00a1Al cuerno este planeta! El t\u00e9cnico Berkeley y yo nos vimos obligados a abandonar nuestra c\u00e1psula de salvamento cuando golpeo el suelo oce\u00e1nico. Nadamos hacia esta c\u00e1psula, pero Berkeley se qued\u00f3 sin aire en el camino. Y no s\u00e9 c\u00f3mo, pero no est\u00e1bamos en aguas abiertas. No hay luz natural aqu\u00ed. Hay un techo sobre m\u00ed, y no veo ninguna salida. La c\u00e1psula debi\u00f3 deslizarse dentro de un sistema de cavernas de alg\u00fan tipo. Tal vez pueda usar el carrete de buceo y la br\u00fajula para buscar una salida. Tal vez d\u00e9 aqu\u00ed abajo mi \u00faltimo suspiro.
 
-Entry 2
-Two hours since the first pod sunk. I've tried exploring the area. There's no air pockets. No overhead exit. If I had plasteel I could build an air tank, a submersible, anything! But as it is I can only explore so far before I'm forced back to this lifepod. I have to find another way.
+Entrada 2
+Dos horas desde el hundimiento de la primera c\u00e1psula. He intentado explorar la zona. No hay bolsas de aire. No hay una salida hac\u00eda la superficie. Si tuviera plastiacero podr\u00eda construir un tanque de aire, un sumergible, \u00a1cualquier cosa! Pero ahora solo puedo explorar tan lejos como pueda antes de tener que regresar a esta c\u00e1psula. Tengo que encontrar otro modo.
 
-Entry 3
-I've managed to cobble together a rebreather and explore a bit further. I've found an incline heading up. Not clear whether it's part of the cave wall, or the way out. One way to know for sure.
+Entrada 3
+Me las apa\u00f1ado para ensamblar un reciclador y explorar un poco m\u00e1s lejos. He encontrado una pendiente ascendente. No est\u00e1 claro si es parte de la pared de la cueva o la salida. Solo hay un modo de averiguarlo.
 
-Entry 4
-Daylight! It was definitely daylight, I'm sure of it. I swam as far as I could. Next time I have to go past the point of no return and take my chances. If any rescue party finds this, please retrieve Berkeley's body, if the fish don't get to it first. I will now attempt to make it to the surface and regroup with Keen and anyone else that made it. 
+Entrada 4
+\u00a1El Sol! Era definitivamente el sol, estoy seguro de ello. Nad\u00e9 tan lejos como pude. La pr\u00f3xima vez tendr\u00e9 que pasar el punto de no retorno y probar mi suerte. Si alg\u00fan equipo de rescate encuentra entro, por favor recojan el cuerpo de Berkeley, si los peces no se lo comen antes. Ahora intentar\u00e9 llegar a la superficie y reagruparme con Keen y cualquiera que lo haya conseguido.
 
-- Chief Technical Officer Yu",
-    "Ency_LifepodCTOLog2": "CTO Log #2",
-    "EncyDesc_LifepodCTOLog2": "This beacon marks the beginning of a major cave system. Strong currents dragged our lifepod down. Do not pass this point for fear of death.
+- Director Tecnol\u00f3gico Yu",
+    "Ency_LifepodCTOLog2": "#2 Registro del DT",
+    "EncyDesc_LifepodCTOLog2": "Esta baliza marca el inicio de un gran sistema de cavernas. Fuertes corrientes llevaron a nuestra c\u00e1psula al interior. No pasen de este punto si no quieren morir.
 
-- Chief Technical Officer Yu",
-    "MapRoomCameraNoSignal": "NO SIGNAL",
-    "MapRoomCamera": "Camera drone",
-    "Tooltip_MapRoomCamera": "A controllable camera.",
-    "Presentation": "Presentation",
-    "Quality": "Quality",
-    "VRRenderScale": "VR render scale",
-    "Apply": "Apply",
-    "HorizontalSensitivity": "Horizontal sensitivity",
-    "VerticalSensitivity": "Vertical sensitivity",
-    "InvertLook": "Invert look",
-    "EnableController": "Enable controller",
-    "ResetToDefault": "Reset to Defaults",
-    "Deconstruct": "Deconstruct",
-    "Construct": "Construct",
-    "CyclopsWelcomeNoPower": "Cyclops: Warning: Emergency power only. Oxygen production offline.",
-    "AssignQuickSlot": "assign quick slot",
-    "Eat": "eat",
-    "Use": "use",
-    "Place": "place",
-    "Drop": "drop",
-    "SwitchContainer": "switch container",
-    "SeamothWelcomeNoPower": "Seamoth: Warning: Emergency power only. Oxygen production offline.",
-    "BaseWelcomeNoPower": "Base: Warning: Emergency power only. Oxygen production offline.",
-    "MapRoomCameraConnecting": "CONNECTING",
-    "StarshipChair2": "Chair 2",
-    "StarshipChair3": "Chair 3",
-    "Tooltip_StarshipChair2": "Surprisingly comfy.",
-    "Tooltip_StarshipChair3": "Surprisingly comfy.",
+- Director Tecnol\u00f3gico Yu",
+    "MapRoomCameraNoSignal": "SIN SE\u00d1AL",
+    "MapRoomCamera": "Dron c\u00e1mara",
+    "Tooltip_MapRoomCamera": "Una c\u00e1mara manejable",
+    "Presentation": "Presentaci\u00f3n",
+    "Quality": "Calidad",
+    "VRRenderScale": "Escala de procesado RV",
+    "Apply": "Aplicar",
+    "HorizontalSensitivity": "Sensibilidad horizontal",
+    "VerticalSensitivity": "Sensibilidad vertical",
+    "InvertLook": "Invertir controles",
+    "EnableController": "Habilitar mando",
+    "ResetToDefault": "Restaurar ajustes",
+    "Deconstruct": "Deconstruir",
+    "Construct": "Construir",
+    "CyclopsWelcomeNoPower": "Cyclops: Aviso: Solo energ\u00eda de emergencia. Producci\u00f3n de ox\u00edgeno desconectada.",
+    "AssignQuickSlot": "asignar acceso r\u00e1pido",
+    "Eat": "Comer",
+    "Use": "Usar",
+    "Place": "Colocar",
+    "Drop": "Tirar",
+    "SwitchContainer": "Cambiar de contenedor",
+    "SeamothWelcomeNoPower": "Seamoth: Aviso: Solo energ\u00eda de emergencia. Producci\u00f3n de ox\u00edgeno desconectada.",
+    "BaseWelcomeNoPower": "Base: Aviso: Solo energ\u00eda de emergencia. Producci\u00f3n de ox\u00edgeno desconectada.",
+    "MapRoomCameraConnecting": "CONECTANDO",
+    "StarshipChair2": "Silla 2",
+    "StarshipChair3": "Silla 3",
+    "Tooltip_StarshipChair2": "Sorprendentemente c\u00f3modo.",
+    "Tooltip_StarshipChair3": "Sorprendentemente c\u00f3modo.",
+    "UseMapRoomFabricator": "Usar fabricador",
+    "MapRoomUpgrades": "Escanear mejoras de habitaci\u00f3n",
+    "MapRoomHUDChip": "Chip HUD de sala de esc\u00e1ner",
+    "Tooltip_MapRoomHUDChip": "Transmite informaci\u00f3n de las salas de esc\u00e1ner al HUD",
+    "MapRoomUpgradeScanRange": "Scanner room range upgrade",
+    "MapRoomUpgradeScanSpeed": "Scanner room speed upgrade",
+    "Tooltip_MapRoomUpgradeScanRange": "",
+    "Tooltip_MapRoomUpgradeScanSpeed": "",
+    "FireExtinguisher": "Extintor",
+    "DamagedSavedGame": "<color='#000000FF'>Partida guardad da\u00f1ada<\/color>",
+    "MapRoomCameraInfoScreen": "C\u00c1MARA {0}",
+    "ControlCamera": "Controlar c\u00e1mara",
+    "MapRoomScanningText": "ESCANEANDO",
+    "BindQuickSlot": "asignar acceso r\u00e1pido",
+    "Equip": "equipar",
+    "Unequip": "desequipar",
+    "CyclopsHullModule1": "Compensador de presi\u00f3n del Cyclops",
+    "Tooltip_CyclopsHullModule1": "Reorganiza la estructura at\u00f3mica del casco del submarino para aumentar la profundidad de inmersi\u00f3n.",
+    "CyclopsHullModule2": "M\u00f3dulo de ultrarrefuerzo del casco",
+    "Tooltip_CyclopsHullModule2": "Reorganiza la estructura at\u00f3mica del casco del submarino para aumentar la  profundidad de inmersi\u00f3n bajo condiciones extremas.",
+    "WorkbenchMenu_CyclopsMenu": "Mejoras del Cyclops",
+    "CyclopsLightingToggle": "Alternar Iluminaci\u00f3n Interior Encendido\/Apagado",
+    "CyclopsPowerToggle": "Alternar Energ\u00eda del Cyclops Encendido\/Apagado",
+    "CyclopsFloodlightsToggle": "Alternar Focos Exteriores Encendido\/Apagado",
+    "SeamothHullModule1": "Compensador de presi\u00f3n del Seamoth Mark 1",
+    "Tooltip_SeamothHullModule1": "Endurece el chasis del Seamoth bajo altas presiones.",
+    "SeamothHullModule2": "Compensador de presi\u00f3n del Seamoth Mark 2",
+    "Tooltip_SeamothHullModule2": "Endurece el chasis del Seamoth bajo presiones extremas.",
+    "SeamothHullModule3": "Compensador de presi\u00f3n del Seamoth Mark 3",
+    "Tooltip_SeamothHullModule3": "Endurece el chasis del Seamoth bajo las mayores presiones del planeta.",
+    "SeamothDepthWarning": "\u00a1AVISO! \u00a1El Seamoth est\u00e1 bajo la profundidad de aplastamiento!",
+    "UraniniteCrystal": "Uraninite crystal",
+    "ReactorRod": "Reactor rod",
+    "Tooltip_ReactorRod": "Used to power nuclear reactors.",
+    "Tooltip_UraniniteCrystal": "A highly radioactive and interesting mineral.",
     "1": "2"
 }

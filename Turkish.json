@@ -35,7 +35,7 @@
     "Lodestone": "M\u0131knat\u0131s ta\u015f\u0131",
     "WiringKit": "Kablolama seti",
     "AdvancedWiringKit": "Geli\u015fmi\u015f kablolama seti",
-    "ComputerChip": "Bilgisayar \u00e7ipi",
+    "ComputerChip": "Bilgisayar \u0130\u015flemcisi",
     "Diamond": "Elmas",
     "MODULES": "MOD\u00dcLLER",
     "Energy": "Enerji",
@@ -163,13 +163,13 @@
     "CookedSpadefish": "Pi\u015fmi\u015f K\u00fcrek Bal\u0131\u011f\u0131",
     "CookedBoomerang": "Pi\u015fmi\u015f Bumerang",
     "CookedEyeye": "Pi\u015fmi\u015f G\u00f6zg\u00f6z",
-    "CookedOculus": "Pi\u015fmi\u015f Oculus",
+    "CookedOculus": "Pi\u015fmi\u015f Dip G\u00f6zc\u00fcs\u00fc",
     "Unobtanium": "Unobtanyum",
     "Creepvine": "Su yosunu",
     "HoleFish": "Delikli Bal\u0131k",
     "Jumper": "Z\u0131playan b\u00f6cek",
     "Peeper": "G\u00f6zc\u00fc",
-    "Oculus": "Oculus",
+    "Oculus": "Dip G\u00f6zc\u00fcs\u00fc",
     "Hoopfish": "Halkal\u0131 bal\u0131k",
     "RabbitRay": "Tav\u015fan Vatozu",
     "GarryFish": "Merakl\u0131 Bal\u0131k",
@@ -303,7 +303,7 @@
     "Tooltip_SmallStorage": "Su alt\u0131nda konumunu koruyan 4x4 dolap",
     "Tooltip_StalkerTooth": "Keskin ve sert bir kalsiyum olu\u015fumu.",
     "Tooltip_StasisRifle": "Nesneleri durdurur.",
-    "Tooltip_Tank": "O\u00b2 kar\u0131\u015f\u0131m. 30 saniye solunabilir hava.",
+    "Tooltip_Tank": "O\u00b2 kar\u0131\u015f\u0131m. 60 saniye solunabilir hava.",
     "Tooltip_Terraformer": "Y\u00fczeylerde d\u00fczenleme yapmay\u0131 sa\u011flar.",
     "Tooltip_Thermometer": "S\u0131cakl\u0131k alg\u0131lay\u0131c\u0131.",
     "Tooltip_Titanium": "Ti. Temel yap\u0131 malzemesi.",
@@ -381,8 +381,8 @@
     "Tooltip_BaseWindow": "G\u00f6zlem penceresi (-1HP)",
     "Tooltip_PowerGenerator": "Bir ya\u015fam b\u00f6lmesine g\u00fc\u00e7 sa\u011flamak i\u00e7in temele in\u015fa et",
     "GhostModelRotateInput": "D\u00f6nd\u00fcrmek i\u00e7in fare tekerle\u011fini kullan\u0131n",
-    "WarningUnsafeDepth": "UYARI: {0} metrelik g\u00fcvenli dal\u0131\u015f derinli\u011fi ge\u00e7iliyor. \u00c7arp\u0131\u015fmalar g\u00f6vdeye hasar verecektir.",
-    "WarningCrushDepth": "UYARI: {0} metre ezilme derinli\u011fi ge\u00e7ildi. G\u00f6vde hasar\u0131 ka\u00e7\u0131n\u0131lmaz! Acilen Y\u00dcKSEL!",
+    "WarningUnsafeDepth": "UYARI: {0} metrelik g\u00fcvenli derinlik ge\u00e7iliyor. Ezilme derinli\u011fine yakla\u015f\u0131l\u0131yor.",
+    "WarningCrushDepth": "UYARI: {0} metrelik ezilme derinli\u011fi ge\u00e7ildi. G\u00f6vde hasar\u0131 ka\u00e7\u0131n\u0131lmaz! Acilen Y\u00dcKSEL!",
     "SafeDepthNow": "G\u00fcvenli dal\u0131\u015f derinli\u011fi \u015fimdi {0} metre",
     "CrushDepthNow": "Ezilme derinli\u011fi \u015fimdi {0} metre",
     "NewLeakDetected": "G\u00f6vde hasar\u0131 alg\u0131land\u0131! {0} yar\u0131k, {1} k\u00fc\u00e7\u00fck hasar.",
@@ -400,7 +400,7 @@
     "CaveEntrance": "Olas\u0131 ma\u011fara giri\u015fi",
     "HeatSignature": "Is\u0131 sinyali",
     "HatchExitBlocked": "Kapak \u00e7\u0131k\u0131\u015f\u0131 engellendi!",
-    "RotateCorridorHint": "Rotate",
+    "RotateCorridorHint": "D\u00f6nd\u00fcr",
     "Lead": "Kur\u015fun levha",
     "Magnesium": "Magnezyum",
     "NutrientBlock": "Besin blo\u011fu",
@@ -453,7 +453,7 @@
     "ReefbackAdvancedStructure": "Kaplumba\u011fasal Yap\u0131",
     "Tooltip_ReefbackAdvancedStructure": "Bu geli\u015fmi\u015f kabuk yap\u0131s\u0131n\u0131n ayr\u0131nt\u0131l\u0131 i\u00e7 i\u015fleyi\u015finin incelenmesiyle daha fazla yap\u0131sal g\u00fc\u00e7lendirme sa\u011flanabilir.",
     "HullReinforcementModule2": "Kabuk g\u00f6vde kuvvetlendirme mod\u00fcl\u00fc",
-    "Tooltip_HullReinforcementModule2": "Resif devinin kabuk yap\u0131s\u0131 kullan\u0131larak yap\u0131lm\u0131\u015f g\u00f6vde kuvvetlendirme mod\u00fcl\u00fc",
+    "Tooltip_HullReinforcementModule2": "\u0130\u00e7 i\u00e7e nanit yap\u0131lar\u0131 kullan\u0131larak \u00fcretilmi\u015f g\u00f6vde g\u00fc\u00e7lendirme mod\u00fcl\u00fc",
     "HullReinforcementModule3": "Kaplumba\u011fasal G\u00f6vde kuvvetlendirme mod\u00fcl\u00fc",
     "Tooltip_HullReinforcementModule3": "Resif devinin geli\u015fmi\u015f kaplumba\u011fasal h\u00fccre yap\u0131s\u0131 kullan\u0131larak geli\u015ftirilmi\u015f g\u00f6vde kuvvetlendirme mod\u00fcl\u00fc",
     "ReefbackEgg": "Resif devi yumurtas\u0131",
@@ -462,7 +462,7 @@
     "UpgradeConsole": "Geli\u015ftirmelere eri\u015f.",
     "PowerRatingNow": "G\u00fc\u00e7 verimlili\u011fi \u015fu an {0}",
     "RadiationFixed": "\u0130tici \u00e7ekirde\u011fin yar\u0131klar\u0131 kapand\u0131. I\u015f\u0131n\u0131m yay\u0131l\u0131m\u0131 3 g\u00fcn daha s\u00fcrecek. Aurora karakutusu ile indirme giri\u015fimi deneniyor. Parazitle kar\u015f\u0131la\u015f\u0131ld\u0131.",
-    "RemainingRadiationLeaks": "{0} \u0131\u015f\u0131n\u0131m s\u0131z\u0131nt\u0131s\u0131 kald\u0131",
+    "RemainingRadiationLeaks": "Kalan \u0131\u015f\u0131n\u0131m s\u0131z\u0131nt\u0131s\u0131: {0}",
     "HardcoreGameOver": "\u00d6ld\u00fcn. Oyun Bitti.",
     "WorldArrow_AttackBleeder": "Sald\u0131r",
     "EscToSkip": "Atlamak i\u00e7in ESC tu\u015funa bas\u0131n",
@@ -491,7 +491,7 @@
     "CuredSpadefish": "Kurutulmu\u015f K\u00fcrek Bal\u0131\u011f\u0131",
     "CuredBoomerang": "Kurutulmu\u015f Bumerang",
     "CuredEyeye": "Kurutulmu\u015f G\u00f6zg\u00f6z",
-    "CuredOculus": "Kurutulmu\u015f Oculus",
+    "CuredOculus": "Kurutulmu\u015f Dip G\u00f6zc\u00fcs\u00fc",
     "Decomposing": "Bayat",
     "Ripe": "\u00c7\u00fcr\u00fcyor",
     "Rotting": "\u00c7\u00fcr\u00fcm\u00fc\u015f",
@@ -1111,14 +1111,14 @@ Dikkat: Ki\u015fisel ve \u00e7al\u0131\u015fma dosyalar\u0131n \u015fifrelenmi\u
 
 Dikkat: Bu bilgiler genel bir k\u0131lavuzdur. \u0130lk a\u015famada her zaman PDA'n\u0131z\u0131n \u00f6nerilerine ve a\u00e7\u0131klamaya hangi \u00f6zel ko\u015fullar\u0131n\u0131z al\u0131nd\u0131ysa uyman\u0131z gerekmektedir.",
     "Ency_AuroraOverview": "Aurora Maden Gemisinin \u00d6zet Bilgileri",
-    "EncyDesc_AuroraOverview": "G\u00f6rev: 3 y\u0131l maden i\u015fletme ara\u015ft\u0131rmas\u0131
-M\u00fcrettebat: Komuta Tak\u0131m\u0131 (11), M\u00fchendislik Tak\u0131m\u0131 (57), Destek Personeli (30), Yolcular (3)
+    "EncyDesc_AuroraOverview": "G\u00f6rev: 3 y\u0131l maden ke\u015ffi
+M\u00fcrettebat: Komuta Tak\u0131m\u0131 (11), M\u00fchendislik Tak\u0131m\u0131 (57), Destek M\u00fcrettebat\u0131 (30), Yolcu (3)
 
-\u00d6zellikleri:
-- V8 Kara-madde iyon itici
-- A S\u0131n\u0131f\u0131 tesislere sahip M\u00fchendislik b\u00f6l\u00fcm\u00fc (birincil g\u00f6kta\u015f\u0131 k\u0131r\u0131c\u0131, insanl\u0131 robotik giyisi ve tam tarama menzili)
-- \u00c7\u0131kar\u0131lm\u0131\u015f madenler i\u00e7in 0.25 kilometre k\u00fcp depolama alan\u0131
-- C+ S\u0131n\u0131f e\u011flence tesislerine sahip ya\u015fam alan\u0131",
+Tesisler:
+- Kara madde V8 ion s\u00fcr\u00fcc\u00fc
+- A S\u0131n\u0131f tesislere (birincil meteor par\u00e7alay\u0131c\u0131, robotik insan k\u0131yafetleri ve tam tarama menzili) sahip m\u00fchendislik b\u00f6l\u00fcm\u00fc
+- 0.25 kilometre k\u00fcp hacminde maden deposu
+- C+ S\u0131n\u0131f\u0131 e\u011flence tesislerine sahip ya\u015fam b\u00f6l\u00fcm\u00fc",
     "Ency_AEPSuit": "T\u00fcm Ortamlar i\u00e7in Koruma Giysisi",
     "EncyDesc_AEPSuit": "Alterra AEP Giysi: Evrendeki s\u0131n\u0131rs\u0131z say\u0131daki tehdite kar\u015f\u0131 tek \u00e7\u00f6z\u00fcm
 
@@ -1709,7 +1709,6 @@ Okumak i\u00e7in F8'e bas\u0131n.",
     "ConstructorFragment": "Mobil Ara\u00e7 \u00dcretici par\u00e7as\u0131",
     "PowerTransmitterFragment": "G\u00fc\u00e7 aktar\u0131c\u0131 par\u00e7as\u0131",
     "RadioFragment": "Telsiz par\u00e7as\u0131",
-    "ScannerRoomFragment": "Tarama odas\u0131 par\u00e7as\u0131",
     "SeaglideFragment": "Dalg\u0131\u00e7 iti\u015f arac\u0131 par\u00e7as\u0131",
     "SolarPanelFragment": "G\u00fcne\u015f paneli par\u00e7as\u0131",
     "SpecimenAnalyzerFragment": "\u00d6rnek inceleyici par\u00e7as\u0131",
@@ -1875,7 +1874,7 @@ Kayboldu\u011fu zamanki ya\u015f\u0131: 19
 - Geli\u015fmi\u015f \u00f6\u011frenme y\u00f6ntemleri ve beyin implantlar\u0131 yararlan\u0131c\u0131s\u0131  
 - Geli\u015fmi\u015f biyokimya ve y\u0131ld\u0131z ekonomisi dijital e\u011fitimi alm\u0131\u015f  
 - Mo\u011fol \u00f6zel g\u00f6revli Khasar, Baat'in babas\u0131 Paal'e e\u015flik etti\u011fini, Paal'in yeni yap\u0131lm\u0131\u015f uzay istasyonunda be\u015f y\u0131ld\u0131r Ba\u015f \u0130\u015fletme G\u00f6revlisi olarak hizmet verdi\u011fini bildirdi",
-    "Ency_MargueritMaidaBio": "Ara & Kurtar: Paal Torgal",
+    "Ency_MargueritMaidaBio": "Ara & Kurtar: Marguerit Maida",
     "EncyDesc_MargueritMaidaBio": "SADECE \u00dcST R\u00dcTBEL\u0130 PERSONELE   
 
 \u0130kincil Arama & Kurtarma Hedefi: Marguerit Maida  
@@ -1907,7 +1906,7 @@ F\u0131rlatma t\u00f6reni her zamanki yaygaralarla ger\u00e7ekle\u015ftirildi...
 Gemiden geri d\u00f6n\u00fc\u015ft\u00fcrd\u00fc\u011f\u00fcm\u00fcz malzemelerle ya\u015fam alanlar\u0131 yapt\u0131k. Yerel bitki \u00f6rt\u00fcs\u00fcn\u00fc kullanarak hayatta kald\u0131k. Daha \u00f6nceden biyokimya k\u00fcnyesi alm\u0131\u015f olan o\u011flumu g\u00f6revlendirdim. Bize bir ay yetecek kadar yiyecek yeti\u015ftirdi. 
 
 \u015eimdi g\u00fcvenli\u011fimizden endi\u015feliyim. Yolculuk i\u00e7in i\u015fe ald\u0131\u011f\u0131m paral\u0131 asker Marguerit Maida giderek dengesizle\u015fiyor. Buray\u0131 terk ederek su alt\u0131nda bir ya\u015fam alan\u0131 yapmak i\u00e7in \u0131srar ediyor. Kendi planlar\u0131n\u0131 uygulamak i\u00e7in ya\u015fam alan\u0131m\u0131z\u0131 sabote etmesinden korkuyorum. Yine de yapmamam gerekti\u011fini bildi\u011fim halde ya\u015fanabilir su alan\u0131 ke\u015ffetme iste\u011fini kabul ettim. Umut ediyorum ki, okyanusun ne kadar ac\u0131mas\u0131z olaca\u011f\u0131n\u0131 h\u0131zla fark edecek ve bu aptalca h\u0131rstan vazge\u00e7ecektir.",
-    "Ency_IslandsPDABase1a": "Baat Torgal'in Kayd\u0131 #6?",
+    "Ency_IslandsPDABase1a": "Baat Torgal'in Kayd\u0131 #6",
     "EncyDesc_IslandsPDABase1a": "Berbat ettim. Bu sefer ge\u00e7ekten \u00e7ok k\u00f6t\u00fc. Olanlardan bu yana iki g\u00fcn ge\u00e7ti. Bu aday\u0131 asla terk etmemeliydik. Onlar\u0131 dinlememeliydim. O kadar derinlere inmemeliydik. Bizi a\u015fa\u011f\u0131da istemiyorlar. Bize g\u00fcvenmmiyorlar. Bunu biliyordum fakat s\u00f6ylemedim. Bunu g\u00f6rebiliyordum ama onlar g\u00f6remedi ve onlar \u015fimdi a\u015fa\u011f\u0131da mahsur kald\u0131lar. Ben ise yukar\u0131da yaln\u0131z\u0131m. Bunu hak ettim. ",
     "Ency_IslandsPDABase1bDesk": "Degasi Ses Kayd\u0131 #1",
     "EncyDesc_IslandsPDABase1bDesk": "MARGUERIT: B\u00f6yle olmayacak, Kaptan. Degasi'den yeterince hurda \u00e7\u0131kard\u0131k, ne i\u00e7in, bir \u00e7ift g\u00f6zlemevi i\u00e7in mi? 
@@ -2022,13 +2021,13 @@ MARGUERIT: Her yerde varsa ne kadar k\u00f6t\u00fc olabilir ki?
 BAAT: Yerel ya\u015fam t\u00fcrleri bununla ba\u015fa \u00e7\u0131kmak i\u00e7in geli\u015fmi\u015f olmal\u0131. Bizde o \u00f6zellik yok. 
 PAAL: Hen\u00fcz. Sana g\u00fcvenim tam, o\u011flum, bizi bundan kurtarman\u0131n yolunu bulacaks\u0131n. 
 MARGUERIT: Neye ihtiyac\u0131n varsa s\u00f6yle, \u00e7ocuk.",
-    "BaseMapRoomFragment": "Tarama Odas\u0131 Tasar\u0131m\u0131",
+    "BaseMapRoomFragment": "Tarama odas\u0131 par\u00e7as\u0131",
     "BaseMapRoom": "Tarama odas\u0131",
     "Tooltip_BaseMapRoom": "Tarama Odas\u0131",
     "RecipeUnlocked": "{0} tarif a\u00e7\u0131ld\u0131",
     "TechTypeUnlocked": "{0} a\u00e7\u0131ld\u0131",
     "MapRoomCameraInfo": "{0} . Kamera",
-    "MapRoomCameraControls": "Kameralar aras\u0131nda ge\u00e7i\u015f yapmak i\u00e7in fare d\u00fc\u011fmelerini t\u0131klay\u0131n",
+    "MapRoomCameraControls": "Kameralar aras\u0131 ge\u00e7i\u015f yapmak i\u00e7in {0} ve {1} kullan",
     "MapRoomCameraDistance": "UZAKLIK: {0}",
     "MapRoomCameraDepth": "DER\u0130NL\u0130K: {0}",
     "EncyPath_DownloadedData\/Lifepods": "Ya\u015fam Kozalar\u0131",
@@ -2118,7 +2117,7 @@ M\u00dcRETTEBAT: *\u015eiddetli \u00f6ks\u00fcrme*
 YOLCU: Tamam, Tamam, gidiyorum! 
 *Kapak a\u00e7\u0131l\u0131r* 
 M\u00dcRETTEBAT: Ve enkaz b\u00f6lgesinden uzak durun, s\u00fcr\u00fcc\u00fc \u00e7ekirde\u011fi patlamaya haz\u0131r!",
-    "Ency_LifepodCTODialog1": "CTO Ses Kayd\u0131 #1",
+    "Ency_LifepodCTODialog1": "BTS Ses Kayd\u0131 #1",
     "EncyDesc_LifepodCTODialog1": "BTS: Bat\u0131yoruz! Y\u00fczd\u00fcrme cihazlar\u0131 ar\u0131zalanm\u0131\u015f olmal\u0131! 
 TEKN\u0130SYEN: \u00c7\u0131kmal\u0131 m\u0131y\u0131z?! 
 BTS: Hay\u0131r! Deniz taban\u0131 birka\u00e7 y\u00fcz metreden daha a\u015fa\u011f\u0131da de\u011fildir. Burada kalmak d\u0131\u015far\u0131 \u00e7\u0131kmaktan daha g\u00fcvenli. 
@@ -2166,7 +2165,7 @@ G\u00fcn \u0131\u015f\u0131\u011f\u0131! Kesinlikle g\u00fcne\u015f \u0131\u015f
     "MapRoomCameraNoSignal": "S\u0130NYAL YOK",
     "MapRoomCamera": "Drone kamera",
     "Tooltip_MapRoomCamera": "Y\u00f6netilebilir bir kamera.",
-    "Presentation": "Sunum",
+    "Presentation": "Oynat\u0131m",
     "Quality": "Kalite",
     "VRRenderScale": "VR render \u00f6l\u00e7e\u011fi",
     "Apply": "Uygula",
@@ -2191,5 +2190,40 @@ G\u00fcn \u0131\u015f\u0131\u011f\u0131! Kesinlikle g\u00fcne\u015f \u0131\u015f
     "StarshipChair3": "Sandalye 3",
     "Tooltip_StarshipChair2": "\u015ea\u015f\u0131rt\u0131c\u0131 derecede rahat.",
     "Tooltip_StarshipChair3": "\u015ea\u015f\u0131rt\u0131c\u0131 derecede rahat.",
+    "UseMapRoomFabricator": "\u00dcreticiyi kullan",
+    "MapRoomUpgrades": "Tarama odas\u0131 geli\u015ftirmeleri",
+    "MapRoomHUDChip": "Tarama odas\u0131 g\u00f6sterge i\u015flemcisi",
+    "Tooltip_MapRoomHUDChip": "Tarama odas\u0131ndan g\u00f6stergeye veri ak\u0131\u015f\u0131n\u0131 sa\u011flar",
+    "MapRoomUpgradeScanRange": "Tarama odas\u0131 uzakl\u0131k geli\u015ftirmesi",
+    "MapRoomUpgradeScanSpeed": "Tarama odas\u0131 h\u0131z geli\u015ftirmesi",
+    "Tooltip_MapRoomUpgradeScanRange": "Tarama alan\u0131n\u0131 geni\u015fletir",
+    "Tooltip_MapRoomUpgradeScanSpeed": "Tarama h\u0131z\u0131n\u0131 artt\u0131r\u0131r",
+    "FireExtinguisher": "Yang\u0131n S\u00f6nd\u00fcr\u00fcc\u00fc",
+    "DamagedSavedGame": "<color='#000000FF'>Kay\u0131tl\u0131 oyun bozuk<\/color>",
+    "MapRoomCameraInfoScreen": "{0} . KAMERA",
+    "ControlCamera": "Kameray\u0131 kullan",
+    "MapRoomScanningText": "TARANIYOR",
+    "BindQuickSlot": "h\u0131zl\u0131 eri\u015fime ata",
+    "Equip": "donan",
+    "Unequip": "b\u0131rak",
+    "CyclopsHullModule1": "Cyclops bas\u0131n\u00e7 dengeleyici",
+    "Tooltip_CyclopsHullModule1": "G\u00fcvenli dal\u0131\u015f derinli\u011fini artt\u0131rmak i\u00e7in denizalt\u0131 g\u00f6vdesinin atomik yap\u0131s\u0131n\u0131 d\u00fczenler.",
+    "CyclopsHullModule2": "\u00dcst d\u00fczey g\u00f6vde g\u00fc\u00e7lendirme mod\u00fcl\u00fc",
+    "Tooltip_CyclopsHullModule2": "G\u00fcvenli dal\u0131\u015f derinli\u011fini a\u015f\u0131r\u0131 miktarlarda artt\u0131rmak i\u00e7in denizalt\u0131 g\u00f6vdesinin atomik yap\u0131s\u0131n\u0131 d\u00fczenler.",
+    "WorkbenchMenu_CyclopsMenu": "Cyclops Geli\u015ftirmeleri",
+    "CyclopsLightingToggle": "\u0130\u00e7 Ayd\u0131nlatmay\u0131 A\u00e7\/Kapat",
+    "CyclopsPowerToggle": "Cyclops G\u00fcc\u00fcn\u00fc A\u00e7\/Kapat",
+    "CyclopsFloodlightsToggle": "D\u0131\u015f Projekt\u00f6rleri A\u00e7\/Kapat",
+    "SeamothHullModule1": "1.d\u00fczey Seamoth bas\u0131n\u00e7 dengeleyici",
+    "Tooltip_SeamothHullModule1": "Y\u00fcksek bas\u0131n\u00e7 alt\u0131nda Seamoth ana g\u00f6vdesi sertle\u015fir.",
+    "SeamothHullModule2": "2.d\u00fczey Seamoth bas\u0131n\u00e7 dengeleyici",
+    "Tooltip_SeamothHullModule2": "A\u015f\u0131r\u0131 bas\u0131n\u00e7 alt\u0131nda Seamoth ana g\u00f6vdesi sertle\u015fir.",
+    "SeamothHullModule3": "3.d\u00fczey Seamoth bas\u0131n\u00e7 dengeleyici",
+    "Tooltip_SeamothHullModule3": "Gezegenin en derinlerindeki bas\u0131n\u00e7 kar\u015f\u0131s\u0131nda Seamoth ana g\u00f6vdesi sertle\u015fir.",
+    "SeamothDepthWarning": "UYARI! Seamoth, ge\u00e7erli ezilme derinli\u011finin alt\u0131na indi!",
+    "UraniniteCrystal": "Uraninit kristali",
+    "ReactorRod": "Reakt\u00f6r kolu",
+    "Tooltip_ReactorRod": "N\u00fckleer reakt\u00f6re g\u00fc\u00e7 vermek i\u00e7in kullan\u0131l\u0131r.",
+    "Tooltip_UraniniteCrystal": "Y\u00fcksek bir \u0131\u015f\u0131n\u0131ma sahip, ilgin\u00e7 maden",
     "1": "2"
 }
